@@ -32,6 +32,9 @@ Sistem **henüz kurulmadı**. Ses yolu testlerle belirlendi; ayrıntı `diziler/
 8. **Sesi duyamazsın.** Ölçüm ve yazıya dökme "iyi ses" demek değildir; teslimde bunu açıkça yaz.
 9. Kullanıcı bir hata yakalarsa: kural olarak buraya ya da dizi dosyasına yazılır.
 10. **Eller ve nesneler her promptta yazılır.** Karakter elinde bir şey tutuyorsa: hangi el/kol tutuyor, plan boyunca orada kalıyor mu, serbest el hangisi ve yalnızca onunla mı jest yapıyor. Yazılmazsa model konuşurken iki eliyle jest yaptırır ve nesne havada kalır (tur 4, Selin'in tapu dosyası). Önce tasarımla çöz: diyalog planında nesne gerekmiyorsa önceki planda bırakılır (çantaya, kaputa, masaya) ya da plan göğüs üstü çerçevelenir. Nesnenin referans görseli bu hatayı çözmez; o yalnızca nesnenin görünüşünü sabitler.
+11. **Klibin her saniyesi yazılır; boş süre bırakılmaz.** Replikler bittikten sonra kalan süreyi model kendi doldurur (yürüyüp gitme, kamera kayması, kameraya bakma, yüz değişimi; tur 4). Replikler 5 sn sürüyorsa klip 6 sn seçilir (Veo Lite: 4/6/8 sn) ve son saniye için sessiz bir eylem yazılır.
+12. **Her video promptunda sabit bölümler:** kamera kilidi ("no pan, no zoom, no cut"); eller ve nesneler; bakış ("look only at each other, nobody looks at the camera"); bitiş karesi ("both stand exactly where they started, nobody walks"); kostüm ve yüz sabiti; ses tarifi; telaffuz notu. Örnek: `diziler/sifir-sehir/ses-testi/tur4-ses-sabitligi/klip1_prompt_v2.txt`.
+13. **Başlangıç karesi planın ilk anındaki duyguyu ve duruşu gösterir.** Karede üzgün duran karakter ilk saniyede coşkulu konuşturulmaz; ya kare o duyguyla üretilir ya da promptun ilk saniyesi geçişe ayrılır.
 
 ## Ortam notları
 - Ortamın izinli adresleri: `upload.higgsfield.ai`, `elevenlabsusercontent.com`. Higgsfield sonuç dosyaları (`*.cloudfront.net`) ve `huggingface.co` buradan indirilemez; klip incelemesi Higgsfield sandbox'ında (`sandbox_exec`) yapılır.
