@@ -96,3 +96,24 @@ Kullanıcı kararı: bekleniyor.
 
 ## Açık hipotez: video modelinin kendi sesi
 Kullanıcının beğendiği dizilerde ses büyük olasılıkla video modelinin (Veo 3.x, Seedance 2.x) görüntüyle birlikte ürettiği ses: model karakterin görünüşüne uyan bir ses uyduruyor, bu yüzden tiplemeye oturuyor. Türkçe rehberler Veo ve Seedance ile Türkçe diyalog üretildiğini anlatıyor (İngilizce prompt + tırnak içinde Türkçe replik). B01'de yalnızca Kling 4.0'ın sesi denendi. Test edilmedi: Veo 3.1 Lite, Seedance 2.0/2.5, Wan 3.0, Gemini Omni Flash ile aynı karakter karesi ve aynı Türkçe replik. Higgsfield kredisi gerekir (hesapta ~23).
+
+## Tur 3 — video modelinin kendi Türkçe sesi (21 Kasım 2026)
+
+Aynı başlangıç karesi (B01 son karesi, Selin + Rıza; Higgsfield medya kimliği `1bf11d77-6006-4021-9ece-a4f40a3c434c`), aynı prompt, 8 sn, 9:16. Replikler: Selin "Rıza… bunun neresi şehir?" / Rıza "Koca bir şehir, aşkım… sadece biraz küçük."
+
+| Model | Kredi | Tanıma motorunun duyduğu | Seviye | İş kimliği |
+|---|---|---|---|---|
+| Veo 3.1 Lite (720p) | 12 | "Rıza, bunun neresi şehir? / Koca bir şehir aşkım, sadece biraz küçük." (birebir) | −18,1 LUFS | cde12be8-0b5e-4286-920e-011d8cfbb5a6 |
+| Wan 3.0 (480p) | 6 | "Rıza, bunun neresi şehir? / Koca bir şehir aşkım, sadece biraz küçük." (birebir) | −8,5 LUFS (çok yüksek) | 2f149104-82db-4629-bbd8-52530db72493 |
+| Seedance 2.0 Mini (480p) | 4 | "Riza, bunu neresi şir? / Koku bir şir aşkım. Sadece biraz kükük." (bozuk) | −21,2 LUFS | ced8cb4d-61a2-4cc0-924b-01dadc0bea91 |
+
+Görsel: üçünde de karakterler korunmuş, tek plan, kesme yok. Veo'da Rıza elleriyle oynuyor ve Selin tepki veriyor; Wan'da Rıza ellerini açıyor; Seedance'ta hareket az.
+
+Kullanılan prompt kalıbı (Türkçe için):
+- Prompt İngilizce; replikler tırnak içinde Türkçe ve Türkçe harflerle.
+- "Both characters are native Turkish speakers from Istanbul. They speak ONLY Turkish… No English."
+- Her replik için zaman aralığı, konuşan, duygu ve "says in Turkish".
+- Telaffuz notu: `"Rıza" contains the Turkish dotless ı. Say it "RUH-zah", never "Riza"`; zor kelimeler için okunuş.
+- "Only the speaking character's mouth moves. No music, no subtitles."
+
+Tek deneme yapıldı; tutarlılık (aynı promptla tekrar) ve klipler arası ses sabitliği test edilmedi. Kullanıcının dinlemesi bekleniyor.
