@@ -1,7 +1,7 @@
 # SIFIR ŞEHİR — Bölüm 1: "Koca Bir Şehir"
 
-**Durum:** taslak v2, kullanıcı onayı bekleniyor · 21 Kasım 2026
-**Süre:** yaklaşık 76 saniye · 14 plan · tek mekân (köy girişi, ikindi sonrası altın ışık) · üç karakter: Selin, Rıza, Naci
+**Durum:** v2.1, kullanıcı itiraz etmedi; üretim paketi `B01_paket.md` · 21 Kasım 2026
+**Süre:** yaklaşık 78 saniye · 15 klip · tek mekân (köy girişi, ikindi sonrası altın ışık) · üç karakter: Selin, Rıza, Naci
 
 ## Bölümün işi
 - **Tek cümle:** Selin, kocasının bütün birikimleriyle aldığı "şehrin" üç nüfuslu bir köy olduğunu ve köyün borcuyla birlikte geldiğini öğrenir.
@@ -137,3 +137,10 @@ Flow kredisi: 14 klip × 10 = 140 kredi (4 ve 6 saniyelik kliplerin daha ucuz ol
 5. Bitiş soru mu? "Kaç?" **Evet.**
 6. Her plan üretilebilir mi? En riskliler: P09 (tabelanın devrilmesi), P13 (zarfın cepten çıkması), P05 (açık dosya). Plan kartlarında ayrıca ele alınacak.
 7. Arkadaşa yollanacak an? "Üç bin mi? / Üç" ve "Üç gün dayandılar". **Büyük olasılıkla.**
+
+## v2.1 — plan kartları yazılırken yapılan değişiklikler
+- **P06 ikiye bölündü** (P06a, P06b; 6 + 6 sn). Dört replik 8 saniyeye sığmıyordu. P06b, P06a'nın son karesinden başlar.
+- **P08–P09:** tabelanın devrilmesi kadrajda gösterilmiyor. P08'de Rıza cümlenin ortasında kadraj dışından gelen metal gürültüsüyle donar; P09'da tabela yerde, toz dağılırken keçi yanında çiğniyor. Düşme hareketi üretimde güvenilmezdi; kadraj dışı ses + sonuç daha sağlam ve daha komik.
+- **P10/P13:** zarf Naci'nin cebinden çıkmıyor; baştan beri yanındaki taş rafta duruyor (P10'da görünür). P13'te sol eliyle alıp uzatır, çay bardağı sağ elinde kalır.
+- **P12:** Naci çayı karıştırmaz; bardağı çenesinin altında tutar.
+- **Dosya:** Selin ikili planların hepsinde kapalı dosyayı iki koluyla göğsüne bastırır ve el hareketi yapmaz; yalnızca P05'te dosya iki elinde açıktır (kamera yalnızca dış yüzünü görür, yazı yok).

@@ -1,0 +1,16 @@
+Stylized 3D animated feature film look, single continuous shot. Camera is locked off for the whole shot: no pan, no zoom, no cut. Duration 4 seconds.
+
+Start exactly from the first frame: close-up of Selin, frozen, staring past the camera. A light breeze moves her curls.
+
+Hands and objects (do not change):
+- Selin's hands and the folder stay out of the frame for the entire shot.
+
+0-2 s: Selin does not move and does not blink. Only her curls move in the breeze.
+2-2.5 s: Her LEFT eyelid twitches once, small and sharp. Nothing else in her face moves.
+2.5-4 s: She stays frozen. A goat bleats once, off screen, far away.
+
+Last frame: the same close-up, Selin still frozen, mouth closed.
+
+Eyes: Selin looks only at the far point ahead, just above and left of the lens. Nobody looks at the camera. Faces, hair and clothes stay identical to the first frame.
+
+No dialogue. Nobody speaks. Audio: light wind and one distant goat bleat only. No music, no subtitles, no on-screen text.
