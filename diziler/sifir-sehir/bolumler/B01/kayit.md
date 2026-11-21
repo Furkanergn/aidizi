@@ -7,7 +7,7 @@
 | SB01 | Onaylı | Selin yakın plan, bakış lensin üst solunda |
 | SB02 | Onaylı | Tabela yazısı doğru; keçinin burnu tabelanın köşesinde |
 | SB03 | Onaylı | Selin solda dosyayı iki koluyla sarmış, Rıza sağda; Rıza yaklaşık bir baş uzun (boy sayfasındaki yarım baştan fazla ama diğer ikili karelerle tutarlı) |
-| SB04 | **Yeniden üretilecek** | Oran 3:4 (1086×1448); 9:16 olmalı. Kırpılırsa tabela yazısı ya da keçi kesiliyor |
+| SB04 | Onaylı (2. üretim) | İlk üretim 3:4 çıktı. İkincisi 9:16 (941×1671); yazı doğru, keçi tabelanın sağ kenarını ısırıyor |
 | SB05 | Onaylı | Açık dosya iki elde, kamera yalnızca dış yüzü görüyor |
 | SB06 | Onaylı | |
 | SB08 | Onaylı | |
