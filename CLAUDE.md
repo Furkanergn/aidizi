@@ -10,6 +10,8 @@ Bu depo, Instagram için AI ile üretilen dikey kısa dizilerin (ilk dizi: **Sı
 ## Durum (21 Kasım 2026)
 Sistem **henüz kurulmadı**. Rapor teslim edildi; raporun 9. bölümündeki kararlar kullanıcıdan bekleniyor. Karşılaştırma testleri (ses, model, karakter sayfası) yapılmadı. Aşağıdaki "kilitli" kararlar testlerden sonra buraya yazılacak; yazılana kadar varsayım yapma, sor.
 
+**Sıradaki iş: sesleri kilitlemek.** Plan ve test replikleri `diziler/sifir-sehir/ses-testi.md` içinde. Kullanıcı ElevenLabs'i MCP ile bağlamak istiyor; ElevenLabs araçları bu oturumda yüklüyse doğrudan ses testine başla, yüklü değilse kullanıcıya söyle.
+
 - Kilitli video modeli: —
 - Kilitli karakter sesleri: —
 - Bölüm kredi tavanı: —
