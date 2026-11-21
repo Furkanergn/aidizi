@@ -1,6 +1,6 @@
 # Sıfır Şehir — ses seçimi ve kilitleme
 
-**Durum (21 Kasım 2026):** başlamadı. ElevenLabs bağlantısı bekleniyor (aşağıda).
+**Durum (21 Kasım 2026):** ElevenLabs MCP bağlı. Tur 1 (Rıza, Selin) üretildi, kullanıcının dinlemesi bekleniyor.
 
 ## Bağlantı
 - Kullanıcının ElevenLabs üyeliği var ve MCP ile bağlanmak istiyor.
@@ -54,3 +54,24 @@ Her karakter için üç replik: biri düz, biri duygulu, biri komedi zamanlamas�
 
 ## Sonuç
 - Kilitli sesler: —
+
+## Tur 1 — Rıza ve Selin (21 Kasım 2026)
+
+Model: `eleven_v4`, duygu etiketleriyle, ses başına iki okuma. Dosyalar: `ses-testi/tur1/`. ElevenLabs akışı: `DNnwpfAyWm9YWpSEHxzA`. Harcama: yaklaşık 2.700 ElevenLabs kredisi.
+
+Otomatik kontrol (küçük tanıma modeli): sekiz sesin hepsinde replikler neredeyse birebir tanındı; B01'deki "Koço", "kimim" türü hatalar yok. Bu, sesin doğal olduğunu göstermez.
+
+| Dosya | Ses | ElevenLabs ses kimliği | Seviye (LUFS) |
+|---|---|---|---|
+| riza_HappyMan | Happy Man | 01p4omegjS2n3rSDCM5u | −22,7 |
+| riza_Hasan | Hasan – Energetic, Expressive, Playful | TA7RCSTD5b2z14h1TDTX | −20,2 |
+| riza_Mert | Mert - Natural Conversations | 0BX3wAZlkPgb0coEupyY | −24,0 |
+| riza_Orcun | Orcun Togan | c9eIhSvMHBxtYhLX4oBt | −19,3 |
+| selin_Ahu | Ahu | xyqF3vGMQlPk3e7yA4DI | −27,2 |
+| selin_ElifOzder | Elif Özder | i50A6Mcx7A7vVwCVZVeZ | −19,6 |
+| selin_ElifWarm | Elif - Warm, Natural, Friendly | 4XsbOSxQHw4NUVaEeo2o | −24,7 |
+| selin_Nazli | Nazlı | o9DOmAyPjfFu8AfoFAnM | −24,2 |
+
+Kullanıcı kararı: bekleniyor.
+
+Köylüler için aday notları (tur 2): Seyfullah Kartal `mF7tIc9VLrznhGooGjaT`, Ozan Karaca `5nr6ATQepuidiLb6OT3B`, Ergun Kalbak `0DihkedLJYKoWg7H1u4d`, Arif Yaşaroğlu (dublaj sanatçısı) `oafr6pIDZj0XlLA4eHub`, Nihat (Karadeniz aksanı) `MuOq11XzQTthwLhmGZ2V`, Veyzel (Anadolu aksanı) `qiYSibuYxMVcoiWBNsky`. Yaşlı kadın sesi henüz bulunmadı.
