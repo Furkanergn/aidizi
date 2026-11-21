@@ -75,3 +75,24 @@ Otomatik kontrol (küçük tanıma modeli): sekiz sesin hepsinde replikler nered
 Kullanıcı kararı: bekleniyor.
 
 Köylüler için aday notları (tur 2): Seyfullah Kartal `mF7tIc9VLrznhGooGjaT`, Ozan Karaca `5nr6ATQepuidiLb6OT3B`, Ergun Kalbak `0DihkedLJYKoWg7H1u4d`, Arif Yaşaroğlu (dublaj sanatçısı) `oafr6pIDZj0XlLA4eHub`, Nihat (Karadeniz aksanı) `MuOq11XzQTthwLhmGZ2V`, Veyzel (Anadolu aksanı) `qiYSibuYxMVcoiWBNsky`. Yaşlı kadın sesi henüz bulunmadı.
+
+### Tur 1 sonucu
+Kullanıcı: "Hiçbiri istediğim gibi değil; izlediğim dizilerdeki sesler belli ki AI ama tiplemeye daha iyi oturuyor." Çıkarım (Claude): kütüphane sesleri seslendirme sanatçısı/reklam sesi; karakter sesi değil. Kütüphaneden hazır ses seçme yolu bırakıldı.
+
+## Tur 2 — tasarlanmış karakter sesleri (21 Kasım 2026)
+
+ElevenLabs Voice Design (`eleven_ttv_v3`): karakter tarifinden sıfırdan ses. Dosyalar: `ses-testi/tur2-tasarim/`. Önizlemeler kaydedilmedi; kullanıcı seçerse `creative_save_designed_voice` ile kaydedilir.
+
+| Dosya | Önizleme kimliği |
+|---|---|
+| riza_tasarim_A | k8uRysD61JbSiFiTp2qw |
+| riza_tasarim_B | U86eCrHJie8wzpRW15ft |
+| riza_tasarim_C | TeyXH5FVc2LNqAi7Xoat |
+| selin_tasarim_A | 6iNriVq8zvqfxi9XjNh7 |
+| selin_tasarim_B | Q9jmdx5aZiqV7Zv2uuQR |
+| selin_tasarim_C | EGYWeGTuBhkFLgXp9gw1 |
+
+Kullanıcı kararı: bekleniyor.
+
+## Açık hipotez: video modelinin kendi sesi
+Kullanıcının beğendiği dizilerde ses büyük olasılıkla video modelinin (Veo 3.x, Seedance 2.x) görüntüyle birlikte ürettiği ses: model karakterin görünüşüne uyan bir ses uyduruyor, bu yüzden tiplemeye oturuyor. Türkçe rehberler Veo ve Seedance ile Türkçe diyalog üretildiğini anlatıyor (İngilizce prompt + tırnak içinde Türkçe replik). B01'de yalnızca Kling 4.0'ın sesi denendi. Test edilmedi: Veo 3.1 Lite, Seedance 2.0/2.5, Wan 3.0, Gemini Omni Flash ile aynı karakter karesi ve aynı Türkçe replik. Higgsfield kredisi gerekir (hesapta ~23).
