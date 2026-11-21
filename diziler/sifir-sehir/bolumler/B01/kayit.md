@@ -4,7 +4,7 @@
 
 | Kare | Sonuç | Not |
 |---|---|---|
-| SB01 | Onaylı (2. üretim) | İlk kare (yüz yakın planı) Flow'da iki farklı promptla da telif filtresine takıldı; aynı promptla P03 geçti. İkinci kare: belden yukarı, üç çeyrek, dosya kollarında, bakış kadrajın sağ üstünde. Flow'da henüz denenmedi |
+| SB01 | **Kullanılmıyor** | İki ayrı kare (yüz yakın planı; belden yukarı üç çeyrek) Flow'da telif filtresine takıldı; üç cümlelik isimsiz, repliksiz test promptuyla bile. Aynı oturumda ikili plan (P03) geçti. Sonuç: Selin'in tek başına olduğu kare kabul edilmiyor. P01 artık SB03'ten, P07 P06b'nin son karesinden başlıyor |
 | SB02 | Onaylı | Tabela yazısı doğru; keçinin burnu tabelanın köşesinde |
 | SB03 | Onaylı | Selin solda dosyayı iki koluyla sarmış, Rıza sağda; Rıza yaklaşık bir baş uzun (boy sayfasındaki yarım baştan fazla ama diğer ikili karelerle tutarlı) |
 | SB04 | Onaylı (2. üretim) | İlk üretim 3:4 çıktı. İkincisi 9:16 (941×1671); yazı doğru, keçi tabelanın sağ kenarını ısırıyor |

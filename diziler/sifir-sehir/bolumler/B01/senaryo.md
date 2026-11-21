@@ -144,3 +144,7 @@ Flow kredisi: 14 klip × 10 = 140 kredi (4 ve 6 saniyelik kliplerin daha ucuz ol
 - **P10/P13:** zarf Naci'nin cebinden çıkmıyor; baştan beri yanındaki taş rafta duruyor (P10'da görünür). P13'te sol eliyle alıp uzatır, çay bardağı sağ elinde kalır.
 - **P12:** Naci çayı karıştırmaz; bardağı çenesinin altında tutar.
 - **Dosya:** Selin ikili planların hepsinde kapalı dosyayı iki koluyla göğsüne bastırır ve el hareketi yapmaz; yalnızca P05'te dosya iki elinde açıktır (kamera yalnızca dış yüzünü görür, yazı yok).
+
+## v2.2 — Flow telif filtresi nedeniyle
+- **P01:** Selin'in tek planı yerine ikili plan (SB03): Rıza gururla köye bakarken Selin başını çevirmeden "Rıza… bunun neresi şehir?" der; Rıza duymamış gibi gülümsemeye devam eder.
+- **P07:** Selin'in tek planı yerine P06b'nin devamı (ikili plan): Selin Rıza'ya bakarken sol göz kapağı seğirir.

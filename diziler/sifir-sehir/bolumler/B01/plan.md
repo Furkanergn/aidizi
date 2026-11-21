@@ -8,9 +8,9 @@ Her karenin kendi klasörü var: `kareler/SBxx/`. İçinde o kare için eklenece
 
 | Kare | Ne | Eklenecek referanslar | Hangi klipte |
 |---|---|---|---|
-| SB01 | Selin göğüs üstü, tek | Selin_sayfasi.jpg; Selin_ifade_sayfasi.jpg; V10_plaka_ters_aci.jpg; Nesne_kapali_dosya.jpg; SB03_onayli.jpg | P01, P07 |
+| SB01 | Selin göğüs üstü, tek | Selin_sayfasi.jpg; Selin_ifade_sayfasi.jpg; V10_plaka_ters_aci.jpg; Nesne_kapali_dosya.jpg; SB03_onayli.jpg |  |
 | SB02 | Köy girişi geniş, tabela ve keçi | V8_plaka_koy_girisi.jpg; V6_tabela.jpg; V7_keci.jpg | P02 |
-| SB03 | Selin + Rıza ikili, Rıza gururlu | Selin_sayfasi.jpg; Selin_ifade_sayfasi.jpg; Riza_sayfasi.jpg; Riza_ifade_sayfasi.jpg; Boy_sayfasi.jpg; V10_plaka_ters_aci.jpg; Nesne_kapali_dosya.jpg | P03 |
+| SB03 | Selin + Rıza ikili, Rıza gururlu | Selin_sayfasi.jpg; Selin_ifade_sayfasi.jpg; Riza_sayfasi.jpg; Riza_ifade_sayfasi.jpg; Boy_sayfasi.jpg; V10_plaka_ters_aci.jpg; Nesne_kapali_dosya.jpg | P01, P03 |
 | SB04 | Keçi tabelayı yiyor, yakın plan | V7_keci.jpg; V6_tabela.jpg; V8_plaka_koy_girisi.jpg | P04 |
 | SB05 | Selin tapuyu okuyor, Rıza omzundan bakıyor | Selin_sayfasi.jpg; Selin_ifade_sayfasi.jpg; Riza_sayfasi.jpg; Riza_ifade_sayfasi.jpg; Boy_sayfasi.jpg; V10_plaka_ters_aci.jpg; Nesne_kapali_dosya.jpg | P05 |
 | SB06 | Selin + Rıza ikili, Selin Rıza'ya dönük | Selin_sayfasi.jpg; Selin_ifade_sayfasi.jpg; Riza_sayfasi.jpg; Riza_ifade_sayfasi.jpg; Boy_sayfasi.jpg; V10_plaka_ters_aci.jpg; Nesne_kapali_dosya.jpg; SB03_onayli.jpg | P06a |
@@ -29,14 +29,14 @@ Her klip için: başlangıç karesi olarak onaylı kareyi yükle, süreyi seç, 
 
 | Klip | Ne | Başlangıç karesi | Süre | Replikler |
 |---|---|---|---|---|
-| P01 | Soğuk açılış | SB01 | 4 sn | SELİN: "Rıza… bunun neresi şehir?" |
+| P01 | Soğuk açılış | SB03 | 4 sn | SELİN: "Rıza… bunun neresi şehir?" |
 | P02 | Şehir merkezi | SB02 | 4 sn | — |
 | P03 | Tabelası bile var | SB03 | 6 sn | RIZA: "Şehir merkezi burası aşkım! Bak, tabelası bile var." / SELİN: "Tabelayı keçi yiyor, Rıza." |
 | P04 | Keçi | SB04 | 4 sn | — |
 | P05 | Tapu | SB05 | 8 sn | SELİN: "On iki ev, bir depo, bir değirmen… Nüfus: üç." / RIZA: "Üç bin mi?" / SELİN: "Üç." |
 | P06a | Kimin parasıyla | SB06 | 6 sn | SELİN: "Kimin parasıyla?" / RIZA: "Dedemden kalan… biraz da birikim." |
 | P06b | Biraz dediğin | P06a'nın son karesi | 6 sn | SELİN: "Biraz dediğin?" / RIZA: "Ev için ayırdığımız kadar." |
-| P07 | Göz | SB01 | 4 sn | — |
+| P07 | Göz | P06b'nin son karesi | 4 sn | — |
 | P08 | Potansiyel | SB08 | 6 sn | RIZA: "Ama potansiyele bak! Şuraya kafe, şuraya ortak çalışma alanı—" |
 | P09 | Tabela | SB09 | 4 sn | — |
 | P10 | Naci | SB10 | 6 sn | NACİ: "Yeni sahipler siz misiniz?" / "Öncekiler de böyle heyecanlıydı." |

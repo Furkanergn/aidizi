@@ -4,14 +4,14 @@ Flow ayarı her klip için aynı: **kareden videoya · Veo 3.1 Lite · 9:16**. B
 
 | Klip | Başlangıç karesi | Süre | Durum |
 |---|---|---|---|
-| P01 | SB01 | 4 sn | Hazır |
+| P01 | SB03 | 4 sn | Hazır |
 | P02 | SB02 | 4 sn | Hazır |
 | P03 | SB03 | 6 sn | Hazır |
 | P04 | SB04 | 4 sn | Hazır |
 | P05 | SB05 | 8 sn | Hazır |
 | P06a | SB06 | 6 sn | Hazır |
 | P06b | P06a'nın son karesi | 6 sn | Kare bekleniyor |
-| P07 | SB01 | 4 sn | Hazır |
+| P07 | P06b'nin son karesi | 4 sn | Kare bekleniyor |
 | P08 | SB08 | 6 sn | Hazır |
 | P09 | SB09 | 4 sn | Hazır |
 | P10 | SB10 | 6 sn | Hazır |
@@ -22,34 +22,35 @@ Flow ayarı her klip için aynı: **kareden videoya · Veo 3.1 Lite · 9:16**. B
 
 ## P01
 
-**Başlangıç karesi:** SB01 · **Süre:** 4 sn
+**Başlangıç karesi:** SB03 · **Süre:** 4 sn
 
-Dosya: `klipler/P01/P01_baslangic_karesi_SB01.jpg`
+Dosya: `klipler/P01/P01_baslangic_karesi_SB03.jpg`
 
-![SB01](klipler/P01/P01_baslangic_karesi_SB01.jpg)
+![SB03](klipler/P01/P01_baslangic_karesi_SB03.jpg)
 
 Prompt:
 
 ```
 Stylized 3D animated feature film look, single continuous shot. Camera is locked off for the whole shot: no pan, no zoom, no cut. Duration 4 seconds.
 
-Start exactly from the first frame: waist-up shot of Selin alone, slightly left of center, hugging a burgundy folder against her chest with both arms, completely still, staring at something far ahead past the right edge of the frame. A light breeze moves her curls.
+Start exactly from the first frame: chest-up two-shot, Selin on the left hugging a burgundy folder, Rıza on the right grinning proudly; both look past the camera at the village.
 
 Hands and objects (do not change):
 - Selin keeps BOTH arms crossed over the burgundy folder against her chest for the entire shot. She makes no hand gestures. The folder never moves and keeps the same size.
+- Rıza's arms stay down, out of frame. He makes no gestures and does not speak.
 
 Voices (must sound exactly the same in every clip of this series):
 - Selin: Turkish woman in her early thirties. Calm, warm, slightly husky low voice. Dry, deadpan humor, never loud.
 
 Every character is a native Turkish speaker. They speak ONLY Turkish, with a natural Istanbul accent and the lively, expressive delivery of actors in a Turkish animated comedy film. No English.
 
-0-1 s: Selin stares ahead without blinking. A goat bleats once, off screen, far away.
-1-3.5 s: Without moving her eyes, she says in Turkish, quiet and flat, with a pause after the name: "Rıza… bunun neresi şehir?"
-3.5-4 s: She holds the stare. One slow blink.
+0-1 s: Both look ahead at the village. Rıza grins proudly. Selin stares, completely still. A goat bleats once, off screen, far away.
+1-3.5 s: Without turning her head and without moving her eyes, Selin says in Turkish, quiet and flat, with a pause after the name: "Rıza… bunun neresi şehir?"
+3.5-4 s: Nobody speaks. Rıza keeps grinning at the village as if he has not heard. Selin blinks once, slowly.
 
-Last frame: the same shot, Selin in the same place, still staring ahead, mouth closed, arms still crossed over the folder.
+Last frame: both stand exactly where they started, both still looking ahead; Rıza still grinning, Selin's mouth closed.
 
-Eyes: Selin looks only at the far point ahead, past the right edge of the frame. Nobody looks at the camera. Faces, hair and clothes stay identical to the first frame.
+Eyes: Selin and Rıza look only ahead, past the camera, at the village. They do not look at each other. Nobody looks at the camera. Faces, hair and clothes stay identical to the first frame.
 
 Pronunciation: the name "Rıza" contains the Turkish dotless ı. Say it "RUH-zah", never "Riza" or "Reeza". "şehir" sounds like "sheh-HEER".
 
@@ -268,29 +269,28 @@ Only the speaking character's mouth moves. Audio: the voices and light wind only
 
 ## P07
 
-**Başlangıç karesi:** SB01 · **Süre:** 4 sn
+**Başlangıç karesi:** P06b'nin son karesi · **Süre:** 4 sn
 
-Dosya: `klipler/P07/P07_baslangic_karesi_SB01.jpg`
-
-![SB01](klipler/P07/P07_baslangic_karesi_SB01.jpg)
+Kare henüz hazır değil.
 
 Prompt:
 
 ```
 Stylized 3D animated feature film look, single continuous shot. Camera is locked off for the whole shot: no pan, no zoom, no cut. Duration 4 seconds.
 
-Start exactly from the first frame: waist-up shot of Selin alone, slightly left of center, hugging a burgundy folder against her chest with both arms, completely still, staring at something far ahead past the right edge of the frame. A light breeze moves her curls.
+Start exactly from the first frame: chest-up two-shot, Selin on the left hugging the burgundy folder and staring at Rıza; Rıza on the right, shrunk into his shoulders, looking at the ground.
 
 Hands and objects (do not change):
 - Selin keeps BOTH arms crossed over the burgundy folder against her chest for the entire shot. She makes no hand gestures. The folder never moves and keeps the same size.
+- Rıza's arms stay down, out of frame. He does not move.
 
-0-2 s: Selin does not move and does not blink. Only her curls move in the breeze.
-2-2.5 s: Her LEFT eyelid twitches once, small and sharp. Nothing else in her face moves.
-2.5-4 s: She stays completely still. A goat bleats once, off screen, far away.
+0-2 s: Nobody moves and nobody speaks. Selin keeps staring at Rıza without blinking. Rıza keeps looking at the ground.
+2-2.5 s: Selin's LEFT eyelid twitches once, small and sharp. Nothing else in her face moves.
+2.5-4 s: Both stay completely still. A goat bleats once, off screen, far away.
 
-Last frame: the same shot, Selin in the same place, still motionless, mouth closed, arms still crossed over the folder.
+Last frame: both stand exactly where they started; Selin still staring at Rıza, Rıza still looking at the ground.
 
-Eyes: Selin looks only at the far point ahead, past the right edge of the frame. Nobody looks at the camera. Faces, hair and clothes stay identical to the first frame.
+Eyes: Selin looks only at Rıza's face. Rıza looks only at the ground. Nobody looks at the camera. Faces, hair and clothes stay identical to the first frame.
 
 No dialogue. Nobody speaks. Audio: light wind and one distant goat bleat only. No music, no subtitles, no on-screen text.
 ```

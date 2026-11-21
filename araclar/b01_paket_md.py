@@ -3,7 +3,7 @@
 Çalıştır: python3 araclar/b01_paket_md.py (depo kökünden)"""
 import os
 B="diziler/sifir-sehir/bolumler/B01"
-PLAN=[("P01","SB01",4),("P02","SB02",4),("P03","SB03",6),("P04","SB04",4),("P05","SB05",8),("P06a","SB06",6),("P06b","P06a'nın son karesi",6),("P07","SB01",4),("P08","SB08",6),("P09","SB09",4),("P10","SB10",6),("P11","SB11",4),("P12","SB12",4),("P13","SB10",6),("P14","SB14",6)]
+PLAN=[("P01","SB03",4),("P02","SB02",4),("P03","SB03",6),("P04","SB04",4),("P05","SB05",8),("P06a","SB06",6),("P06b","P06a'nın son karesi",6),("P07","P06b'nin son karesi",4),("P08","SB08",6),("P09","SB09",4),("P10","SB10",6),("P11","SB11",4),("P12","SB12",4),("P13","SB10",6),("P14","SB14",6)]
 o=["# B01 üretim paketi — klipler","",
 "Flow ayarı her klip için aynı: **kareden videoya · Veo 3.1 Lite · 9:16**. Başlangıç karesi olarak yalnızca aşağıda yazan kareyi yükle; karakter sayfası, ifade sayfası ya da plaka ekleme.","",
 "| Klip | Başlangıç karesi | Süre | Durum |","|---|---|---|---|"]

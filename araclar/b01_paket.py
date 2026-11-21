@@ -107,14 +107,14 @@ Two-shot from the chest up, same framing and same positions as the attached appr
 FOLD = "- Selin keeps BOTH arms crossed over the burgundy folder against her chest for the entire shot. She makes no hand gestures. The folder never moves and keeps the same size."
 # ---------- videolar ----------
 V = {}  # id -> (başlık, kare, süre, replikler, prompt)
-V["P01"] = ("Soğuk açılış", "SB01", 4, 'SELİN: "Rıza… bunun neresi şehir?"', vid(4,
- "waist-up shot of Selin alone, slightly left of center, hugging a burgundy folder against her chest with both arms, completely still, staring at something far ahead past the right edge of the frame. A light breeze moves her curls.",
- FOLD,
- """0-1 s: Selin stares ahead without blinking. A goat bleats once, off screen, far away.
-1-3.5 s: Without moving her eyes, she says in Turkish, quiet and flat, with a pause after the name: "Rıza… bunun neresi şehir?"
-3.5-4 s: She holds the stare. One slow blink.""",
- "the same shot, Selin in the same place, still staring ahead, mouth closed, arms still crossed over the folder.",
- "S", "Selin looks only at the far point ahead, past the right edge of the frame.",
+V["P01"] = ("Soğuk açılış", "SB03", 4, 'SELİN: "Rıza… bunun neresi şehir?"', vid(4,
+ "chest-up two-shot, Selin on the left hugging a burgundy folder, Rıza on the right grinning proudly; both look past the camera at the village.",
+ FOLD + "\n- Rıza's arms stay down, out of frame. He makes no gestures and does not speak.",
+ """0-1 s: Both look ahead at the village. Rıza grins proudly. Selin stares, completely still. A goat bleats once, off screen, far away.
+1-3.5 s: Without turning her head and without moving her eyes, Selin says in Turkish, quiet and flat, with a pause after the name: "Rıza… bunun neresi şehir?"
+3.5-4 s: Nobody speaks. Rıza keeps grinning at the village as if he has not heard. Selin blinks once, slowly.""",
+ "both stand exactly where they started, both still looking ahead; Rıza still grinning, Selin's mouth closed.",
+ "S", "Selin and Rıza look only ahead, past the camera, at the village. They do not look at each other.",
  '"şehir" sounds like "sheh-HEER".', "light wind and one distant goat bleat"))
 V["P02"] = ("Şehir merkezi", "SB02", 4, "—", vid(4,
  "wide shot of the empty village entrance with the leaning road sign and the goat at its foot.",
@@ -166,14 +166,14 @@ V["P06b"] = ("Biraz dediğin", "P06a'nın son karesi", 6, 'SELİN: "Biraz dediğ
 5-6 s: Nobody speaks. Selin's face does not move at all.""",
  "both stand exactly where they started; Selin staring at Rıza, Rıza shrunk into his shoulders, looking at the ground.",
  "SR", "Selin looks only at Rıza's face. Rıza looks at the ground."))
-V["P07"] = ("Göz", "SB01", 4, "—", vid(4,
- "waist-up shot of Selin alone, slightly left of center, hugging a burgundy folder against her chest with both arms, completely still, staring at something far ahead past the right edge of the frame. A light breeze moves her curls.",
- FOLD,
- """0-2 s: Selin does not move and does not blink. Only her curls move in the breeze.
-2-2.5 s: Her LEFT eyelid twitches once, small and sharp. Nothing else in her face moves.
-2.5-4 s: She stays completely still. A goat bleats once, off screen, far away.""",
- "the same shot, Selin in the same place, still motionless, mouth closed, arms still crossed over the folder.",
- "", "Selin looks only at the far point ahead, past the right edge of the frame.", amb="light wind and one distant goat bleat"))
+V["P07"] = ("Göz", "P06b'nin son karesi", 4, "—", vid(4,
+ "chest-up two-shot, Selin on the left hugging the burgundy folder and staring at Rıza; Rıza on the right, shrunk into his shoulders, looking at the ground.",
+ FOLD + "\n- Rıza's arms stay down, out of frame. He does not move.",
+ """0-2 s: Nobody moves and nobody speaks. Selin keeps staring at Rıza without blinking. Rıza keeps looking at the ground.
+2-2.5 s: Selin's LEFT eyelid twitches once, small and sharp. Nothing else in her face moves.
+2.5-4 s: Both stay completely still. A goat bleats once, off screen, far away.""",
+ "both stand exactly where they started; Selin still staring at Rıza, Rıza still looking at the ground.",
+ "", "Selin looks only at Rıza's face. Rıza looks only at the ground.", amb="light wind and one distant goat bleat"))
 V["P08"] = ("Potansiyel", "SB08", 6, 'RIZA: "Ama potansiyele bak! Şuraya kafe, şuraya ortak çalışma alanı—"', vid(6,
  "waist-up shot of Rıza alone, both palms open at chest height, a wide forced smile, looking past the camera at the village.",
  "- Rıza gestures only with his LEFT arm (on the right side of the frame). His right hand lowers to his side at the start and stays there.",
