@@ -33,7 +33,7 @@ Prompt:
 ```
 Stylized 3D animated feature film look, single continuous shot. Camera is locked off for the whole shot: no pan, no zoom, no cut. Duration 4 seconds.
 
-Start exactly from the first frame: waist-up shot of Selin alone, slightly left of center, hugging a burgundy folder against her chest with both arms, frozen, staring at something far ahead past the right edge of the frame. A light breeze moves her curls.
+Start exactly from the first frame: waist-up shot of Selin alone, slightly left of center, hugging a burgundy folder against her chest with both arms, completely still, staring at something far ahead past the right edge of the frame. A light breeze moves her curls.
 
 Hands and objects (do not change):
 - Selin keeps BOTH arms crossed over the burgundy folder against her chest for the entire shot. She makes no hand gestures. The folder never moves and keeps the same size.
@@ -111,9 +111,9 @@ Every character is a native Turkish speaker. They speak ONLY Turkish, with a nat
 
 0-3 s: Rıza points with his LEFT arm toward something off screen on the right and says in Turkish, proud and overexcited: "Şehir merkezi burası aşkım! Bak, tabelası bile var."
 3-5 s: Selin turns only her head toward Rıza and answers in Turkish, completely flat: "Tabelayı keçi yiyor, Rıza."
-5-6 s: Nobody speaks. Rıza's grin freezes, his arm still half raised. Selin keeps looking at him.
+5-6 s: Nobody speaks. Rıza's grin stays stuck on his face, his arm still half raised. Selin keeps looking at him.
 
-Last frame: both stand exactly where they started; Selin looks at Rıza, Rıza looks ahead with a frozen grin.
+Last frame: both stand exactly where they started; Selin looks at Rıza, Rıza looks ahead with a stuck grin.
 
 Eyes: Rıza looks past the camera toward the right. Selin looks ahead, then at Rıza. Nobody looks at the camera. Faces, hair and clothes stay identical to the first frame.
 
@@ -279,16 +279,16 @@ Prompt:
 ```
 Stylized 3D animated feature film look, single continuous shot. Camera is locked off for the whole shot: no pan, no zoom, no cut. Duration 4 seconds.
 
-Start exactly from the first frame: waist-up shot of Selin alone, slightly left of center, hugging a burgundy folder against her chest with both arms, frozen, staring at something far ahead past the right edge of the frame. A light breeze moves her curls.
+Start exactly from the first frame: waist-up shot of Selin alone, slightly left of center, hugging a burgundy folder against her chest with both arms, completely still, staring at something far ahead past the right edge of the frame. A light breeze moves her curls.
 
 Hands and objects (do not change):
 - Selin keeps BOTH arms crossed over the burgundy folder against her chest for the entire shot. She makes no hand gestures. The folder never moves and keeps the same size.
 
 0-2 s: Selin does not move and does not blink. Only her curls move in the breeze.
 2-2.5 s: Her LEFT eyelid twitches once, small and sharp. Nothing else in her face moves.
-2.5-4 s: She stays frozen. A goat bleats once, off screen, far away.
+2.5-4 s: She stays completely still. A goat bleats once, off screen, far away.
 
-Last frame: the same shot, Selin in the same place, still frozen, mouth closed, arms still crossed over the folder.
+Last frame: the same shot, Selin in the same place, still motionless, mouth closed, arms still crossed over the folder.
 
 Eyes: Selin looks only at the far point ahead, past the right edge of the frame. Nobody looks at the camera. Faces, hair and clothes stay identical to the first frame.
 
@@ -321,9 +321,9 @@ Every character is a native Turkish speaker. They speak ONLY Turkish, with a nat
 0-1 s: Rıza takes a quick breath and pulls his smile wider.
 1-4 s: He sweeps his LEFT arm toward the right of the frame, pointing at one spot and then another, and says in Turkish, fast, in full salesman mode: "Ama potansiyele bak! Şuraya kafe, şuraya ortak çalışma alanı—"
 4 s: A loud metal CLANG and a heavy thud come from off screen on the right. He stops in the middle of the word.
-4-6 s: Rıza freezes: arm still in the air, smile stuck on his face. Only his eyes slide slowly toward the sound.
+4-6 s: Rıza stops moving: arm still in the air, smile stuck on his face. Only his eyes slide slowly toward the sound.
 
-Last frame: Rıza frozen in place, arm raised, smile stuck, eyes turned toward the right edge of the frame.
+Last frame: Rıza motionless, arm raised, smile stuck, eyes turned toward the right edge of the frame.
 
 Eyes: Rıza looks past the camera at the village, then toward the right edge of the frame. Nobody looks at the camera. Faces, hair and clothes stay identical to the first frame.
 
