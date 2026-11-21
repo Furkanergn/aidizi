@@ -117,3 +117,8 @@ Kullanılan prompt kalıbı (Türkçe için):
 - "Only the speaking character's mouth moves. No music, no subtitles."
 
 Tek deneme yapıldı; tutarlılık (aynı promptla tekrar) ve klipler arası ses sabitliği test edilmedi. Kullanıcının dinlemesi bekleniyor.
+
+### Tur 3 sonucu
+Kullanıcı: Veo ve Wan'ın sesi iyi; Veo'nun kalitesi daha iyi. Karar: ses, video modelinin kendi sesi olacak (ayrı seslendirme değil); öncelikli model Veo 3.1 Lite.
+
+Açık konu: Veo'yu Higgsfield yerine Google Flow'dan (kullanıcının Google AI Pro üyeliği) üretmek. Üçüncü taraf kaynaklara göre Pro'da ayda 1.000 + günde 50 kredi, Veo 3.1 Lite klip başına 10 kredi; doğrulanmadı. Flow bu bulut oturumundan sürülemez (kullanıcının tarayıcısı gerekir).
