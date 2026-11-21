@@ -4,7 +4,7 @@
 
 | Kare | Sonuç | Not |
 |---|---|---|
-| SB01 | **Yeniden üretilecek** | İlk kare (yüz yakın planı) Flow'da iki farklı promptla da telif filtresine takıldı ("üçüncü taraf içerik sağlayıcıların menfaatleri"); aynı promptla P03 (ikili plan) geçti. Yeni kare: belden yukarı, üç çeyrek, dosya kollarında |
+| SB01 | Onaylı (2. üretim) | İlk kare (yüz yakın planı) Flow'da iki farklı promptla da telif filtresine takıldı; aynı promptla P03 geçti. İkinci kare: belden yukarı, üç çeyrek, dosya kollarında, bakış kadrajın sağ üstünde. Flow'da henüz denenmedi |
 | SB02 | Onaylı | Tabela yazısı doğru; keçinin burnu tabelanın köşesinde |
 | SB03 | Onaylı | Selin solda dosyayı iki koluyla sarmış, Rıza sağda; Rıza yaklaşık bir baş uzun (boy sayfasındaki yarım baştan fazla ama diğer ikili karelerle tutarlı) |
 | SB04 | Onaylı (2. üretim) | İlk üretim 3:4 çıktı. İkincisi 9:16 (941×1671); yazı doğru, keçi tabelanın sağ kenarını ısırıyor |

@@ -4,14 +4,14 @@ Flow ayarı her klip için aynı: **kareden videoya · Veo 3.1 Lite · 9:16**. B
 
 | Klip | Başlangıç karesi | Süre | Durum |
 |---|---|---|---|
-| P01 | SB01 | 4 sn | Kare bekleniyor |
+| P01 | SB01 | 4 sn | Hazır |
 | P02 | SB02 | 4 sn | Hazır |
 | P03 | SB03 | 6 sn | Hazır |
 | P04 | SB04 | 4 sn | Hazır |
 | P05 | SB05 | 8 sn | Hazır |
 | P06a | SB06 | 6 sn | Hazır |
 | P06b | P06a'nın son karesi | 6 sn | Kare bekleniyor |
-| P07 | SB01 | 4 sn | Kare bekleniyor |
+| P07 | SB01 | 4 sn | Hazır |
 | P08 | SB08 | 6 sn | Hazır |
 | P09 | SB09 | 4 sn | Hazır |
 | P10 | SB10 | 6 sn | Hazır |
@@ -24,7 +24,9 @@ Flow ayarı her klip için aynı: **kareden videoya · Veo 3.1 Lite · 9:16**. B
 
 **Başlangıç karesi:** SB01 · **Süre:** 4 sn
 
-Kare henüz hazır değil.
+Dosya: `klipler/P01/P01_baslangic_karesi_SB01.jpg`
+
+![SB01](klipler/P01/P01_baslangic_karesi_SB01.jpg)
 
 Prompt:
 
@@ -268,7 +270,9 @@ Only the speaking character's mouth moves. Audio: the voices and light wind only
 
 **Başlangıç karesi:** SB01 · **Süre:** 4 sn
 
-Kare henüz hazır değil.
+Dosya: `klipler/P07/P07_baslangic_karesi_SB01.jpg`
+
+![SB01](klipler/P07/P07_baslangic_karesi_SB01.jpg)
 
 Prompt:
 
