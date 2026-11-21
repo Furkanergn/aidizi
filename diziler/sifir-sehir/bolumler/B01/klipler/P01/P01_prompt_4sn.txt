@@ -1,9 +1,9 @@
 Stylized 3D animated feature film look, single continuous shot. Camera is locked off for the whole shot: no pan, no zoom, no cut. Duration 4 seconds.
 
-Start exactly from the first frame: close-up of Selin, frozen, staring past the camera at something far ahead. A light breeze moves her curls.
+Start exactly from the first frame: waist-up shot of Selin alone, slightly left of center, hugging a burgundy folder against her chest with both arms, frozen, staring at something far ahead past the right edge of the frame. A light breeze moves her curls.
 
 Hands and objects (do not change):
-- Selin's hands and the folder stay out of the frame for the entire shot.
+- Selin keeps BOTH arms crossed over the burgundy folder against her chest for the entire shot. She makes no hand gestures. The folder never moves and keeps the same size.
 
 Voices (must sound exactly the same in every clip of this series):
 - Selin: Turkish woman in her early thirties. Calm, warm, slightly husky low voice. Dry, deadpan humor, never loud.
@@ -14,9 +14,9 @@ Every character is a native Turkish speaker. They speak ONLY Turkish, with a nat
 1-3.5 s: Without moving her eyes, she says in Turkish, quiet and flat, with a pause after the name: "Rıza… bunun neresi şehir?"
 3.5-4 s: She holds the stare. One slow blink.
 
-Last frame: the same close-up, Selin still staring ahead, mouth closed.
+Last frame: the same shot, Selin in the same place, still staring ahead, mouth closed, arms still crossed over the folder.
 
-Eyes: Selin looks only at the far point ahead, just above and left of the lens. Nobody looks at the camera. Faces, hair and clothes stay identical to the first frame.
+Eyes: Selin looks only at the far point ahead, past the right edge of the frame. Nobody looks at the camera. Faces, hair and clothes stay identical to the first frame.
 
 Pronunciation: the name "Rıza" contains the Turkish dotless ı. Say it "RUH-zah", never "Riza" or "Reeza". "şehir" sounds like "sheh-HEER".
 

@@ -8,7 +8,7 @@ Her karenin kendi klasörü var: `kareler/SBxx/`. İçinde o kare için eklenece
 
 | Kare | Ne | Eklenecek referanslar | Hangi klipte |
 |---|---|---|---|
-| SB01 | Selin yakın plan | Selin_sayfasi.jpg; Selin_ifade_sayfasi.jpg; V10_plaka_ters_aci.jpg | P01, P07 |
+| SB01 | Selin göğüs üstü, tek | Selin_sayfasi.jpg; Selin_ifade_sayfasi.jpg; V10_plaka_ters_aci.jpg; Nesne_kapali_dosya.jpg; SB03_onayli.jpg | P01, P07 |
 | SB02 | Köy girişi geniş, tabela ve keçi | V8_plaka_koy_girisi.jpg; V6_tabela.jpg; V7_keci.jpg | P02 |
 | SB03 | Selin + Rıza ikili, Rıza gururlu | Selin_sayfasi.jpg; Selin_ifade_sayfasi.jpg; Riza_sayfasi.jpg; Riza_ifade_sayfasi.jpg; Boy_sayfasi.jpg; V10_plaka_ters_aci.jpg; Nesne_kapali_dosya.jpg | P03 |
 | SB04 | Keçi tabelayı yiyor, yakın plan | V7_keci.jpg; V6_tabela.jpg; V8_plaka_koy_girisi.jpg | P04 |

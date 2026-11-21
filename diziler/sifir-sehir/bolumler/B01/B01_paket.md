@@ -4,14 +4,14 @@ Flow ayarı her klip için aynı: **kareden videoya · Veo 3.1 Lite · 9:16**. B
 
 | Klip | Başlangıç karesi | Süre | Durum |
 |---|---|---|---|
-| P01 | SB01 | 4 sn | Hazır |
+| P01 | SB01 | 4 sn | Kare bekleniyor |
 | P02 | SB02 | 4 sn | Hazır |
 | P03 | SB03 | 6 sn | Hazır |
 | P04 | SB04 | 4 sn | Hazır |
 | P05 | SB05 | 8 sn | Hazır |
 | P06a | SB06 | 6 sn | Hazır |
 | P06b | P06a'nın son karesi | 6 sn | Kare bekleniyor |
-| P07 | SB01 | 4 sn | Hazır |
+| P07 | SB01 | 4 sn | Kare bekleniyor |
 | P08 | SB08 | 6 sn | Hazır |
 | P09 | SB09 | 4 sn | Hazır |
 | P10 | SB10 | 6 sn | Hazır |
@@ -24,19 +24,17 @@ Flow ayarı her klip için aynı: **kareden videoya · Veo 3.1 Lite · 9:16**. B
 
 **Başlangıç karesi:** SB01 · **Süre:** 4 sn
 
-Dosya: `klipler/P01/P01_baslangic_karesi_SB01.jpg`
-
-![SB01](klipler/P01/P01_baslangic_karesi_SB01.jpg)
+Kare henüz hazır değil.
 
 Prompt:
 
 ```
 Stylized 3D animated feature film look, single continuous shot. Camera is locked off for the whole shot: no pan, no zoom, no cut. Duration 4 seconds.
 
-Start exactly from the first frame: close-up of Selin, frozen, staring past the camera at something far ahead. A light breeze moves her curls.
+Start exactly from the first frame: waist-up shot of Selin alone, slightly left of center, hugging a burgundy folder against her chest with both arms, frozen, staring at something far ahead past the right edge of the frame. A light breeze moves her curls.
 
 Hands and objects (do not change):
-- Selin's hands and the folder stay out of the frame for the entire shot.
+- Selin keeps BOTH arms crossed over the burgundy folder against her chest for the entire shot. She makes no hand gestures. The folder never moves and keeps the same size.
 
 Voices (must sound exactly the same in every clip of this series):
 - Selin: Turkish woman in her early thirties. Calm, warm, slightly husky low voice. Dry, deadpan humor, never loud.
@@ -47,9 +45,9 @@ Every character is a native Turkish speaker. They speak ONLY Turkish, with a nat
 1-3.5 s: Without moving her eyes, she says in Turkish, quiet and flat, with a pause after the name: "Rıza… bunun neresi şehir?"
 3.5-4 s: She holds the stare. One slow blink.
 
-Last frame: the same close-up, Selin still staring ahead, mouth closed.
+Last frame: the same shot, Selin in the same place, still staring ahead, mouth closed, arms still crossed over the folder.
 
-Eyes: Selin looks only at the far point ahead, just above and left of the lens. Nobody looks at the camera. Faces, hair and clothes stay identical to the first frame.
+Eyes: Selin looks only at the far point ahead, past the right edge of the frame. Nobody looks at the camera. Faces, hair and clothes stay identical to the first frame.
 
 Pronunciation: the name "Rıza" contains the Turkish dotless ı. Say it "RUH-zah", never "Riza" or "Reeza". "şehir" sounds like "sheh-HEER".
 
@@ -270,27 +268,25 @@ Only the speaking character's mouth moves. Audio: the voices and light wind only
 
 **Başlangıç karesi:** SB01 · **Süre:** 4 sn
 
-Dosya: `klipler/P07/P07_baslangic_karesi_SB01.jpg`
-
-![SB01](klipler/P07/P07_baslangic_karesi_SB01.jpg)
+Kare henüz hazır değil.
 
 Prompt:
 
 ```
 Stylized 3D animated feature film look, single continuous shot. Camera is locked off for the whole shot: no pan, no zoom, no cut. Duration 4 seconds.
 
-Start exactly from the first frame: close-up of Selin, frozen, staring past the camera. A light breeze moves her curls.
+Start exactly from the first frame: waist-up shot of Selin alone, slightly left of center, hugging a burgundy folder against her chest with both arms, frozen, staring at something far ahead past the right edge of the frame. A light breeze moves her curls.
 
 Hands and objects (do not change):
-- Selin's hands and the folder stay out of the frame for the entire shot.
+- Selin keeps BOTH arms crossed over the burgundy folder against her chest for the entire shot. She makes no hand gestures. The folder never moves and keeps the same size.
 
 0-2 s: Selin does not move and does not blink. Only her curls move in the breeze.
 2-2.5 s: Her LEFT eyelid twitches once, small and sharp. Nothing else in her face moves.
 2.5-4 s: She stays frozen. A goat bleats once, off screen, far away.
 
-Last frame: the same close-up, Selin still frozen, mouth closed.
+Last frame: the same shot, Selin in the same place, still frozen, mouth closed, arms still crossed over the folder.
 
-Eyes: Selin looks only at the far point ahead, just above and left of the lens. Nobody looks at the camera. Faces, hair and clothes stay identical to the first frame.
+Eyes: Selin looks only at the far point ahead, past the right edge of the frame. Nobody looks at the camera. Faces, hair and clothes stay identical to the first frame.
 
 No dialogue. Nobody speaks. Audio: light wind and one distant goat bleat only. No music, no subtitles, no on-screen text.
 ```

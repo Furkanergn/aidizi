@@ -47,9 +47,10 @@ TWO_BG = "Background: the view out of the village from the attached reverse-angl
 
 # ---------- kareler ----------
 K = {}   # id -> (başlık, referanslar, prompt)
-K["SB01"] = ("Selin yakın plan", ["Selin sayfası", "Selin ifade sayfası", "V10 plaka (ters açı)"], img(f"""
-Close-up of Selin, head and shoulders, centered in the frame. {SELIN}
-Expression: frozen, flat disbelief, lips slightly parted, eyes fixed on something far ahead, just above and to the left of the lens. A light breeze lifts a few curls. Her hands and the folder are NOT in the frame.
+K["SB01"] = ("Selin göğüs üstü, tek", ["Selin sayfası", "Selin ifade sayfası", "V10 plaka (ters açı)", "Nesne: kapalı dosya", "SB03 (onaylı kare, konum için)"], img(f"""
+Medium close-up of Selin alone, from the waist up, standing slightly LEFT of center, her body turned a little toward the right of the frame, in three-quarter view. About a third of the frame on the right shows the village road behind her. She is the same woman, in the same place and light, as in the attached approved frame, but Rıza is NOT in this shot.
+{SELIN} She hugs {FOLDER} flat against her chest with BOTH arms crossed over it.
+Expression: frozen, flat disbelief, lips slightly parted, eyes fixed on something far ahead, past the right edge of the frame. A light breeze lifts a few curls.
 {TWO_BG}""", "right"))
 K["SB02"] = ("Köy girişi geniş, tabela ve keçi", ["V8 plaka (köy girişi)", "V6 tabela", "V7 keçi"], img("""
 Wide shot of the empty village entrance, exactly as in the attached location plate: gravel road in the foreground, cobbled street between old stone houses with closed blue shutters, the leaning rusty road sign in the left foreground reading exactly "ŞEHİR MERKEZİ" (two lines: ŞEHİR / MERKEZİ).
@@ -107,13 +108,13 @@ FOLD = "- Selin keeps BOTH arms crossed over the burgundy folder against her che
 # ---------- videolar ----------
 V = {}  # id -> (başlık, kare, süre, replikler, prompt)
 V["P01"] = ("Soğuk açılış", "SB01", 4, 'SELİN: "Rıza… bunun neresi şehir?"', vid(4,
- "close-up of Selin, frozen, staring past the camera at something far ahead. A light breeze moves her curls.",
- "- Selin's hands and the folder stay out of the frame for the entire shot.",
+ "waist-up shot of Selin alone, slightly left of center, hugging a burgundy folder against her chest with both arms, frozen, staring at something far ahead past the right edge of the frame. A light breeze moves her curls.",
+ FOLD,
  """0-1 s: Selin stares ahead without blinking. A goat bleats once, off screen, far away.
 1-3.5 s: Without moving her eyes, she says in Turkish, quiet and flat, with a pause after the name: "Rıza… bunun neresi şehir?"
 3.5-4 s: She holds the stare. One slow blink.""",
- "the same close-up, Selin still staring ahead, mouth closed.",
- "S", "Selin looks only at the far point ahead, just above and left of the lens.",
+ "the same shot, Selin in the same place, still staring ahead, mouth closed, arms still crossed over the folder.",
+ "S", "Selin looks only at the far point ahead, past the right edge of the frame.",
  '"şehir" sounds like "sheh-HEER".', "light wind and one distant goat bleat"))
 V["P02"] = ("Şehir merkezi", "SB02", 4, "—", vid(4,
  "wide shot of the empty village entrance with the leaning road sign and the goat at its foot.",
@@ -166,13 +167,13 @@ V["P06b"] = ("Biraz dediğin", "P06a'nın son karesi", 6, 'SELİN: "Biraz dediğ
  "both stand exactly where they started; Selin staring at Rıza, Rıza shrunk into his shoulders, looking at the ground.",
  "SR", "Selin looks only at Rıza's face. Rıza looks at the ground."))
 V["P07"] = ("Göz", "SB01", 4, "—", vid(4,
- "close-up of Selin, frozen, staring past the camera. A light breeze moves her curls.",
- "- Selin's hands and the folder stay out of the frame for the entire shot.",
+ "waist-up shot of Selin alone, slightly left of center, hugging a burgundy folder against her chest with both arms, frozen, staring at something far ahead past the right edge of the frame. A light breeze moves her curls.",
+ FOLD,
  """0-2 s: Selin does not move and does not blink. Only her curls move in the breeze.
 2-2.5 s: Her LEFT eyelid twitches once, small and sharp. Nothing else in her face moves.
 2.5-4 s: She stays frozen. A goat bleats once, off screen, far away.""",
- "the same close-up, Selin still frozen, mouth closed.",
- "", "Selin looks only at the far point ahead, just above and left of the lens.", amb="light wind and one distant goat bleat"))
+ "the same shot, Selin in the same place, still frozen, mouth closed, arms still crossed over the folder.",
+ "", "Selin looks only at the far point ahead, past the right edge of the frame.", amb="light wind and one distant goat bleat"))
 V["P08"] = ("Potansiyel", "SB08", 6, 'RIZA: "Ama potansiyele bak! Şuraya kafe, şuraya ortak çalışma alanı—"', vid(6,
  "waist-up shot of Rıza alone, both palms open at chest height, a wide forced smile, looking past the camera at the village.",
  "- Rıza gestures only with his LEFT arm (on the right side of the frame). His right hand lowers to his side at the start and stays there.",
@@ -272,8 +273,7 @@ for f in os.listdir(f"{OUT}/kareler"):
     if f.endswith(".txt"): os.remove(f"{OUT}/kareler/{f}")
 for k,(t,refs,p) in K.items():
     d=f"{OUT}/kareler/{k}"
-    if os.path.isdir(d): shutil.rmtree(d)
-    os.makedirs(d)
+    os.makedirs(d, exist_ok=True)
     open(f"{d}/{k}_prompt.txt","w",encoding="utf-8").write(p+"\n")
     eks=[]
     for i,r in enumerate(refs,1):
