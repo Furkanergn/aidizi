@@ -12,8 +12,8 @@ Sistem **henüz kurulmadı**. Ses yolu testlerle belirlendi; ayrıntı `diziler/
 
 - **Ses kararı:** ses ayrı seslendirme aracından değil, video modelinin kendi sesinden gelecek. ElevenLabs kütüphane sesleri ve tasarlanmış sesler kullanıcıya uymadı ("tiplemeye oturmuyor").
 - **Model:** Veo 3.1 Lite ve Wan 3.0 Türkçe replikleri doğru söyledi; kullanıcı Veo'yu daha kaliteli buldu. Seedance (2.0 Mini, kullanıcının deneyimine göre 2.5 de) Türkçeyi bozuyor; Kling 4.0'ın sesi B01'de beğenilmedi.
-- **Nereden üretilecek:** kullanıcı Veo'yu Google Flow'dan (Google AI Pro üyeliği) üretmeyi değerlendiriyor; Flow'da bir doğrulama klibi bekleniyor. Flow bu bulut oturumundan sürülemez.
-- **Test edilmedi:** aynı promptun tekrarında tutarlılık; karakter sesinin klipten klibe sabit kalması.
+- **Nereden üretilecek (kullanıcı kararı):** Veo klipleri Google Flow'da, kullanıcının Google AI Pro üyeliğiyle (klip başına 10 kredi, doğrulandı; ses Higgsfield'daki Veo ile neredeyse aynı). **İş bölümü:** Claude her bölüm için paketi hazırlar (senaryo, plan listesi, her plan için başlangıç karesi ya da kare promptu, video promptu, ayarlar); kullanıcı Flow'da üretir ve mp4'leri sohbete yükler; Claude kontrol eder (yazıya dökme, kareler) ve kurguyu yapar.
+- **Sürüyor:** ses sabitliği testi (tur 4), paket `diziler/sifir-sehir/ses-testi/tur4-ses-sabitligi/` içinde; kullanıcının üç klibi üretip yüklemesi bekleniyor. Aynı promptun tekrarında tutarlılık henüz test edilmedi.
 - Higgsfield'da ~1 kredi kaldı. ElevenLabs MCP bağlı.
 
 - Kilitli video modeli: — (aday: Veo 3.1 Lite)
