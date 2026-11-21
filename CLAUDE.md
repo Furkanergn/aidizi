@@ -7,17 +7,21 @@ Bu depo, Instagram için AI ile üretilen dikey kısa dizilerin (ilk dizi: **Sı
 - `kaynaklar/SAHMERAN_OGRENILENLER_ve_SKILLER.md` — hatalardan çıkmış üretim kuralları (5a–5j, plan kartı, QC). Bu kurallar burada da geçerlidir.
 - `kaynaklar/Sifir_Sehir_B01_Senaryo_Kurallar_Karakterler.pdf` — ilk B01 senaryosu, yapım kuralları, karakter sayfaları.
 
-## Durum (21 Kasım 2026)
-Sistem **henüz kurulmadı**. Rapor teslim edildi; raporun 9. bölümündeki kararlar kullanıcıdan bekleniyor. Karşılaştırma testleri (ses, model, karakter sayfası) yapılmadı. Aşağıdaki "kilitli" kararlar testlerden sonra buraya yazılacak; yazılana kadar varsayım yapma, sor.
+## Durum (21 Kasım 2026, akşam)
+Sistem **henüz kurulmadı**. Ses yolu testlerle belirlendi; ayrıntı `diziler/sifir-sehir/ses-testi.md` içinde.
 
-**Sıradaki iş: sesleri kilitlemek.** Plan ve test replikleri `diziler/sifir-sehir/ses-testi.md` içinde. Kullanıcı ElevenLabs'i MCP ile bağlamak istiyor; ElevenLabs araçları bu oturumda yüklüyse doğrudan ses testine başla, yüklü değilse kullanıcıya söyle.
+- **Ses kararı:** ses ayrı seslendirme aracından değil, video modelinin kendi sesinden gelecek. ElevenLabs kütüphane sesleri ve tasarlanmış sesler kullanıcıya uymadı ("tiplemeye oturmuyor").
+- **Model:** Veo 3.1 Lite ve Wan 3.0 Türkçe replikleri doğru söyledi; kullanıcı Veo'yu daha kaliteli buldu. Seedance (2.0 Mini, kullanıcının deneyimine göre 2.5 de) Türkçeyi bozuyor; Kling 4.0'ın sesi B01'de beğenilmedi.
+- **Nereden üretilecek:** kullanıcı Veo'yu Google Flow'dan (Google AI Pro üyeliği) üretmeyi değerlendiriyor; Flow'da bir doğrulama klibi bekleniyor. Flow bu bulut oturumundan sürülemez.
+- **Test edilmedi:** aynı promptun tekrarında tutarlılık; karakter sesinin klipten klibe sabit kalması.
+- Higgsfield'da ~1 kredi kaldı. ElevenLabs MCP bağlı.
 
-- Kilitli video modeli: —
+- Kilitli video modeli: — (aday: Veo 3.1 Lite)
 - Kilitli karakter sesleri: —
 - Bölüm kredi tavanı: —
 
 ## Değişmez ilkeler
-1. **Önce ses, sonra görüntü.** Türkçe replik sesi üretilip doğrulanmadan video üretilmez. Kling/Seedance/Veo'nun kendi Türkçe sesi kullanılmaz (Türkçe desteklemiyorlar). İngilizce hazır sesler (Archie, Delia, Maya vb.) Türkçe replikte kullanılmaz.
+1. **Türkçe replik prompt kalıbıyla yazılır ve her klipte doğrulanır.** Prompt İngilizce; replikler tırnak içinde Türkçe harflerle; "native Turkish speakers from Istanbul, speak ONLY Turkish"; her replik için zaman aralığı, konuşan ve duygu; zor kelimeler ve "Rıza" için okunuş notu. Kalıp `diziler/sifir-sehir/ses-testi/tur3_prompt.txt` içinde. Her klibin konuşması yazıya dökülüp senaryoyla karşılaştırılır. İngilizce hazır sesler (Archie, Delia, Maya vb.) Türkçe replikte kullanılmaz.
 2. **Kare kusursuz olmadan video yok.** Her plan onaylı başlangıç karesinden üretilir; görünen her karakterin sayfası bağlanır.
 3. **Telefonda yüz okunmalı.** Diyalog planları yakın ya da orta plan; aynı geniş açıda 6 saniyeden uzun kalınmaz.
 4. **Her bölüm ilk 2 saniyede kancayla açılır, soruyla biter.** Senaryo, rapordaki 7.2 kalite kapısından geçmeden üretime girmez.
@@ -28,6 +32,6 @@ Sistem **henüz kurulmadı**. Rapor teslim edildi; raporun 9. bölümündeki kar
 9. Kullanıcı bir hata yakalarsa: kural olarak buraya ya da dizi dosyasına yazılır.
 
 ## Ortam notları
-- Bu bulut ortamından `upload.higgsfield.ai` ve `huggingface.co` adreslerine erişim engelli (21 Kasım). Yerel dosyayı Higgsfield'a yüklemek için ortamın izinli adreslerine eklenmesi gerekir.
+- Ortamın izinli adresleri: `upload.higgsfield.ai`, `elevenlabsusercontent.com`. Higgsfield sonuç dosyaları (`*.cloudfront.net`) ve `huggingface.co` buradan indirilemez; klip incelemesi Higgsfield sandbox'ında (`sandbox_exec`) yapılır.
 - Konuşma tanıma: `sherpa-onnx` + GitHub'daki `sherpa-onnx-whisper-small` modeli bu ortamda çalışıyor (HuggingFace gerekmez). Higgsfield sandbox'ında `faster-whisper` hazır.
 - Higgsfield Unlimited yalnızca web arayüzünde çalışır; MCP üzerinden üretim kredi harcar.
