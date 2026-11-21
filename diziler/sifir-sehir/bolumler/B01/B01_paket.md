@@ -1,242 +1,34 @@
-# B01 üretim paketi — plan tablosu
+# B01 üretim paketi — klipler
 
-Bu dosya `araclar/b01_paket.py` tarafından üretilir; elle düzenleme, betiği düzenle.
+Flow ayarı her klip için aynı: **kareden videoya · Veo 3.1 Lite · 9:16**. Başlangıç karesi olarak yalnızca aşağıda yazan kareyi yükle; karakter sayfası, ifade sayfası ya da plaka ekleme.
 
-## 1. Kareler (görsel üretimi, 9:16)
-
-Her karenin kendi klasörü var: `kareler/SBxx/`. İçinde o kare için eklenecek referanslar (numaralı) ve `SBxx_prompt.txt` bulunur: klasördeki bütün görselleri ekle, promptu yapıştır. Referansların tamamı ayrıca `referanslar/` klasöründe durur. Üretilen kareyi sohbete yükle; onaylanmadan videosu üretilmez.
-
-| Kare | Ne | Eklenecek referanslar | Hangi klipte |
+| Klip | Başlangıç karesi | Süre | Durum |
 |---|---|---|---|
-| SB01 | Selin yakın plan | Selin_sayfasi.jpg; Selin_ifade_sayfasi.jpg; V10_plaka_ters_aci.jpg | P01, P07 |
-| SB02 | Köy girişi geniş, tabela ve keçi | V8_plaka_koy_girisi.jpg; V6_tabela.jpg; V7_keci.jpg | P02 |
-| SB03 | Selin + Rıza ikili, Rıza gururlu | Selin_sayfasi.jpg; Selin_ifade_sayfasi.jpg; Riza_sayfasi.jpg; Riza_ifade_sayfasi.jpg; Boy_sayfasi.jpg; V10_plaka_ters_aci.jpg; Nesne_kapali_dosya.jpg | P03 |
-| SB04 | Keçi tabelayı yiyor, yakın plan | V7_keci.jpg; V6_tabela.jpg; V8_plaka_koy_girisi.jpg | P04 |
-| SB05 | Selin tapuyu okuyor, Rıza omzundan bakıyor | Selin_sayfasi.jpg; Selin_ifade_sayfasi.jpg; Riza_sayfasi.jpg; Riza_ifade_sayfasi.jpg; Boy_sayfasi.jpg; V10_plaka_ters_aci.jpg; Nesne_kapali_dosya.jpg | P05 |
-| SB06 | Selin + Rıza ikili, Selin Rıza'ya dönük | Selin_sayfasi.jpg; Selin_ifade_sayfasi.jpg; Riza_sayfasi.jpg; Riza_ifade_sayfasi.jpg; Boy_sayfasi.jpg; V10_plaka_ters_aci.jpg; Nesne_kapali_dosya.jpg; SB03_onayli.jpg | P06a |
-| SB08 | Rıza tek, satışa hazırlanıyor | Riza_sayfasi.jpg; Riza_ifade_sayfasi.jpg; V10_plaka_ters_aci.jpg | P08 |
-| SB09 | Köy girişi geniş, tabela yerde | V8_plaka_koy_girisi.jpg; V6_tabela.jpg; V7_keci.jpg; SB02_onayli.jpg | P09 |
-| SB10 | Naci taburede, orta plan | Naci_sayfasi.jpg; Naci_ifade_sayfasi.jpg; V9_plaka_naci_duvari.jpg; Nesne_cay_bardagi.jpg; Nesne_zarf.jpg | P10, P13 |
-| SB11 | Selin + Rıza ikili, Naci'ye bakıyorlar | Selin_sayfasi.jpg; Selin_ifade_sayfasi.jpg; Riza_sayfasi.jpg; Riza_ifade_sayfasi.jpg; Boy_sayfasi.jpg; V10_plaka_ters_aci.jpg; Nesne_kapali_dosya.jpg; SB03_onayli.jpg | P11 |
-| SB12 | Naci yakın plan | Naci_sayfasi.jpg; Naci_ifade_sayfasi.jpg; V9_plaka_naci_duvari.jpg; Nesne_cay_bardagi.jpg; SB10_onayli.jpg | P12 |
-| SB14 | Selin + Rıza ikili, Rıza kâğıdı okuyor | Selin_sayfasi.jpg; Selin_ifade_sayfasi.jpg; Riza_sayfasi.jpg; Riza_ifade_sayfasi.jpg; Boy_sayfasi.jpg; V10_plaka_ters_aci.jpg; Nesne_kapali_dosya.jpg; Nesne_zarf.jpg; SB03_onayli.jpg | P14 |
-
-Üretim sırası: önce SB03 ve SB10 (diğer kareler bunları konum referansı olarak kullanıyor) ve SB01, SB02; sonra kalanlar.
-
-## 2. Klipler (Flow, Veo 3.1 Lite, 9:16, kareden videoya)
-
-Her klip için: başlangıç karesi olarak onaylı kareyi yükle, süreyi seç, `videolar/Pxx.txt` içindeki promptu yapıştır. Çıkan mp4'ü sohbete yükle.
-
-| Klip | Ne | Başlangıç karesi | Süre | Replikler |
-|---|---|---|---|---|
-| P01 | Soğuk açılış | SB01 | 4 sn | SELİN: "Rıza… bunun neresi şehir?" |
-| P02 | Şehir merkezi | SB02 | 4 sn | — |
-| P03 | Tabelası bile var | SB03 | 6 sn | RIZA: "Şehir merkezi burası aşkım! Bak, tabelası bile var." / SELİN: "Tabelayı keçi yiyor, Rıza." |
-| P04 | Keçi | SB04 | 4 sn | — |
-| P05 | Tapu | SB05 | 8 sn | SELİN: "On iki ev, bir depo, bir değirmen… Nüfus: üç." / RIZA: "Üç bin mi?" / SELİN: "Üç." |
-| P06a | Kimin parasıyla | SB06 | 6 sn | SELİN: "Kimin parasıyla?" / RIZA: "Dedemden kalan… biraz da birikim." |
-| P06b | Biraz dediğin | P06a'nın son karesi | 6 sn | SELİN: "Biraz dediğin?" / RIZA: "Ev için ayırdığımız kadar." |
-| P07 | Göz | SB01 | 4 sn | — |
-| P08 | Potansiyel | SB08 | 6 sn | RIZA: "Ama potansiyele bak! Şuraya kafe, şuraya ortak çalışma alanı—" |
-| P09 | Tabela | SB09 | 4 sn | — |
-| P10 | Naci | SB10 | 6 sn | NACİ: "Yeni sahipler siz misiniz?" / "Öncekiler de böyle heyecanlıydı." |
-| P11 | Öncekiler | SB11 | 4 sn | SELİN: "Öncekiler mi?" |
-| P12 | Üç gün | SB12 | 4 sn | NACİ: "Üç gün dayandılar." |
-| P13 | Zarf | SB10 | 6 sn | NACİ: "Bu arada… köyün elektrik borcu." / "Artık sizin." |
-| P14 | Kaç | SB14 | 6 sn | SELİN: "Rıza. Kaç?" |
-| **Toplam** | | | **78 sn** | |
-
-Notlar:
-- P06b'nin başlangıç karesi P06a klibinin son karesidir: P06a'yı yükleyince son kareyi ben çıkarıp sana veririm.
-- P01 ve P07 aynı kareden (SB01), P10 ve P13 aynı kareden (SB10) başlar; aralarında başka planlar olduğu için kurguda sıçrama görünmez.
-- Ekran yazıları ve başlık kurguda eklenir; kliplerde yazı istenmez.
-
-
----
-
-# Kare promptları
-
-## SB01
-
-```
-Stylized 3D animated feature film still, vertical 9:16. ONE single continuous image: no split screen, no panels, no borders, no captions, no text overlays.
-
-Close-up of Selin, head and shoulders, centered in the frame. Selin: woman in her early thirties, golden blonde curls to the jaw, freckles, small gold hoop earrings, pink ribbed top with flutter sleeves tucked into a burgundy tiered skirt.
-Expression: frozen, flat disbelief, lips slightly parted, eyes fixed on something far ahead, just above and to the left of the lens. A light breeze lifts a few curls. Her hands and the folder are NOT in the frame.
-Background: the view out of the village from the attached reverse-angle plate, softly out of focus: gravel road, a dark grey car on the left, scrub and a hazy hillside.
-
-Light: late afternoon golden light, sun low on the right side of the frame, long soft shadows, warm and clean.
-Characters must match the attached character sheets and expression sheets exactly: same faces, hair, proportions and clothes, same stylization (animated-film skin, no pores, no photorealism). The background must match the attached location plate.
-Nobody looks at the camera. Sharp focus on the faces, background slightly soft.
-```
-
-## SB02
-
-```
-Stylized 3D animated feature film still, vertical 9:16. ONE single continuous image: no split screen, no panels, no borders, no captions, no text overlays.
-
-Wide shot of the empty village entrance, exactly as in the attached location plate: gravel road in the foreground, cobbled street between old stone houses with closed blue shutters, the leaning rusty road sign in the left foreground reading exactly "ŞEHİR MERKEZİ" (two lines: ŞEHİR / MERKEZİ).
-At the foot of the sign stands the goat from the attached sheet (white, one brown ear, red rope collar with a brass bell), side on, head raised toward the lower corner of the sign, bored half-closed eyes. The goat is about knee-high to the sign's panel; the sign is taller than the goat.
-No people anywhere.
-
-Light: late afternoon golden light, sun low on the left side of the frame, long soft shadows, warm and clean.
-Characters must match the attached character sheets and expression sheets exactly: same faces, hair, proportions and clothes, same stylization (animated-film skin, no pores, no photorealism). The background must match the attached location plate.
-Nobody looks at the camera. Sharp focus on the faces, background slightly soft.
-```
-
-## SB03
-
-```
-Stylized 3D animated feature film still, vertical 9:16. ONE single continuous image: no split screen, no panels, no borders, no captions, no text overlays.
-
-Two-shot from the chest up. Selin stands on the LEFT, Rıza on the RIGHT, shoulder to shoulder, both facing the camera direction and looking past the camera at the village, slightly to the right of the lens.
-Selin: woman in her early thirties, golden blonde curls to the jaw, freckles, small gold hoop earrings, pink ribbed top with flutter sleeves tucked into a burgundy tiered skirt. She hugs a closed burgundy leather A4 folder with a thin elastic band, about as wide as her torso flat against her chest with BOTH arms crossed over it. Her face is completely flat, unimpressed.
-Rıza: man in his mid thirties, messy dark curls, long nose, thick dark eyebrows, light stubble, navy blazer with a red pocket square over a cream shirt. He is half a head taller than Selin. His arms hang at his sides, out of frame. He beams with a proud, overexcited salesman grin, chest out.
-Background: the view out of the village from the attached reverse-angle plate, softly out of focus: gravel road, a dark grey car on the left, scrub and a hazy hillside.
-
-Light: late afternoon golden light, sun low on the right side of the frame, long soft shadows, warm and clean.
-Characters must match the attached character sheets and expression sheets exactly: same faces, hair, proportions and clothes, same stylization (animated-film skin, no pores, no photorealism). The background must match the attached location plate.
-Nobody looks at the camera. Sharp focus on the faces, background slightly soft.
-```
-
-## SB04
-
-```
-Stylized 3D animated feature film still, vertical 9:16. ONE single continuous image: no split screen, no panels, no borders, no captions, no text overlays.
-
-Close shot. The rusty road sign fills the left two thirds of the frame, seen slightly from below, its text fully readable and exactly: "ŞEHİR MERKEZİ" (two lines: ŞEHİR / MERKEZİ). Its top right corner is already bitten off and ragged.
-On the right, the head and neck of the goat from the attached sheet (white, one brown ear, short curved horns, small beard, red rope collar with a brass bell) reach up to that bitten corner; its teeth are closed on the metal edge, jaw pushed sideways, eyes half closed and bored.
-Background: the stone houses of the village street from the attached plate, softly out of focus. No people.
-
-Light: late afternoon golden light, sun low on the left side of the frame, long soft shadows, warm and clean.
-Characters must match the attached character sheets and expression sheets exactly: same faces, hair, proportions and clothes, same stylization (animated-film skin, no pores, no photorealism). The background must match the attached location plate.
-Nobody looks at the camera. Sharp focus on the faces, background slightly soft.
-```
-
-## SB05
-
-```
-Stylized 3D animated feature film still, vertical 9:16. ONE single continuous image: no split screen, no panels, no borders, no captions, no text overlays.
-
-Chest-up shot. Selin stands slightly left of center, facing the camera direction. Selin: woman in her early thirties, golden blonde curls to the jaw, freckles, small gold hoop earrings, pink ribbed top with flutter sleeves tucked into a burgundy tiered skirt. She holds a burgundy leather A4 folder OPEN in BOTH hands at chest height, like an open book, one hand on each edge; the open folder is as wide as her shoulders. The inside of the folder faces HER: the camera sees only its burgundy leather outside, no text. Her eyes are lowered, reading, with a small frown.
-Rıza stands half a step behind her on the RIGHT edge of the frame, leaning in to peek over her shoulder at the folder. Rıza: man in his mid thirties, messy dark curls, long nose, thick dark eyebrows, light stubble, navy blazer with a red pocket square over a cream shirt. He is half a head taller than Selin. His hands are not visible. His face is hopeful, eyebrows up, a small nervous smile.
-Background: the view out of the village from the attached reverse-angle plate, softly out of focus: gravel road, a dark grey car on the left, scrub and a hazy hillside.
-
-Light: late afternoon golden light, sun low on the right side of the frame, long soft shadows, warm and clean.
-Characters must match the attached character sheets and expression sheets exactly: same faces, hair, proportions and clothes, same stylization (animated-film skin, no pores, no photorealism). The background must match the attached location plate.
-Nobody looks at the camera. Sharp focus on the faces, background slightly soft.
-```
-
-## SB06
-
-```
-Stylized 3D animated feature film still, vertical 9:16. ONE single continuous image: no split screen, no panels, no borders, no captions, no text overlays.
-
-Two-shot from the chest up, same framing and same positions as the attached approved frame: Selin on the LEFT, Rıza on the RIGHT, shoulder to shoulder.
-Selin: woman in her early thirties, golden blonde curls to the jaw, freckles, small gold hoop earrings, pink ribbed top with flutter sleeves tucked into a burgundy tiered skirt. She hugs a closed burgundy leather A4 folder with a thin elastic band, about as wide as her torso flat against her chest with BOTH arms crossed over it. Her head is turned toward Rıza; she looks straight at his face, calm and hard, jaw set.
-Rıza: man in his mid thirties, messy dark curls, long nose, thick dark eyebrows, light stubble, navy blazer with a red pocket square over a cream shirt. He is half a head taller than Selin. His arms hang at his sides, out of frame. He faces forward but his eyes slide sideways toward Selin: caught, a tight nervous smile, shoulders slightly raised.
-Background: the view out of the village from the attached reverse-angle plate, softly out of focus: gravel road, a dark grey car on the left, scrub and a hazy hillside.
-
-Light: late afternoon golden light, sun low on the right side of the frame, long soft shadows, warm and clean.
-Characters must match the attached character sheets and expression sheets exactly: same faces, hair, proportions and clothes, same stylization (animated-film skin, no pores, no photorealism). The background must match the attached location plate.
-Nobody looks at the camera. Sharp focus on the faces, background slightly soft.
-```
-
-## SB08
-
-```
-Stylized 3D animated feature film still, vertical 9:16. ONE single continuous image: no split screen, no panels, no borders, no captions, no text overlays.
-
-Medium shot of Rıza alone, from the waist up, centered. Rıza: man in his mid thirties, messy dark curls, long nose, thick dark eyebrows, light stubble, navy blazer with a red pocket square over a cream shirt. He is half a head taller than Selin. Brown trousers, belt visible. Both hands are raised to chest height, palms up and open, as if about to present something. His smile is wide but forced, eyebrows high: a man rallying himself.
-He looks past the camera at the village, slightly to the right of the lens.
-Background: the view out of the village from the attached reverse-angle plate, softly out of focus: gravel road, a dark grey car on the left, scrub and a hazy hillside.
-
-Light: late afternoon golden light, sun low on the right side of the frame, long soft shadows, warm and clean.
-Characters must match the attached character sheets and expression sheets exactly: same faces, hair, proportions and clothes, same stylization (animated-film skin, no pores, no photorealism). The background must match the attached location plate.
-Nobody looks at the camera. Sharp focus on the faces, background slightly soft.
-```
-
-## SB09
-
-```
-Stylized 3D animated feature film still, vertical 9:16. ONE single continuous image: no split screen, no panels, no borders, no captions, no text overlays.
-
-Wide shot of the empty village entrance, same camera position as the attached approved frame and the attached location plate.
-The rusty road sign has just fallen: it now lies flat on the gravel in the left foreground, panel facing up, its bent pole beside it, a small hole in the ground where it stood. The text on the fallen panel is readable and exactly "ŞEHİR MERKEZİ". A low cloud of pale dust hangs around it.
-The goat from the attached sheet (white, one brown ear, red rope collar with a brass bell) stands one step to the right of the fallen sign, side on, calmly chewing, not looking at it.
-No people anywhere.
-
-Light: late afternoon golden light, sun low on the left side of the frame, long soft shadows, warm and clean.
-Characters must match the attached character sheets and expression sheets exactly: same faces, hair, proportions and clothes, same stylization (animated-film skin, no pores, no photorealism). The background must match the attached location plate.
-Nobody looks at the camera. Sharp focus on the faces, background slightly soft.
-```
-
-## SB10
-
-```
-Stylized 3D animated feature film still, vertical 9:16. ONE single continuous image: no split screen, no panels, no borders, no captions, no text overlays.
-
-Medium shot, from the knees up. Naci sits on the small wooden stool against the low stone wall, exactly as in the attached location plate: the faded blue door on the right, the flat stone shelf sticking out of the wall beside the stool. Naci: thin man in his late sixties, grey swept-back hair, thick grey moustache, bushy grey eyebrows, faded blue work jacket over a checked shirt. Grey trousers.
-His body is turned three-quarters toward the right of the frame. His RIGHT hand holds a small tulip-shaped tea glass full of dark red tea at chest height, between thumb and two fingers; the glass is about as tall as his palm is wide. His LEFT hand rests flat on his left knee.
-On the flat stone shelf beside him lies a thick mustard-yellow paper envelope, slightly bigger than a man's open hand, flap closed.
-He looks toward the right edge of the frame, at people outside the frame, eyes half closed, faintly amused, completely relaxed.
-
-Light: late afternoon golden light, sun low on the left side of the frame, long soft shadows, warm and clean.
-Characters must match the attached character sheets and expression sheets exactly: same faces, hair, proportions and clothes, same stylization (animated-film skin, no pores, no photorealism). The background must match the attached location plate.
-Nobody looks at the camera. Sharp focus on the faces, background slightly soft.
-```
-
-## SB11
-
-```
-Stylized 3D animated feature film still, vertical 9:16. ONE single continuous image: no split screen, no panels, no borders, no captions, no text overlays.
-
-Two-shot from the chest up, same framing and same positions as the attached approved frame: Selin on the LEFT, Rıza on the RIGHT, shoulder to shoulder.
-Both have turned their heads toward the LEFT edge of the frame and look at someone outside the frame on the left.
-Selin: woman in her early thirties, golden blonde curls to the jaw, freckles, small gold hoop earrings, pink ribbed top with flutter sleeves tucked into a burgundy tiered skirt. She hugs a closed burgundy leather A4 folder with a thin elastic band, about as wide as her torso flat against her chest with BOTH arms crossed over it. One eyebrow raised, wary.
-Rıza: man in his mid thirties, messy dark curls, long nose, thick dark eyebrows, light stubble, navy blazer with a red pocket square over a cream shirt. He is half a head taller than Selin. His arms hang at his sides, out of frame. His smile is still in place but stiff; his eyes are worried.
-Background: the view out of the village from the attached reverse-angle plate, softly out of focus: gravel road, a dark grey car on the left, scrub and a hazy hillside.
-
-Light: late afternoon golden light, sun low on the right side of the frame, long soft shadows, warm and clean.
-Characters must match the attached character sheets and expression sheets exactly: same faces, hair, proportions and clothes, same stylization (animated-film skin, no pores, no photorealism). The background must match the attached location plate.
-Nobody looks at the camera. Sharp focus on the faces, background slightly soft.
-```
-
-## SB12
-
-```
-Stylized 3D animated feature film still, vertical 9:16. ONE single continuous image: no split screen, no panels, no borders, no captions, no text overlays.
-
-Close-up of Naci, head and shoulders, centered, the same man in the same place as in the attached approved frame. Naci: thin man in his late sixties, grey swept-back hair, thick grey moustache, bushy grey eyebrows, faded blue work jacket over a checked shirt.
-His RIGHT hand holds the small tulip-shaped tea glass just below his chin, at the bottom edge of the frame. His face is flat and unreadable, stating a fact. He looks toward the right edge of the frame, at people outside the frame.
-Background: the stone wall and the faded blue door from the attached location plate, softly out of focus.
-
-Light: late afternoon golden light, sun low on the left side of the frame, long soft shadows, warm and clean.
-Characters must match the attached character sheets and expression sheets exactly: same faces, hair, proportions and clothes, same stylization (animated-film skin, no pores, no photorealism). The background must match the attached location plate.
-Nobody looks at the camera. Sharp focus on the faces, background slightly soft.
-```
-
-## SB14
-
-```
-Stylized 3D animated feature film still, vertical 9:16. ONE single continuous image: no split screen, no panels, no borders, no captions, no text overlays.
-
-Two-shot from the chest up, same framing and same positions as the attached approved frame: Selin on the LEFT, Rıza on the RIGHT, shoulder to shoulder.
-Rıza: man in his mid thirties, messy dark curls, long nose, thick dark eyebrows, light stubble, navy blazer with a red pocket square over a cream shirt. He is half a head taller than Selin. His LEFT hand holds the torn-open mustard-yellow envelope at chest height. His RIGHT hand holds a single white sheet of paper just above it; the printed side faces HIM, the camera sees only the blank white back of the sheet. His eyes are lowered to the sheet; the last of a smile is still on his mouth but his eyebrows are already rising in alarm.
-Selin: woman in her early thirties, golden blonde curls to the jaw, freckles, small gold hoop earrings, pink ribbed top with flutter sleeves tucked into a burgundy tiered skirt. She hugs a closed burgundy leather A4 folder with a thin elastic band, about as wide as her torso flat against her chest with BOTH arms crossed over it. Her head is turned toward Rıza; she watches his face, not the paper, perfectly calm.
-Background: the view out of the village from the attached reverse-angle plate, softly out of focus: gravel road, a dark grey car on the left, scrub and a hazy hillside.
-
-Light: late afternoon golden light, sun low on the right side of the frame, long soft shadows, warm and clean.
-Characters must match the attached character sheets and expression sheets exactly: same faces, hair, proportions and clothes, same stylization (animated-film skin, no pores, no photorealism). The background must match the attached location plate.
-Nobody looks at the camera. Sharp focus on the faces, background slightly soft.
-```
-
-
----
-
-# Video promptları
+| P01 | SB01 | 4 sn | Hazır |
+| P02 | SB02 | 4 sn | Hazır |
+| P03 | SB03 | 6 sn | Hazır |
+| P04 | SB04 | 4 sn | Kare bekleniyor |
+| P05 | SB05 | 8 sn | Hazır |
+| P06a | SB06 | 6 sn | Hazır |
+| P06b | P06a'nın son karesi | 6 sn | Kare bekleniyor |
+| P07 | SB01 | 4 sn | Hazır |
+| P08 | SB08 | 6 sn | Hazır |
+| P09 | SB09 | 4 sn | Hazır |
+| P10 | SB10 | 6 sn | Hazır |
+| P11 | SB11 | 4 sn | Hazır |
+| P12 | SB12 | 4 sn | Hazır |
+| P13 | SB10 | 6 sn | Hazır |
+| P14 | SB14 | 6 sn | Hazır |
 
 ## P01
+
+**Başlangıç karesi:** SB01 · **Süre:** 4 sn
+
+Dosya: `klipler/P01/P01_baslangic_karesi_SB01.jpg`
+
+![SB01](klipler/P01/P01_baslangic_karesi_SB01.jpg)
+
+Prompt:
 
 ```
 Stylized 3D animated feature film look, single continuous shot. Camera is locked off for the whole shot: no pan, no zoom, no cut. Duration 4 seconds.
@@ -266,6 +58,14 @@ Only the speaking character's mouth moves. Audio: the voices and light wind and 
 
 ## P02
 
+**Başlangıç karesi:** SB02 · **Süre:** 4 sn
+
+Dosya: `klipler/P02/P02_baslangic_karesi_SB02.jpg`
+
+![SB02](klipler/P02/P02_baslangic_karesi_SB02.jpg)
+
+Prompt:
+
 ```
 Stylized 3D animated feature film look, single continuous shot. Camera is locked off for the whole shot: no pan, no zoom, no cut. Duration 4 seconds.
 
@@ -285,6 +85,14 @@ No dialogue. Nobody speaks. Audio: light wind, one metal creak, one soft bell ti
 ```
 
 ## P03
+
+**Başlangıç karesi:** SB03 · **Süre:** 6 sn
+
+Dosya: `klipler/P03/P03_baslangic_karesi_SB03.jpg`
+
+![SB03](klipler/P03/P03_baslangic_karesi_SB03.jpg)
+
+Prompt:
 
 ```
 Stylized 3D animated feature film look, single continuous shot. Camera is locked off for the whole shot: no pan, no zoom, no cut. Duration 6 seconds.
@@ -316,6 +124,12 @@ Only the speaking character's mouth moves. Audio: the voices and light wind only
 
 ## P04
 
+**Başlangıç karesi:** SB04 · **Süre:** 4 sn
+
+Kare henüz hazır değil.
+
+Prompt:
+
 ```
 Stylized 3D animated feature film look, single continuous shot. Camera is locked off for the whole shot: no pan, no zoom, no cut. Duration 4 seconds.
 
@@ -335,6 +149,14 @@ No dialogue. Nobody speaks. Audio: slow crunchy chewing, one soft bell tinkle, l
 ```
 
 ## P05
+
+**Başlangıç karesi:** SB05 · **Süre:** 8 sn
+
+Dosya: `klipler/P05/P05_baslangic_karesi_SB05.jpg`
+
+![SB05](klipler/P05/P05_baslangic_karesi_SB05.jpg)
+
+Prompt:
 
 ```
 Stylized 3D animated feature film look, single continuous shot. Camera is locked off for the whole shot: no pan, no zoom, no cut. Duration 8 seconds.
@@ -368,6 +190,14 @@ Only the speaking character's mouth moves. Audio: the voices and light wind only
 
 ## P06a
 
+**Başlangıç karesi:** SB06 · **Süre:** 6 sn
+
+Dosya: `klipler/P06a/P06a_baslangic_karesi_SB06.jpg`
+
+![SB06](klipler/P06a/P06a_baslangic_karesi_SB06.jpg)
+
+Prompt:
+
 ```
 Stylized 3D animated feature film look, single continuous shot. Camera is locked off for the whole shot: no pan, no zoom, no cut. Duration 6 seconds.
 
@@ -398,6 +228,12 @@ Only the speaking character's mouth moves. Audio: the voices and light wind only
 ```
 
 ## P06b
+
+**Başlangıç karesi:** P06a'nın son karesi · **Süre:** 6 sn
+
+Kare henüz hazır değil.
+
+Prompt:
 
 ```
 Stylized 3D animated feature film look, single continuous shot. Camera is locked off for the whole shot: no pan, no zoom, no cut. Duration 6 seconds.
@@ -430,6 +266,14 @@ Only the speaking character's mouth moves. Audio: the voices and light wind only
 
 ## P07
 
+**Başlangıç karesi:** SB01 · **Süre:** 4 sn
+
+Dosya: `klipler/P07/P07_baslangic_karesi_SB01.jpg`
+
+![SB01](klipler/P07/P07_baslangic_karesi_SB01.jpg)
+
+Prompt:
+
 ```
 Stylized 3D animated feature film look, single continuous shot. Camera is locked off for the whole shot: no pan, no zoom, no cut. Duration 4 seconds.
 
@@ -450,6 +294,14 @@ No dialogue. Nobody speaks. Audio: light wind and one distant goat bleat only. N
 ```
 
 ## P08
+
+**Başlangıç karesi:** SB08 · **Süre:** 6 sn
+
+Dosya: `klipler/P08/P08_baslangic_karesi_SB08.jpg`
+
+![SB08](klipler/P08/P08_baslangic_karesi_SB08.jpg)
+
+Prompt:
 
 ```
 Stylized 3D animated feature film look, single continuous shot. Camera is locked off for the whole shot: no pan, no zoom, no cut. Duration 6 seconds.
@@ -480,6 +332,14 @@ Only the speaking character's mouth moves. Audio: the voices and light wind, the
 
 ## P09
 
+**Başlangıç karesi:** SB09 · **Süre:** 4 sn
+
+Dosya: `klipler/P09/P09_baslangic_karesi_SB09.jpg`
+
+![SB09](klipler/P09/P09_baslangic_karesi_SB09.jpg)
+
+Prompt:
+
 ```
 Stylized 3D animated feature film look, single continuous shot. Camera is locked off for the whole shot: no pan, no zoom, no cut. Duration 4 seconds.
 
@@ -499,6 +359,14 @@ No dialogue. Nobody speaks. Audio: light wind, soft chewing, one bell tinkle onl
 ```
 
 ## P10
+
+**Başlangıç karesi:** SB10 · **Süre:** 6 sn
+
+Dosya: `klipler/P10/P10_baslangic_karesi_SB10.jpg`
+
+![SB10](klipler/P10/P10_baslangic_karesi_SB10.jpg)
+
+Prompt:
 
 ```
 Stylized 3D animated feature film look, single continuous shot. Camera is locked off for the whole shot: no pan, no zoom, no cut. Duration 6 seconds.
@@ -532,6 +400,14 @@ Only the speaking character's mouth moves. Audio: the voices and light wind, one
 
 ## P11
 
+**Başlangıç karesi:** SB11 · **Süre:** 4 sn
+
+Dosya: `klipler/P11/P11_baslangic_karesi_SB11.jpg`
+
+![SB11](klipler/P11/P11_baslangic_karesi_SB11.jpg)
+
+Prompt:
+
 ```
 Stylized 3D animated feature film look, single continuous shot. Camera is locked off for the whole shot: no pan, no zoom, no cut. Duration 4 seconds.
 
@@ -561,6 +437,14 @@ Only the speaking character's mouth moves. Audio: the voices and light wind only
 
 ## P12
 
+**Başlangıç karesi:** SB12 · **Süre:** 4 sn
+
+Dosya: `klipler/P12/P12_baslangic_karesi_SB12.jpg`
+
+![SB12](klipler/P12/P12_baslangic_karesi_SB12.jpg)
+
+Prompt:
+
 ```
 Stylized 3D animated feature film look, single continuous shot. Camera is locked off for the whole shot: no pan, no zoom, no cut. Duration 4 seconds.
 
@@ -588,6 +472,14 @@ Only the speaking character's mouth moves. Audio: the voices and light wind only
 ```
 
 ## P13
+
+**Başlangıç karesi:** SB10 · **Süre:** 6 sn
+
+Dosya: `klipler/P13/P13_baslangic_karesi_SB10.jpg`
+
+![SB10](klipler/P13/P13_baslangic_karesi_SB10.jpg)
+
+Prompt:
 
 ```
 Stylized 3D animated feature film look, single continuous shot. Camera is locked off for the whole shot: no pan, no zoom, no cut. Duration 6 seconds.
@@ -619,6 +511,14 @@ Only the speaking character's mouth moves. Audio: the voices and light wind, a s
 ```
 
 ## P14
+
+**Başlangıç karesi:** SB14 · **Süre:** 6 sn
+
+Dosya: `klipler/P14/P14_baslangic_karesi_SB14.jpg`
+
+![SB14](klipler/P14/P14_baslangic_karesi_SB14.jpg)
+
+Prompt:
 
 ```
 Stylized 3D animated feature film look, single continuous shot. Camera is locked off for the whole shot: no pan, no zoom, no cut. Duration 6 seconds.
