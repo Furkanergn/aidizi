@@ -122,3 +122,7 @@ Tek deneme yapıldı; tutarlılık (aynı promptla tekrar) ve klipler arası ses
 Kullanıcı: Veo ve Wan'ın sesi iyi; Veo'nun kalitesi daha iyi. Karar: ses, video modelinin kendi sesi olacak (ayrı seslendirme değil); öncelikli model Veo 3.1 Lite.
 
 Açık konu: Veo'yu Higgsfield yerine Google Flow'dan (kullanıcının Google AI Pro üyeliği) üretmek. Üçüncü taraf kaynaklara göre Pro'da ayda 1.000 + günde 50 kredi, Veo 3.1 Lite klip başına 10 kredi; doğrulanmadı. Flow bu bulut oturumundan sürülemez (kullanıcının tarayıcısı gerekir).
+
+## Tur 4 sonucu (21 Kasım 2026)
+Kullanıcı üç klibi Flow'da üretti: "ses ile ilgili sıkıntı yok". Klipler yüklenmedi, Claude ölçmedi. Ses kararı kilitlendi: Veo 3.1 Lite (Flow) + her promptta sabit ses tarifi.
+Görülen görüntü hatası: Selin el hareketi yaparken tapu dosyası gövdesinde asılı kaldı → CLAUDE.md kural 10.

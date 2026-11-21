@@ -13,11 +13,12 @@ Sistem **henüz kurulmadı**. Ses yolu testlerle belirlendi; ayrıntı `diziler/
 - **Ses kararı:** ses ayrı seslendirme aracından değil, video modelinin kendi sesinden gelecek. ElevenLabs kütüphane sesleri ve tasarlanmış sesler kullanıcıya uymadı ("tiplemeye oturmuyor").
 - **Model:** Veo 3.1 Lite ve Wan 3.0 Türkçe replikleri doğru söyledi; kullanıcı Veo'yu daha kaliteli buldu. Seedance (2.0 Mini, kullanıcının deneyimine göre 2.5 de) Türkçeyi bozuyor; Kling 4.0'ın sesi B01'de beğenilmedi.
 - **Nereden üretilecek (kullanıcı kararı):** Veo klipleri Google Flow'da, kullanıcının Google AI Pro üyeliğiyle (klip başına 10 kredi, doğrulandı; ses Higgsfield'daki Veo ile neredeyse aynı). **İş bölümü:** Claude her bölüm için paketi hazırlar (senaryo, plan listesi, her plan için başlangıç karesi ya da kare promptu, video promptu, ayarlar); kullanıcı Flow'da üretir ve mp4'leri sohbete yükler; Claude kontrol eder (yazıya dökme, kareler) ve kurguyu yapar.
-- **Sürüyor:** ses sabitliği testi (tur 4), paket `diziler/sifir-sehir/ses-testi/tur4-ses-sabitligi/` içinde; kullanıcının üç klibi üretip yüklemesi bekleniyor. Aynı promptun tekrarında tutarlılık henüz test edilmedi.
+- **Ses sabitliği (tur 4):** kullanıcı üç klibi Flow'da üretti ve "ses ile ilgili sıkıntı yok" dedi. Klipler sohbete yüklenmedi; Claude ölçüm yapmadı, karar kullanıcının kulağına dayanıyor. Her promptta sabit "Voices" bölümü kullanılır (`ses-testi/tur4-ses-sabitligi/`).
+- **Yeni sorun:** sahnelerde fizik hataları (Selin el hareketi yaparken tapu dosyası gövdesinde havada asılı kaldı). Kural 10 eklendi.
 - Higgsfield'da ~1 kredi kaldı. ElevenLabs MCP bağlı.
 
-- Kilitli video modeli: — (aday: Veo 3.1 Lite)
-- Kilitli karakter sesleri: —
+- Kilitli video modeli: Veo 3.1 Lite, Google Flow üzerinden
+- Kilitli karakter sesleri: Veo'nun kendi sesi + her promptta sabit ses tarifi (Rıza: sıcak, parlak, hafif genizden tenor, hızlı; Selin: sakin, sıcak, hafif boğuk alçak ses, kuru mizah)
 - Bölüm kredi tavanı: —
 
 ## Değişmez ilkeler
@@ -30,6 +31,7 @@ Sistem **henüz kurulmadı**. Ses yolu testlerle belirlendi; ayrıntı `diziler/
 7. **Kontrol edilmemiş çıktı gösterilmez.** QC: kontak sayfası, ilk/orta/son kare, yüz = sayfa büyütmesi, komşu planla yan yana, konuşmanın yazıya dökümü, ses seviyeleri.
 8. **Sesi duyamazsın.** Ölçüm ve yazıya dökme "iyi ses" demek değildir; teslimde bunu açıkça yaz.
 9. Kullanıcı bir hata yakalarsa: kural olarak buraya ya da dizi dosyasına yazılır.
+10. **Eller ve nesneler her promptta yazılır.** Karakter elinde bir şey tutuyorsa: hangi el/kol tutuyor, plan boyunca orada kalıyor mu, serbest el hangisi ve yalnızca onunla mı jest yapıyor. Yazılmazsa model konuşurken iki eliyle jest yaptırır ve nesne havada kalır (tur 4, Selin'in tapu dosyası). Önce tasarımla çöz: diyalog planında nesne gerekmiyorsa önceki planda bırakılır (çantaya, kaputa, masaya) ya da plan göğüs üstü çerçevelenir. Nesnenin referans görseli bu hatayı çözmez; o yalnızca nesnenin görünüşünü sabitler.
 
 ## Ortam notları
 - Ortamın izinli adresleri: `upload.higgsfield.ai`, `elevenlabsusercontent.com`. Higgsfield sonuç dosyaları (`*.cloudfront.net`) ve `huggingface.co` buradan indirilemez; klip incelemesi Higgsfield sandbox'ında (`sandbox_exec`) yapılır.
