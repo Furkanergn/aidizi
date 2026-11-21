@@ -1,0 +1,15 @@
+Stylized 3D animated feature film look, single continuous shot. Camera is locked off for the whole shot: no pan, no zoom, no cut. Duration 4 seconds.
+
+Start exactly from the first frame: close shot of the goat's head biting the ragged top corner of the rusty road sign.
+
+Hands and objects (do not change):
+- The sign does not move or fall. Its text stays exactly "ŞEHİR MERKEZİ" and never changes.
+- The goat's head stays at the corner of the sign.
+
+0-4 s: The goat chews the metal corner slowly, jaw sliding sideways, eyes half closed. It blinks once. One ear flicks. The bell on its collar tinkles softly.
+
+Last frame: the goat still chewing the same corner, the sign unchanged.
+
+Eyes: The goat looks at nothing in particular. Nobody looks at the camera. Faces, hair and clothes stay identical to the first frame.
+
+No dialogue. Nobody speaks. Audio: slow crunchy chewing, one soft bell tinkle, light wind only. No music, no subtitles, no on-screen text.
