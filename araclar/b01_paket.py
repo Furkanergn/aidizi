@@ -240,16 +240,57 @@ V["P14"] = ("Kaç", "SB14", 6, 'SELİN: "Rıza. Kaç?"', vid(6,
 
 # ---------- yaz ----------
 for d in ("kareler", "videolar"): os.makedirs(f"{OUT}/{d}", exist_ok=True)
-for k,(t,refs,p) in K.items(): open(f"{OUT}/kareler/{k}.txt","w",encoding="utf-8").write(p+"\n")
+import shutil
+VAR="diziler/sifir-sehir/varliklar"
+# md'deki referans adı -> (pakette kullanılacak dosya adı, kaynak dosya ya da None)
+REF = {
+ "Selin sayfası": ("Selin_sayfasi.jpg", f"{VAR}/mevcut/sheet_selin.jpg"),
+ "Selin ifade sayfası": ("Selin_ifade_sayfasi.jpg", f"{VAR}/onayli/V2_selin_ifade.jpg"),
+ "Rıza sayfası": ("Riza_sayfasi.jpg", f"{VAR}/mevcut/sheet_riza.jpg"),
+ "Rıza ifade sayfası": ("Riza_ifade_sayfasi.jpg", f"{VAR}/onayli/V1_riza_ifade.jpg"),
+ "Naci sayfası": ("Naci_sayfasi.jpg", f"{VAR}/mevcut/sheet_naci.jpg"),
+ "Naci ifade sayfası": ("Naci_ifade_sayfasi.jpg", f"{VAR}/onayli/V3_naci_ifade.jpg"),
+ "Boy sayfası": ("Boy_sayfasi.jpg", f"{VAR}/onayli/V4_boy_sayfasi.jpg"),
+ "V8 plaka (köy girişi)": ("V8_plaka_koy_girisi.jpg", f"{VAR}/onayli/V8_plaka_koy_girisi.jpg"),
+ "V9 plaka (Naci'nin duvarı)": ("V9_plaka_naci_duvari.jpg", f"{VAR}/onayli/V9_plaka_naci_duvari.jpg"),
+ "V10 plaka (ters açı)": ("V10_plaka_ters_aci.jpg", f"{VAR}/onayli/V10_plaka_ters_aci.jpg"),
+ "V6 tabela": ("V6_tabela.jpg", f"{VAR}/onayli/V6_tabela.jpg"),
+ "V7 keçi": ("V7_keci.jpg", f"{VAR}/onayli/V7_keci.jpg"),
+ "Nesne: kapalı dosya": ("Nesne_kapali_dosya.jpg", f"{VAR}/onayli/nesne_dosya_kapali.jpg"),
+ "Nesne: çay bardağı": ("Nesne_cay_bardagi.jpg", f"{VAR}/onayli/nesne_cay.jpg"),
+ "Nesne: zarf": ("Nesne_zarf.jpg", f"{VAR}/onayli/nesne_zarf.jpg"),
+ "SB03 (onaylı kare, konum için)": ("SB03_onayli.jpg", f"{OUT}/kareler/onayli/SB03.jpg"),
+ "SB02 (onaylı kare, konum için)": ("SB02_onayli.jpg", f"{OUT}/kareler/onayli/SB02.jpg"),
+ "SB10 (onaylı kare, konum için)": ("SB10_onayli.jpg", f"{OUT}/kareler/onayli/SB10.jpg"),
+}
+os.makedirs(f"{OUT}/referanslar", exist_ok=True); os.makedirs(f"{OUT}/kareler/onayli", exist_ok=True)
+eksik_genel=set()
+for ad,(dosya,kaynak) in REF.items():
+    if os.path.exists(kaynak): shutil.copyfile(kaynak, f"{OUT}/referanslar/{dosya}")
+    else: eksik_genel.add(dosya)
+for f in os.listdir(f"{OUT}/kareler"):
+    if f.endswith(".txt"): os.remove(f"{OUT}/kareler/{f}")
+for k,(t,refs,p) in K.items():
+    d=f"{OUT}/kareler/{k}"
+    if os.path.isdir(d): shutil.rmtree(d)
+    os.makedirs(d)
+    open(f"{d}/{k}_prompt.txt","w",encoding="utf-8").write(p+"\n")
+    eks=[]
+    for i,r in enumerate(refs,1):
+        dosya,kaynak=REF[r]
+        if os.path.exists(kaynak): shutil.copyfile(kaynak, f"{d}/{i:02d}_{dosya}")
+        else: eks.append(f"{i:02d}_{dosya}  ({r})")
+    if eks: open(f"{d}/EKSIK.txt","w",encoding="utf-8").write("Bu karenin şu referansları henüz depoda yok:\n"+"\n".join(eks)+"\n")
+print("eksik:", sorted(eksik_genel))
 for k,(t,fr,d,l,p) in V.items(): open(f"{OUT}/videolar/{k}.txt","w",encoding="utf-8").write(p+"\n")
 m=["# B01 üretim paketi — plan tablosu","",
 "Bu dosya `araclar/b01_paket.py` tarafından üretilir; elle düzenleme, betiği düzenle.","",
 "## 1. Kareler (görsel üretimi, 9:16)","",
-"Her kare için: listedeki referansları ekle, `kareler/SBxx.txt` içindeki promptu yapıştır. Üretilen kareyi sohbete yükle; onaylanmadan videosu üretilmez.","",
+"Her karenin kendi klasörü var: `kareler/SBxx/`. İçinde o kare için eklenecek referanslar (numaralı) ve `SBxx_prompt.txt` bulunur: klasördeki bütün görselleri ekle, promptu yapıştır. Referansların tamamı ayrıca `referanslar/` klasöründe durur. Üretilen kareyi sohbete yükle; onaylanmadan videosu üretilmez.","",
 "| Kare | Ne | Eklenecek referanslar | Hangi klipte |","|---|---|---|---|"]
 use={}
 for k,(t,fr,d,l,p) in V.items(): use.setdefault(fr,[]).append(k)
-for k,(t,refs,p) in K.items(): m.append(f"| {k} | {t} | {'; '.join(refs)} | {', '.join(use.get(k,[]))} |")
+for k,(t,refs,p) in K.items(): m.append(f"| {k} | {t} | {'; '.join(REF[r][0] for r in refs)} | {', '.join(use.get(k,[]))} |")
 m+=["","Üretim sırası: önce SB03 ve SB10 (diğer kareler bunları konum referansı olarak kullanıyor) ve SB01, SB02; sonra kalanlar.","",
 "## 2. Klipler (Flow, Veo 3.1 Lite, 9:16, kareden videoya)","",
 "Her klip için: başlangıç karesi olarak onaylı kareyi yükle, süreyi seç, `videolar/Pxx.txt` içindeki promptu yapıştır. Çıkan mp4'ü sohbete yükle.","",

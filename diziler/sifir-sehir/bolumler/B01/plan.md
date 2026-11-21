@@ -4,22 +4,22 @@ Bu dosya `araclar/b01_paket.py` tarafından üretilir; elle düzenleme, betiği 
 
 ## 1. Kareler (görsel üretimi, 9:16)
 
-Her kare için: listedeki referansları ekle, `kareler/SBxx.txt` içindeki promptu yapıştır. Üretilen kareyi sohbete yükle; onaylanmadan videosu üretilmez.
+Her karenin kendi klasörü var: `kareler/SBxx/`. İçinde o kare için eklenecek referanslar (numaralı) ve `SBxx_prompt.txt` bulunur: klasördeki bütün görselleri ekle, promptu yapıştır. Referansların tamamı ayrıca `referanslar/` klasöründe durur. Üretilen kareyi sohbete yükle; onaylanmadan videosu üretilmez.
 
 | Kare | Ne | Eklenecek referanslar | Hangi klipte |
 |---|---|---|---|
-| SB01 | Selin yakın plan | Selin sayfası; Selin ifade sayfası; V10 plaka (ters açı) | P01, P07 |
-| SB02 | Köy girişi geniş, tabela ve keçi | V8 plaka (köy girişi); V6 tabela; V7 keçi | P02 |
-| SB03 | Selin + Rıza ikili, Rıza gururlu | Selin sayfası; Selin ifade sayfası; Rıza sayfası; Rıza ifade sayfası; Boy sayfası; V10 plaka (ters açı); Nesne: kapalı dosya | P03 |
-| SB04 | Keçi tabelayı yiyor, yakın plan | V7 keçi; V6 tabela; V8 plaka (köy girişi) | P04 |
-| SB05 | Selin tapuyu okuyor, Rıza omzundan bakıyor | Selin sayfası; Selin ifade sayfası; Rıza sayfası; Rıza ifade sayfası; Boy sayfası; V10 plaka (ters açı); Nesne: kapalı dosya | P05 |
-| SB06 | Selin + Rıza ikili, Selin Rıza'ya dönük | Selin sayfası; Selin ifade sayfası; Rıza sayfası; Rıza ifade sayfası; Boy sayfası; V10 plaka (ters açı); Nesne: kapalı dosya; SB03 (onaylı kare, konum için) | P06a |
-| SB08 | Rıza tek, satışa hazırlanıyor | Rıza sayfası; Rıza ifade sayfası; V10 plaka (ters açı) | P08 |
-| SB09 | Köy girişi geniş, tabela yerde | V8 plaka (köy girişi); V6 tabela; V7 keçi; SB02 (onaylı kare, konum için) | P09 |
-| SB10 | Naci taburede, orta plan | Naci sayfası; Naci ifade sayfası; V9 plaka (Naci'nin duvarı); Nesne: çay bardağı; Nesne: zarf | P10, P13 |
-| SB11 | Selin + Rıza ikili, Naci'ye bakıyorlar | Selin sayfası; Selin ifade sayfası; Rıza sayfası; Rıza ifade sayfası; Boy sayfası; V10 plaka (ters açı); Nesne: kapalı dosya; SB03 (onaylı kare, konum için) | P11 |
-| SB12 | Naci yakın plan | Naci sayfası; Naci ifade sayfası; V9 plaka (Naci'nin duvarı); Nesne: çay bardağı; SB10 (onaylı kare, konum için) | P12 |
-| SB14 | Selin + Rıza ikili, Rıza kâğıdı okuyor | Selin sayfası; Selin ifade sayfası; Rıza sayfası; Rıza ifade sayfası; Boy sayfası; V10 plaka (ters açı); Nesne: kapalı dosya; Nesne: zarf; SB03 (onaylı kare, konum için) | P14 |
+| SB01 | Selin yakın plan | Selin_sayfasi.jpg; Selin_ifade_sayfasi.jpg; V10_plaka_ters_aci.jpg | P01, P07 |
+| SB02 | Köy girişi geniş, tabela ve keçi | V8_plaka_koy_girisi.jpg; V6_tabela.jpg; V7_keci.jpg | P02 |
+| SB03 | Selin + Rıza ikili, Rıza gururlu | Selin_sayfasi.jpg; Selin_ifade_sayfasi.jpg; Riza_sayfasi.jpg; Riza_ifade_sayfasi.jpg; Boy_sayfasi.jpg; V10_plaka_ters_aci.jpg; Nesne_kapali_dosya.jpg | P03 |
+| SB04 | Keçi tabelayı yiyor, yakın plan | V7_keci.jpg; V6_tabela.jpg; V8_plaka_koy_girisi.jpg | P04 |
+| SB05 | Selin tapuyu okuyor, Rıza omzundan bakıyor | Selin_sayfasi.jpg; Selin_ifade_sayfasi.jpg; Riza_sayfasi.jpg; Riza_ifade_sayfasi.jpg; Boy_sayfasi.jpg; V10_plaka_ters_aci.jpg; Nesne_kapali_dosya.jpg | P05 |
+| SB06 | Selin + Rıza ikili, Selin Rıza'ya dönük | Selin_sayfasi.jpg; Selin_ifade_sayfasi.jpg; Riza_sayfasi.jpg; Riza_ifade_sayfasi.jpg; Boy_sayfasi.jpg; V10_plaka_ters_aci.jpg; Nesne_kapali_dosya.jpg; SB03_onayli.jpg | P06a |
+| SB08 | Rıza tek, satışa hazırlanıyor | Riza_sayfasi.jpg; Riza_ifade_sayfasi.jpg; V10_plaka_ters_aci.jpg | P08 |
+| SB09 | Köy girişi geniş, tabela yerde | V8_plaka_koy_girisi.jpg; V6_tabela.jpg; V7_keci.jpg; SB02_onayli.jpg | P09 |
+| SB10 | Naci taburede, orta plan | Naci_sayfasi.jpg; Naci_ifade_sayfasi.jpg; V9_plaka_naci_duvari.jpg; Nesne_cay_bardagi.jpg; Nesne_zarf.jpg | P10, P13 |
+| SB11 | Selin + Rıza ikili, Naci'ye bakıyorlar | Selin_sayfasi.jpg; Selin_ifade_sayfasi.jpg; Riza_sayfasi.jpg; Riza_ifade_sayfasi.jpg; Boy_sayfasi.jpg; V10_plaka_ters_aci.jpg; Nesne_kapali_dosya.jpg; SB03_onayli.jpg | P11 |
+| SB12 | Naci yakın plan | Naci_sayfasi.jpg; Naci_ifade_sayfasi.jpg; V9_plaka_naci_duvari.jpg; Nesne_cay_bardagi.jpg; SB10_onayli.jpg | P12 |
+| SB14 | Selin + Rıza ikili, Rıza kâğıdı okuyor | Selin_sayfasi.jpg; Selin_ifade_sayfasi.jpg; Riza_sayfasi.jpg; Riza_ifade_sayfasi.jpg; Boy_sayfasi.jpg; V10_plaka_ters_aci.jpg; Nesne_kapali_dosya.jpg; Nesne_zarf.jpg; SB03_onayli.jpg | P14 |
 
 Üretim sırası: önce SB03 ve SB10 (diğer kareler bunları konum referansı olarak kullanıyor) ve SB01, SB02; sonra kalanlar.
 
