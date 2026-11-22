@@ -36,65 +36,78 @@ R={ # ad -> (dosya, kaynak, rol)
  "keci_hareket":("Keci_hareket_A.jpg",f"{V}/onayli/V22_keci_hareket_A.jpg","keçi hareket sayfası: koşma ve ağzında kâğıt pozları"),
  "dosya":("Nesne_dosya.jpg",f"{V}/onayli/nesne_dosya_kapali.jpg","kapalı dosya: yalnızca dosyanın görünüşü"),
 }
-ENTR="Place and light: the village entrance from the attached approved frame: gravel road, old stone houses with blue shutters, autumn vines, hazy green hillside, golden late-afternoon sun."
-MEYDAN="Place and light: the village square from the attached approved frame: cobbles, the dry round stone fountain, the big plane tree with yellow leaves, old stone houses, the shabby rusty street lamps switched on in daylight, golden late-afternoon sun low on the left."
+# ---- MEKÂN KROKİSİ (diziler/sifir-sehir/mekan-krokisi.md) ----
+# Köy girişi, kuzey = köyün içi. A: çiftin durduğu yer (çakıl yol, köy eşiği). T: yerdeki tabela (A'nın 3 m kuzeybatısı).
+# K: keçi (A'nın 4 m kuzeyi, yol ortası). N: Naci'nin duvarı ve taburesi (sokağın doğu yanı, A'nın 9 m kuzeyi). Araba: A'nın 10 m güneyi.
+# Kamera C1: A'nın güneyinden kuzeye bakar (V8/SB09 açısı): tabela sol önde, sokak ileride, Naci'nin duvarı sağ geride.
+# Kamera C2: K ile N arasından güneye bakar (V10/SB03 açısı): geride çakıl yol, araba, tepe. Naci'nin duvarı kameranın arkasında-solunda kalır.
+# Kamera C3: sokaktan doğuya, Naci'nin duvarına bakar (V9/SB21 açısı): kadrajın SAĞI güney (giriş, keçi), SOLU kuzey (köyün içi, meydan).
+# Meydan (SB20 açısı): girişten gelen sokak meydana kadrajın SOLUNDAN açılır; çeşme ortada.
+C2BG="Camera position: the camera stands in the village street and looks back OUT of the village, the same direction as the attached approved two-shot frame: behind Rıza we see the gravel road he came from, the dark grey car parked far behind, scrub and the hazy green hillside. Golden late-afternoon sun low on the right. Selin and Naci are NOT in this frame: they are behind the camera."
+MEYDAN="Place and light: the village square from the attached approved frame: cobbles, the dry round stone fountain, the big plane tree with yellow leaves, old stone houses, the shabby rusty street lamps switched on in daylight, golden late-afternoon sun low on the left. The street from the village entrance opens into the square on the LEFT side of the frame."
+R["V10"]=("V10_ters_aci.jpg",f"{V}/onayli/V10_plaka_ters_aci.jpg","mekân plakası: köyün içinden dışarı bakış (çakıl yol, araba, tepe); arka plan buradan")
+R["V9"]=("V9_naci_duvari.jpg",f"{V}/onayli/V9_plaka_naci_duvari.jpg","mekân plakası: Naci'nin duvarı")
+R["naci"]=("Naci_sayfasi.jpg",f"{V}/mevcut/sheet_naci.jpg","Naci karakter sayfası")
 
 K={}
-K["SB31"]=("P01","Selin dosyayı Rıza'nın göğsüne bastırıyor",["SB03","selin","selin_ifade2","riza","dosya"],f"""
-Two-shot from the hips up. {ENTR} Same background as the attached approved frame (road, dark grey car far behind on the left, hillside).
+K["SB31"]=("P01","C2 · Selin dosyayı Rıza'nın göğsüne bastırıyor",["SB03","selin","selin_ifade2","riza","dosya"],f"""
+Two-shot from the hips up, in exactly the same place, camera direction and light as the attached approved frame: the camera looks OUT of the village; behind them the gravel road, the dark grey car far behind on the left, the hazy hillside. Golden late-afternoon sun low on the right.
 Selin stands on the LEFT, turned three-quarters toward Rıza. Rıza stands on the RIGHT, facing her.
-{SELIN} With BOTH hands she presses {FOLDER.replace('his forearm','her forearm')} flat against the middle of Rıza's chest, arms almost straight, leaning into him. Her face: a sweet, sugary smile that is clearly a threat: eyebrows raised high, head tilted, dimples showing, eyes locked on his.
-{RIZA} He is leaning back a little from the push, both hands coming up, open, about to catch the folder against his chest. His face: startled, eyebrows up, a nervous half-smile, eyes on Selin.""")
-K["SB32"]=("P02","Rıza keçiye yürümek üzere, boy plan",["SB09","riza","riza_jestB","keci","dosya"],f"""
-Wide full-body shot. {ENTR} Same place as the attached approved frame: the fallen road sign lies flat on the gravel in the left foreground (its text exactly "ŞEHİR MERKEZİ"), the cobbled street runs away between the stone houses.
-{KECI} It stands in the middle of the road, right of the fallen sign, in profile facing LEFT, chewing, ignoring everyone.
-{RIZA} He stands on the LEFT side of the frame, about three metres from the goat, seen full body from head to shoes, turned toward the goat, mid-step. {FOLDER[0].upper()+FOLDER[1:]} is tucked under his LEFT arm. His RIGHT hand straightens his blazer lapel. His face: chin up, a formal, over-polite smile, like a man walking into a business meeting.
-No other people.""")
-K["SB33"]=("P03","Keçi yakın plan, çiğniyor",["keci","SB09"],f"""
-Close-up of the goat's head and neck, three-quarter front view, filling most of the frame. {KECI} Its jaw is pushed sideways mid-chew, one cheek bulging, a few blades of dry grass at the corner of its mouth, eyes half closed, utterly bored.
-Background: the stone houses and cobbled street of the attached approved frame, softly out of focus. No people.""")
-K["SB34"]=("P04, P06","Rıza keçinin önünde çömelmiş, sunum yapıyor",["SB09","riza","riza_ifade","riza_jestA","keci","dosya"],f"""
-Medium shot at crouching eye level. {ENTR} The cobbled street and stone houses of the attached approved frame are behind, softly out of focus.
-{RIZA} He is CROUCHING on his heels in the center-left of the frame, seen from the knees up, body turned three-quarters to the right. {FOLDER[0].upper()+FOLDER[1:]} is tucked under his LEFT arm, pressed against his ribs. His RIGHT hand is raised at shoulder height, fingers spread, drawing something in the air, like a man starting a presentation. His face: bright salesman smile, eyebrows high, eyes on the goat.
-{KECI} Only its head and neck are in the frame, in the RIGHT foreground, seen from behind in three-quarter rear view (we see its brown ear, one horn and the red collar), facing Rıza at his eye level.
-No other people.""")
-K["SB35"]=("P05","Selin ve Naci: Selin gülmesini tutuyor",["SB21","selin","selin_ifade2","selin_jestB","naci_ifade"],f"""
-Medium-wide two-shot. Place and light: exactly the attached approved frame: the stone wall, the blue door, the vine, the wooden stool.
-{NACI} He sits on the stool exactly as in the attached approved frame, in the LEFT half of the image: tea glass in his RIGHT hand at chest height, left hand on his knee, looking toward the right edge of the frame, eyes half closed, faintly amused.
-{SELIN} She STANDS beside him on the RIGHT, close to him, seen from the knees up, her body turned toward the right edge of the frame. Her RIGHT hand is clamped over her mouth, her LEFT arm is wrapped across her stomach, shoulders hunched up: she is trying desperately not to laugh. Her eyes are wide and sparkling, cheeks puffed, looking toward the right edge of the frame at something off screen.
-Her hands hold nothing. The stone shelf beside Naci is empty.""")
-K["SB36"]=("P07","Keçi kâğıtla kaçıyor, Rıza donakalmış",["SB09","riza","riza_ifade","riza_jestA","keci_hareket","dosya"],f"""
-Wide full-body shot. {ENTR} Same place as the attached approved frame; the fallen road sign lies in the left foreground (text exactly "ŞEHİR MERKEZİ").
-{RIZA} He is CROUCHING on his heels in the left third of the frame, seen full body, both EMPTY hands still held out in front of him where the paper was a moment ago, fingers spread. His face: pure shock, mouth open, eyebrows up, staring after the goat. The closed burgundy folder is still tucked under his LEFT arm.
-{KECI} It is already two metres away from him, in the RIGHT half of the frame, galloping away toward the cobbled street in the background, seen in three-quarter rear view, ears back, a crumpled blank white sheet of paper clamped in its mouth and flapping. Small puffs of dust behind its hooves.
-The paper is blank: no writing on it. No other people.""")
-K["SB37"]=("P08","Kovalamaca, yan takip",["V8","riza","riza_jestA","keci_hareket"],f"""
-Wide side-on tracking shot in the cobbled village street of the attached location image: old stone houses with closed blue shutters on the far side, weeds between the stones. The road sign is NOT in this image.
-Both run from LEFT to RIGHT, seen in full-body profile, with motion in their poses.
+{SELIN} With BOTH hands she presses a closed burgundy leather A4 folder with brass corners (about as long as her forearm) flat against the middle of Rıza's chest, arms almost straight, leaning into him. Her face: a sweet, sugary smile that is clearly a threat: eyebrows raised high, head tilted, dimples showing, eyes locked on his.
+{RIZA} He is leaning back a little from the push, both hands coming up, open, about to catch the folder against his chest. His face: startled, eyebrows up, a nervous half-smile, eyes on Selin.
+No other people in the frame.""")
+K["SB32"]=("P02","C2 · Rıza keçiye doğru yürüyor, boy plan",["SB03","V10","riza","riza_jestB","keci","dosya"],f"""
+Wide full-body shot. {C2BG}
+{RIZA} He is in the LEFT-CENTER of the frame, about four metres from the camera, seen full body from head to shoes, walking TOWARD the camera, mid-step, with exaggerated business confidence. {FOLDER[0].upper()+FOLDER[1:]} is tucked under his LEFT arm (on the right side of his body as we see him). His RIGHT hand straightens his blazer lapel. His face: chin up, a formal, over-polite smile, eyes on the goat.
+{KECI} It stands in the RIGHT foreground, close to the camera, seen from BEHIND in three-quarter rear view (we see its back, its tail, the back of its head, the brown ear and the red collar), facing Rıza, chewing, not impressed.
+The fallen road sign is NOT in this frame. No other people.""")
+K["SB33"]=("P03","C1 · Keçi yakın plan; geride Naci ve Selin",["keci","SB09","SB21"],f"""
+Close-up of the goat's head and neck, three-quarter front view, filling the left two thirds of the frame. {KECI} Its jaw is pushed sideways mid-chew, one cheek bulging, a few blades of dry grass at the corner of its mouth, eyes half closed, utterly bored.
+Camera position: the camera looks INTO the village, the same direction as the first attached approved frame. Background, strongly out of focus: the cobbled street and stone houses; on the RIGHT side in the distance, the low stone wall with the faded blue door from the second attached frame, with two small blurred figures in front of it: an old man in a blue jacket sitting on a stool and a woman with blonde curls, pink top and short burgundy skirt standing beside him. They are tiny, soft and unreadable; they only show that someone is watching.
+Golden late-afternoon sun low on the left.""")
+K["SB34"]=("P04, P06","C2 · Rıza keçinin önünde çömelmiş, sunum yapıyor",["SB03","V10","riza","riza_ifade","riza_jestA","keci","dosya"],f"""
+Medium shot at crouching eye level. {C2BG} The background is softly out of focus.
+{RIZA} He is CROUCHING on his heels in the center-left of the frame, seen from the knees up, facing the camera side, body turned slightly to the right. {FOLDER[0].upper()+FOLDER[1:]} is tucked under his LEFT arm, pressed against his ribs. His RIGHT hand is raised at shoulder height, fingers spread, drawing something in the air, like a man starting a presentation. His face: bright salesman smile, eyebrows high, eyes on the goat.
+{KECI} Only its head and neck are in the frame, in the RIGHT foreground, seen from BEHIND in three-quarter rear view (brown ear, one horn, red collar), facing Rıza at his eye level.
+No other people in the frame.""")
+K["SB35"]=("P05","C3 · Selin ve Naci: Selin gülmesini tutuyor",["SB21","selin","selin_ifade2","selin_jestB","naci_ifade"],f"""
+Medium-wide two-shot. Place, camera direction and light: exactly the attached approved frame: the camera faces the stone wall, the blue door, the vine, the wooden stool.
+{NACI} He sits on the stool exactly as in the attached approved frame, in the LEFT half of the image: tea glass in his RIGHT hand at chest height, left hand on his knee, looking toward the RIGHT edge of the frame, eyes half closed, faintly amused.
+{SELIN} She STANDS beside him on the RIGHT, close to him, seen from the knees up, her body turned toward the RIGHT edge of the frame. Her RIGHT hand is clamped over her mouth, her LEFT arm is wrapped across her stomach, shoulders hunched up: she is trying desperately not to laugh. Her eyes are wide and sparkling, cheeks puffed.
+Both look toward the RIGHT edge of the frame, at Rıza and the goat, who are off screen on the right. Her hands hold nothing. The stone shelf beside Naci is empty.""")
+K["SB36"]=("P07","C1 · Keçi kâğıtla sokağa kaçıyor; Rıza arkadan; sağda Naci ve Selin",["SB09","SB21","riza","riza_jestA","keci_hareket","selin","dosya"],f"""
+Wide full-body shot. Camera position: exactly the camera of the first attached approved frame: the camera looks INTO the village along the cobbled street; the fallen road sign lies in the LEFT foreground (text exactly "ŞEHİR MERKEZİ"). Golden late-afternoon sun low on the left.
+{RIZA} He is in the foreground, left of center, seen from BEHIND in three-quarter rear view, CROUCHING on his heels, both EMPTY hands thrown out in front of him toward the goat, fingers spread; his head is turned so we see his profile: mouth open, eyebrows up, pure shock. The closed burgundy folder is slipping out from under his LEFT arm.
+{KECI} It is already three metres ahead of him, in the middle of the street, galloping AWAY from the camera into the village, seen from behind, ears back, a crumpled blank white sheet of paper in its mouth flapping to one side. Puffs of dust behind its hooves.
+On the RIGHT side of the street, six metres further on, in front of the low stone wall and the faded blue door (as in the second attached frame): Naci sits on his stool with his tea glass, and Selin stands beside him, both watching the goat run toward them; they are small in the frame but clearly recognizable: {NACI.split(':')[1].split(',')[0].strip()} in a faded blue jacket; Selin with golden blonde curls, pink top, short burgundy ruffled mini skirt, bent forward with laughter, one hand on her stomach.
+The paper is blank: no writing on it.""")
+K["SB37"]=("P08","Sokak içi · Kovalamaca, yandan; soldan sağa",["V8","riza","riza_jestA","keci_hareket"],f"""
+Wide side-on shot in the cobbled village street deeper inside the village (the same street as the attached location image, seen from the side): a row of old stone houses with closed blue shutters behind them, weeds between the stones. The road sign, the stool and the blue door are NOT in this image. Golden late-afternoon light.
+Both run from LEFT to RIGHT across the frame, seen in full-body profile.
 {KECI} It gallops in the RIGHT half of the frame, all four hooves off the ground, ears back, a crumpled blank white sheet of paper clamped in its mouth.
 {RIZA} He sprints two metres behind it, in the LEFT half of the frame, mid-stride, arms pumping, blazer flapping open behind him, hair blown back, one loafer almost slipping on the cobbles. His hands are EMPTY: no folder. His face: panicked and out of breath, mouth open.
 Dust and a few dry leaves kicked up behind them. No other people. The paper is blank.""")
-K["SB38"]=("P10","Meydan geniş: Emine, keçi geliyor, Rıza uzakta",["SB20","emine","emine_ifade","keci_hareket","riza"],f"""
+K["SB38"]=("P10","Meydan · Emine bekliyor, keçi soldan geliyor, Rıza uzakta",["SB20","emine","emine_ifade","keci_hareket","riza"],f"""
 Wide shot of the village square. {MEYDAN} Same camera position as the attached approved frame.
-{EMINE} She stands full body beside the fountain, right of center, both fists on her hips, feet apart, facing LEFT, watching the goat arrive. Her face: stern, one eyebrow raised.
-{KECI} It trots toward her from the LEFT side of the frame, in profile facing right, about three metres from her, slowing down, a crumpled blank white sheet of paper in its mouth.
-{RIZA} He is small and far away in the background on the LEFT, at the mouth of a street between the houses, running toward the square, arms flailing, hands empty.
+{EMINE} She stands full body beside the fountain, RIGHT of center, both fists on her hips, feet apart, facing LEFT, watching the goat arrive. Her face: stern, one eyebrow raised.
+{KECI} It trots toward her from the LEFT side of the frame, in profile facing RIGHT, about three metres from her, slowing down, a crumpled blank white sheet of paper in its mouth.
+{RIZA} He is small and far away in the background on the LEFT, at the mouth of the street between the houses, running toward the square, arms flailing, hands empty.
 The paper is blank. No other people.""")
-K["SB39"]=("P11","Emine ve Rıza: sen kimsin",["SB20","emine","emine_ifade","riza","riza_ifade","riza_jestA"],f"""
+K["SB39"]=("P11","Meydan · Rıza (solda) ve Emine (sağda): sen kimsin",["SB20","emine","emine_ifade","riza","riza_ifade","riza_jestA"],f"""
 Two-shot from the knees up in the village square. {MEYDAN} The fountain and the plane tree are behind them, softly out of focus; one lit rusty street lamp is visible.
-{EMINE} She stands on the LEFT, upright, facing Rıza. In her RIGHT hand, at waist height, she holds a crumpled blank white sheet of paper. Her LEFT fist is on her hip. Her face: stern, one eyebrow raised, lips pressed, looking him up and down.
-{RIZA} He stands on the RIGHT, bent forward with BOTH hands on his knees, out of breath, hair messier than usual, head lifted to look up at her, mouth open, panting, a weak polite smile trying to form. His hands are empty: no folder.
+{RIZA} He stands on the LEFT (the side he ran in from), bent forward with BOTH hands on his knees, out of breath, hair messier than usual, head lifted to look up at Emine, mouth open, panting, a weak polite smile trying to form. His hands are empty: no folder.
+{EMINE} She stands on the RIGHT, upright, facing LEFT toward Rıza. In her RIGHT hand, at waist height, she holds a crumpled blank white sheet of paper. Her LEFT fist is on her hip. Her face: stern, one eyebrow raised, lips pressed, looking him up and down.
 At the bottom edge of the frame between them, the head of the goat (cream-white, one brown ear, red rope collar with brass bell) looks up at Emine.
-The paper is blank.""")
-K["SB40"]=("P12","Emine yakın plan, anahtarı gösteriyor",["SB39","emine_ifade","emine"],f"""
-Close shot of Emine from the chest up, slightly left of center, in the same place and light as the attached approved frame (village square, fountain and lit street lamp softly out of focus behind her). She is the same woman as in the attached frame.
-{EMINE} With her RIGHT hand she holds up, at shoulder height, an old dark iron key about as long as her finger; the key hangs on a thin leather cord that goes around her neck. Her LEFT hand is not in the frame. Her face: delighted with herself, a sly bargaining smile, eyes narrowed, chin slightly raised, looking toward the right edge of the frame.
-In the RIGHT foreground edge of the frame, out of focus, the dark navy shoulder and a few dark curls of Rıza, seen from behind.""")
-K["SB41"]=("P13","Emine ve Rıza: verir misiniz",["SB39","emine_ifade","riza","riza_ifade"],f"""
-Two-shot from the hips up, same place, same light and same positions as the attached approved frame: Emine on the LEFT, Rıza on the RIGHT, in the village square.
+The paper is blank. No other people.""")
+K["SB40"]=("P12","Meydan · Emine yakın plan, anahtarı gösteriyor; solda Rıza'nın omzu",["SB39","emine_ifade","emine"],f"""
+Close shot of Emine from the chest up, slightly RIGHT of center, in the same place and light as the attached approved frame (village square, fountain and lit street lamp softly out of focus behind her). She is the same woman as in the attached frame and still faces LEFT.
+{EMINE} With her RIGHT hand she holds up, at shoulder height, an old dark iron key about as long as her finger; the key hangs on a thin leather cord that goes around her neck. Her LEFT hand is not in the frame. Her face: delighted with herself, a sly bargaining smile, eyes narrowed, chin slightly raised, looking toward the LEFT edge of the frame.
+In the LEFT foreground edge of the frame, out of focus, the dark navy shoulder and a few dark curls of Rıza, seen from behind.""")
+K["SB41"]=("P13","Meydan · Rıza (solda) ve Emine (sağda): verir misiniz",["SB39","emine_ifade","riza","riza_ifade"],f"""
+Two-shot from the hips up, same place, same light and same positions as the attached approved frame: Rıza on the LEFT, Emine on the RIGHT, in the village square.
 {RIZA} He now stands UPRIGHT, facing Emine, his hair hastily smoothed. His RIGHT hand is held out toward her at waist height, palm up, asking for something. His LEFT hand is pressed flat on his own chest. His face: his sweetest, most charming pleading smile, eyebrows up in the middle.
 {EMINE} She holds an old dark iron key on a thin leather cord (the cord goes around her neck) in her RIGHT hand, in front of her chest, pinched between thumb and fingers, clearly visible. Her LEFT fist is on her hip. Her face: amused, sly, one eyebrow up, in no hurry.
-Rıza's hands hold nothing.""")
+Rıza's hands hold nothing. No other people.""")
 
 os.makedirs(f"{OUT}/kareler/onayli",exist_ok=True)
 ozet=["# B03 kareleri (SB31–SB41)","","Bu dosya `araclar/b03_kareler.py` tarafından üretilir.","",

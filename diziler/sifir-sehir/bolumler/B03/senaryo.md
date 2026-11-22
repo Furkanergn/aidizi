@@ -22,7 +22,7 @@
 Selin iki eliyle dosyayı Rıza'nın göğsüne bastırır, kaşları havada, tatlı ama tehditkâr gülümser.
 > **SELİN** (iğneli, şarkı söyler gibi): Hadi aşkım. Toplantın var.
 
-Omzundan iter. Rıza dosyaya sarılıp sendeleyerek kadrajdan çıkar. Selin ellerini beline koyar, arkasından bakar, başını iki yana sallar.
+Omzundan iter. Rıza dosyaya sarılıp sendeleyerek kameraya doğru, kadrajın sağından çıkar. Selin ellerini beline koyar, arkasından bakıp başını iki yana sallar, sonra sola, Naci'nin yanına doğru yürür.
 
 ### P02 — Sayın Muhtar (8 sn) · boy plan · Rıza ve keçi
 Rıza, dosya sol kolunun altında, keçiye yürür; ceketinin yakasını düzeltir, boğazını temizler, keçinin önünde çömelir.
@@ -88,6 +88,23 @@ Rıza doğrulur, saçını düzeltir, en tatlı gülümsemesini takınır, avucu
 > **EMİNE** (anahtarı yumruğuna kapatıp göğsüne bastırarak, sinsi gülümsemeyle): Veririm. Bir şartla.
 
 Rıza'nın gülümsemesi donar. Son kare donar; **devamı için takip et**.
+
+## Mizansen (kural 24; kodlar `diziler/sifir-sehir/mekan-krokisi.md`)
+| Plan | Kamera | Kim nerede | Hareket ve bakış |
+|---|---|---|---|
+| P01 | C2 | Selin (sol) ve Rıza (sağ) A'da; Naci N'de, kadraj dışı solda | Rıza kameraya doğru, sağdan çıkar (keçiye). Selin sonunda SOLA, Naci'nin yanına yürüyüp çıkar |
+| P02 | C2 | Rıza A'dan K'ya yürür; keçi sağ önde, arkadan; Selin ve Naci kameranın arkasında | Rıza kameraya doğru yürür, keçinin önünde çömelir |
+| P03 | C1 | Keçi yakın; geride sağda Naci ve Selin küçük, bulanık | Keçi kıpırdamaz |
+| P04 | C2 | Rıza K'da çömelmiş; keçinin başı sağ önde; Selin ve Naci kameranın arkasında | Yerinde |
+| P05 | C3 | Naci taburede (sol), Selin yanında ayakta (sağ) | İkisi de SAĞA (Rıza ve keçiye) bakar |
+| P06 | C2 | P04 ile aynı | Keçi kâğıdı kapar, kafasını çevirir |
+| P07 | C1 | Rıza önde, arkadan; keçi sokakta ileride; sağda duvarın önünde Naci ve Selin | Keçi kameradan uzaklaşır (kuzeye); Rıza kalkıp peşinden koşar |
+| P08 | sokak içi, yandan | Keçi önde, Rıza arkada | Soldan sağa |
+| P09 | C3 | P05 ile aynı | İlk saniye başlar SAĞDAN SOLA döner (kaçanları izlerler); Selin SOLA bağırır |
+| P10 | meydan | Emine çeşmenin yanında, sağda; keçi soldan gelir; Rıza solda uzakta | Soldan sağa; Rıza soldan girer |
+| P11 | meydan | Rıza solda, Emine sağda, keçi aralarında altta | Yerinde |
+| P12 | meydan | Emine yakın, SOLA bakar; sol önde Rıza'nın omzu | Yerinde |
+| P13 | meydan | Rıza solda, Emine sağda | Yerinde |
 
 ## Üretim notları
 - Kareler: 13 klip için yaklaşık 11 yeni kare, hepsi doğrudan 9:16. B02 kareleri yeniden kullanılmıyor (kural 21).
