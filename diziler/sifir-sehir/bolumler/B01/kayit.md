@@ -35,3 +35,12 @@ Henüz üretilmedi. Her klibin karesi ve promptu `klipler/Pxx/` içinde. Gelen k
 | P06b | 1 | Onaylı | "Biraz dediğin? / Ev için ayırdığımız kadar." (birebir) | −23,9 LUFS | İki replik arasında ~2 sn sessizlik; Rıza'nın gülüşü sönüyor, gözleri yere iniyor. Son kare P07'nin başlangıcı |
 | P08 | 1 | Onaylı, dinleme kontrolü kullanıcıda | "Ama potansiyelere bak, şuraya kafe, şuraya ortak çalışma alanı..." (senaryo: "potansiyele") | −19,7 LUFS | Rıza tek başına kare telif filtresinden geçti. 4. saniyeden sonra kolu havada duruyor, gözleri sağa kayıyor. Kadraj dışı metal gürültüsünün olup olmadığı ölçümden anlaşılmıyor; yoksa kurguda eklenecek. Önce sağ eliyle de işaret ediyor (promptta yalnız sol kol yazıyordu) |
 | P09 | 1 | Onaylı | — (replik yok) | −27,3 LUFS | Tabela yerde, yazı doğru, toz dağılıyor, keçi bir adım atıyor |
+| P07 | 1 | Onaylı | — (replik yok) | −48,2 LUFS | Zincirin üçüncü halkası (P06a → P06b → P07). Selin profilden göründüğü için göz seğirmesi tek gözle yavaş bir göz kırpma olarak okunuyor (1,8. sn). Keçi melemesi yok; neredeyse tam sessiz. Selin'in saçı önceki kliplere göre biraz daha açık renkte |
+| P11 | 1 | Onaylı | "Öncekiler mi?" (birebir) | −22,3 LUFS | İkisi de sola bakıyor; Rıza'nın gülüşü geriliyor |
+| P12 | 1 | Onaylı | "3 gün dayandılar." (birebir) | −17,1 LUFS | Naci yüz yakın planı telif filtresinden geçti. Bardak yerinde |
+| P13 | 3 (ilk ikisi Flow'da hata verdi) | Onaylı | "Bu arada, köyün elektrik borcu. / Artık sizin." (birebir) | −20,1 LUFS | Sol eliyle zarfı raftan alıp uzatıyor, bardak sağ elde kalıyor, oturuyor. En riskli sayılan hareket sorunsuz |
+| P14 | 1 | Onaylı | "Rıza. / Kaç?" (birebir) | −26,7 LUFS | Rıza'nın gülüşü siliniyor, kâğıdın yalnız arkası görünüyor; Selin hafif gülümseyerek onu izliyor |
+
+Kalan: P10 (Naci'nin ilk planı).
+
+Seviye notu: klipler −17 ile −27 LUFS arasında; kurguda replikler eşitlenecek.
