@@ -24,7 +24,7 @@ EDL = [
  ("P07", 0.30, 5.60, +3.7, [(0.65, 1.90, "Ya tamam, sorun yok!"), (2.10, 3.15, "Kapatırız, biter."), (3.55, 4.75, "Şalter nerede amca?")]),
  ("P08", 0.70, 3.30, +4.0, [(1.25, 2.20, "Muhtarda.")]),
  ("P09", 0.60, 5.30, +2.0, [(1.00, 1.60, "Süper!"), (2.20, 4.20, "Hemen bir toplantı ayarlayalım muhtarla.")]),
- ("P10", 0.50, 3.60, +3.0, [(1.00, 2.50, "Kendisi şurada.")]),   # klip gelince zamanlar ölçülüp düzeltilecek
+ ("P10", 0.70, 3.60, -0.4, [(1.30, 2.50, "Kendisi şurada.")]),
  ("P11", 0.40, 3.60, -3.0, []),
  ("P12", 0.80, 5.97, +5.0, [(1.25, 3.10, "Rıza… bu muhtar keçi."), (3.75, 5.60, "Demokratik bir süreç olmuştur aşkım.")]),
  ("P13", 0.70, 2.75,  0.0, [(1.05, 2.35, "Üç oyla seçildi.")]),   # 2.75'ten sonra Naci kameraya dönüyor

@@ -11,6 +11,8 @@
 | 22.11.2026 | P02–P09, P11–P14 (12 klip) | Flow, Veo 3.1 Lite (kullanıcı) | paket kareleri | 120 | Onaylı. Dökümler senaryoyla birebir (sayılar rakamla yazıldı: "333.000 / 333 lira hayatım", "33'de kuruşu var", "3 oyla seçildi"). Eller ve nesneler sabit. P13'te 2,75 sn'den sonra Naci kameraya dönüyor; kurguda kesildi. P01, P03, P04 1080p; diğerleri 720p indirilmiş (kurguda 1080'e büyütülüyor) |
 | 22.11.2026 | P10 | Flow (kullanıcı) | SB21 | 10 | RED: P09'un promptu yapıştırılmış. Naci "Süper! Hemen bir toplantı ayarlayalım muhtarla" diyor, elinde bordo dosya beliriyor. Doğru promptla yeniden üretilecek |
 | 22.11.2026 | Ön kurgu (P10'suz) | ffmpeg, `araclar/b02_kurgu.py` | — | 0 | 58,9 sn, −15,0 LUFS, tepe −1,3 dB |
+| 22.11.2026 | P10 (2. deneme) | Flow (kullanıcı) | SB21 | 10 | Onaylı. Döküm: "Kendisi şurada." 720p |
+| 22.11.2026 | Kurgu v1, kapak, yayın metni | ffmpeg, `araclar/b02_kurgu.py`, `araclar/kapak.py` (P12 4,6. sn karesi) | — | 0 | 61,8 sn, −15,0 LUFS, tepe −1,3 dB. Ses kulakla doğrulanmadı |
 
 Notlar:
 - Bu oturumdan kullanıcının bilgisayarındaki Chrome'a bağlanılamadı (paylaşılan klasör listesi boş, Chrome araçları yok); üretim B01'deki iş bölümüyle ya da bilgisayara bağlı bir oturumla yapılacak.
