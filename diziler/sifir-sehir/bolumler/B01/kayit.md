@@ -21,3 +21,11 @@ Onaylı kareler: `kareler/onayli/`. Kullanıcının özgün PNG'leri kendi klas�
 
 ## Klipler
 Henüz üretilmedi. Her klibin karesi ve promptu `klipler/Pxx/` içinde. Gelen klipler `klipler/gelen/Pxx.mp4`.
+
+## Klipler — Flow, Veo 3.1 Lite, 1080×1920 çıktı
+
+| Klip | Deneme | Sonuç | Konuşma (tanıma motoru) | Seviye | Not |
+|---|---|---|---|---|---|
+| P01 | SB01 ile 5+ deneme reddedildi (telif filtresi); SB03 ile 1 | Onaylı | "Rıza bunun neresi şehir?" (birebir) | −21,4 LUFS | Kamera sabit, dosya yerinde, Rıza gülümsüyor. Son yarım saniyede Selin'in yüzü biraz yumuşuyor |
+| P02 | 1 | Onaylı | — (replik yok) | −35,3 LUFS | Tabela yazısı değişmiyor, keçi yerinde çiğniyor, yapraklar uçuşuyor |
+| P03 | 1 | Onaylı, dinleme kontrolü kullanıcıda | "Şehir merkezi burası aşkım. Bak tabelası bile var." (birebir) / Selin'in repliği "Tabelayı keçi yiyoruz" olarak tanındı (senaryo: "Tabelayı keçi yiyor, Rıza.") | −19,6 LUFS | Selin 4–5,5 sn arasında Rıza'ya dönüp konuşuyor; Rıza'nın gülüşü sonda yerinde kalıyor. Son kelimenin ("Rıza") anlaşılırlığını kullanıcı dinleyecek |
