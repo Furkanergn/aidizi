@@ -1,6 +1,6 @@
 # B02 — yayın paketi
 
-**Dosyalar:** video `cikti/B02_kurgu_v1.mp4` (`python3 araclar/b02_kurgu.py`) · kapak `cikti/B02_kapak.jpg`
+**Dosyalar:** Buffer için `cikti/B02_kurgu_v1_kapakli.mp4` (kapak ilk karede, tek kare) · elle yükleme için `cikti/B02_kurgu_v1.mp4` (`python3 araclar/b02_kurgu.py`) · kapak `cikti/B02_kapak.jpg`
 
 ## Açıklama metni (önerilen)
 

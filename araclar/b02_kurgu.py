@@ -139,3 +139,15 @@ e = subprocess.run(["ffmpeg", "-hide_banner", "-i", cikti, "-af", "loudnorm=prin
 son = {k: re.search(k + r":\s+(-?[\d.]+)", e).group(1) for k in ("Input Integrated", "Input True Peak", "Input LRA")}
 print(f"süre {TOPLAM:.2f} sn | ham {olc} LUFS, kazanç {kazanc:+.1f} dB | sonuç {son}")
 print("klip başlangıçları:", {k: round(v, 2) for k, v in starts.items()})
+
+# ---- kapaklı sürüm: kapak görseli videonun ilk karesi (tek kare) olur; Buffer gibi kapak seçtirmeyen araçlar için ----
+kapak = f"{OUT}/B02_kapak.jpg"
+if os.path.exists(kapak):
+    k_out = f"{OUT}/B02_kurgu_{SURUM}_kapakli.mp4"
+    kare = 1 / FPS
+    r = subprocess.run(["ffmpeg", "-v", "error", "-y", "-loop", "1", "-framerate", str(FPS), "-t", f"{kare}", "-i", kapak, "-i", cikti,
+        "-filter_complex", f"[0:v]scale=1080:1920,setsar=1,format=yuv420p,fps={FPS}[k];[1:v]fps={FPS},format=yuv420p[v];[k][v]concat=n=2:v=1:a=0[vout];[1:a]adelay={kare * 1000:.0f}:all=1[aout]",
+        "-map", "[vout]", "-map", "[aout]", "-c:v", "libx264", "-crf", "19", "-preset", "medium", "-pix_fmt", "yuv420p", "-r", str(FPS),
+        "-c:a", "aac", "-b:a", "192k", "-ar", "48000", "-movflags", "+faststart", k_out], capture_output=True, text=True)
+    if r.returncode: sys.exit(r.stderr[-2000:])
+    print("kapaklı sürüm:", k_out)
