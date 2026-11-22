@@ -1,6 +1,6 @@
 # SIFIR ŞEHİR — Bölüm 3: "Toplantı"
 
-**Durum:** v1, kullanıcı onayı bekliyor · 22 Kasım 2026
+**Durum:** v1, kullanıcı onayladı · 22 Kasım 2026
 **Süre:** yaklaşık 80 saniye · 13 klip · iki mekân (köy girişi, köy meydanı) · Selin, Rıza, Naci, keçi (Muhtar), Emine
 
 ## Bölümün işi
@@ -72,7 +72,7 @@ Selin gözünden yaş silerek tekrar güler.
 Yanan lambaların altında keçi meydana tırıs girer, yavaşlar ve çeşmenin yanında, yumrukları belinde duran Emine'nin dizinin dibinde durur. Rıza arkadan kadraja girer, iki büklüm, ellerini dizlerine dayar, soluk soluğa.
 
 ### P11 — Sen kimsin (8 sn) · Emine ve Rıza, bel üstü
-Emine eğilip kâğıdı keçinin ağzından alır, Rıza'yı baştan ayağa süzer.
+Emine kâğıdı keçiden almış, elinde tutuyor; Rıza'yı baştan ayağa süzer.
 > **EMİNE** (sert, tek kaşı havada): Sen kimsin?
 > **RIZA** (nefes nefese, elini kaldırarak): Yeni… sahip…
 > *(Emine bir an bakar; yüzü çözülür)*

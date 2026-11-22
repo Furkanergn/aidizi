@@ -1,0 +1,15 @@
+Ekte 3 görsel var, sırasıyla:
+1. B03_SB39.jpg — bu bölümün onaylı karesi: meydanda Emine ve Rıza; yer, ışık ve iki karakterin görünüşü buradan
+2. Emine_ifade.jpg — Emine ifade sayfası: yüz ve ifadeler
+3. Emine_jest.jpg — Emine tam boy sayfası: vücut, kıyafet, duruşlar
+
+Bu referanslardaki karakterlerin ve mekânın AYNISINI kullanarak tek bir yeni film karesi üret. Karakterleri yeniden tasarlama; yüz, saç, vücut oranları ve kıyafet referanstakiyle birebir aynı olacak. En yüksek kalite. Oran: DİKEY 9:16 (ör. 1024×1792; destekleyemiyorsan en yakın dikey boyut ve 9:16'ya kırpılabilecek şekilde yanlarda boşluk bırak). Promptu değiştirme, kısaltma.
+Çıktı dosyasının adı: B03_SB40
+
+Stylized 3D animated feature film still, vertical 9:16.
+
+Close shot of Emine from the chest up, slightly left of center, in the same place and light as the attached approved frame (village square, fountain and lit street lamp softly out of focus behind her). She is the same woman as in the attached frame.
+Emine: short, sturdy woman in her mid sixties, round face, thick dark-grey eyebrows, grey hair in a bun under a burgundy floral headscarf tied at the back, small gold hoop earrings, rust-brown cable-knit vest with two pockets over a navy floral dress with rolled-up sleeves (below the knee), black rubber boots. She is a full head shorter than Rıza. With her RIGHT hand she holds up, at shoulder height, an old dark iron key about as long as her finger; the key hangs on a thin leather cord that goes around her neck. Her LEFT hand is not in the frame. Her face: delighted with herself, a sly bargaining smile, eyes narrowed, chin slightly raised, looking toward the right edge of the frame.
+In the RIGHT foreground edge of the frame, out of focus, the dark navy shoulder and a few dark curls of Rıza, seen from behind.
+
+Style: stylized 3D animated feature film still, exactly the look of the attached images: smooth animated-film skin, realistic cloth and hair, warm golden late-afternoon light, long soft shadows. Not photorealistic, not 2D. Sharp focus on the faces, background slightly soft. Correct hands with five fingers. Nobody looks at the camera. ONE single continuous image: no split screen, no panels, no borders, no captions, no text overlays.

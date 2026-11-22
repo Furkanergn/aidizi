@@ -1,0 +1,20 @@
+Ekte 6 görsel var, sırasıyla:
+1. B02_SB20.jpg — onaylı kare: köy meydanı (çeşme, çınar, yanan lambalar); mekân ve ışık buradan
+2. Emine_jest.jpg — Emine tam boy sayfası: vücut, kıyafet, duruşlar
+3. Emine_ifade.jpg — Emine ifade sayfası: yüz ve ifadeler
+4. Riza_sayfasi.jpg — Rıza karakter sayfası: yüz, vücut, kıyafet (yüz için ESAS budur)
+5. Riza_ifade.jpg — Rıza ifade sayfası: yüz ifadesi örnekleri
+6. Riza_jest_A.jpg — Rıza jest sayfası: çömelme, koşma, soluklanma pozları
+
+Bu referanslardaki karakterlerin ve mekânın AYNISINI kullanarak tek bir yeni film karesi üret. Karakterleri yeniden tasarlama; yüz, saç, vücut oranları ve kıyafet referanstakiyle birebir aynı olacak. En yüksek kalite. Oran: DİKEY 9:16 (ör. 1024×1792; destekleyemiyorsan en yakın dikey boyut ve 9:16'ya kırpılabilecek şekilde yanlarda boşluk bırak). Promptu değiştirme, kısaltma.
+Çıktı dosyasının adı: B03_SB39
+
+Stylized 3D animated feature film still, vertical 9:16.
+
+Two-shot from the knees up in the village square. Place and light: the village square from the attached approved frame: cobbles, the dry round stone fountain, the big plane tree with yellow leaves, old stone houses, the shabby rusty street lamps switched on in daylight, golden late-afternoon sun low on the left. The fountain and the plane tree are behind them, softly out of focus; one lit rusty street lamp is visible.
+Emine: short, sturdy woman in her mid sixties, round face, thick dark-grey eyebrows, grey hair in a bun under a burgundy floral headscarf tied at the back, small gold hoop earrings, rust-brown cable-knit vest with two pockets over a navy floral dress with rolled-up sleeves (below the knee), black rubber boots. She is a full head shorter than Rıza. She stands on the LEFT, upright, facing Rıza. In her RIGHT hand, at waist height, she holds a crumpled blank white sheet of paper. Her LEFT fist is on her hip. Her face: stern, one eyebrow raised, lips pressed, looking him up and down.
+Rıza: man in his mid thirties, tall and slim, messy dark brown curls, long nose, thick dark eyebrows, light stubble, dark navy blazer (unbuttoned) with a red pocket square over a cream open-collar shirt, brown belt, brown pleated trousers, burgundy tassel loafers. His face must match his character sheet: smooth, in his thirties, NOT wrinkled, NOT older. He is half a head taller than Selin. He stands on the RIGHT, bent forward with BOTH hands on his knees, out of breath, hair messier than usual, head lifted to look up at her, mouth open, panting, a weak polite smile trying to form. His hands are empty: no folder.
+At the bottom edge of the frame between them, the head of the goat (cream-white, one brown ear, red rope collar with brass bell) looks up at Emine.
+The paper is blank.
+
+Style: stylized 3D animated feature film still, exactly the look of the attached images: smooth animated-film skin, realistic cloth and hair, warm golden late-afternoon light, long soft shadows. Not photorealistic, not 2D. Sharp focus on the faces, background slightly soft. Correct hands with five fingers. Nobody looks at the camera. ONE single continuous image: no split screen, no panels, no borders, no captions, no text overlays.

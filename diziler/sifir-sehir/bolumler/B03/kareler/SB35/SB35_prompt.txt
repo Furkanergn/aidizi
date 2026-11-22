@@ -1,0 +1,18 @@
+Ekte 5 görsel var, sırasıyla:
+1. B02_SB21.jpg — onaylı kare: Naci taburede; mekân, ışık ve Naci buradan
+2. Selin_sayfasi.jpg — Selin karakter sayfası: yüz, vücut, kıyafet
+3. Selin_ifade2.jpg — Selin ifade sayfası: yüz ifadesi örnekleri
+4. Selin_jest_B.jpg — Selin jest sayfası: beden ve duruş örnekleri
+5. Naci_ifade.jpg — Naci ifade sayfası
+
+Bu referanslardaki karakterlerin ve mekânın AYNISINI kullanarak tek bir yeni film karesi üret. Karakterleri yeniden tasarlama; yüz, saç, vücut oranları ve kıyafet referanstakiyle birebir aynı olacak. En yüksek kalite. Oran: DİKEY 9:16 (ör. 1024×1792; destekleyemiyorsan en yakın dikey boyut ve 9:16'ya kırpılabilecek şekilde yanlarda boşluk bırak). Promptu değiştirme, kısaltma.
+Çıktı dosyasının adı: B03_SB35
+
+Stylized 3D animated feature film still, vertical 9:16.
+
+Medium-wide two-shot. Place and light: exactly the attached approved frame: the stone wall, the blue door, the vine, the wooden stool.
+Naci: thin man in his late sixties, grey swept-back hair, thick grey moustache, bushy grey eyebrows, faded blue work jacket over a checked shirt, grey trousers, brown boots. He sits on the stool exactly as in the attached approved frame, in the LEFT half of the image: tea glass in his RIGHT hand at chest height, left hand on his knee, looking toward the right edge of the frame, eyes half closed, faintly amused.
+Selin: woman in her early thirties, golden blonde curls to the jaw, freckles, small gold hoop earrings, pink ribbed top with a sweetheart neckline and flutter sleeves, tucked into a SHORT burgundy two-tier ruffled mini skirt (ends well above the knee), bare legs, brown leather Mary-Jane flats. Keep her exact body proportions from her character sheet (curvy hourglass figure); do not slim her. She STANDS beside him on the RIGHT, close to him, seen from the knees up, her body turned toward the right edge of the frame. Her RIGHT hand is clamped over her mouth, her LEFT arm is wrapped across her stomach, shoulders hunched up: she is trying desperately not to laugh. Her eyes are wide and sparkling, cheeks puffed, looking toward the right edge of the frame at something off screen.
+Her hands hold nothing. The stone shelf beside Naci is empty.
+
+Style: stylized 3D animated feature film still, exactly the look of the attached images: smooth animated-film skin, realistic cloth and hair, warm golden late-afternoon light, long soft shadows. Not photorealistic, not 2D. Sharp focus on the faces, background slightly soft. Correct hands with five fingers. Nobody looks at the camera. ONE single continuous image: no split screen, no panels, no borders, no captions, no text overlays.

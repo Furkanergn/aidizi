@@ -1,0 +1,18 @@
+Ekte 5 görsel var, sırasıyla:
+1. B01_SB03.jpg — onaylı kare: köy girişindeki yer, ışık ve Selin–Rıza ikilisinin görünüşü
+2. Selin_sayfasi.jpg — Selin karakter sayfası: yüz, vücut, kıyafet
+3. Selin_ifade2.jpg — Selin ifade sayfası: yüz ifadesi örnekleri
+4. Riza_sayfasi.jpg — Rıza karakter sayfası: yüz, vücut, kıyafet (yüz için ESAS budur)
+5. Nesne_dosya.jpg — kapalı dosya: yalnızca dosyanın görünüşü
+
+Bu referanslardaki karakterlerin ve mekânın AYNISINI kullanarak tek bir yeni film karesi üret. Karakterleri yeniden tasarlama; yüz, saç, vücut oranları ve kıyafet referanstakiyle birebir aynı olacak. En yüksek kalite. Oran: DİKEY 9:16 (ör. 1024×1792; destekleyemiyorsan en yakın dikey boyut ve 9:16'ya kırpılabilecek şekilde yanlarda boşluk bırak). Promptu değiştirme, kısaltma.
+Çıktı dosyasının adı: B03_SB31
+
+Stylized 3D animated feature film still, vertical 9:16.
+
+Two-shot from the hips up. Place and light: the village entrance from the attached approved frame: gravel road, old stone houses with blue shutters, autumn vines, hazy green hillside, golden late-afternoon sun. Same background as the attached approved frame (road, dark grey car far behind on the left, hillside).
+Selin stands on the LEFT, turned three-quarters toward Rıza. Rıza stands on the RIGHT, facing her.
+Selin: woman in her early thirties, golden blonde curls to the jaw, freckles, small gold hoop earrings, pink ribbed top with a sweetheart neckline and flutter sleeves, tucked into a SHORT burgundy two-tier ruffled mini skirt (ends well above the knee), bare legs, brown leather Mary-Jane flats. Keep her exact body proportions from her character sheet (curvy hourglass figure); do not slim her. With BOTH hands she presses a closed burgundy leather A4 folder with brass corners, about as long as her forearm flat against the middle of Rıza's chest, arms almost straight, leaning into him. Her face: a sweet, sugary smile that is clearly a threat: eyebrows raised high, head tilted, dimples showing, eyes locked on his.
+Rıza: man in his mid thirties, tall and slim, messy dark brown curls, long nose, thick dark eyebrows, light stubble, dark navy blazer (unbuttoned) with a red pocket square over a cream open-collar shirt, brown belt, brown pleated trousers, burgundy tassel loafers. His face must match his character sheet: smooth, in his thirties, NOT wrinkled, NOT older. He is half a head taller than Selin. He is leaning back a little from the push, both hands coming up, open, about to catch the folder against his chest. His face: startled, eyebrows up, a nervous half-smile, eyes on Selin.
+
+Style: stylized 3D animated feature film still, exactly the look of the attached images: smooth animated-film skin, realistic cloth and hair, warm golden late-afternoon light, long soft shadows. Not photorealistic, not 2D. Sharp focus on the faces, background slightly soft. Correct hands with five fingers. Nobody looks at the camera. ONE single continuous image: no split screen, no panels, no borders, no captions, no text overlays.
