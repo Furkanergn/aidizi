@@ -46,7 +46,7 @@ Rıza kendi sorusuymuş gibi hızlı hızlı başını sallar.
 ### P05 — Sokak lambaları (6 sn) · kare: yeni SB21 (Naci, zarf yok)
 > **NACİ**: Meydandaki lambalar.
 > *(göğe bakar)*
-> **NACİ**: On iki senedir yanıyor.
+> **NACİ**: On iki senedir yanıyor. Gerisi faiz.
 
 ### P06 — Lambalar (4 sn) · kare: yeni SB20
 Geniş plan, yeni mekân: köy meydanı (B01'de görünmedi; kuru çeşme, çınar). Güpegündüz yanan dört sokak lambası. Biri bir kez titrer, yanmaya devam eder. Yalnızca elektrik vızıltısı.

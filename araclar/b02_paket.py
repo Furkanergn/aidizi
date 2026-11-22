@@ -53,8 +53,8 @@ Change only two things:
 1. The flat stone shelf beside him is now EMPTY. There is no envelope anywhere in the image.
 2. His LEFT hand rests flat on his left knee.
 Everything else stays: his RIGHT hand holds the small tulip-shaped tea glass full of dark red tea at chest height, between thumb and two fingers; his body is turned three-quarters toward the right of the frame; he looks toward the right edge of the frame at people outside the frame, eyes half closed, faintly amused, completely relaxed.""", "left"))
-K["SB20"] = ("Köy meydanı (yeni mekân), gündüz yanan sokak lambaları", ["V8 plaka (köy girişi)"], img("""
-A NEW location in the same village as the attached image: the small village SQUARE, a place not shown in the attached image. Use the attached image ONLY for the visual style, the stone texture, the house architecture and the light. Do NOT copy its street layout and do NOT include its road sign.
+K["SB20"] = ("Köy meydanı (yeni mekân), gündüz yanan sokak lambaları", [], img("""
+A small village SQUARE in a nearly abandoned Aegean hillside village. Style: warm, clean, stylized 3D animated family film, soft rounded shapes, rich golden colors, hand-crafted stone textures.
 Wide shot of a small, empty, cobbled village square surrounded by old stone houses with closed blue shutters and terracotta roofs. In the middle of the square stands a dry round stone fountain; behind it one big old plane tree with yellowing leaves. Weeds grow between the cobbles.
 Around the square stand FOUR street lamps, one large in the left foreground, the others spaced around the square, smaller with distance. They must NOT look elegant or decorative: they are cheap, neglected municipal lamps in a half-abandoned village: plain, slightly crooked, rusty grey metal poles with flaking paint, one of them leaning a little; simple old utilitarian lamp heads with dusty, yellowed glass covers, one cover cracked, cobwebs and bird droppings on them. No ornate cast iron, no curled brackets, no vintage lantern shapes. Despite their bad state, ALL FOUR are switched ON in broad daylight and glow a harsh, slightly sickly yellow-white with a small halo, clearly and absurdly lit against the sunny square.
 The square itself is neglected: the fountain is dry and stained, peeling shutters, a few fallen leaves.
@@ -104,13 +104,13 @@ V["P04"] = ("Kim yaktı", "SB11", f"{B01}/kareler/onayli/SB11.jpg", 6, 'SELİN: 
  STAY + " both still looking toward the left edge of the frame, mouths closed.",
  "S", "Selin and Rıza look only toward the left edge of the frame, at someone off screen. Rıza does not speak.",
  '"elektriği" sounds like "eh-lek-tree-EE".'))
-V["P05"] = ("Sokak lambaları", "SB21", f"{OUT}/kareler/onayli/SB21.jpg", 6, 'NACİ: "Meydandaki lambalar." / "On iki senedir yanıyor."', vid(6, F21,
+V["P05"] = ("Sokak lambaları", "SB21", f"{OUT}/kareler/onayli/SB21.jpg", 6, 'NACİ: "Meydandaki lambalar." / "On iki senedir yanıyor. Gerisi faiz."', vid(6, F21,
  TEA + "\n- His LEFT hand stays flat on his left knee for the entire shot. He makes no hand gestures. The stone shelf stays empty.",
  """0-0.5 s: Naci looks toward the right edge of the frame, relaxed.
 0.5-2 s: He says in Turkish, unhurried: "Meydandaki lambalar."
 2-3 s: He does not speak. He glances up at the sky for a moment, then back.
-3-5 s: He adds in Turkish, as plain fact: "On iki senedir yanıyor."
-5-6 s: He does not speak. A tiny shrug of one shoulder.""",
+3-5.5 s: He adds in Turkish, as plain fact, with a short pause between the two sentences: "On iki senedir yanıyor. Gerisi faiz."
+5.5-6 s: He does not speak. A tiny shrug of one shoulder.""",
  "Naci sitting exactly where he started, glass in his right hand at chest height, left hand on his knee, mouth closed.",
  "N", "Naci looks toward the right edge of the frame, at people off screen.",
  '"senedir" sounds like "seh-neh-DEER". "Meydandaki" sounds like "may-dan-dah-KEE".'))

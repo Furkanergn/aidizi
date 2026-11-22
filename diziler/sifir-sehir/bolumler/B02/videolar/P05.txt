@@ -14,8 +14,8 @@ Every character is a native Turkish speaker. They speak ONLY Turkish, with a nat
 0-0.5 s: Naci looks toward the right edge of the frame, relaxed.
 0.5-2 s: He says in Turkish, unhurried: "Meydandaki lambalar."
 2-3 s: He does not speak. He glances up at the sky for a moment, then back.
-3-5 s: He adds in Turkish, as plain fact: "On iki senedir yanıyor."
-5-6 s: He does not speak. A tiny shrug of one shoulder.
+3-5.5 s: He adds in Turkish, as plain fact, with a short pause between the two sentences: "On iki senedir yanıyor. Gerisi faiz."
+5.5-6 s: He does not speak. A tiny shrug of one shoulder.
 
 Last frame: Naci sitting exactly where he started, glass in his right hand at chest height, left hand on his knee, mouth closed.
 

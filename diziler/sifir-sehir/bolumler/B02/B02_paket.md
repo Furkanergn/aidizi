@@ -9,7 +9,7 @@ Her karenin klasöründe (`kareler/SBxx/`) numaralı referanslar ve prompt var: 
 | Kare | Ne | Referanslar | Hangi klipte |
 |---|---|---|---|
 | SB21 | Naci taburede, orta plan, zarf yok | SB10 (B01 onaylı kare); Naci sayfası; Naci ifade sayfası | P05, P10 |
-| SB20 | Köy meydanı (yeni mekân), gündüz yanan sokak lambaları | V8 plaka (köy girişi) | P06 |
+| SB20 | Köy meydanı (yeni mekân), gündüz yanan sokak lambaları |  | P06 |
 
 Diğer 12 klip B01'in onaylı karelerinden (SB03, SB06, SB09, SB11, SB12, SB14) başlar; yeniden üretilmez.
 
@@ -23,7 +23,7 @@ Flow ayarı her klip için aynı: **kareden videoya · Veo 3.1 Lite · 9:16**. B
 | P02 | Üç yüz otuz üç bin | P01'in son karesi | 6 sn | RIZA: "Üç yüz otuz üç bin… üç yüz otuz üç lira, hayatım." | Bekleniyor |
 | P03 | Otuz üç kuruş | SB12 | 4 sn | NACİ: "Otuz üç de kuruşu var." | Hazır |
 | P04 | Kim yaktı | SB11 | 6 sn | SELİN: "Amca, burada üç kişi yaşıyorsunuz. Bu kadar elektriği kim yaktı ya?" | Hazır |
-| P05 | Sokak lambaları | SB21 | 6 sn | NACİ: "Meydandaki lambalar." / "On iki senedir yanıyor." | Hazır |
+| P05 | Sokak lambaları | SB21 | 6 sn | NACİ: "Meydandaki lambalar." / "On iki senedir yanıyor. Gerisi faiz." | Hazır |
 | P06 | Lambalar | SB20 | 4 sn | — | Bekleniyor |
 | P07 | Şalter nerede | SB11 | 6 sn | RIZA: "Ya tamam, sorun yok! Kapatırız, biter. Şalter nerede amca?" | Hazır |
 | P08 | Muhtarda | SB12 | 4 sn | NACİ: "Muhtarda." | Hazır |
@@ -198,8 +198,8 @@ Every character is a native Turkish speaker. They speak ONLY Turkish, with a nat
 0-0.5 s: Naci looks toward the right edge of the frame, relaxed.
 0.5-2 s: He says in Turkish, unhurried: "Meydandaki lambalar."
 2-3 s: He does not speak. He glances up at the sky for a moment, then back.
-3-5 s: He adds in Turkish, as plain fact: "On iki senedir yanıyor."
-5-6 s: He does not speak. A tiny shrug of one shoulder.
+3-5.5 s: He adds in Turkish, as plain fact, with a short pause between the two sentences: "On iki senedir yanıyor. Gerisi faiz."
+5.5-6 s: He does not speak. A tiny shrug of one shoulder.
 
 Last frame: Naci sitting exactly where he started, glass in his right hand at chest height, left hand on his knee, mouth closed.
 
