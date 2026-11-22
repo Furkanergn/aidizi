@@ -24,7 +24,7 @@ Flow ayarı her klip için aynı: **kareden videoya · Veo 3.1 Lite · 9:16**. B
 | P03 | Otuz üç kuruş | SB12 | 4 sn | NACİ: "Otuz üç de kuruşu var." | Hazır |
 | P04 | Kim yaktı | SB11 | 6 sn | SELİN: "Amca, burada üç kişi yaşıyorsunuz. Bu kadar elektriği kim yaktı ya?" | Hazır |
 | P05 | Sokak lambaları | SB21 | 6 sn | NACİ: "Meydandaki lambalar." / "On iki senedir yanıyor. Gerisi faiz." | Hazır |
-| P06 | Lambalar | SB20 | 4 sn | — | Bekleniyor |
+| P06 | Lambalar | SB20 | 4 sn | — | Hazır |
 | P07 | Şalter nerede | SB11 | 6 sn | RIZA: "Ya tamam, sorun yok! Kapatırız, biter. Şalter nerede amca?" | Hazır |
 | P08 | Muhtarda | SB12 | 4 sn | NACİ: "Muhtarda." | Hazır |
 | P09 | Toplantı | SB11 | 6 sn | RIZA: "Süper! Hemen bir toplantı ayarlayalım muhtarla." | Hazır |
@@ -214,7 +214,7 @@ Only the speaking character's mouth moves. Audio: the voices and light wind only
 
 **Başlangıç karesi:** SB20 · **Süre:** 4 sn
 
-Kare henüz hazır değil.
+![SB20](klipler/P06/P06_baslangic_karesi_SB20.jpg)
 
 ```
 Stylized 3D animated feature film look, single continuous shot. Camera is locked off for the whole shot: no pan, no zoom, no cut. Duration 4 seconds.
