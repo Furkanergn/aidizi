@@ -79,15 +79,15 @@ ev = []
 p01 = EDL[0][2] - EDL[0][1]; p02 = EDL[1][2] - EDL[1][1]
 POP = r"\fscx70\fscy70\t(0,140,\fscx106\fscy106)\t(140,220,\fscx100\fscy100)"
 # açılış kancası: iki eğik kutu, sırayla "pat" diye açılır (marka imzası; kapakla aynı dil)
-ev.append((0.05, p01 - 0.04, "KutuKoyu", r"{\an5\pos(540,250)\frz2\fad(0,90)" + POP + r"}KOCAM BÜTÜN BİRİKİMİMİZLE"))
-ev.append((0.32, p01 - 0.04, "KutuVurgu", r"{\an5\pos(540,372)\frz-2\fad(0,90)" + POP + r"}BİR ŞEHİR SATIN ALDI"))
+ev.append((0.05, p01 - 0.04, "KutuKoyu", r"{\an5\pos(540,238)\frz2\fad(0,90)" + POP + r"}KOCAM BÜTÜN BİRİKİMİMİZLE"))
+ev.append((0.32, p01 - 0.04, "KutuVurgu", r"{\an5\pos(540,385)\frz-3\fad(0,90)" + POP + r"}BİR ŞEHİR SATIN ALDI"))
 # başlık
 ev.append((p01 + 0.20, p01 + p02 - 0.08, "Baslik", r"{\an5\pos(540,300)\fad(160,140)}SIFIR ŞEHİR"))
 ev.append((p01 + 0.45, p01 + p02 - 0.08, "KutuVurguKucuk", r"{\an5\pos(540,430)\frz-2\fad(0,140)" + POP + r"}BÖLÜM 1"))
 for a, b, m in subs: ev.append((a, b, "Alt", m))
 # kapanış: son kare donar, takip çağrısı (kancayla aynı dil)
-ev.append((SON + 0.30, TOPLAM - 0.05, "KutuKoyu", r"{\an5\pos(540,270)\frz2\fad(0,250)" + POP + r"}DEVAMI İÇİN"))
-ev.append((SON + 0.60, TOPLAM - 0.05, "KutuVurgu", r"{\an5\pos(540,395)\frz-2\fad(0,250)" + POP + r"}TAKİP ET"))
+ev.append((SON + 0.30, TOPLAM - 0.05, "KutuKoyu", r"{\an5\pos(540,262)\frz2\fad(0,250)" + POP + r"}DEVAMI İÇİN"))
+ev.append((SON + 0.60, TOPLAM - 0.05, "KutuVurgu", r"{\an5\pos(540,408)\frz-3\fad(0,250)" + POP + r"}TAKİP ET"))
 for a, b, st, m in ev: ass += f"Dialogue: 0,{t(a)},{t(b)},{st},,0,0,0,,{m}\n"
 open(f"{OUT}/B01.ass", "w", encoding="utf-8").write(ass)
 

@@ -8,15 +8,15 @@ ScaledBorderAndShadow: yes
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Alt,Inter SemiBold,40,&H00FFFFFF,&H00FFFFFF,&H00101010,&H78000000,0,0,0,0,100,100,0,0,1,2.6,0.8,2,120,120,500,1
-Style: KutuKoyu,Inter ExtraBold,50,&H00ECF8FF,&H00ECF8FF,&H00141414,&H00141414,0,0,0,0,100,100,1,0,3,15,0,5,60,60,0,1
-Style: KutuVurgu,Inter Black,78,&H00141414,&H00141414,&H003DB3F2,&H003DB3F2,0,0,0,0,100,100,1,0,3,17,0,5,60,60,0,1
+Style: KutuKoyu,Inter ExtraBold,58,&H00ECF8FF,&H00ECF8FF,&H00141414,&H00141414,0,0,0,0,100,100,1,0,3,15,0,5,60,60,0,1
+Style: KutuVurgu,Inter Black,90,&H00141414,&H00141414,&H003DB3F2,&H003DB3F2,0,0,0,0,100,100,1,0,3,17,0,5,60,60,0,1
 Style: KutuVurguKucuk,Inter Black,40,&H00141414,&H00141414,&H003DB3F2,&H003DB3F2,0,0,0,0,100,100,3,0,3,12,0,5,60,60,0,1
 Style: Baslik,Inter Black,128,&H00ECF8FF,&H00ECF8FF,&H00141414,&H78000000,0,0,0,0,100,100,2,0,1,6,2,5,60,60,0,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.05,0:00:02.98,KutuKoyu,,0,0,0,,{\an5\pos(540,250)\frz2\fad(0,90)\fscx70\fscy70\t(0,140,\fscx106\fscy106)\t(140,220,\fscx100\fscy100)}KOCAM BÜTÜN BİRİKİMİMİZLE
-Dialogue: 0,0:00:00.32,0:00:02.98,KutuVurgu,,0,0,0,,{\an5\pos(540,372)\frz-2\fad(0,90)\fscx70\fscy70\t(0,140,\fscx106\fscy106)\t(140,220,\fscx100\fscy100)}BİR ŞEHİR SATIN ALDI
+Dialogue: 0,0:00:00.05,0:00:02.98,KutuKoyu,,0,0,0,,{\an5\pos(540,238)\frz2\fad(0,90)\fscx70\fscy70\t(0,140,\fscx106\fscy106)\t(140,220,\fscx100\fscy100)}KOCAM BÜTÜN BİRİKİMİMİZLE
+Dialogue: 0,0:00:00.32,0:00:02.98,KutuVurgu,,0,0,0,,{\an5\pos(540,385)\frz-3\fad(0,90)\fscx70\fscy70\t(0,140,\fscx106\fscy106)\t(140,220,\fscx100\fscy100)}BİR ŞEHİR SATIN ALDI
 Dialogue: 0,0:00:03.22,0:00:05.94,Baslik,,0,0,0,,{\an5\pos(540,300)\fad(160,140)}SIFIR ŞEHİR
 Dialogue: 0,0:00:03.47,0:00:05.94,KutuVurguKucuk,,0,0,0,,{\an5\pos(540,430)\frz-2\fad(0,140)\fscx70\fscy70\t(0,140,\fscx106\fscy106)\t(140,220,\fscx100\fscy100)}BÖLÜM 1
 Dialogue: 0,0:00:00.60,0:00:03.02,Alt,,0,0,0,,Rıza… bunun neresi şehir?
@@ -43,5 +43,5 @@ Dialogue: 0,0:00:56.06,0:00:57.51,Alt,,0,0,0,,köyün elektrik borcu.
 Dialogue: 0,0:00:58.61,0:00:59.56,Alt,,0,0,0,,Artık sizin.
 Dialogue: 0,0:01:01.93,0:01:02.53,Alt,,0,0,0,,Rıza.
 Dialogue: 0,0:01:03.73,0:01:04.43,Alt,,0,0,0,,Kaç?
-Dialogue: 0,0:01:05.40,0:01:07.85,KutuKoyu,,0,0,0,,{\an5\pos(540,270)\frz2\fad(0,250)\fscx70\fscy70\t(0,140,\fscx106\fscy106)\t(140,220,\fscx100\fscy100)}DEVAMI İÇİN
-Dialogue: 0,0:01:05.70,0:01:07.85,KutuVurgu,,0,0,0,,{\an5\pos(540,395)\frz-2\fad(0,250)\fscx70\fscy70\t(0,140,\fscx106\fscy106)\t(140,220,\fscx100\fscy100)}TAKİP ET
+Dialogue: 0,0:01:05.40,0:01:07.85,KutuKoyu,,0,0,0,,{\an5\pos(540,262)\frz2\fad(0,250)\fscx70\fscy70\t(0,140,\fscx106\fscy106)\t(140,220,\fscx100\fscy100)}DEVAMI İÇİN
+Dialogue: 0,0:01:05.70,0:01:07.85,KutuVurgu,,0,0,0,,{\an5\pos(540,408)\frz-3\fad(0,250)\fscx70\fscy70\t(0,140,\fscx106\fscy106)\t(140,220,\fscx100\fscy100)}TAKİP ET

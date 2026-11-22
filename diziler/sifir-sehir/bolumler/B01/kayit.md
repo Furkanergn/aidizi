@@ -65,3 +65,10 @@ Kullanıcı geri bildirimi (v1): açılış yazısı daha karakteristik ve göst
 - Kapanış: son kare 2,8 sn donuyor; "DEVAMI İÇİN" + "TAKİP ET" aynı kutu diliyle.
 - Altyazı değişmedi. Süre 67,9 sn; −15,2 LUFS.
 - Kapak: `cikti/B01_kapak.jpg` (SB03 karesi üstüne), sistem `marka/kapak-sistemi.md`, betik `araclar/kapak.py`.
+
+## Kurgu v2 ve kapak (22 Kasım 2026)
+Kullanıcı geri bildirimi (v1): açılış yazısı daha karakteristik ve gösterişli olsun (altyazı sade kalsın); sonda "Borç ne kadar? Bölüm 2'de" olmasın, son kare donsun ve takip çağrısı gelsin; sayfa için marka renkleri ve tarzı olan bir kapak sistemi, kapakta dizinin bir ânı.
+- Açılış kancası: iki eğik kutu ("KOCAM BÜTÜN BİRİKİMİMİZLE" koyu, "BİR ŞEHİR SATIN ALDI" hardal), sırayla büyüyerek açılıyor.
+- Kapanış: son kare 2,8 sn donuyor; "DEVAMI İÇİN" + "TAKİP ET" aynı kutu diliyle.
+- Altyazı değişmedi. Süre 67,9 sn; −15,2 LUFS, tepe −1,3 dBTP.
+- Kapak: `cikti/B01_kapak.jpg` (SB03 karesi üstüne), `cikti/B01_kapak_izgara_4x5.jpg`; sistem `marka/kapak-sistemi.md`; betik `araclar/kapak.py`.
