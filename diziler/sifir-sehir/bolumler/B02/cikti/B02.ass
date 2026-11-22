@@ -1,0 +1,46 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Alt,Inter SemiBold,40,&H00FFFFFF,&H00FFFFFF,&H00101010,&H78000000,0,0,0,0,100,100,0,0,1,2.6,0.8,2,120,120,500,1
+Style: KutuKoyu,Inter ExtraBold,58,&H00ECF8FF,&H00ECF8FF,&H00141414,&H00141414,0,0,0,0,100,100,1,0,3,15,0,5,60,60,0,1
+Style: KutuVurgu,Inter Black,90,&H00141414,&H00141414,&H003DB3F2,&H003DB3F2,0,0,0,0,100,100,1,0,3,17,0,5,60,60,0,1
+Style: KutuVurguKucuk,Inter Black,40,&H00141414,&H00141414,&H003DB3F2,&H003DB3F2,0,0,0,0,100,100,3,0,3,12,0,5,60,60,0,1
+Style: Baslik,Inter Black,128,&H00ECF8FF,&H00ECF8FF,&H00141414,&H78000000,0,0,0,0,100,100,2,0,1,6,2,5,60,60,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.05,0:00:03.30,KutuKoyu,,0,0,0,,{\an5\pos(540,190)\frz2\fad(0,90)\fscx70\fscy70\t(0,140,\fscx106\fscy106)\t(140,220,\fscx100\fscy100)}KOCAMIN ALDIĞI ŞEHİR
+Dialogue: 0,0:00:00.32,0:00:03.30,KutuVurgu,,0,0,0,,{\an5\pos(540,325)\frz-3\fad(0,90)\fscx70\fscy70\t(0,140,\fscx106\fscy106)\t(140,220,\fscx100\fscy100)}BORCUYLA GELDİ
+Dialogue: 0,0:00:10.40,0:00:13.35,KutuVurguKucuk,,0,0,0,,{\an5\pos(540,150)\frz-2\fad(0,140)\fscx70\fscy70\t(0,140,\fscx106\fscy106)\t(140,220,\fscx100\fscy100)}SIFIR ŞEHİR · BÖLÜM 2
+Dialogue: 0,0:00:40.34,0:00:43.14,KutuVurgu,,0,0,0,,{\an5\pos(540,420)\frz-3\fad(0,120)\fscx70\fscy70\t(0,140,\fscx106\fscy106)\t(140,220,\fscx100\fscy100)}MUHTAR
+Dialogue: 0,0:00:00.25,0:00:01.60,Alt,,0,0,0,,Rıza. Kaç para?
+Dialogue: 0,0:00:02.25,0:00:02.80,Alt,,0,0,0,,Üç…
+Dialogue: 0,0:00:03.50,0:00:04.30,Alt,,0,0,0,,Üç bin mi?
+Dialogue: 0,0:00:05.40,0:00:06.75,Alt,,0,0,0,,Üç yüz otuz üç bin…
+Dialogue: 0,0:00:07.40,0:00:09.10,Alt,,0,0,0,,üç yüz otuz üç lira, hayatım.
+Dialogue: 0,0:00:10.65,0:00:12.25,Alt,,0,0,0,,Otuz üç de kuruşu var.
+Dialogue: 0,0:00:13.85,0:00:16.10,Alt,,0,0,0,,Amca, burada üç kişi yaşıyorsunuz.
+Dialogue: 0,0:00:16.80,0:00:18.70,Alt,,0,0,0,,Bu kadar elektriği kim yaktı ya?
+Dialogue: 0,0:00:19.32,0:00:20.67,Alt,,0,0,0,,Meydandaki lambalar.
+Dialogue: 0,0:00:21.32,0:00:22.72,Alt,,0,0,0,,On iki senedir yanıyor.
+Dialogue: 0,0:00:23.17,0:00:24.27,Alt,,0,0,0,,Gerisi faiz.
+Dialogue: 0,0:00:27.74,0:00:28.99,Alt,,0,0,0,,Ya tamam, sorun yok!
+Dialogue: 0,0:00:29.19,0:00:30.24,Alt,,0,0,0,,Kapatırız, biter.
+Dialogue: 0,0:00:30.64,0:00:31.84,Alt,,0,0,0,,Şalter nerede amca?
+Dialogue: 0,0:00:33.24,0:00:34.19,Alt,,0,0,0,,Muhtarda.
+Dialogue: 0,0:00:35.69,0:00:36.29,Alt,,0,0,0,,Süper!
+Dialogue: 0,0:00:36.89,0:00:38.89,Alt,,0,0,0,,Hemen bir toplantı ayarlayalım muhtarla.
+Dialogue: 0,0:00:43.64,0:00:45.49,Alt,,0,0,0,,Rıza… bu muhtar keçi.
+Dialogue: 0,0:00:46.14,0:00:47.99,Alt,,0,0,0,,Demokratik bir süreç olmuştur aşkım.
+Dialogue: 0,0:00:48.71,0:00:50.01,Alt,,0,0,0,,Üç oyla seçildi.
+Dialogue: 0,0:00:50.71,0:00:51.61,Alt,,0,0,0,,Hadi git konuş.
+Dialogue: 0,0:00:51.96,0:00:52.96,Alt,,0,0,0,,Keçiyle mi ya?
+Dialogue: 0,0:00:53.66,0:00:55.16,Alt,,0,0,0,,Muhtarla, hayatım.
+Dialogue: 0,0:00:56.38,0:00:58.83,KutuKoyu,,0,0,0,,{\an5\pos(540,262)\frz2\fad(0,250)\fscx70\fscy70\t(0,140,\fscx106\fscy106)\t(140,220,\fscx100\fscy100)}DEVAMI İÇİN
+Dialogue: 0,0:00:56.68,0:00:58.83,KutuVurgu,,0,0,0,,{\an5\pos(540,408)\frz-3\fad(0,250)\fscx70\fscy70\t(0,140,\fscx106\fscy106)\t(140,220,\fscx100\fscy100)}TAKİP ET
