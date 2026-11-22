@@ -1,19 +1,21 @@
-Ekte 6 görsel var, sırasıyla:
-1. B01_SB03.jpg — onaylı kare: köy girişindeki yer, ışık ve Selin–Rıza ikilisinin görünüşü
-2. V10_ters_aci.jpg — mekân plakası: köyün içinden dışarı bakış (çakıl yol, araba, tepe); arka plan buradan
+Ekte 7 görsel var, sırasıyla:
+1. B01_SB09.jpg — onaylı kare: köy girişi, yerde tabela ve keçi; mekân ve ışık buradan
+2. B02_SB21.jpg — onaylı kare: Naci taburede; mekân, ışık ve Naci buradan
 3. Riza_sayfasi.jpg — Rıza karakter sayfası: yüz, vücut, kıyafet (yüz için ESAS budur)
 4. Riza_jest_B.jpg — Rıza jest sayfası: yürüme ve duruş pozları
 5. Keci_sayfasi.jpg — keçi sayfası: görünüş
-6. Nesne_dosya.jpg — kapalı dosya: yalnızca dosyanın görünüşü
+6. Selin_sayfasi.jpg — Selin karakter sayfası: yüz, vücut, kıyafet
+7. Nesne_dosya.jpg — kapalı dosya: yalnızca dosyanın görünüşü
 
 Bu referanslardaki karakterlerin ve mekânın AYNISINI kullanarak tek bir yeni film karesi üret. Karakterleri yeniden tasarlama; yüz, saç, vücut oranları ve kıyafet referanstakiyle birebir aynı olacak. En yüksek kalite. Oran: DİKEY 9:16 (ör. 1024×1792; destekleyemiyorsan en yakın dikey boyut ve 9:16'ya kırpılabilecek şekilde yanlarda boşluk bırak). Promptu değiştirme, kısaltma.
 Çıktı dosyasının adı: B03_SB32
 
 Stylized 3D animated feature film still, vertical 9:16.
 
-Wide full-body shot. Camera position: the camera stands in the village street and looks back OUT of the village, the same direction as the attached approved two-shot frame: behind Rıza we see the gravel road he came from, the dark grey car parked far behind, scrub and the hazy green hillside. Golden late-afternoon sun low on the right. Selin and Naci are NOT in this frame: they are behind the camera.
-Rıza: man in his mid thirties, tall and slim, messy dark brown curls, long nose, thick dark eyebrows, light stubble, dark navy blazer (unbuttoned) with a red pocket square over a cream open-collar shirt, brown belt, brown pleated trousers, burgundy tassel loafers. His face must match his character sheet: smooth, in his thirties, NOT wrinkled, NOT older. He is half a head taller than Selin. He is in the LEFT-CENTER of the frame, about four metres from the camera, seen full body from head to shoes, walking TOWARD the camera, mid-step, with exaggerated business confidence. A closed burgundy leather A4 folder with brass corners, about as long as his forearm is tucked under his LEFT arm (on the right side of his body as we see him). His RIGHT hand straightens his blazer lapel. His face: chin up, a formal, over-polite smile, eyes on the goat.
-The goat: medium-sized cream-white village goat with ONE brown ear, curved horns, a small beard, heavy-lidded bored eyes, a frayed red rope collar with a small brass bell. Its back is at the height of a man's hip. It stands in the RIGHT foreground, close to the camera, seen from BEHIND in three-quarter rear view (we see its back, its tail, the back of its head, the brown ear and the red collar), facing Rıza, chewing, not impressed.
-The fallen road sign is NOT in this frame. No other people.
+Wide full-body shot. Camera position: exactly the camera of the first attached approved frame: the camera looks INTO the village along the cobbled street. The fallen road sign lies flat on the gravel in the LEFT middle ground (text exactly "ŞEHİR MERKEZİ"), with the small hole where it stood. Golden late-afternoon sun low on the left.
+The goat: medium-sized cream-white village goat with ONE brown ear, curved horns, a small beard, heavy-lidded bored eyes, a frayed red rope collar with a small brass bell. Its back is at the height of a man's hip. It stands exactly where it stands in the first attached frame: beside the fallen sign, in the middle of the road, about four metres from the camera, side-on, its head turned toward the camera, chewing, watching Rıza come, not impressed.
+Rıza: man in his mid thirties, tall and slim, messy dark brown curls, long nose, thick dark eyebrows, light stubble, dark navy blazer (unbuttoned) with a red pocket square over a cream open-collar shirt, brown belt, brown pleated trousers, burgundy tassel loafers. His face must match his character sheet: smooth, in his thirties, NOT wrinkled, NOT older. He is half a head taller than Selin. He is in the FOREGROUND, left of center, close to the camera, seen from BEHIND in three-quarter rear view, full body from head to shoes, walking AWAY from the camera toward the goat, mid-step, with exaggerated business confidence: back straight, chin up. A closed burgundy leather A4 folder with brass corners, about as long as his forearm is tucked under his LEFT arm. His RIGHT hand is raised to his blazer lapel, elbow out. His head is turned slightly to the right so we see part of his cheek and his smile, but mostly the back of his curly head.
+On the RIGHT side of the street, six metres beyond the goat, in front of the low stone wall and the faded blue door (as in the second attached frame): Naci sits on his stool with his tea glass, and Selin stands beside him with both fists on her hips, both watching Rıza. They are small in the frame but clearly recognizable: an old thin man with grey hair and moustache in a faded blue jacket; a woman with golden blonde curls, pink top and short burgundy ruffled mini skirt.
+No other people.
 
 Style: stylized 3D animated feature film still, exactly the look of the attached images: smooth animated-film skin, realistic cloth and hair, warm golden late-afternoon light, long soft shadows. Not photorealistic, not 2D. Sharp focus on the faces, background slightly soft. Correct hands with five fingers. Nobody looks at the camera. ONE single continuous image: no split screen, no panels, no borders, no captions, no text overlays.

@@ -11,7 +11,7 @@
 - **Bu bölümde yeni olan (kurallar 16–23):** Selin'in elleri boş ve oynuyor (iter, gülmesini tutar, kahkaha atar, bağırır); boy planlar; yürüme, çömelme, koşma; kamera takibi olan iki plan; ikinci mekân.
 
 ## Tekrar eden şakalar
-- **Plaza dili:** "vizyon", "kazan kazan", "Sayın Muhtar".
+- **Plaza dili:** "ortağınız", "kazan kazan", "Sayın Muhtar".
 - **"Öncekiler":** slayt getirmişler.
 - **"Üç":** Emine üç şey sayar gibi yapıp tek şart söyler (B04'e taşınır).
 - **Keçi her şeyi yer:** bu kez fatura.
@@ -24,20 +24,20 @@ Selin iki eliyle dosyayı Rıza'nın göğsüne bastırır, kaşları havada, ta
 
 Omzundan iter. Rıza dosyaya sarılıp sendeleyerek kameraya doğru, kadrajın sağından çıkar. Selin ellerini beline koyar, arkasından bakıp başını iki yana sallar, sonra sola, Naci'nin yanına doğru yürür.
 
-### P02 — Sayın Muhtar (8 sn) · boy plan · Rıza ve keçi
-Rıza, dosya sol kolunun altında, keçiye yürür; ceketinin yakasını düzeltir, boğazını temizler, keçinin önünde çömelir.
-> **RIZA** (resmî, fazla kibar): Sayın Muhtar… Rıza ben.
-> *(keçi çiğner; Rıza bir an bekler, gülümsemesi titrer)*
-> **RIZA** (sesini alçaltıp samimileşerek): Yeni ortağınız.
+### P02 — Sayın Muhtar (8 sn) · geniş boy plan, Rıza arkadan · C1
+İzleyici çiftin durduğu yerden bakıyor: Rıza, dosya sol kolunun altında, kameradan uzaklaşarak keçiye yürür; ileride yerdeki tabela ve yanında keçi, sağda duvarın önünde Naci ve yanına gelmiş Selin. Rıza yakasını düzeltir, boğazını temizler, keçinin önünde çömelir.
+> **RIZA** (resmî, fazla kibar; arkadan): Sayın Muhtar…
 
-### P03 — Muhtar dinliyor (4 sn) · keçi yakın plan
-Keçi ağır ağır çiğner, gözleri yarı kapalı. Bir kulağını oynatır. Çan tıngırdar. Replik yok.
+Keçi çiğnemeye devam eder, başını çevirmez.
 
-### P04 — Vizyon (8 sn) · Rıza çömelmiş, bel üstü
-Rıza serbest eliyle havaya görünmez bir sunum çizer; coşkusu büyür.
-> **RIZA** (satışçı, hızlı): Kısaca vizyonumdan bahsedeyim. Şalteri kapatıyoruz, tasarrufu paylaşıyoruz.
-> *(iki parmağını şıklatıp keçiyi gösterir)*
-> **RIZA** (gururla): Kazan kazan!
+### P03 — Muhtar dinliyor (4 sn) · keçi yakın plan · C1
+Keçi ağır ağır çiğner, gözleri yarı kapalı. Bir kulağını oynatır. Çan tıngırdar. Geride sağda Naci ve Selin bulanık. Replik yok.
+
+### P04 — Kazan kazan (8 sn) · Rıza çömelmiş, bel üstü · C2 (ters açı)
+Keçinin omzunun üstünden Rıza'nın yüzü. Serbest eliyle havaya görünmez bir sunum çizer; coşkusu büyür.
+> **RIZA** (sesini alçaltıp samimileşerek): Rıza ben. Yeni ortağınız.
+> *(keçi çiğner; Rıza bir an bekler, gülümsemesi titrer, toparlanır)*
+> **RIZA** (satışçı, hızlı; iki parmağını şıklatıp keçiyi göstererek): Şalteri kapatıyoruz, tasarrufu paylaşıyoruz. Kazan kazan!
 
 Cevap bekler; kaşları yukarıda donar.
 
@@ -93,9 +93,9 @@ Rıza'nın gülümsemesi donar. Son kare donar; **devamı için takip et**.
 | Plan | Kamera | Kim nerede | Hareket ve bakış |
 |---|---|---|---|
 | P01 | C2 | Selin (sol) ve Rıza (sağ) A'da; Naci N'de, kadraj dışı solda | Rıza kameraya doğru, sağdan çıkar (keçiye). Selin sonunda SOLA, Naci'nin yanına yürüyüp çıkar |
-| P02 | C2 | Rıza A'dan K'ya yürür; keçi sağ önde, arkadan; Selin ve Naci kameranın arkasında | Rıza kameraya doğru yürür, keçinin önünde çömelir |
+| P02 | C1 | Rıza önde, arkadan; keçi tabelanın yanında ileride; sağda duvarın önünde Naci ve Selin | Rıza kameradan uzaklaşarak keçiye yürür, önünde çömelir |
 | P03 | C1 | Keçi yakın; geride sağda Naci ve Selin küçük, bulanık | Keçi kıpırdamaz |
-| P04 | C2 | Rıza K'da çömelmiş; keçinin başı sağ önde; Selin ve Naci kameranın arkasında | Yerinde |
+| P04 | C2 (ters açı; P02 coğrafyayı kurdu) | Rıza K'da çömelmiş, yüzü kameraya; keçinin başı sağ önde, arkadan; sağ altta tabelanın köşesi; Selin ve Naci kameranın arkasında | Yerinde |
 | P05 | C3 | Naci taburede (sol), Selin yanında ayakta (sağ) | İkisi de SAĞA (Rıza ve keçiye) bakar |
 | P06 | C2 | P04 ile aynı | Keçi kâğıdı kapar, kafasını çevirir |
 | P07 | C1 | Rıza önde, arkadan; keçi sokakta ileride; sağda duvarın önünde Naci ve Selin | Keçi kameradan uzaklaşır (kuzeye); Rıza kalkıp peşinden koşar |
@@ -117,7 +117,7 @@ Rıza'nın gülümsemesi donar. Son kare donar; **devamı için takip et**.
 ## Kalite kapısı (rapor 7.2)
 1. İlk 2 saniye durdurur mu? İtme hareketi + yazı. **Evet.**
 2. Yeni izleyici 10. saniyede anlar mı? Adam keçiye sunum yapıyor. **Evet.**
-3. Üç gülme anı? "Yeni ortağınız", "Kazan kazan", "Öncekiler slayt getirmişti", faturanın kapılması, "Muhtar Bey! Bir dakika!", "Yetişemez", "Sahip mi?!". **Evet.**
+3. Üç gülme anı? "Sayın Muhtar…", "Yeni ortağınız", "Kazan kazan", "Öncekiler slayt getirmişti", faturanın kapılması, "Muhtar Bey! Bir dakika!", "Yetişemez", "Sahip mi?!". **Evet.**
 4. Selin karar alıyor mu? Rıza'yı toplantıya o yolluyor; ama bölümün ikinci yarısında seyirci. **Kısmen.**
 5. Bitiş soru mu? Şart ne. **Evet.**
 6. Üretilebilir mi? Riskli üç plan var, yedek tasarımları yazıldı. **Koşullu.**
