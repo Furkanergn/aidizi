@@ -44,3 +44,8 @@ Henüz üretilmedi. Her klibin karesi ve promptu `klipler/Pxx/` içinde. Gelen k
 Kalan: P10 (Naci'nin ilk planı).
 
 Seviye notu: klipler −17 ile −27 LUFS arasında; kurguda replikler eşitlenecek.
+| P10 | 1 | Onaylı | "Yeni sahipler siz misiniz? / Öncekiler de böyle heyecanlıydı." (birebir) | −20,0 LUFS | Bardak sağ elde, 2,5–3 sn arasında bir yudum, sol el dizde, zarf rafta dokunulmadan duruyor |
+
+## Ham birleştirme (22 Kasım 2026)
+`bash araclar/b01_ham_birlestir.sh` → `cikti/B01_ham_birlesik.mp4` (depoya eklenmez). 15 klip senaryo sırasıyla, işlemsiz; zincirlenen P06b ve P07'nin ilk karesi atıldı. Süre 77,1 sn, 1080×1920, 24 fps. Ses: −20,9 LUFS, tepe −0,5 dBTP, dinamik aralık 11,8 LU (kurguda eşitlenecek).
+Kontak sayfasında görülen: P07'de (yaklaşık 0:37–0:41) Selin'in saçı komşu planlara göre belirgin açık renkte.
