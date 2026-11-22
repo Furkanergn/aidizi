@@ -44,12 +44,12 @@ Selin gözlerini kapatır, burnundan nefes verir.
 Rıza kendi sorusuymuş gibi hızlı hızlı başını sallar.
 
 ### P05 — Sokak lambaları (6 sn) · kare: yeni SB21 (Naci, zarf yok)
-> **NACİ**: Sokak lambaları.
+> **NACİ**: Meydandaki lambalar.
 > *(göğe bakar)*
 > **NACİ**: On iki senedir yanıyor.
 
 ### P06 — Lambalar (4 sn) · kare: yeni SB20
-Geniş plan. Güpegündüz yanan dört sokak lambası. Biri bir kez titrer, yanmaya devam eder. Yalnızca elektrik vızıltısı.
+Geniş plan, yeni mekân: köy meydanı (B01'de görünmedi; kuru çeşme, çınar). Güpegündüz yanan dört sokak lambası. Biri bir kez titrer, yanmaya devam eder. Yalnızca elektrik vızıltısı.
 
 ### P07 — Şalter (6 sn) · kare: B01 SB11
 > **RIZA** (çözüm bulmuş adam): Ya tamam, sorun yok! Kapatırız, biter. Şalter nerede amca?
@@ -91,7 +91,7 @@ Rıza yutkunur, önüne döner. Son kare donar. Kurguda: **devamı için takip e
 
 ## Üretim
 - 14 klip × 10 = 140 Flow kredisi; tekrarlarla 200 civarı.
-- **Yalnızca 2 yeni kare:** SB21 (SB10'un zarfsız hâli; zarf artık Rıza'da) ve SB20 (yanan lambalar). Diğer 12 klip B01'in onaylı karelerinden başlar.
+- **Yalnızca 2 yeni kare:** SB21 (SB10'un zarfsız hâli; zarf artık Rıza'da) ve SB20 (köy meydanı, yanan lambalar; lambalar B01'de görünen giriş sokağında değil, çünkü orada lamba yoktu). Diğer 12 klip B01'in onaylı karelerinden başlar.
 - Selin'in tek planı yok (kural 14). Dosya bütün ikili planlarda göğsünde (kural 10). Zarf ve kâğıt yalnızca P01–P02'de kadrajda; sonraki ikili planlar göğüs üstü ve Rıza'nın kolları kadraj dışı.
 - En riskli klipler: P02 (uzun sayı; telaffuz), P01 (6 saniyede üç replik), P06 (lambaların yanık kalması).
 

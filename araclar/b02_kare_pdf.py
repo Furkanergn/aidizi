@@ -13,15 +13,15 @@ pdfmetrics.registerFont(TTFont("DB","/usr/share/fonts/truetype/dejavu/DejaVuSans
 REFIMG=f"{B}/kareler/SB20/01_V8_plaka_koy_girisi.jpg"
 p20=open(f"{B}/kareler/SB20/SB20_prompt.txt",encoding="utf-8").read().strip()
 T=[("h","SB20 — tek görsel: gündüz yanan sokak lambaları"),
-("p","Bu PDF'i okuyan ChatGPT için talimat. Üretilecek TEK görsel var: SB20. Bu bir manzara karesidir: boş bir köy sokağı ve yanan dört sokak lambası. Görselde İNSAN YOK. Önceki mesajlarda ya da başka dosyalarda gördüğün yaşlı adamı, tabureyi, çay bardağını bu görsele koyma; önceki görsellerle ilgisi yok."),
+("p","Bu PDF'i okuyan ChatGPT için talimat. Üretilecek TEK görsel var: SB20. Bu bir manzara karesidir: boş bir köy MEYDANI ve yanan dört sokak lambası. Meydan yeni bir mekândır; referanstaki sokak değildir. Görselde İNSAN YOK. Önceki mesajlarda ya da başka dosyalarda gördüğün yaşlı adamı, tabureyi, çay bardağını bu görsele koyma; önceki görsellerle ilgisi yok."),
 ("h","Nasıl üretilecek"),
-("p","1. Tek referans görsel bu PDF'in SON sayfasında (sayfa 2), özgün JPEG olarak gömülü: boş köy sokağı. Görsel üretim aracını bu görseli DÜZENLEME modunda kullan: görsel aynı kalır, yalnızca iki değişiklik yapılır (tabela kalkar, dört yanan lamba eklenir)."),
-("p","2. Sayfayı doğrudan düzenleyemiyorsan önce kod aracıyla PDF'in 2. sayfasındaki görseli çıkar ve onu düzenle. Onu da yapamıyorsan üretme; kullanıcıya 'köy sokağı görselini ayrıca yükle' de."),
-("p","3. Oran dikey 9:16, referansla aynı kadraj. Yazı, altyazı, logo, çerçeve yok."),
+("p","1. Tek referans görsel bu PDF'in SON sayfasında (sayfa 2), özgün JPEG olarak gömülü: aynı köyün giriş sokağı. Bu görseli YALNIZCA stil, taş dokusu, ev mimarisi ve ışık için referans al. Sokağın düzenini kopyalama, tabelayı koyma; yeni bir mekân (köy meydanı) üret."),
+("p","2. Sayfayı doğrudan düzenleyemiyorsan önce kod aracıyla PDF'in 2. sayfasındaki görseli çıkar ve onu stil referansı olarak ver. Onu da yapamıyorsan üretme; kullanıcıya 'köy sokağı görselini ayrıca yükle' de."),
+("p","3. Oran dikey 9:16. Yazı, altyazı, logo, çerçeve yok."),
 ("p","4. Promptu İngilizce ve kelimesi kelimesine kullan."),
 ("h","Prompt"),("c",p20),
 ("h","Kontrol (kullanıcıya vermeden önce kendin bak)"),
-("p","Görselde insan var mı? Varsa YANLIŞ. · Dört lamba var mı ve dördü de yanıyor mu? · Tabela ve yazı kalktı mı? · Hayvan, araç yok mu? · Sokak, evler, ışık referansla aynı mı? · Dikey 9:16 mı?"),
+("p","Görselde insan var mı? Varsa YANLIŞ. · Dört lamba var mı ve dördü de yanıyor mu? · Meydan mı (ortada kuru taş çeşme, arkasında çınar), yoksa referanstaki sokağın kopyası mı? Kopyaysa YANLIŞ. · Tabela ve yazı yok mu? · Hayvan, araç yok mu? · Evler, taş dokusu, ışık ve stil referansla aynı mı? · Dikey 9:16 mı?"),
 ("p","Geçmiyorsa aynı promptla bir kez daha üret. İkincide de geçmezse dur ve neyin yanlış çıktığını yaz."),
 ("h","Teslim"),("p","Görseli tam çözünürlükte, SB20 adıyla ver.")]
 c=canvas.Canvas(OUT,pagesize=A4); W,H=A4; M=50; y=H-M

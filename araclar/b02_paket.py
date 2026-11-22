@@ -53,12 +53,11 @@ Change only two things:
 1. The flat stone shelf beside him is now EMPTY. There is no envelope anywhere in the image.
 2. His LEFT hand rests flat on his left knee.
 Everything else stays: his RIGHT hand holds the small tulip-shaped tea glass full of dark red tea at chest height, between thumb and two fingers; his body is turned three-quarters toward the right of the frame; he looks toward the right edge of the frame at people outside the frame, eyes half closed, faintly amused, completely relaxed.""", "left"))
-K["SB20"] = ("Köy sokağı, gündüz yanan sokak lambaları", ["V8 plaka (köy girişi)"], img("""
-This is an EDIT of the attached image. Keep the attached image exactly as it is: the same empty cobbled village street, the same stone houses with closed blue shutters and terracotta roofs, the same camera position, framing, colors and light. There are NO people and NO animals in the image, and none may be added.
-Change only two things:
-1. REMOVE the road sign and its pole completely. Where it stood there is only gravel and weeds. There is no sign and no text anywhere in the image.
-2. ADD four old-fashioned street lamps along the street: black iron brackets fixed to the house walls, each carrying a round glass lantern. Two lamps on the left row of houses, two on the right row, getting smaller with distance; the nearest one is large, in the upper left of the frame. ALL FOUR lamps are switched ON in broad daylight: each lantern glows a strong warm yellow-white with a small halo, clearly and absurdly lit against the sunny street.
-The image is a landscape of an empty street only: no man, no stool, no tea glass, no goat, no vehicles.""", "left"))
+K["SB20"] = ("Köy meydanı (yeni mekân), gündüz yanan sokak lambaları", ["V8 plaka (köy girişi)"], img("""
+A NEW location in the same village as the attached image: the small village SQUARE, a place not shown in the attached image. Use the attached image ONLY for the visual style, the stone texture, the house architecture and the light. Do NOT copy its street layout and do NOT include its road sign.
+Wide shot of a small, empty, cobbled village square surrounded by old stone houses with closed blue shutters and terracotta roofs. In the middle of the square stands a dry round stone fountain; behind it one big old plane tree with yellowing leaves. Weeds grow between the cobbles.
+Around the square stand FOUR tall old-fashioned street lamps on black cast-iron posts, each with a glass lantern on top: one large in the left foreground, the others spaced around the square, smaller with distance. ALL FOUR lamps are switched ON in broad daylight: each lantern glows a strong warm yellow-white with a small halo, clearly and absurdly lit against the sunny square.
+The image is an empty place only: no people, no man, no stool, no animals, no goat, no vehicles, no road sign, no text.""", "left"))
 
 # ---------- videolar ----------
 FOLD = "- Selin keeps BOTH arms crossed over the burgundy folder against her chest for the entire shot. She makes no hand gestures. The folder never moves and keeps the same size."
@@ -104,21 +103,21 @@ V["P04"] = ("Kim yaktı", "SB11", f"{B01}/kareler/onayli/SB11.jpg", 6, 'SELİN: 
  STAY + " both still looking toward the left edge of the frame, mouths closed.",
  "S", "Selin and Rıza look only toward the left edge of the frame, at someone off screen. Rıza does not speak.",
  '"elektriği" sounds like "eh-lek-tree-EE".'))
-V["P05"] = ("Sokak lambaları", "SB21", f"{OUT}/kareler/onayli/SB21.jpg", 6, 'NACİ: "Sokak lambaları." / "On iki senedir yanıyor."', vid(6, F21,
+V["P05"] = ("Sokak lambaları", "SB21", f"{OUT}/kareler/onayli/SB21.jpg", 6, 'NACİ: "Meydandaki lambalar." / "On iki senedir yanıyor."', vid(6, F21,
  TEA + "\n- His LEFT hand stays flat on his left knee for the entire shot. He makes no hand gestures. The stone shelf stays empty.",
  """0-0.5 s: Naci looks toward the right edge of the frame, relaxed.
-0.5-2 s: He says in Turkish, unhurried: "Sokak lambaları."
+0.5-2 s: He says in Turkish, unhurried: "Meydandaki lambalar."
 2-3 s: He does not speak. He glances up at the sky for a moment, then back.
 3-5 s: He adds in Turkish, as plain fact: "On iki senedir yanıyor."
 5-6 s: He does not speak. A tiny shrug of one shoulder.""",
  "Naci sitting exactly where he started, glass in his right hand at chest height, left hand on his knee, mouth closed.",
  "N", "Naci looks toward the right edge of the frame, at people off screen.",
- '"senedir" sounds like "seh-neh-DEER".'))
+ '"senedir" sounds like "seh-neh-DEER". "Meydandaki" sounds like "may-dan-dah-KEE".'))
 V["P06"] = ("Lambalar", "SB20", f"{OUT}/kareler/onayli/SB20.jpg", 4, "—", vid(4,
- "wide shot of the empty cobbled village street in golden daylight with four old street lamps on the house walls, all switched on.",
+ "wide shot of an empty cobbled village square in golden daylight with a dry stone fountain, a plane tree and four tall iron street lamps, all switched on.",
  "- All four lamps stay lit for the whole shot and stay in the same place. Nothing enters the frame.",
- """0-4 s: Nothing happens. The lamps glow uselessly in the sunshine. The nearest lamp flickers once and keeps burning. A few dry leaves drift along the cobbles.""",
- "the same street, all four lamps still lit.",
+ """0-4 s: Nothing happens. The lamps glow uselessly in the sunshine. The nearest lamp flickers once and keeps burning. A few dry leaves drift across the square.""",
+ "the same square, all four lamps still lit.",
  "", "There are no people or animals in the shot.", amb="light wind and a faint electric hum from the lamps"))
 V["P07"] = ("Şalter nerede", "SB11", f"{B01}/kareler/onayli/SB11.jpg", 6, 'RIZA: "Ya tamam, sorun yok! Kapatırız, biter. Şalter nerede amca?"', vid(6, F11,
  FOLD + "\n" + ARMS,
