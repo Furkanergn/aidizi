@@ -52,6 +52,8 @@ Sistem **henüz kurulmadı**. Ses yolu testlerle belirlendi; ayrıntı `diziler/
 20. **Her bölümde hareket ve beden görünür.** Bölümün en az üçte biri bel üstü ya da boy planıdır; en az iki planda karakter yer değiştirir (yürür, koşar, çömelir, oturur) ve bu, başlangıç ve bitiş konumuyla yazılır. Kamera diyalogda kilitli kalır; bölüm başına iki-üç planda bilerek tek bir kamera hareketi yazılır (yavaş yaklaşma ya da takip). Kural 12'deki "nobody walks" yalnızca yerinde duran planlar içindir.
 21. **Aynı başlangıç karesi bir bölümde en çok iki klipte kullanılır ve önceki bölümün kareleri yeni bölümde yeniden kullanılmaz** (aynı ana devam eden ilk plan hariç). B02'de 11 klip B01 karelerinden başladı; ucuz oldu ama bölüm B01'in aynısı gibi göründü ve her klip aynı nötr yüzle açıldı (kural 13). Kare, o planın duygusuyla üretilir.
 
+22. **Ses sabitliği iki aşamalıdır.** Veo'da ses kilitlenemez; her klipte kareden ve tariften yeniden üretilir. Önlem: sabit ses tarifi her promptta kelimesi kelimesine aynı kalır. Garanti (kullanıcı kayma duyarsa ya da isterse): kurguda her karakterin replikleri, o karakterin Veo sesinden yapılmış ElevenLabs klonuna speech-to-speech ile çevrilir; referanslar ve plan `diziler/sifir-sehir/ses-referans/`. Kullanıcı tek klipte kulağıyla onaylamadan bölüme uygulanmaz.
+
 ## Ortam notları
 - Ortamın izinli adresleri: `upload.higgsfield.ai`, `elevenlabsusercontent.com`. Higgsfield sonuç dosyaları (`*.cloudfront.net`) ve `huggingface.co` buradan indirilemez; klip incelemesi Higgsfield sandbox'ında (`sandbox_exec`) yapılır.
 - Konuşma tanıma: `sherpa-onnx` + GitHub'daki `sherpa-onnx-whisper-small` modeli bu ortamda çalışıyor (HuggingFace gerekmez). Higgsfield sandbox'ında `faster-whisper` hazır.
