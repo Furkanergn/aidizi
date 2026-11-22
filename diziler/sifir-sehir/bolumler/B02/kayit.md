@@ -7,6 +7,7 @@
 | 22.11.2026 | SB20 (lambalar) | ChatGPT (kullanıcı) | V8, SB09 | 0 | İki denemede de Naci sahnesi çıktı. Prompt düzenleme işine çevrildi, tek referans (V8), ayrı PDF |
 | 22.11.2026 | Senaryo v1.1 | — | — | 0 | Replikler daha gündelik (kullanıcı isteği) |
 | 22.11.2026 | SB20 (köy meydanı, lambalar) | ChatGPT (kullanıcı), referanssız metin promptu | — | 0 | Onaylı: dört lamba yanıyor, paslı direkler, insan/hayvan/yazı yok. Stil diğer karelerle uyumlu |
+| 22.11.2026 | P01 klibi | Flow, Veo 3.1 Lite (kullanıcı) | SB14 | 10 | Onaylı. Döküm: "Rıza kaç para? / 3 / 3 binme" (= Üç… / Üç bin mi?). Eller, dosya, zarf sabit; kameraya bakan yok. −22,5 LUFS. Ses kulakla doğrulanmadı |
 
 Notlar:
 - Bu oturumdan kullanıcının bilgisayarındaki Chrome'a bağlanılamadı (paylaşılan klasör listesi boş, Chrome araçları yok); üretim B01'deki iş bölümüyle ya da bilgisayara bağlı bir oturumla yapılacak.

@@ -20,7 +20,7 @@ Flow ayarı her klip için aynı: **kareden videoya · Veo 3.1 Lite · 9:16**. B
 | Klip | Ne | Başlangıç karesi | Süre | Replikler | Kare |
 |---|---|---|---|---|---|
 | P01 | Kaç? | SB14 | 6 sn | SELİN: "Rıza. Kaç para?" / RIZA: "Üç…" / SELİN: "Üç bin mi?" | Hazır |
-| P02 | Üç yüz otuz üç bin | P01'in son karesi | 6 sn | RIZA: "Üç yüz otuz üç bin… üç yüz otuz üç lira, hayatım." | Bekleniyor |
+| P02 | Üç yüz otuz üç bin | P01'in son karesi | 6 sn | RIZA: "Üç yüz otuz üç bin… üç yüz otuz üç lira, hayatım." | Hazır |
 | P03 | Otuz üç kuruş | SB12 | 4 sn | NACİ: "Otuz üç de kuruşu var." | Hazır |
 | P04 | Kim yaktı | SB11 | 6 sn | SELİN: "Amca, burada üç kişi yaşıyorsunuz. Bu kadar elektriği kim yaktı ya?" | Hazır |
 | P05 | Sokak lambaları | SB21 | 6 sn | NACİ: "Meydandaki lambalar." / "On iki senedir yanıyor. Gerisi faiz." | Hazır |
@@ -82,12 +82,12 @@ Only the speaking character's mouth moves. Audio: the voices and light wind only
 
 **Başlangıç karesi:** P01'in son karesi · **Süre:** 6 sn
 
-Kare henüz hazır değil.
+![P01'in son karesi](klipler/P02/P02_baslangic_karesi_P01_son_kare.jpg)
 
 ```
 Stylized 3D animated feature film look, single continuous shot. Camera is locked off for the whole shot: no pan, no zoom, no cut. Duration 6 seconds.
 
-Start exactly from the first frame: chest-up two-shot, Selin on the left hugging a burgundy folder and watching Rıza's face; Rıza on the right holding an open yellow envelope and a white sheet of paper, eyes lowered to the sheet.
+Start exactly from the first frame: chest-up two-shot, Selin on the left hugging a burgundy folder, her eyes lowered, face flat; Rıza on the right holding an open yellow envelope and a white sheet of paper, eyes lowered to the sheet, worried.
 
 Hands and objects (do not change):
 - Selin keeps BOTH arms crossed over the burgundy folder against her chest for the entire shot. She makes no hand gestures. The folder never moves and keeps the same size.
@@ -103,7 +103,7 @@ Every character is a native Turkish speaker. They speak ONLY Turkish, with a nat
 
 Last frame: both stand exactly where they started, nobody walks; Selin's eyes closed, Rıza looking down at the sheet, both mouths closed.
 
-Eyes: Rıza looks only at the sheet. Selin looks at Rıza, then closes her eyes. Nobody looks at the camera. Faces, hair and clothes stay identical to the first frame.
+Eyes: Rıza looks only at the sheet. Selin keeps her eyes lowered, then closes them. Nobody looks at the camera. Faces, hair and clothes stay identical to the first frame.
 
 Pronunciation: the name "Rıza" contains the Turkish dotless ı. Say it "RUH-zah", never "Riza" or "Reeza". The number is read as six clear words, then a pause, then five words and a meek little "hayatım" (my dear) at the end: "üç yüz otuz üç bin" (333 thousand), "üç yüz otuz üç lira" (333 lira). "üç" sounds like "ewch", "yüz" like "yewz", "otuz" like "oh-TOOZ".
 

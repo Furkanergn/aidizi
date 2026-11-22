@@ -81,12 +81,12 @@ V["P01"] = ("Kaç?", "SB14", f"{B01}/kareler/onayli/SB14.jpg", 6, 'SELİN: "Rız
  STAY + " Rıza still looking down at the sheet, Selin still looking at Rıza, both mouths closed.",
  "SR", "Rıza looks only at the sheet. Selin looks only at Rıza's face.",
  '"üç" is one short syllable, like "ewch".'))
-V["P02"] = ("Üç yüz otuz üç bin", "P01'in son karesi", None, 6, 'RIZA: "Üç yüz otuz üç bin… üç yüz otuz üç lira, hayatım."', vid(6, F14,
+V["P02"] = ("Üç yüz otuz üç bin", "P01'in son karesi", None, 6, 'RIZA: "Üç yüz otuz üç bin… üç yüz otuz üç lira, hayatım."', vid(6, "chest-up two-shot, Selin on the left hugging a burgundy folder, her eyes lowered, face flat; Rıza on the right holding an open yellow envelope and a white sheet of paper, eyes lowered to the sheet, worried.",
  FOLD + "\n" + PAPER,
  """0-5 s: Rıza reads from the sheet in Turkish, slowly, his voice getting smaller with every word, with a pause in the middle: "Üç yüz otuz üç bin… üç yüz otuz üç lira, hayatım."
 5-6 s: Nobody speaks. Selin closes her eyes and breathes out slowly through her nose. Rıza stays bent over the sheet, not daring to look at her.""",
  STAY + " Selin's eyes closed, Rıza looking down at the sheet, both mouths closed.",
- "R", "Rıza looks only at the sheet. Selin looks at Rıza, then closes her eyes.",
+ "R", "Rıza looks only at the sheet. Selin keeps her eyes lowered, then closes them.",
  'The number is read as six clear words, then a pause, then five words and a meek little "hayatım" (my dear) at the end: "üç yüz otuz üç bin" (333 thousand), "üç yüz otuz üç lira" (333 lira). "üç" sounds like "ewch", "yüz" like "yewz", "otuz" like "oh-TOOZ".'))
 V["P03"] = ("Otuz üç kuruş", "SB12", f"{B01}/kareler/onayli/SB12.jpg", 4, 'NACİ: "Otuz üç de kuruşu var."', vid(4, F12,
  TEA + " His other hand is not in the frame.",
