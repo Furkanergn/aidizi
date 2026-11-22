@@ -49,3 +49,12 @@ Seviye notu: klipler −17 ile −27 LUFS arasında; kurguda replikler eşitlene
 ## Ham birleştirme (22 Kasım 2026)
 `bash araclar/b01_ham_birlestir.sh` → `cikti/B01_ham_birlesik.mp4` (depoya eklenmez). 15 klip senaryo sırasıyla, işlemsiz; zincirlenen P06b ve P07'nin ilk karesi atıldı. Süre 77,1 sn, 1080×1920, 24 fps. Ses: −20,9 LUFS, tepe −0,5 dBTP, dinamik aralık 11,8 LU (kurguda eşitlenecek).
 Kontak sayfasında görülen: P07'de (yaklaşık 0:37–0:41) Selin'in saçı komşu planlara göre belirgin açık renkte.
+
+## Kurgu v1 (22 Kasım 2026)
+`python3 araclar/b01_kurgu.py` → `cikti/B01_kurgu_v1.mp4` (depoya eklenmez), altyazı dosyası `cikti/B01.ass`.
+
+- Süre 66,9 sn (ham 77,1 sn): kliplerin başındaki ve sonundaki boşluklar kırpıldı; bütün geçişler düz kesme.
+- Yazılar: açılış kancası (0–3 sn, üstte), başlık "SIFIR ŞEHİR / BÖLÜM 1" (P02 üstünde), Türkçe altyazı (Inter SemiBold 40 px, alt üçte birde), bitiş "Borç ne kadar? / BÖLÜM 2'DE" (son kare 1,8 sn dondurulup karartıldı).
+- Ses: her diyalog klibi yaklaşık −18 LUFS'a çekildi; replik aralıkları dışında klibin kendi sesi ~−26 dB kısıldı (konuşma kapısı); P08'deki kadraj dışı metal gürültüsü korundu (kaynakta 5,1. sn'de var); bölüm boyunca kesintisiz yapay ortam yatağı (~−45 dB). Sonuç: −15,1 LUFS, tepe −1,3 dBTP, dinamik aralık 10,9 LU.
+- Kullanıcı geri bildirimi (ham sürüm): "sahne geçişlerinde arka plan sesleri geçişi hissettiriyor" → konuşma kapısı ve sürekli yatak bunun için eklendi. Claude sonucu dinleyemedi.
+- Bilinenler: ortam yatağı yapay (süzülmüş gürültü), gerçek köy ortamı değil; müzik yok; P07'de keçi melemesi yok; P06b'de iki replik arasında ~2 sn sessizlik (tek plan, kesilemiyor).
