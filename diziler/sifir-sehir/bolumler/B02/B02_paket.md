@@ -219,7 +219,7 @@ Kare henüz hazır değil.
 ```
 Stylized 3D animated feature film look, single continuous shot. Camera is locked off for the whole shot: no pan, no zoom, no cut. Duration 4 seconds.
 
-Start exactly from the first frame: wide shot of an empty cobbled village square in golden daylight with a dry stone fountain, a plane tree and four tall iron street lamps, all switched on.
+Start exactly from the first frame: wide shot of an empty cobbled village square in golden daylight with a dry stone fountain, a plane tree and four shabby, rusty street lamps, all switched on.
 
 Hands and objects (do not change):
 - All four lamps stay lit for the whole shot and stay in the same place. Nothing enters the frame.

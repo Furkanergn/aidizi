@@ -56,7 +56,8 @@ Everything else stays: his RIGHT hand holds the small tulip-shaped tea glass ful
 K["SB20"] = ("Köy meydanı (yeni mekân), gündüz yanan sokak lambaları", ["V8 plaka (köy girişi)"], img("""
 A NEW location in the same village as the attached image: the small village SQUARE, a place not shown in the attached image. Use the attached image ONLY for the visual style, the stone texture, the house architecture and the light. Do NOT copy its street layout and do NOT include its road sign.
 Wide shot of a small, empty, cobbled village square surrounded by old stone houses with closed blue shutters and terracotta roofs. In the middle of the square stands a dry round stone fountain; behind it one big old plane tree with yellowing leaves. Weeds grow between the cobbles.
-Around the square stand FOUR tall old-fashioned street lamps on black cast-iron posts, each with a glass lantern on top: one large in the left foreground, the others spaced around the square, smaller with distance. ALL FOUR lamps are switched ON in broad daylight: each lantern glows a strong warm yellow-white with a small halo, clearly and absurdly lit against the sunny square.
+Around the square stand FOUR street lamps, one large in the left foreground, the others spaced around the square, smaller with distance. They must NOT look elegant or decorative: they are cheap, neglected municipal lamps in a half-abandoned village: plain, slightly crooked, rusty grey metal poles with flaking paint, one of them leaning a little; simple old utilitarian lamp heads with dusty, yellowed glass covers, one cover cracked, cobwebs and bird droppings on them. No ornate cast iron, no curled brackets, no vintage lantern shapes. Despite their bad state, ALL FOUR are switched ON in broad daylight and glow a harsh, slightly sickly yellow-white with a small halo, clearly and absurdly lit against the sunny square.
+The square itself is neglected: the fountain is dry and stained, peeling shutters, a few fallen leaves.
 The image is an empty place only: no people, no man, no stool, no animals, no goat, no vehicles, no road sign, no text.""", "left"))
 
 # ---------- videolar ----------
@@ -114,7 +115,7 @@ V["P05"] = ("Sokak lambaları", "SB21", f"{OUT}/kareler/onayli/SB21.jpg", 6, 'NA
  "N", "Naci looks toward the right edge of the frame, at people off screen.",
  '"senedir" sounds like "seh-neh-DEER". "Meydandaki" sounds like "may-dan-dah-KEE".'))
 V["P06"] = ("Lambalar", "SB20", f"{OUT}/kareler/onayli/SB20.jpg", 4, "—", vid(4,
- "wide shot of an empty cobbled village square in golden daylight with a dry stone fountain, a plane tree and four tall iron street lamps, all switched on.",
+ "wide shot of an empty cobbled village square in golden daylight with a dry stone fountain, a plane tree and four shabby, rusty street lamps, all switched on.",
  "- All four lamps stay lit for the whole shot and stay in the same place. Nothing enters the frame.",
  """0-4 s: Nothing happens. The lamps glow uselessly in the sunshine. The nearest lamp flickers once and keeps burning. A few dry leaves drift across the square.""",
  "the same square, all four lamps still lit.",
