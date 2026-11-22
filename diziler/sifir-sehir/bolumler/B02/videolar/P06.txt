@@ -1,0 +1,14 @@
+Stylized 3D animated feature film look, single continuous shot. Camera is locked off for the whole shot: no pan, no zoom, no cut. Duration 4 seconds.
+
+Start exactly from the first frame: wide shot of the empty cobbled village street in golden daylight with four old street lamps on the house walls, all switched on.
+
+Hands and objects (do not change):
+- All four lamps stay lit for the whole shot and stay in the same place. Nothing enters the frame.
+
+0-4 s: Nothing happens. The lamps glow uselessly in the sunshine. The nearest lamp flickers once and keeps burning. A few dry leaves drift along the cobbles.
+
+Last frame: the same street, all four lamps still lit.
+
+Eyes: There are no people or animals in the shot. Nobody looks at the camera. Faces, hair and clothes stay identical to the first frame.
+
+No dialogue. Nobody speaks. Audio: light wind and a faint electric hum from the lamps only. No music, no subtitles, no on-screen text.

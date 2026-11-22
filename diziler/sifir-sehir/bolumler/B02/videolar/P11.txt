@@ -1,0 +1,15 @@
+Stylized 3D animated feature film look, single continuous shot. Camera is locked off for the whole shot: no pan, no zoom, no cut. Duration 4 seconds.
+
+Start exactly from the first frame: wide shot of the village entrance: the road sign lies flat on the gravel in the left foreground, a white goat with a red collar and brass bell stands beside it.
+
+Hands and objects (do not change):
+- The sign stays flat on the ground and does not move. Its text stays exactly "ŞEHİR MERKEZİ" and never changes.
+- The goat stays where it stands and does not walk away.
+
+0-4 s: The goat chews slowly, jaw sliding sideways, completely unbothered. It turns its head a little toward the right, as if it has noticed someone looking, and keeps chewing. One ear flicks. Its bell tinkles once.
+
+Last frame: the goat in the same place, still chewing, the sign on the ground.
+
+Eyes: The goat looks toward the right side of the frame, not at the camera. Nobody looks at the camera. Faces, hair and clothes stay identical to the first frame.
+
+No dialogue. Nobody speaks. Audio: slow chewing, one soft bell tinkle, light wind only. No music, no subtitles, no on-screen text.
