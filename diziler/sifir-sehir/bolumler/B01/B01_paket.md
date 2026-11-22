@@ -11,7 +11,7 @@ Flow ayarı her klip için aynı: **kareden videoya · Veo 3.1 Lite · 9:16**. B
 | P05 | SB05 | 8 sn | Hazır |
 | P06a | SB06 | 6 sn | Hazır |
 | P06b | P06a'nın son karesi | 6 sn | Hazır |
-| P07 | P06b'nin son karesi | 4 sn | Kare bekleniyor |
+| P07 | P06b'nin son karesi | 4 sn | Hazır |
 | P08 | SB08 | 6 sn | Hazır |
 | P09 | SB09 | 4 sn | Hazır |
 | P10 | SB10 | 6 sn | Hazır |
@@ -273,7 +273,9 @@ Only the speaking character's mouth moves. Audio: the voices and light wind only
 
 **Başlangıç karesi:** P06b'nin son karesi · **Süre:** 4 sn
 
-Kare henüz hazır değil.
+Dosya: `klipler/P07/P07_baslangic_karesi_P06b_son_kare.jpg`
+
+![P06b'nin son karesi](klipler/P07/P07_baslangic_karesi_P06b_son_kare.jpg)
 
 Prompt:
 
