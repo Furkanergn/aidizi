@@ -10,7 +10,7 @@ Flow ayarı her klip için aynı: **kareden videoya · Veo 3.1 Lite · 9:16**. B
 | P04 | SB04 | 4 sn | Hazır |
 | P05 | SB05 | 8 sn | Hazır |
 | P06a | SB06 | 6 sn | Hazır |
-| P06b | P06a'nın son karesi | 6 sn | Kare bekleniyor |
+| P06b | P06a'nın son karesi | 6 sn | Hazır |
 | P07 | P06b'nin son karesi | 4 sn | Kare bekleniyor |
 | P08 | SB08 | 6 sn | Hazır |
 | P09 | SB09 | 4 sn | Hazır |
@@ -234,14 +234,16 @@ Only the speaking character's mouth moves. Audio: the voices and light wind only
 
 **Başlangıç karesi:** P06a'nın son karesi · **Süre:** 6 sn
 
-Kare henüz hazır değil.
+Dosya: `klipler/P06b/P06b_baslangic_karesi_P06a_son_kare.jpg`
+
+![P06a'nın son karesi](klipler/P06b/P06b_baslangic_karesi_P06a_son_kare.jpg)
 
 Prompt:
 
 ```
 Stylized 3D animated feature film look, single continuous shot. Camera is locked off for the whole shot: no pan, no zoom, no cut. Duration 6 seconds.
 
-Start exactly from the first frame: chest-up two-shot, Selin on the left hugging the burgundy folder and looking at Rıza; Rıza on the right, looking down and away.
+Start exactly from the first frame: chest-up two-shot, Selin on the left hugging the burgundy folder, her head turned to Rıza, staring at him; Rıza on the right, looking back at her with a small sheepish half smile.
 
 Hands and objects (do not change):
 - Selin keeps BOTH arms crossed over the burgundy folder against her chest for the entire shot. She makes no hand gestures. The folder never moves and keeps the same size.
@@ -253,14 +255,14 @@ Voices (must sound exactly the same in every clip of this series):
 
 Every character is a native Turkish speaker. They speak ONLY Turkish, with a natural Istanbul accent and the lively, expressive delivery of actors in a Turkish animated comedy film. No English.
 
-0-1.5 s: Selin, still looking at him, asks in Turkish, even quieter: "Biraz dediğin?"
-1.5-2.5 s: Rıza swallows. His shoulders rise a little.
-2.5-5 s: Rıza answers in Turkish, his voice dropping lower with every word until it is almost a mumble: "Ev için ayırdığımız kadar."
+0-1.5 s: Selin, still looking at him, asks in Turkish, even quieter than before: "Biraz dediğin?"
+1.5-2.5 s: Rıza's half smile fades. He swallows, his shoulders rise a little, and his eyes drop from her face to the ground.
+2.5-5 s: Looking at the ground, Rıza answers in Turkish, his voice dropping lower with every word until it is almost a mumble: "Ev için ayırdığımız kadar."
 5-6 s: Nobody speaks. Selin's face does not move at all.
 
 Last frame: both stand exactly where they started; Selin staring at Rıza, Rıza shrunk into his shoulders, looking at the ground.
 
-Eyes: Selin looks only at Rıza's face. Rıza looks at the ground. Nobody looks at the camera. Faces, hair and clothes stay identical to the first frame.
+Eyes: Selin looks only at Rıza's face. Rıza looks at Selin, then at the ground. Nobody looks at the camera. Faces, hair and clothes stay identical to the first frame.
 
 Pronunciation: the name "Rıza" contains the Turkish dotless ı. Say it "RUH-zah", never "Riza" or "Reeza".
 

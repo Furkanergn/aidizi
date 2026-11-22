@@ -158,14 +158,14 @@ V["P06a"] = ("Kimin parasıyla", "SB06", 6, 'SELİN: "Kimin parasıyla?" / RIZA:
  "both stand exactly where they started; Selin still looking at Rıza, Rıza looking down and away.",
  "SR", "Selin looks only at Rıza's face. Rıza looks down and away from her."))
 V["P06b"] = ("Biraz dediğin", "P06a'nın son karesi", 6, 'SELİN: "Biraz dediğin?" / RIZA: "Ev için ayırdığımız kadar."', vid(6,
- "chest-up two-shot, Selin on the left hugging the burgundy folder and looking at Rıza; Rıza on the right, looking down and away.",
+ "chest-up two-shot, Selin on the left hugging the burgundy folder, her head turned to Rıza, staring at him; Rıza on the right, looking back at her with a small sheepish half smile.",
  FOLD + "\n- Rıza's arms stay down, out of frame. He makes no gestures.",
- """0-1.5 s: Selin, still looking at him, asks in Turkish, even quieter: "Biraz dediğin?"
-1.5-2.5 s: Rıza swallows. His shoulders rise a little.
-2.5-5 s: Rıza answers in Turkish, his voice dropping lower with every word until it is almost a mumble: "Ev için ayırdığımız kadar."
+ """0-1.5 s: Selin, still looking at him, asks in Turkish, even quieter than before: "Biraz dediğin?"
+1.5-2.5 s: Rıza's half smile fades. He swallows, his shoulders rise a little, and his eyes drop from her face to the ground.
+2.5-5 s: Looking at the ground, Rıza answers in Turkish, his voice dropping lower with every word until it is almost a mumble: "Ev için ayırdığımız kadar."
 5-6 s: Nobody speaks. Selin's face does not move at all.""",
  "both stand exactly where they started; Selin staring at Rıza, Rıza shrunk into his shoulders, looking at the ground.",
- "SR", "Selin looks only at Rıza's face. Rıza looks at the ground."))
+ "SR", "Selin looks only at Rıza's face. Rıza looks at Selin, then at the ground."))
 V["P07"] = ("Göz", "P06b'nin son karesi", 4, "—", vid(4,
  "chest-up two-shot, Selin on the left hugging the burgundy folder and staring at Rıza; Rıza on the right, shrunk into his shoulders, looking at the ground.",
  FOLD + "\n- Rıza's arms stay down, out of frame. He does not move.",
