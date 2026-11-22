@@ -58,3 +58,10 @@ Kontak sayfasında görülen: P07'de (yaklaşık 0:37–0:41) Selin'in saçı ko
 - Ses: her diyalog klibi yaklaşık −18 LUFS'a çekildi; replik aralıkları dışında klibin kendi sesi ~−26 dB kısıldı (konuşma kapısı); P08'deki kadraj dışı metal gürültüsü korundu (kaynakta 5,1. sn'de var); bölüm boyunca kesintisiz yapay ortam yatağı (~−45 dB). Sonuç: −15,1 LUFS, tepe −1,3 dBTP, dinamik aralık 10,9 LU.
 - Kullanıcı geri bildirimi (ham sürüm): "sahne geçişlerinde arka plan sesleri geçişi hissettiriyor" → konuşma kapısı ve sürekli yatak bunun için eklendi. Claude sonucu dinleyemedi.
 - Bilinenler: ortam yatağı yapay (süzülmüş gürültü), gerçek köy ortamı değil; müzik yok; P07'de keçi melemesi yok; P06b'de iki replik arasında ~2 sn sessizlik (tek plan, kesilemiyor).
+
+## Kurgu v2 ve kapak (22 Kasım 2026)
+Kullanıcı geri bildirimi (v1): açılış yazısı daha karakteristik ve gösterişli olsun (altyazı sade kalsın); sonda "Borç ne kadar? Bölüm 2'de" olmasın, son kare donsun ve takip çağrısı gelsin; sayfa için marka renkleri ve tarzı olan bir kapak sistemi, kapakta dizinin bir ânı.
+- Açılış kancası: iki eğik kutu ("KOCAM BÜTÜN BİRİKİMİMİZLE" koyu, "BİR ŞEHİR SATIN ALDI" hardal), sırayla büyüyerek açılıyor.
+- Kapanış: son kare 2,8 sn donuyor; "DEVAMI İÇİN" + "TAKİP ET" aynı kutu diliyle.
+- Altyazı değişmedi. Süre 67,9 sn; −15,2 LUFS.
+- Kapak: `cikti/B01_kapak.jpg` (SB03 karesi üstüne), sistem `marka/kapak-sistemi.md`, betik `araclar/kapak.py`.

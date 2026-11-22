@@ -8,7 +8,7 @@ import subprocess, os, re, sys
 B = "diziler/sifir-sehir/bolumler/B01"
 SRC = f"{B}/klipler/onayli"
 OUT = f"{B}/cikti"
-SURUM = "v1"
+SURUM = "v2"
 FPS = 24
 os.makedirs(OUT, exist_ok=True)
 
@@ -31,7 +31,7 @@ EDL = [
  ("P13", 0.20, 5.97, +2.1, [(0.55, 1.30, "Bu arada…"), (1.70, 3.15, "köyün elektrik borcu."), (4.25, 5.20, "Artık sizin.")]),
  ("P14", 1.20, 5.97, +7.0, [(2.80, 3.40, "Rıza."), (4.60, 5.30, "Kaç?")]),
 ]
-DONUK = 1.8          # son karenin dondurulduğu süre (bitiş yazısı)
+DONUK = 2.8          # son karenin dondurulduğu süre (bitiş yazısı)
 HEDEF_LUFS = -15.0
 YATAK_DB = -21       # ortam yatağı kaynağının seviyesi (dB); süzgeçlerden sonra bitmiş kurguda yaklaşık -44 dB
 KAPI = 0.05          # replik dışındaki anlarda klibin kendi sesinin çarpanı (yaklaşık -26 dB)
@@ -67,23 +67,27 @@ ScaledBorderAndShadow: yes
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Alt,Inter SemiBold,40,&H00FFFFFF,&H00FFFFFF,&H00101010,&H78000000,0,0,0,0,100,100,0,0,1,2.6,0.8,2,120,120,500,1
-Style: Kanca,Inter Bold,52,&H00FFFFFF,&H00FFFFFF,&H00101010,&H78000000,0,0,0,0,100,100,0,0,1,3,1,8,90,90,250,1
-Style: Baslik,Inter Black,128,&H00FFFFFF,&H00FFFFFF,&H00101010,&H78000000,0,0,0,0,100,100,2,0,1,5,2,8,60,60,300,1
-Style: BaslikAlt,Inter SemiBold,44,&H00FFFFFF,&H00FFFFFF,&H00101010,&H78000000,0,0,0,0,100,100,6,0,1,2.6,1,8,60,60,460,1
-Style: Son,Inter Black,92,&H00FFFFFF,&H00FFFFFF,&H00101010,&H78000000,0,0,0,0,100,100,0,0,1,4,2,5,80,80,0,1
-Style: SonAlt,Inter SemiBold,48,&H00FFFFFF,&H00FFFFFF,&H00101010,&H78000000,0,0,0,0,100,100,2,0,1,2.6,1,5,80,80,0,1
+Style: KutuKoyu,Inter ExtraBold,58,&H00ECF8FF,&H00ECF8FF,&H00141414,&H00141414,0,0,0,0,100,100,1,0,3,15,0,5,60,60,0,1
+Style: KutuVurgu,Inter Black,90,&H00141414,&H00141414,&H003DB3F2,&H003DB3F2,0,0,0,0,100,100,1,0,3,17,0,5,60,60,0,1
+Style: KutuVurguKucuk,Inter Black,40,&H00141414,&H00141414,&H003DB3F2,&H003DB3F2,0,0,0,0,100,100,3,0,3,12,0,5,60,60,0,1
+Style: Baslik,Inter Black,128,&H00ECF8FF,&H00ECF8FF,&H00141414,&H78000000,0,0,0,0,100,100,2,0,1,6,2,5,60,60,0,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 """
 ev = []
 p01 = EDL[0][2] - EDL[0][1]; p02 = EDL[1][2] - EDL[1][1]
-ev.append((0.10, p01 - 0.05, "Kanca", r"{\fad(120,120)}Kocam bütün birikimimizle\Nbir ŞEHİR satın aldı."))
-ev.append((p01 + 0.25, p01 + p02 - 0.10, "Baslik", r"{\fad(180,180)}SIFIR ŞEHİR"))
-ev.append((p01 + 0.45, p01 + p02 - 0.10, "BaslikAlt", r"{\fad(180,180)}BÖLÜM 1"))
+POP = r"\fscx70\fscy70\t(0,140,\fscx106\fscy106)\t(140,220,\fscx100\fscy100)"
+# açılış kancası: iki eğik kutu, sırayla "pat" diye açılır (marka imzası; kapakla aynı dil)
+ev.append((0.05, p01 - 0.04, "KutuKoyu", r"{\an5\pos(540,250)\frz2\fad(0,90)" + POP + r"}KOCAM BÜTÜN BİRİKİMİMİZLE"))
+ev.append((0.32, p01 - 0.04, "KutuVurgu", r"{\an5\pos(540,372)\frz-2\fad(0,90)" + POP + r"}BİR ŞEHİR SATIN ALDI"))
+# başlık
+ev.append((p01 + 0.20, p01 + p02 - 0.08, "Baslik", r"{\an5\pos(540,300)\fad(160,140)}SIFIR ŞEHİR"))
+ev.append((p01 + 0.45, p01 + p02 - 0.08, "KutuVurguKucuk", r"{\an5\pos(540,430)\frz-2\fad(0,140)" + POP + r"}BÖLÜM 1"))
 for a, b, m in subs: ev.append((a, b, "Alt", m))
-ev.append((SON + 0.15, TOPLAM - 0.05, "Son", r"{\fad(200,150)\pos(540,330)}Borç ne kadar?"))
-ev.append((SON + 0.45, TOPLAM - 0.05, "SonAlt", r"{\fad(200,150)\pos(540,440)}BÖLÜM 2'DE"))
+# kapanış: son kare donar, takip çağrısı (kancayla aynı dil)
+ev.append((SON + 0.30, TOPLAM - 0.05, "KutuKoyu", r"{\an5\pos(540,270)\frz2\fad(0,250)" + POP + r"}DEVAMI İÇİN"))
+ev.append((SON + 0.60, TOPLAM - 0.05, "KutuVurgu", r"{\an5\pos(540,395)\frz-2\fad(0,250)" + POP + r"}TAKİP ET"))
 for a, b, st, m in ev: ass += f"Dialogue: 0,{t(a)},{t(b)},{st},,0,0,0,,{m}\n"
 open(f"{OUT}/B01.ass", "w", encoding="utf-8").write(ass)
 
@@ -94,7 +98,7 @@ for n, (ad, i, o, g, ss) in enumerate(EDL):
     d = o - i
     v = f"[{n}:v]trim=start={i}:end={o},setpts=PTS-STARTPTS,fps={FPS},format=yuv420p"
     if n == len(EDL) - 1:   # son klip: son kareyi dondur, hafif karart, siyaha geç
-        v += f",tpad=stop_mode=clone:stop_duration={DONUK},eq=brightness='if(gt(t,{d}),-0.10,0)':eval=frame,fade=t=out:st={d + DONUK - 0.35}:d=0.35"
+        v += f",tpad=stop_mode=clone:stop_duration={DONUK},eq=brightness='if(gt(t,{d}),-0.07,0)':eval=frame,fade=t=out:st={d + DONUK - 0.3}:d=0.3"
     fv.append(v + f"[v{n}]")
     a = f"[{n}:a]atrim=start={i}:end={o},asetpts=PTS-STARTPTS,volume={g}dB"
     if ad in ORTAM_KLIP:
