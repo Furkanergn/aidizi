@@ -15,7 +15,7 @@ pdfmetrics.registerFont(TTFont("DB","/usr/share/fonts/truetype/dejavu/DejaVuSans
 STYLE=("Stylized 3D animated feature film look, the same film as the reference images: slightly enlarged eyes, smooth simplified animated-film skin with no pores, "
 "realistic cloth and hair detail, soft warm lighting. NOT photorealistic, NOT a photo, NOT 2D, NOT anime. Highest quality: sharp focus, clean edges, correct hands with five fingers, no extra limbs, no warped faces.")
 SELIN=("Selin: woman in her early thirties, golden blonde curls to the jaw, freckles across nose and cheeks, dimples, brown eyes, small gold hoop earrings, "
-"pink ribbed top with flutter sleeves tucked into a burgundy tiered midi skirt, tan flat shoes.")
+"pink ribbed top with a sweetheart neckline and flutter sleeves, tucked into a SHORT burgundy two-tier ruffled mini skirt that ends well above the knee, bare legs, brown leather Mary-Jane flats with a strap. Curvy hourglass figure exactly as in her character sheet.")
 RIZA=("Rıza: man in his mid thirties, messy dark curls, long nose, thick dark eyebrows, light stubble, navy blazer with a red pocket square over a cream open-collar shirt, "
 "brown trousers with a brown belt, burgundy loafers. He is half a head taller than Selin.")
 EMINE=("Emine: sturdy woman in her mid sixties, grey hair in a braided bun under a burgundy floral headscarf tied at the back, thick dark-grey eyebrows, brown eyes, small gold hoop earrings, "
