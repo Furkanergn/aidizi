@@ -42,3 +42,8 @@ Borç tahminleri buraya 👇 En yakın tahmin Bölüm 2'de belli olacak.
 6. Bölümü profile sabitle (dizinin ilk bölümü olarak).
 
 `B01_kapak_izgara_4x5.jpg` yüklenmez; yalnızca kapağın ızgarada nasıl görüneceğini gösteren önizlemedir.
+
+## Hikâyeler (22 Kasım 2026, B01 yayınlandıktan sonra)
+`python3 araclar/hikaye.py` üretir; ikisi de 1080×1920.
+- `cikti/hikaye_B01_yayinda.jpg` — "SIFIR ŞEHİR / BÖLÜM 1 / YAYINDA!" (keçi ve tabela karesi üstüne). Paylaşırken bölümün Reels bağlantısı eklenir.
+- `cikti/hikaye_genel_tanitim.jpg` — "YAPAY ZEKÂYLA / DİZİLER · Yeni bölümler, yeni hikâyeler yolda. · TAKİPTE KAL" (koyu zemin, üç kare kartı).
