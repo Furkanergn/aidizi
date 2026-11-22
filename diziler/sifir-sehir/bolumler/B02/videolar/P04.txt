@@ -12,8 +12,8 @@ Voices (must sound exactly the same in every clip of this series):
 Every character is a native Turkish speaker. They speak ONLY Turkish, with a natural Istanbul accent and the lively, expressive delivery of actors in a Turkish animated comedy film. No English.
 
 0-0.5 s: Both look toward the left edge of the frame.
-0.5-4.5 s: Selin says in Turkish toward the person off screen on the left, calm, precise, like an auditor: "Burada üç kişi yaşıyor. Bu kadar elektriği kim yaktı?"
-4.5-6 s: Nobody speaks. Rıza nods twice, quickly, as if it had been his question too. Selin keeps looking left, waiting.
+0.5-5 s: Selin says in Turkish toward the person off screen on the left, calm, precise, like an auditor: "Amca, burada üç kişi yaşıyorsunuz. Bu kadar elektriği kim yaktı ya?"
+5-6 s: Nobody speaks. Rıza nods twice, quickly, as if it had been his question too. Selin keeps looking left, waiting.
 
 Last frame: both stand exactly where they started, nobody walks; both still looking toward the left edge of the frame, mouths closed.
 

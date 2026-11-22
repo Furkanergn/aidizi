@@ -9,7 +9,7 @@ Her karenin klasöründe (`kareler/SBxx/`) numaralı referanslar ve prompt var: 
 | Kare | Ne | Referanslar | Hangi klipte |
 |---|---|---|---|
 | SB21 | Naci taburede, orta plan, zarf yok | SB10 (B01 onaylı kare); Naci sayfası; Naci ifade sayfası | P05, P10 |
-| SB20 | Köy sokağı, gündüz yanan sokak lambaları | V8 plaka (köy girişi); SB09 (B01 onaylı kare) | P06 |
+| SB20 | Köy sokağı, gündüz yanan sokak lambaları | V8 plaka (köy girişi) | P06 |
 
 Diğer 12 klip B01'in onaylı karelerinden (SB03, SB06, SB09, SB11, SB12, SB14) başlar; yeniden üretilmez.
 
@@ -19,20 +19,20 @@ Flow ayarı her klip için aynı: **kareden videoya · Veo 3.1 Lite · 9:16**. B
 
 | Klip | Ne | Başlangıç karesi | Süre | Replikler | Kare |
 |---|---|---|---|---|---|
-| P01 | Kaç? | SB14 | 6 sn | SELİN: "Rıza. Kaç?" / RIZA: "Üç…" / SELİN: "Üç bin mi?" | Hazır |
-| P02 | Üç yüz otuz üç bin | P01'in son karesi | 6 sn | RIZA: "Üç yüz otuz üç bin… üç yüz otuz üç lira." | Bekleniyor |
-| P03 | Otuz üç kuruş | SB12 | 4 sn | NACİ: "Otuz üç kuruş." | Hazır |
-| P04 | Kim yaktı | SB11 | 6 sn | SELİN: "Burada üç kişi yaşıyor. Bu kadar elektriği kim yaktı?" | Hazır |
-| P05 | Sokak lambaları | SB21 | 6 sn | NACİ: "Sokak lambaları." / "On iki yıldır yanıyor." | Bekleniyor |
+| P01 | Kaç? | SB14 | 6 sn | SELİN: "Rıza. Kaç para?" / RIZA: "Üç…" / SELİN: "Üç bin mi?" | Hazır |
+| P02 | Üç yüz otuz üç bin | P01'in son karesi | 6 sn | RIZA: "Üç yüz otuz üç bin… üç yüz otuz üç lira, hayatım." | Bekleniyor |
+| P03 | Otuz üç kuruş | SB12 | 4 sn | NACİ: "Otuz üç de kuruşu var." | Hazır |
+| P04 | Kim yaktı | SB11 | 6 sn | SELİN: "Amca, burada üç kişi yaşıyorsunuz. Bu kadar elektriği kim yaktı ya?" | Hazır |
+| P05 | Sokak lambaları | SB21 | 6 sn | NACİ: "Sokak lambaları." / "On iki senedir yanıyor." | Hazır |
 | P06 | Lambalar | SB20 | 4 sn | — | Bekleniyor |
-| P07 | Şalter nerede | SB11 | 6 sn | RIZA: "Sorun değil! Kapatırız, biter. Şalter nerede?" | Hazır |
+| P07 | Şalter nerede | SB11 | 6 sn | RIZA: "Ya tamam, sorun yok! Kapatırız, biter. Şalter nerede amca?" | Hazır |
 | P08 | Muhtarda | SB12 | 4 sn | NACİ: "Muhtarda." | Hazır |
-| P09 | Toplantı | SB11 | 6 sn | RIZA: "Süper! Muhtarla hemen bir toplantı ayarlayalım." | Hazır |
-| P10 | Orada | SB21 | 4 sn | NACİ: "Kendisi orada." | Bekleniyor |
+| P09 | Toplantı | SB11 | 6 sn | RIZA: "Süper! Hemen bir toplantı ayarlayalım muhtarla." | Hazır |
+| P10 | Orada | SB21 | 4 sn | NACİ: "Kendisi şurada." | Hazır |
 | P11 | Muhtar | SB09 | 4 sn | — | Hazır |
-| P12 | Demokratik süreç | SB03 | 6 sn | SELİN: "Muhtar… keçi." / RIZA: "Demokratik bir süreç olmuştur aşkım." | Hazır |
+| P12 | Demokratik süreç | SB03 | 6 sn | SELİN: "Rıza… bu muhtar keçi." / RIZA: "Demokratik bir süreç olmuştur aşkım." | Hazır |
 | P13 | Üç oy | SB12 | 4 sn | NACİ: "Üç oyla seçildi." | Hazır |
-| P14 | Git konuş | SB06 | 6 sn | SELİN: "Git konuş." / RIZA: "Keçiyle mi?" / SELİN: "Muhtarla." | Hazır |
+| P14 | Git konuş | SB06 | 6 sn | SELİN: "Hadi git konuş." / RIZA: "Keçiyle mi ya?" / SELİN: "Muhtarla, hayatım." | Hazır |
 | **Toplam** | | | **72 sn** | | |
 
 Notlar:
@@ -64,7 +64,7 @@ Voices (must sound exactly the same in every clip of this series):
 
 Every character is a native Turkish speaker. They speak ONLY Turkish, with a natural Istanbul accent and the lively, expressive delivery of actors in a Turkish animated comedy film. No English.
 
-0-1.5 s: Selin, watching Rıza's face, says in Turkish, calm and quiet: "Rıza. Kaç?"
+0-1.5 s: Selin, watching Rıza's face, says in Turkish, calm and quiet: "Rıza. Kaç para?"
 1.5-3 s: Rıza swallows hard, eyes still on the sheet, and says in Turkish, in a small voice that trails off: "Üç…"
 3-4.5 s: Selin answers in Turkish, with a little careful hope: "Üç bin mi?"
 4.5-6 s: Nobody speaks. Rıza slowly shakes his head, very slightly, without looking up. Selin's face goes flat.
@@ -98,14 +98,14 @@ Voices (must sound exactly the same in every clip of this series):
 
 Every character is a native Turkish speaker. They speak ONLY Turkish, with a natural Istanbul accent and the lively, expressive delivery of actors in a Turkish animated comedy film. No English.
 
-0-4.5 s: Rıza reads from the sheet in Turkish, slowly, his voice getting smaller with every word, with a pause in the middle: "Üç yüz otuz üç bin… üç yüz otuz üç lira."
-4.5-6 s: Nobody speaks. Selin closes her eyes and breathes out slowly through her nose. Rıza stays bent over the sheet, not daring to look at her.
+0-5 s: Rıza reads from the sheet in Turkish, slowly, his voice getting smaller with every word, with a pause in the middle: "Üç yüz otuz üç bin… üç yüz otuz üç lira, hayatım."
+5-6 s: Nobody speaks. Selin closes her eyes and breathes out slowly through her nose. Rıza stays bent over the sheet, not daring to look at her.
 
 Last frame: both stand exactly where they started, nobody walks; Selin's eyes closed, Rıza looking down at the sheet, both mouths closed.
 
 Eyes: Rıza looks only at the sheet. Selin looks at Rıza, then closes her eyes. Nobody looks at the camera. Faces, hair and clothes stay identical to the first frame.
 
-Pronunciation: the name "Rıza" contains the Turkish dotless ı. Say it "RUH-zah", never "Riza" or "Reeza". The number is read as six clear words, then a pause, then five words: "üç yüz otuz üç bin" (333 thousand), "üç yüz otuz üç lira" (333 lira). "üç" sounds like "ewch", "yüz" like "yewz", "otuz" like "oh-TOOZ".
+Pronunciation: the name "Rıza" contains the Turkish dotless ı. Say it "RUH-zah", never "Riza" or "Reeza". The number is read as six clear words, then a pause, then five words and a meek little "hayatım" (my dear) at the end: "üç yüz otuz üç bin" (333 thousand), "üç yüz otuz üç lira" (333 lira). "üç" sounds like "ewch", "yüz" like "yewz", "otuz" like "oh-TOOZ".
 
 Only the speaking character's mouth moves. Audio: the voices and light wind only. No music, no subtitles, no on-screen text.
 ```
@@ -130,7 +130,7 @@ Voices (must sound exactly the same in every clip of this series):
 Every character is a native Turkish speaker. They speak ONLY Turkish, with a natural Istanbul accent and the lively, expressive delivery of actors in a Turkish animated comedy film. No English.
 
 0-0.5 s: Naci looks toward the right edge of the frame, face flat.
-0.5-2.5 s: He adds in Turkish, dry and helpful, as if correcting a small detail: "Otuz üç kuruş."
+0.5-2.5 s: He adds in Turkish, dry and helpful, as if correcting a small detail: "Otuz üç de kuruşu var."
 2.5-4 s: He does not speak. He raises the glass to his lips and takes one small sip, eyes half closed.
 
 Last frame: Naci in the same place, glass at his lips, mouth closed on the glass.
@@ -163,8 +163,8 @@ Voices (must sound exactly the same in every clip of this series):
 Every character is a native Turkish speaker. They speak ONLY Turkish, with a natural Istanbul accent and the lively, expressive delivery of actors in a Turkish animated comedy film. No English.
 
 0-0.5 s: Both look toward the left edge of the frame.
-0.5-4.5 s: Selin says in Turkish toward the person off screen on the left, calm, precise, like an auditor: "Burada üç kişi yaşıyor. Bu kadar elektriği kim yaktı?"
-4.5-6 s: Nobody speaks. Rıza nods twice, quickly, as if it had been his question too. Selin keeps looking left, waiting.
+0.5-5 s: Selin says in Turkish toward the person off screen on the left, calm, precise, like an auditor: "Amca, burada üç kişi yaşıyorsunuz. Bu kadar elektriği kim yaktı ya?"
+5-6 s: Nobody speaks. Rıza nods twice, quickly, as if it had been his question too. Selin keeps looking left, waiting.
 
 Last frame: both stand exactly where they started, nobody walks; both still looking toward the left edge of the frame, mouths closed.
 
@@ -179,7 +179,7 @@ Only the speaking character's mouth moves. Audio: the voices and light wind only
 
 **Başlangıç karesi:** SB21 · **Süre:** 6 sn
 
-Kare henüz hazır değil.
+![SB21](klipler/P05/P05_baslangic_karesi_SB21.jpg)
 
 ```
 Stylized 3D animated feature film look, single continuous shot. Camera is locked off for the whole shot: no pan, no zoom, no cut. Duration 6 seconds.
@@ -198,14 +198,14 @@ Every character is a native Turkish speaker. They speak ONLY Turkish, with a nat
 0-0.5 s: Naci looks toward the right edge of the frame, relaxed.
 0.5-2 s: He says in Turkish, unhurried: "Sokak lambaları."
 2-3 s: He does not speak. He glances up at the sky for a moment, then back.
-3-5 s: He adds in Turkish, as plain fact: "On iki yıldır yanıyor."
+3-5 s: He adds in Turkish, as plain fact: "On iki senedir yanıyor."
 5-6 s: He does not speak. A tiny shrug of one shoulder.
 
 Last frame: Naci sitting exactly where he started, glass in his right hand at chest height, left hand on his knee, mouth closed.
 
 Eyes: Naci looks toward the right edge of the frame, at people off screen. Nobody looks at the camera. Faces, hair and clothes stay identical to the first frame.
 
-Pronunciation: the name "Rıza" contains the Turkish dotless ı. Say it "RUH-zah", never "Riza" or "Reeza". "yıldır" has the dotless ı: "yuhl-DUHR".
+Pronunciation: the name "Rıza" contains the Turkish dotless ı. Say it "RUH-zah", never "Riza" or "Reeza". "senedir" sounds like "seh-neh-DEER".
 
 Only the speaking character's mouth moves. Audio: the voices and light wind only. No music, no subtitles, no on-screen text.
 ```
@@ -254,14 +254,14 @@ Voices (must sound exactly the same in every clip of this series):
 Every character is a native Turkish speaker. They speak ONLY Turkish, with a natural Istanbul accent and the lively, expressive delivery of actors in a Turkish animated comedy film. No English.
 
 0-0.5 s: Both look toward the left edge of the frame. Rıza's stiff smile widens into a confident one.
-0.5-4 s: Rıza says in Turkish toward the person off screen on the left, bright and fast, a man with a solution: "Sorun değil! Kapatırız, biter. Şalter nerede?"
-4-6 s: Nobody speaks. Rıza keeps smiling left, eyebrows up, waiting. Selin's eyes slide sideways to Rıza for a moment, unimpressed, then back to the left.
+0.5-4.5 s: Rıza says in Turkish toward the person off screen on the left, bright and fast, a man with a solution: "Ya tamam, sorun yok! Kapatırız, biter. Şalter nerede amca?"
+4.5-6 s: Nobody speaks. Rıza keeps smiling left, eyebrows up, waiting. Selin's eyes slide sideways to Rıza for a moment, unimpressed, then back to the left.
 
 Last frame: both stand exactly where they started, nobody walks; both looking toward the left edge of the frame, mouths closed.
 
 Eyes: Rıza looks only toward the left edge of the frame. Selin looks left, glances at Rıza once, then left again. Selin does not speak. Nobody looks at the camera. Faces, hair and clothes stay identical to the first frame.
 
-Pronunciation: the name "Rıza" contains the Turkish dotless ı. Say it "RUH-zah", never "Riza" or "Reeza". "şalter" sounds like "shal-TEHR". "değil" sounds like "deh-EEL".
+Pronunciation: the name "Rıza" contains the Turkish dotless ı. Say it "RUH-zah", never "Riza" or "Reeza". "şalter" sounds like "shal-TEHR".
 
 Only the speaking character's mouth moves. Audio: the voices and light wind only. No music, no subtitles, no on-screen text.
 ```
@@ -319,7 +319,7 @@ Voices (must sound exactly the same in every clip of this series):
 Every character is a native Turkish speaker. They speak ONLY Turkish, with a natural Istanbul accent and the lively, expressive delivery of actors in a Turkish animated comedy film. No English.
 
 0-0.5 s: Both look toward the left edge of the frame. Rıza's face lights up.
-0.5-4 s: Rıza says in Turkish toward the person off screen on the left, delighted, office-meeting energy: "Süper! Muhtarla hemen bir toplantı ayarlayalım."
+0.5-4 s: Rıza says in Turkish toward the person off screen on the left, delighted, office-meeting energy: "Süper! Hemen bir toplantı ayarlayalım muhtarla."
 4-6 s: Nobody speaks. Rıza nods to himself, pleased. Selin stays perfectly still and blinks once, slowly.
 
 Last frame: both stand exactly where they started, nobody walks; both looking toward the left edge of the frame, mouths closed.
@@ -335,7 +335,7 @@ Only the speaking character's mouth moves. Audio: the voices and light wind only
 
 **Başlangıç karesi:** SB21 · **Süre:** 4 sn
 
-Kare henüz hazır değil.
+![SB21](klipler/P10/P10_baslangic_karesi_SB21.jpg)
 
 ```
 Stylized 3D animated feature film look, single continuous shot. Camera is locked off for the whole shot: no pan, no zoom, no cut. Duration 4 seconds.
@@ -352,7 +352,7 @@ Voices (must sound exactly the same in every clip of this series):
 Every character is a native Turkish speaker. They speak ONLY Turkish, with a natural Istanbul accent and the lively, expressive delivery of actors in a Turkish animated comedy film. No English.
 
 0-1 s: Naci looks toward the right edge of the frame.
-1-2.5 s: He tips his chin once toward the right, pointing with his chin only, and says in Turkish, politely: "Kendisi orada."
+1-2.5 s: He tips his chin once toward the right, pointing with his chin only, and says in Turkish, politely: "Kendisi şurada."
 2.5-4 s: He does not speak. He looks down into his tea glass, faintly amused.
 
 Last frame: Naci sitting exactly where he started, looking down at his glass, mouth closed.
@@ -410,7 +410,7 @@ Voices (must sound exactly the same in every clip of this series):
 Every character is a native Turkish speaker. They speak ONLY Turkish, with a natural Istanbul accent and the lively, expressive delivery of actors in a Turkish animated comedy film. No English.
 
 0-1 s: Both stare ahead, past the camera. Rıza's grin slowly stiffens on his face.
-1-3 s: Selin, without turning her head, says in Turkish, completely flat, with a pause: "Muhtar… keçi."
+1-3 s: Selin, without turning her head, says in Turkish, completely flat, with a pause: "Rıza… bu muhtar keçi."
 3-5.5 s: Rıza, still staring ahead with the stuck grin, answers in Turkish, quick and reassuring, as if it were perfectly normal: "Demokratik bir süreç olmuştur aşkım."
 5.5-6 s: Nobody speaks. Both keep staring ahead.
 
@@ -476,9 +476,9 @@ Voices (must sound exactly the same in every clip of this series):
 
 Every character is a native Turkish speaker. They speak ONLY Turkish, with a natural Istanbul accent and the lively, expressive delivery of actors in a Turkish animated comedy film. No English.
 
-0-1.5 s: Selin, looking straight at Rıza, says in Turkish, calm, an order: "Git konuş."
-1.5-3.5 s: Rıza turns his head to her and asks in Turkish, small voice, hoping he misheard: "Keçiyle mi?"
-3.5-5 s: Selin answers in Turkish, flat, final: "Muhtarla."
+0-1.5 s: Selin, looking straight at Rıza, says in Turkish, calm, an order: "Hadi git konuş."
+1.5-3.5 s: Rıza turns his head to her and asks in Turkish, small voice, hoping he misheard: "Keçiyle mi ya?"
+3.5-5 s: Selin answers in Turkish, flat, final, with a sweetly sarcastic "hayatım" (my dear): "Muhtarla, hayatım."
 5-6 s: Nobody speaks. Rıza swallows and slowly turns his face forward again. Selin keeps looking at him.
 
 Last frame: both stand exactly where they started, nobody walks; Selin looking at Rıza, Rıza facing forward with a frightened little smile, mouths closed.

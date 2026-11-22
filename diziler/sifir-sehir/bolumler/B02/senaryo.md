@@ -1,6 +1,6 @@
 # SIFIR ŞEHİR — Bölüm 2: "Muhtar"
 
-**Durum:** v1, kullanıcı onayı bekliyor · 22 Kasım 2026
+**Durum:** v1.1 (replikler daha gündelik, karı koca ağzı), kullanıcı onayı bekliyor · 22 Kasım 2026
 **Süre:** 72 saniye · 14 klip · aynı mekân ve ışık (B01'in devamı, aynı dakika) · Selin, Rıza, Naci, keçi
 
 ## Bölümün işi
@@ -22,37 +22,37 @@
 
 ### P01 — Kaç? (6 sn) · kare: B01 SB14
 İkili plan. Rıza kâğıda bakıyor, Selin Rıza'nın yüzüne.
-> **SELİN** (sakin): Rıza. Kaç?
+> **SELİN** (sakin): Rıza. Kaç para?
 > **RIZA** (yutkunur, kısık): Üç…
 > **SELİN** (ufak bir umutla): Üç bin mi?
 
 Rıza başını hafifçe iki yana sallar.
 
 ### P02 — Rakam (6 sn) · kare: P01'in son karesi
-> **RIZA** (sesi her kelimede küçülerek): Üç yüz otuz üç bin… üç yüz otuz üç lira.
+> **RIZA** (sesi her kelimede küçülerek): Üç yüz otuz üç bin… üç yüz otuz üç lira, hayatım.
 
 Selin gözlerini kapatır, burnundan nefes verir.
 
 ### P03 — Kuruş (4 sn) · kare: B01 SB12
-> **NACİ** (yardımsever, kuru): Otuz üç kuruş.
+> **NACİ** (yardımsever, kuru): Otuz üç de kuruşu var.
 
 Çayından bir yudum alır. Başlık (kurguda): **SIFIR ŞEHİR · Bölüm 2**
 
 ### P04 — Kim yaktı (6 sn) · kare: B01 SB11
-> **SELİN** (denetçi gibi): Burada üç kişi yaşıyor. Bu kadar elektriği kim yaktı?
+> **SELİN** (denetçi gibi): Amca, burada üç kişi yaşıyorsunuz. Bu kadar elektriği kim yaktı ya?
 
 Rıza kendi sorusuymuş gibi hızlı hızlı başını sallar.
 
 ### P05 — Sokak lambaları (6 sn) · kare: yeni SB21 (Naci, zarf yok)
 > **NACİ**: Sokak lambaları.
 > *(göğe bakar)*
-> **NACİ**: On iki yıldır yanıyor.
+> **NACİ**: On iki senedir yanıyor.
 
 ### P06 — Lambalar (4 sn) · kare: yeni SB20
 Geniş plan. Güpegündüz yanan dört sokak lambası. Biri bir kez titrer, yanmaya devam eder. Yalnızca elektrik vızıltısı.
 
 ### P07 — Şalter (6 sn) · kare: B01 SB11
-> **RIZA** (çözüm bulmuş adam): Sorun değil! Kapatırız, biter. Şalter nerede?
+> **RIZA** (çözüm bulmuş adam): Ya tamam, sorun yok! Kapatırız, biter. Şalter nerede amca?
 
 Selin göz ucuyla Rıza'ya bakar.
 
@@ -62,13 +62,13 @@ Selin göz ucuyla Rıza'ya bakar.
 Bir kaşı hafifçe kalkar.
 
 ### P09 — Toplantı (6 sn) · kare: B01 SB11
-> **RIZA** (sevinçle): Süper! Muhtarla hemen bir toplantı ayarlayalım.
+> **RIZA** (sevinçle): Süper! Hemen bir toplantı ayarlayalım muhtarla.
 
 Selin kıpırdamaz, bir kez ağır ağır göz kırpar.
 
 ### P10 — Orada (4 sn) · kare: yeni SB21
 Naci yalnızca çenesiyle işaret eder.
-> **NACİ** (kibarca): Kendisi orada.
+> **NACİ** (kibarca): Kendisi şurada.
 
 ### P11 — Muhtar (4 sn) · kare: B01 SB09
 Geniş plan. Yerdeki tabelanın yanında keçi, ağır ağır çiğniyor. Çan bir kez tıngırdar.
@@ -76,16 +76,16 @@ Ekran yazısı (kurguda, eğik kutu): **MUHTAR**
 
 ### P12 — Demokratik süreç (6 sn) · kare: B01 SB03
 İkili plan, ikisi de karşıya bakıyor. Rıza'nın gülümsemesi yüzünde donar.
-> **SELİN** (dümdüz): Muhtar… keçi.
+> **SELİN** (dümdüz): Rıza… bu muhtar keçi.
 > **RIZA** (hiçbir şey yokmuş gibi): Demokratik bir süreç olmuştur aşkım.
 
 ### P13 — Üç oy (4 sn) · kare: B01 SB12
 > **NACİ** (sessiz bir gururla): Üç oyla seçildi.
 
 ### P14 — Git konuş (6 sn) · kare: B01 SB06
-> **SELİN**: Git konuş.
-> **RIZA** (yanlış duymuş olmayı umarak): Keçiyle mi?
-> **SELİN**: Muhtarla.
+> **SELİN**: Hadi git konuş.
+> **RIZA** (yanlış duymuş olmayı umarak): Keçiyle mi ya?
+> **SELİN** (tatlı tatlı): Muhtarla, hayatım.
 
 Rıza yutkunur, önüne döner. Son kare donar. Kurguda: **devamı için takip et**.
 

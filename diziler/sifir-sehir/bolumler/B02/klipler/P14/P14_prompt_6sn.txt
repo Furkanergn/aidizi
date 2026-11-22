@@ -12,9 +12,9 @@ Voices (must sound exactly the same in every clip of this series):
 
 Every character is a native Turkish speaker. They speak ONLY Turkish, with a natural Istanbul accent and the lively, expressive delivery of actors in a Turkish animated comedy film. No English.
 
-0-1.5 s: Selin, looking straight at Rıza, says in Turkish, calm, an order: "Git konuş."
-1.5-3.5 s: Rıza turns his head to her and asks in Turkish, small voice, hoping he misheard: "Keçiyle mi?"
-3.5-5 s: Selin answers in Turkish, flat, final: "Muhtarla."
+0-1.5 s: Selin, looking straight at Rıza, says in Turkish, calm, an order: "Hadi git konuş."
+1.5-3.5 s: Rıza turns his head to her and asks in Turkish, small voice, hoping he misheard: "Keçiyle mi ya?"
+3.5-5 s: Selin answers in Turkish, flat, final, with a sweetly sarcastic "hayatım" (my dear): "Muhtarla, hayatım."
 5-6 s: Nobody speaks. Rıza swallows and slowly turns his face forward again. Selin keeps looking at him.
 
 Last frame: both stand exactly where they started, nobody walks; Selin looking at Rıza, Rıza facing forward with a frightened little smile, mouths closed.
