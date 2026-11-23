@@ -8,7 +8,7 @@ import subprocess, os, re, sys
 B = "diziler/sifir-sehir/bolumler/B03"
 SRC = f"{B}/klipler/onayli"
 OUT = f"{B}/cikti"
-SURUM = "v2"
+SURUM = "v3"
 FPS = 24
 os.makedirs(OUT, exist_ok=True)
 
@@ -16,29 +16,29 @@ os.makedirs(OUT, exist_ok=True)
 # Kazançlar: diyalog klipleri yaklaşık -18 LUFS'a çekilir (ölçülen değerler kayit.md içinde); ortam klipleri kısılır.
 EDL = [
  ("P01",  0.55, 5.90, +5.3, [(1.00, 1.85, "Hadi aşkım."), (2.10, 3.15, "Toplantın var.")]),
- ("P02a", 0.10, 1.70,  0.0, []),
  ("P02c", 0.50, 3.70, +5.0, [(1.80, 2.75, "Sayın Muhtar…")]),
  ("P03",  0.60, 3.00, +6.0, []),
  ("P04",  0.80, 7.93, -4.7, [(1.10, 1.75, "Rıza ben."), (2.85, 3.85, "Yeni ortağınız."), (4.35, 6.45, "Şalteri kapatıyoruz, tasarrufu paylaşıyoruz."), (6.55, 7.70, "Kazan kazan!")]),
  ("P05",  0.30, 5.90, +4.6, [(1.40, 3.20, "Öncekiler slayt getirmişti.")]),
- ("P06",  0.60, 5.90,  0.0, [(1.65, 2.80, "Bakın, fatura burada."), (3.20, 4.55, "Üç yüz otuz üç bin—")]),
+ ("P06",  0.60, 4.58,  0.0, [(1.65, 2.80, "Bakın, fatura burada."), (3.20, 4.55, "Üç yüz otuz üç bin—")]),
  ("P07",  0.00, 3.60, +2.7, []),
  ("P09",  0.20, 5.90, -3.3, [(1.70, 3.20, "Koş Rıza, koş!"), (4.25, 5.20, "Yetişemez.")]),
  ("P08",  0.30, 5.60, -3.3, [(1.40, 2.50, "Sayın Muhtar!"), (2.90, 4.00, "Muhtar Bey!"), (4.40, 5.40, "Bir dakika!")]),
  ("P10",  0.60, 5.90,  0.0, [(3.05, 3.85, "Ver bakayım.")]),
- ("P11",  0.60, 7.60, -2.2, [(1.25, 2.10, "Sen kimsin?"), (3.00, 4.00, "Yeni… sahip…"), (4.10, 5.30, "Sahip mi?!")]),
+ ("P11",  0.60, 7.60, -2.2, [(1.25, 2.10, "Sen kimsin?"), (3.00, 4.00, "Yeni… sahip…")]),
  ("P12",  1.00, 5.90,  0.0, [(1.50, 2.75, "Şalter Muhtar'da."), (3.05, 4.05, "Muhtar bende."), (4.40, 5.50, "Anahtar da burada.")]),
  ("P13",  0.40, 5.90, +3.2, [(0.70, 1.55, "Verir misiniz?"), (3.15, 3.80, "Veririm."), (4.25, 5.00, "Bir şartla.")]),
 ]
 EDL = [e for e in EDL if os.path.exists(f"{SRC}/{e[0]}.mp4")]   # eksik klip atlanır (ön izleme)
 DONUK = 3.6          # son karenin dondurulduğu süre (bitiş yazısı)
 HEDEF_LUFS = -15.0
-YATAK_DB = -21       # ortam yatağı kaynağının seviyesi (dB); süzgeçlerden sonra bitmiş kurguda yaklaşık -44 dB
-KAPI = 0.05          # replik dışındaki anlarda klibin kendi sesinin çarpanı (yaklaşık -26 dB)
-RAMPA = 0.09         # kapının açılıp kapanma süresi (sn)
-PAY = 0.14           # repliğin önüne ve arkasına bırakılan pay (sn)
+YATAK_DB = -17       # ortam yatağı kaynağının seviyesi (dB); süzgeçlerden sonra bitmiş kurguda yaklaşık -44 dB
+KAPI = 0.35          # replik dışındaki anlarda klibin kendi sesinin çarpanı (yaklaşık -26 dB)
+RAMPA = 0.22         # kapının açılıp kapanma süresi (sn)
+PAY = 0.20           # repliğin önüne ve arkasına bırakılan pay (sn)
 # Replik olmayan ama korunması gereken sesler (kaynak klip zamanı)
-EK_SES = {"P02c": [(0.80, 1.35)], "P05": [(0.3, 5.9)], "P06": [(4.7, 5.5)], "P07": [(0.0, 3.6)], "P08": [(0.3, 5.6)], "P09": [(0.2, 5.9)], "P10": [(0.6, 3.0)], "P11": [(5.3, 7.6)]}
+SUS = {"P11": [(4.02, 5.55)]}   # tamamen susturulan aralıklar (kaynak klip zamanı): P11'de "Sahip mi?" yanlış karakterin sesiyle söylendi
+EK_SES = {"P02c": [(0.80, 1.35)], "P05": [(0.3, 5.9)], "P07": [(0.0, 3.6)], "P08": [(0.3, 5.6)], "P09": [(0.2, 5.9)], "P10": [(0.6, 3.0)], "P11": [(5.9, 7.6)]}
 # Replik içermeyen klipler: kendi sesleri bu çarpanla, yumuşak giriş-çıkışla kalır
 ORTAM_KLIP = {"P02a": 0.0, "P03": 0.6}
 
@@ -107,7 +107,8 @@ for n, (ad, i, o, g, ss) in enumerate(EDL):
         # konuşma kapısı: yalnız replik aralıklarında klibin sesi açık, arada kısık
         ar = [(max(x, i) - i - PAY, min(y, o) - i + PAY) for x, y, _ in ss] + [(x - i, y - i) for x, y in EK_SES.get(ad, [])]
         w = "+".join(f"clip((t-{x - RAMPA:.3f})/{RAMPA},0,1)*clip(({y + RAMPA:.3f}-t)/{RAMPA},0,1)" for x, y in ar)
-        a += f",volume='{KAPI}+{1 - KAPI}*min(1,{w})':eval=frame,afade=t=in:st=0:d=0.03,afade=t=out:st={d - 0.04}:d=0.04"
+        a += f",volume='{KAPI}+{1 - KAPI}*min(1,{w})':eval=frame,afade=t=in:st=0:d=0.12,afade=t=out:st={d - 0.12}:d=0.12"
+        for x, y in SUS.get(ad, []): a += f",volume='1-clip((t-{x - i:.3f})/0.06,0,1)*clip(({y - i:.3f}-t)/0.06,0,1)':eval=frame"
     if n == len(EDL) - 1: a += f",apad=pad_dur={DONUK}"
     fa.append(a + f"[a{n}]")
     lv += f"[v{n}]"; la += f"[a{n}]"
@@ -116,8 +117,10 @@ fv.append(f"{lv}concat=n={N}:v=1:a=0[vc]")
 fv.append(f"[vc]subtitles={OUT}/B03.ass:fontsdir=/usr/share/fonts/opentype/inter[vout]")
 fa.append(f"{la}concat=n={N}:v=0:a=1[ac]")
 # ortam yatağı: bölüm boyunca kesintisiz, yavaşça dalgalanan alçak frekanslı gürültü (yapay rüzgâr); kesmelerde ortam sesinin değişmesini örter
-fa.append(f"anoisesrc=color=pink:sample_rate=48000:duration={TOPLAM}:seed=7,highpass=f=120,lowpass=f=700,tremolo=f=0.13:d=0.45,volume={YATAK_DB}dB,afade=t=in:st=0:d=0.3,aformat=channel_layouts=stereo[bed]")
-MUZIK = os.environ.get("MUZIK")   # verilirse bitişte çalar: son repliğin ardından girer, donuk karede öne çıkar
+fa.append(f"anoisesrc=color=pink:sample_rate=48000:duration={TOPLAM}:seed=7,highpass=f=120,lowpass=f=2200,tremolo=f=0.13:d=0.45,volume={YATAK_DB}dB,afade=t=in:st=0:d=0.3,aformat=channel_layouts=stereo[bed]")
+MUZIK = os.environ.get("MUZIK", "diziler/sifir-sehir/muzik/bitis_1.mp3")   # varsayılan: müzikli bitiş (kullanıcı tercihi); MUZIK= boş verilirse müziksiz
+if MUZIK and not os.path.exists(MUZIK): MUZIK = None
+_ = os.environ.get("MUZIK")   # verilirse bitişte çalar: son repliğin ardından girer, donuk karede öne çıkar
 if MUZIK:
     inp += ["-i", MUZIK]; mi = len(EDL)
     MSURE = 11.4                 # müziğin kullanılan uzunluğu; son vuruş videonun sonuna denk gelir
@@ -125,7 +128,6 @@ if MUZIK:
     ac = SON - mb                # müzik zamanında donuk karenin başladığı an
     fa.append(f"[{mi}:a]atrim=0:{MSURE},asetpts=PTS-STARTPTS,aformat=sample_rates=48000:channel_layouts=stereo,volume='0.16+0.84*clip((t-{ac - 0.25:.2f})/0.35,0,1)':eval=frame,volume=-7dB,afade=t=in:st=0:d=0.4,adelay={mb * 1000:.0f}:all=1[mz]")
     fa.append(f"[ac][bed][mz]amix=inputs=3:normalize=0:duration=first,afade=t=out:st={TOPLAM - 0.25}:d=0.25[amix]")
-    SURUM = SURUM + "_muzikli"
 else:
     fa.append(f"[ac][bed]amix=inputs=2:normalize=0:duration=first,afade=t=out:st={TOPLAM - 0.25}:d=0.25[amix]")
 
