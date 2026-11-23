@@ -115,6 +115,19 @@ Küçük kusur kurguda kesilerek çözülür (replikten sonra kameraya dönen ka
 
 Her teslimde: neyin onaylandığı, neyin kontrol edilemediği (ses), bilinen kusurlar, harcanan kredi, kullanıcının yapacağı sıradaki tek adım. Yayın metni, sabitlenecek yorum ve paylaşım adımları bir dosyada durur.
 
+## Başka skill'lerle birlikte kullanım
+
+Bu skill hattın sahibidir; aşağıdakiler yüklüyse belirli aşamalarda yardımcı olarak açılır. Çelişki olursa bu skill'in kuralları geçerlidir, çünkü onlar başka modeller ve başka projeler için yazılmıştır.
+
+| Aşama | Yardımcı skill | Ondan ne alınır |
+|---|---|---|
+| Senaryoyu planlara bölme | `short-drama-skills` | tempo, plan bölme ilkeleri, diyaloğu güç mücadelesi olarak kurma |
+| Mizansen ve plan listesi | `cinematic-director` | yalnızca `blocking-and-staging`, `continuity-bible`, `failure-modes` kaynakları; yönetmen üslupları gerekmez |
+| Kurgu kararları | `sahmeran-kurgu-editoru` | kesme ölçütleri, sahne boyunca ses kurma, eksik plan isteği |
+| Ekran yazısı ve geçiş tarifleri | `video-edit-pipeline` | ffmpeg tarifleri, hareket eğrileri |
+
+Genel amaçlı prompt yazma skill'leri (`ai-prompt-builder`, `video-prompt-builder`) bu hatta kullanılmaz: promptlar `referanslar/` altındaki kalıplarla yazılır; farklı bir biçim, doğrulanmış kalıbı bozar.
+
 ## Sık yapılan hatalar ve sebepleri
 
 | Belirti | Sebep | Çözüm |
