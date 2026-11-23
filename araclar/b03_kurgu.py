@@ -8,14 +8,14 @@ import subprocess, os, re, sys
 B = "diziler/sifir-sehir/bolumler/B03"
 SRC = f"{B}/klipler/onayli"
 OUT = f"{B}/cikti"
-SURUM = "v1"
+SURUM = "v2"
 FPS = 24
 os.makedirs(OUT, exist_ok=True)
 
 # Klip listesi: (ad, giriş sn, çıkış sn, ses kazancı dB, altyazılar[(başla, bitir, metin)] kaynak klip zamanıyla)
 # Kazançlar: diyalog klipleri yaklaşık -18 LUFS'a çekilir (ölçülen değerler kayit.md içinde); ortam klipleri kısılır.
 EDL = [
- ("P01",  0.30, 5.90,  0.0, []),   # klip gelince zamanlar ve altyazı ölçülecek
+ ("P01",  0.55, 5.90, +5.3, [(1.00, 1.85, "Hadi aşkım."), (2.10, 3.15, "Toplantın var.")]),
  ("P02a", 0.10, 1.70,  0.0, []),
  ("P02c", 0.50, 3.70, +5.0, [(1.80, 2.75, "Sayın Muhtar…")]),
  ("P03",  0.60, 3.00, +6.0, []),
@@ -31,7 +31,7 @@ EDL = [
  ("P13",  0.40, 5.90, +3.2, [(0.70, 1.55, "Verir misiniz?"), (3.15, 3.80, "Veririm."), (4.25, 5.00, "Bir şartla.")]),
 ]
 EDL = [e for e in EDL if os.path.exists(f"{SRC}/{e[0]}.mp4")]   # eksik klip atlanır (ön izleme)
-DONUK = 3.2          # son karenin dondurulduğu süre (bitiş yazısı)
+DONUK = 3.6          # son karenin dondurulduğu süre (bitiş yazısı)
 HEDEF_LUFS = -15.0
 YATAK_DB = -21       # ortam yatağı kaynağının seviyesi (dB); süzgeçlerden sonra bitmiş kurguda yaklaşık -44 dB
 KAPI = 0.05          # replik dışındaki anlarda klibin kendi sesinin çarpanı (yaklaşık -26 dB)
@@ -84,7 +84,7 @@ ev.append((0.32, 3.3, "KutuVurgu", r"{\an5\pos(540,325)\frz-3\fad(0,90)" + POP +
 if "P03" in starts: ev.append((starts["P03"] + 0.15, starts["P03"] + 2.3, "KutuVurguKucuk", r"{\an5\pos(540,150)\frz-2\fad(0,140)" + POP + r"}SIFIR ŞEHİR · BÖLÜM 3"))
 if "P10" in starts: ev.append((starts["P10"] + 2.6, starts["P10"] + 5.2, "KutuVurguKucuk", r"{\an5\pos(760,640)\frz-2\fad(0,140)" + POP + r"}EMİNE"))
 for a, b, m in subs: ev.append((a, b, "Alt", m))
-# kapanış: son kare donar ve yavaşça yaklaşır; karartma yok. Soru + takip çağrısı sırayla "pat" diye gelir.
+# kapanış: son kare donar; karartma ve yakınlaşma yok. Soru + takip çağrısı sırayla "pat" diye gelir.
 ev.append((SON + 0.15, TOPLAM, "KutuKoyu", r"{\an5\pos(540,1290)\frz2" + POP + r"}EMİNE'NİN ŞARTI NE?"))
 ev.append((SON + 0.75, TOPLAM, "KutuVurguKucuk", r"{\an5\pos(540,1395)\frz-2" + POP + r"}TAHMİNİNİ YORUMA YAZ"))
 ev.append((SON + 1.45, TOPLAM, "KutuVurgu", r"{\an5\pos(540,1505)\frz-3" + POP + r"\t(900,1100,\fscx108\fscy108)\t(1100,1300,\fscx100\fscy100)}TAKİP ET"))
@@ -97,8 +97,8 @@ for n, (ad, i, o, g, ss) in enumerate(EDL):
     inp += ["-i", f"{SRC}/{ad}.mp4"]
     d = o - i
     v = f"[{n}:v]trim=start={i}:end={o},setpts=PTS-STARTPTS,fps={FPS},scale=1080:1920:flags=lanczos,setsar=1,format=yuv420p"
-    if n == len(EDL) - 1:   # son klip: son kare donar, küçük bir sıçramayla yaklaşır ve yavaşça yaklaşmaya devam eder; karartma yok
-        v += f",tpad=stop_mode=clone:stop_duration={DONUK},scale=w='2*trunc(540*(1+0.045*clip((t-{d})/0.18,0,1)+0.05*clip((t-{d})/{DONUK},0,1)))':h=-2:eval=frame:flags=bicubic,crop=1080:1920"
+    if n == len(EDL) - 1:   # son klip: son kare olduğu gibi donar (yakınlaşma, karartma yok; kullanıcı istemedi)
+        v += f",tpad=stop_mode=clone:stop_duration={DONUK}"
     fv.append(v + f"[v{n}]")
     a = f"[{n}:a]atrim=start={i}:end={o},asetpts=PTS-STARTPTS,volume={g}dB"
     if ad in ORTAM_KLIP:
@@ -117,7 +117,17 @@ fv.append(f"[vc]subtitles={OUT}/B03.ass:fontsdir=/usr/share/fonts/opentype/inter
 fa.append(f"{la}concat=n={N}:v=0:a=1[ac]")
 # ortam yatağı: bölüm boyunca kesintisiz, yavaşça dalgalanan alçak frekanslı gürültü (yapay rüzgâr); kesmelerde ortam sesinin değişmesini örter
 fa.append(f"anoisesrc=color=pink:sample_rate=48000:duration={TOPLAM}:seed=7,highpass=f=120,lowpass=f=700,tremolo=f=0.13:d=0.45,volume={YATAK_DB}dB,afade=t=in:st=0:d=0.3,aformat=channel_layouts=stereo[bed]")
-fa.append(f"[ac][bed]amix=inputs=2:normalize=0:duration=first,afade=t=out:st={TOPLAM - 0.25}:d=0.25[amix]")
+MUZIK = os.environ.get("MUZIK")   # verilirse bitişte çalar: son repliğin ardından girer, donuk karede öne çıkar
+if MUZIK:
+    inp += ["-i", MUZIK]; mi = len(EDL)
+    MSURE = 11.4                 # müziğin kullanılan uzunluğu; son vuruş videonun sonuna denk gelir
+    mb = TOPLAM - MSURE          # son repliklerin altında kısık başlar, donuk karede öne çıkar
+    ac = SON - mb                # müzik zamanında donuk karenin başladığı an
+    fa.append(f"[{mi}:a]atrim=0:{MSURE},asetpts=PTS-STARTPTS,aformat=sample_rates=48000:channel_layouts=stereo,volume='0.16+0.84*clip((t-{ac - 0.25:.2f})/0.35,0,1)':eval=frame,volume=-7dB,afade=t=in:st=0:d=0.4,adelay={mb * 1000:.0f}:all=1[mz]")
+    fa.append(f"[ac][bed][mz]amix=inputs=3:normalize=0:duration=first,afade=t=out:st={TOPLAM - 0.25}:d=0.25[amix]")
+    SURUM = SURUM + "_muzikli"
+else:
+    fa.append(f"[ac][bed]amix=inputs=2:normalize=0:duration=first,afade=t=out:st={TOPLAM - 0.25}:d=0.25[amix]")
 
 def run(extra_a, out, vopts):
     cmd = ["ffmpeg", "-v", "error", "-y"] + inp + ["-filter_complex", ";".join(fv + fa + extra_a), "-map", "[vout]", "-map", "[aout]"] + vopts + ["-c:a", "aac", "-b:a", "192k", "-ar", "48000", "-movflags", "+faststart", out]

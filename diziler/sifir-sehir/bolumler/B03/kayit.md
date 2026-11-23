@@ -21,3 +21,6 @@
 | 23.11.2026 | P02b | Flow | SB42 | ? | Omni'de ~20 hata; Veo'da üretildi, ses farklı. Görüntüsü sessiz kullanılacak; replik P02c'den |
 | 23.11.2026 | P02c, P09, P11, P12, P13 | Flow (kullanıcı) | SB34, P05 son kare, SB39, SB40, SB41 | 50 | ONAYLI, 1080p. Dökümler: "Sayın Muhtar"; "Koş Rıza, koş! / Yetişemez" (klibin başında keçi kadrajdan geçiyor); "Sen kimsin? Yeni sahip sahip mi?"; "Şalter muhtarda, muhtar bende, anahtar da burada"; "Verir misiniz? Veririm, bir şartla" |
 | 23.11.2026 | Ön kurgu v1 (P01'siz), kapak A ve B | ffmpeg, araclar/b03_kurgu.py, araclar/kapak2.py | — | 0 | 65,7 sn, −15,3 LUFS. Ses kulakla doğrulanmadı |
+| 23.11.2026 | P01 | Flow (kullanıcı) | SB30 (tur 5) | 10+ | ONAYLI, 1080p. Döküm: "Hadi aşkım, toplantım var" (toplantın). İlk denemede kare reddedildi, ikincide geçti |
+| 23.11.2026 | Bitiş müziği, 2 sürüm | ElevenLabs eleven_music_v2_5 | — | 1.800 EL kredisi | 12 sn ve 21 sn; sözsüz; girişi anında. Kulakla doğrulanmadı |
+| 23.11.2026 | Kurgu v2 (müziksiz ve müzikli), kapak A ve C, hikâye, yayın metni | ffmpeg, betikler | — | 0 | 71,5 sn, −15,2 LUFS |
