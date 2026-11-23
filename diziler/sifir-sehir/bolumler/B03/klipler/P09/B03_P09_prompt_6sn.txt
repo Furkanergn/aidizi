@@ -1,0 +1,30 @@
+Use the attached image as the FIRST FRAME of the video (image-to-video, start frame). Do not generate a new scene from text.
+Clip name (for the file only, never shown or spoken): B03_P09
+
+Stylized 3D animated feature film look, single continuous shot. Camera is locked off for the whole shot: no pan, no zoom, no cut. Duration 6 seconds.
+
+Start exactly from the first frame: medium-wide two-shot in front of a stone wall with a blue door and a vine, in golden light. On the left an old man in a faded blue jacket (Naci) sits on a wooden stool with a small tea glass raised to his lips. Beside him on the right a blonde woman in a pink top and short burgundy skirt (Selin) is bent forward with her hands on her knees, laughing hard.
+
+Hands and objects:
+- Naci's RIGHT hand holds the tea glass for the entire shot; it never leaves his hand and stays the same size. He stays seated.
+- Selin's hands are EMPTY. She stays in the same spot; she does not walk away.
+
+Voices (must sound exactly the same in every clip of this series):
+- Selin: Turkish woman in her early thirties. Warm, slightly husky low voice. She has a wide emotional range: she can be sarcastic, reproachful, loud and laughing.
+- Naci: Turkish man in his late sixties. Slow, dry, gravelly low voice. Never in a hurry, faintly amused.
+
+Every character is a native Turkish speaker. They speak ONLY Turkish, with a natural Istanbul accent and the lively, expressive delivery of actors in a Turkish animated comedy film. No English.
+
+Performance, second by second:
+0-1 s: Something races past them off screen, from right to left: both of their heads turn together from the RIGHT edge of the frame to the LEFT edge, following it. Selin is still laughing; Naci lowers his glass to chest height.
+1-3.5 s: Selin straightens up, cups both hands around her mouth and shouts in Turkish toward the LEFT edge of the frame, loud and delighted, laughter breaking through the words: "Koş Rıza, koş!"
+3.5-5 s: Naci, looking down into his tea glass, says in Turkish, dry and certain, without raising his voice: "Yetişemez."
+5-6 s: Nobody speaks. Selin bursts out laughing again, wiping a tear from the corner of her eye with one finger, still looking toward the left. Naci gives the smallest shrug.
+
+Last frame: Naci seated in the same place, glass at chest height, looking into it; Selin standing upright beside him, one hand at her eye, laughing, her face turned toward the left edge of the frame.
+
+Eyes: Both follow something from the right edge to the left edge in the first second. Then Selin looks only toward the left edge; Naci looks into his glass. Nobody looks at the camera. Faces, hair and clothes stay identical to the first frame.
+
+Pronunciation: the name "Rıza" contains the Turkish dotless ı. Say it "RUH-zah", never "Riza" or "Reeza". "Koş" sounds like "kosh". "Yetişemez" sounds like "yeh-tee-sheh-MEZ".
+
+Only the speaking character's mouth moves. Audio: the two voices, Selin's laughter, a goat bell and running footsteps fading away to the left, light wind only. No music, no subtitles, no on-screen text.

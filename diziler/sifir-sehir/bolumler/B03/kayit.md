@@ -16,3 +16,4 @@
 | 23.11.2026 | SB40, SB41 | ChatGPT (kullanıcı) | SB39 onaylı + Emine ve Rıza sayfaları | 0 | ONAYLI. SB40: Emine yakın plan, anahtar ipte, sola bakıyor, sol önde Rıza'nın omzu. SB41: Rıza solda avucu açık, Emine sağda anahtar göğsünün önünde |
 | 23.11.2026 | SB37 (P08) | ChatGPT (kullanıcı) | paket + nesne_fatura | 0 | ONAYLI (2. sürüm: 9:16'ya genişletildi, tabela köşesi kaldırıldı) |
 | 23.11.2026 | SB33 (P03) | ChatGPT (kullanıcı) | keçi sayfası, V10 | 0 | ONAYLI. Keçinin yüzü yakın plan, arkada yol ve araba |
+| 23.11.2026 | P03, P05, P10 | Flow, Veo 3.1 Lite (kullanıcı) | SB33, SB35, SB38 | 30 | ONAYLI, 1080p. P03: keçi çiğniyor, kulak ve göz kırpma. P05: döküm "Öncekiler slight getirmişti" (= slayt); Selin gülmesini tutup patlıyor, Naci yudumluyor. P10: "Ver bakayım"; keçi geliyor, Emine faturayı alıyor, keçi oturuyor. Ses kulakla doğrulanmadı (Emine'nin sesi ilk kez) |
