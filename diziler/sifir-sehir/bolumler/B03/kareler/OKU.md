@@ -14,7 +14,7 @@ Her kare için: yeni bir ChatGPT sohbeti aç, klasördeki numaralı görselleri 
 | SB35 | P05 | C3 · Selin ve Naci: Selin gülmesini tutuyor | B02_SB21.jpg, Selin_sayfasi.jpg, Selin_ifade2.jpg, Selin_jest_B.jpg, Naci_ifade.jpg |
 | SB36 | P07 | C1 · Keçi kâğıtla Rıza'nın yanından geçip sokağa kaçıyor; Rıza dönüp bakıyor; sağda Naci ve Selin | B03_SB32.jpg, Riza_sayfasi.jpg, Riza_jest_A.jpg, Keci_hareket_A.jpg, Selin_sayfasi.jpg, Nesne_dosya.jpg |
 | SB37 | P08 | Sokak içi · Kovalamaca, yandan; soldan sağa | V8_koy_sokagi.jpg, Riza_sayfasi.jpg, Riza_jest_A.jpg, Keci_hareket_A.jpg, Nesne_fatura.jpg |
-| SB38 | P10 | Meydan · Emine bekliyor, keçi soldan geliyor, Rıza uzakta | B02_SB20.jpg, Emine_jest.jpg, Emine_ifade.jpg, Keci_hareket_A.jpg, Riza_sayfasi.jpg, Nesne_fatura.jpg |
+| SB38 | P10 | Meydan · Emine bekliyor, keçi soldan geliyor (Rıza bu karede yok; kural 25) | B02_SB20.jpg, Emine_jest.jpg, Emine_ifade.jpg, Keci_hareket_A.jpg, Nesne_fatura.jpg |
 | SB39 | P11 | Meydan · Rıza (solda) ve Emine (sağda): sen kimsin | B02_SB20.jpg, Emine_jest.jpg, Emine_ifade.jpg, Riza_sayfasi.jpg, Riza_ifade.jpg, Riza_jest_A.jpg, Nesne_fatura.jpg |
 | SB40 | P12 | Meydan · Emine yakın plan, anahtarı gösteriyor; solda Rıza'nın omzu | B03_SB39.jpg, Emine_ifade.jpg, Emine_jest.jpg (BEKLİYOR: B03_SB39.jpg) |
 | SB41 | P13 | Meydan · Rıza (solda) ve Emine (sağda): verir misiniz | B03_SB39.jpg, Emine_ifade.jpg, Riza_sayfasi.jpg, Riza_ifade.jpg (BEKLİYOR: B03_SB39.jpg) |

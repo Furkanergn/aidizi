@@ -103,7 +103,7 @@ Rıza'nın gülümsemesi donar. Son kare donar; **devamı için takip et**.
 | P07 | C1 | Tabela önde; Rıza ortada çömelmiş, arkasına dönmüş; keçi onun ardında sokağa kaçıyor; sağda Naci ve Selin | Keçi kameradan uzaklaşır (kuzeye), Rıza'nın ve sonra Naci ile Selin'in yanından geçer; Rıza kalkıp peşinden koşar |
 | P08 | sokak içi, yandan | Keçi önde, Rıza arkada | Soldan sağa |
 | P09 | C3 | P05 ile aynı | İlk saniye başlar SAĞDAN SOLA döner (kaçanları izlerler); Selin SOLA bağırır |
-| P10 | meydan | Emine çeşmenin yanında, sağda; keçi soldan gelir; Rıza solda uzakta | Soldan sağa; Rıza soldan girer |
+| P10 | meydan | Emine çeşmenin yanında, sağda; keçi soldan gelir. Rıza bu planda YOK (kural 25: uzaktan yaklaşan ya da kadraja sonradan giren karakterin yüzü tutmaz); P11'de Emine'nin karşısında, soluk soluğa görünür | Keçi soldan sağa gelir, Emine'nin önünde durur; Emine eğilip faturayı ağzından alır |
 | P11 | meydan | Rıza solda, Emine sağda, keçi aralarında altta | Yerinde |
 | P12 | meydan | Emine yakın, SOLA bakar; sol önde Rıza'nın omzu | Yerinde |
 | P13 | meydan | Rıza solda, Emine sağda | Yerinde |

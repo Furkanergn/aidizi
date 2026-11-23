@@ -107,12 +107,11 @@ Both run from LEFT to RIGHT across the frame, seen in full-body profile.
 {KECI} It gallops in the RIGHT half of the frame, all four hooves off the ground, ears back, the crumpled electricity bill from the attached prop image (white paper with a blue header and a yellow band, crumpled and small in the frame, its text far too small to read) clamped in its mouth.
 {RIZA} He sprints two metres behind it, in the LEFT half of the frame, mid-stride, arms pumping, blazer flapping open behind him, hair blown back, one loafer almost slipping on the cobbles. His hands are EMPTY: no folder. His face: panicked and out of breath, mouth open.
 Dust and a few dry leaves kicked up behind them. No other people. No readable text anywhere.""")
-K["SB38"]=("P10","Meydan · Emine bekliyor, keçi soldan geliyor, Rıza uzakta",["SB20","emine","emine_ifade","keci_hareket","riza","fatura"],f"""
+K["SB38"]=("P10","Meydan · Emine bekliyor, keçi soldan geliyor (Rıza bu karede yok; kural 25)",["SB20","emine","emine_ifade","keci_hareket","fatura"],f"""
 Wide shot of the village square. {MEYDAN} Same camera position as the attached approved frame.
 {EMINE} She stands full body beside the fountain, RIGHT of center, both fists on her hips, feet apart, facing LEFT, watching the goat arrive. Her face: stern, one eyebrow raised.
 {KECI} It trots toward her from the LEFT side of the frame, in profile facing RIGHT, about three metres from her, slowing down, the crumpled electricity bill from the attached prop image (white paper with a blue header and a yellow band, crumpled and small in the frame, its text far too small to read) in its mouth.
-{RIZA} He is small and far away in the background on the LEFT, at the mouth of the street between the houses, running toward the square, arms flailing, hands empty.
-No readable text anywhere. No other people.""")
+There are only two figures in the image: Emine and the goat. No man, no other people. No readable text anywhere.""")
 K["SB39"]=("P11","Meydan · Rıza (solda) ve Emine (sağda): sen kimsin",["SB20","emine","emine_ifade","riza","riza_ifade","riza_jestA","fatura"],f"""
 Two-shot from the knees up in the village square. {MEYDAN} The fountain and the plane tree are behind them, softly out of focus; one lit rusty street lamp is visible.
 {RIZA} He stands on the LEFT (the side he ran in from), bent forward with BOTH hands on his knees, out of breath, hair messier than usual, head lifted to look up at Emine, mouth open, panting, a weak polite smile trying to form. His hands are empty: no folder.
