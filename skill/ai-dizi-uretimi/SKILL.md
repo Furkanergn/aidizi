@@ -69,6 +69,8 @@ Görsel üretimini kullanıcı başka bir araçta yapıyorsa `referanslar/gorsel
 - Her klip onaylı bir başlangıç karesinden üretilir; video modeline yalnızca kare ve prompt verilir.
 - Kare, planın ilk anındaki duyguyu ve jesti taşır. Karede nötr duran karakter ilk saniyede coşkulu oynatılamaz.
 - Aynı kare bir bölümde en çok iki klipte kullanılır; önceki bölümün kareleri yeniden kullanılmaz (aynı ana devam eden ilk plan hariç). Aksi hâlde bölümler birbirinin aynısı görünür.
+- Aynı açı ve kadrajda süren sahnede sonraki klip, öncekinin son karesinden başlar; böylece art arda klipler tek çekim gibi akar. Son kare önce kontrol edilir (yüz sayfayla aynı, gözler açık, bulanık değil); zincir en çok üç klip sürer, sonra temiz bir onaylı kareye dönülür, çünkü her halkada yüz ve keskinlik biraz kayar. Açı değişiyorsa zincir kurulmaz, yeni kare üretilir.
+- Karakter bir klipte küçükten büyüğe geçmez: karede yüz küçükse model yaklaşan karakterin yüzünü uydurur. Kameraya doğru uzun yürüyüş tek klipte yapılmaz; geniş plandan yakın plana kesilir.
 - Kareyi doğrudan hedef oranda (9:16) iste; sonradan kırpmak el ve nesneleri kadraj dışına atar.
 - Her kare için ayrı sohbet ve yalnızca o karenin referansları: aynı pakette başka karakterin görseli varsa model onu da kareye koyar. Görmediğimiz bir mekân için başka mekânın görselini referans verme; kopyalar.
 - Bir karakterin tek başına olduğu kare video modelinin filtresine takılıyorsa (yüz, stil ya da telif benzerliği) o karakterin planlarını ikili kur; aynı isteği en çok bir kez yinele.

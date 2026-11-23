@@ -6,7 +6,7 @@ Stylized 3D animated feature film look, single continuous shot. Camera is locked
 Start exactly from the first frame: knees-up two-shot in a village square in golden light, a stone fountain, a plane tree and a lit rusty street lamp behind. On the left a tall slim man in a navy blazer (Rıza) is bent forward with both hands on his knees, out of breath, sweat on his forehead, head lifted toward the woman, mouth open in a weak polite smile. On the right a short sturdy old woman in a burgundy headscarf and rust-brown vest (Emine) stands upright facing him, a crumpled bill in her right hand, her left fist on her hip, stern, one eyebrow raised. At the bottom between them the head of a cream-white goat looks up at her.
 
 Hands and objects:
-- Emine keeps the crumpled bill in her RIGHT hand for the entire shot; it never changes size and its text never becomes readable. Her LEFT fist stays on her hip until she laughs.
+- Emine keeps the crumpled bill in her RIGHT hand until the last second, when she stuffs it into the right pocket of her knitted vest; it never changes size and its text never becomes readable. Her LEFT fist stays on her hip.
 - Rıza's hands are EMPTY. He stays bent forward with his LEFT hand on his knee for the entire shot; he gestures only with his RIGHT hand.
 - Nobody walks. The goat's head stays at the bottom of the frame.
 
@@ -21,12 +21,12 @@ Performance, second by second:
 1-2.5 s: Emine says in Turkish, sharp and loud, chin lifted: "Sen kimsin?"
 2.5-5 s: Rıza lifts his RIGHT hand off his knee, one finger raised as if to make an important point, and gasps in Turkish between two breaths, trying to sound dignified and failing: "Yeni… sahip…" His hand drops back onto his knee.
 5-5.8 s: A beat. Emine stares at him. The corner of her mouth starts to twitch.
-5.8-8 s: She throws her head back and roars with laughter, shouting in Turkish through the laugh, delighted and incredulous: "Sahip mi?!" She keeps laughing, slapping the bill against her thigh. Rıza, still bent over, gives a weak, confused little laugh along with her.
+5.8-8 s: She throws her head back and roars with laughter, shouting in Turkish through the laugh, delighted and incredulous: "Sahip mi?!" Still laughing, she stuffs the crumpled bill into the right pocket of her knitted vest and pats the pocket once; her right hand is now empty. Rıza, still bent over, gives a weak, confused little laugh along with her.
 
-Last frame: both in the same places: Rıza still bent forward with his hands on his knees, a confused weak smile; Emine upright, laughing, the bill in her right hand; the goat's head at the bottom.
+Last frame: both in the same places: Rıza still bent forward with his hands on his knees, a confused weak smile; Emine upright, laughing, her right hand empty at her side, the bill tucked in her vest pocket; the goat's head at the bottom.
 
 Eyes: Emine looks only at Rıza. Rıza looks up at Emine. Nobody looks at the camera. Faces, hair and clothes stay identical to the first frame.
 
 Pronunciation: "Sen kimsin" sounds like "sen keem-SEEN". "sahip" sounds like "sah-HEEP", with a clearly breathed h.
 
-Only the speaking character's mouth moves. Audio: the two voices, Rıza's panting, Emine's hearty laughter, paper slapping, light wind only. No music, no subtitles, no on-screen text.
+Only the speaking character's mouth moves. Audio: the two voices, Rıza's panting, Emine's hearty laughter, paper rustling, light wind only. No music, no subtitles, no on-screen text.
