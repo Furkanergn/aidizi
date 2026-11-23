@@ -7,7 +7,7 @@ Her kare için: yeni bir ChatGPT sohbeti aç, klasördeki numaralı görselleri 
 | Kare | Klip | Ne | Referanslar |
 |---|---|---|---|
 | SB31 | P01 | C2 · Selin dosyayı Rıza'nın göğsüne bastırıyor | B01_SB03.jpg, Selin_sayfasi.jpg, Selin_ifade2.jpg, Riza_sayfasi.jpg, Nesne_dosya.jpg |
-| SB32 | P02 | C1 · Rıza arkadan, keçiye doğru yürüyor; ileride tabela ve keçi; sağda Naci ve Selin | B01_SB09.jpg, B02_SB21.jpg, Riza_sayfasi.jpg, Riza_jest_B.jpg, Keci_sayfasi.jpg, Selin_sayfasi.jpg, Nesne_dosya.jpg |
+| SB32 | P02 | C1 · SB09'un düzenlemesi: önde Rıza arkadan; tabela ve keçi yerinde, ileride; sağda Naci ve Selin | B01_SB09.jpg, B02_SB21.jpg, Riza_sayfasi.jpg, Riza_jest_B.jpg, Selin_sayfasi.jpg, Nesne_dosya.jpg |
 | SB33 | P03 | C1 · Keçi yakın plan; geride Naci ve Selin | Keci_sayfasi.jpg, B01_SB09.jpg, B02_SB21.jpg |
 | SB34 | P04, P06 | C2 (ters açı, coğrafyayı P02 kurduktan sonra) · Rıza keçinin önünde çömelmiş, sunum yapıyor | B01_SB03.jpg, V10_ters_aci.jpg, Riza_sayfasi.jpg, Riza_ifade.jpg, Riza_jest_A.jpg, Keci_sayfasi.jpg, Nesne_dosya.jpg |
 | SB35 | P05 | C3 · Selin ve Naci: Selin gülmesini tutuyor | B02_SB21.jpg, Selin_sayfasi.jpg, Selin_ifade2.jpg, Selin_jest_B.jpg, Naci_ifade.jpg |
