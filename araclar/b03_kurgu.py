@@ -8,7 +8,7 @@ import subprocess, os, re, sys
 B = "diziler/sifir-sehir/bolumler/B03"
 SRC = f"{B}/klipler/onayli"
 OUT = f"{B}/cikti"
-SURUM = "v5"
+SURUM = "v6"
 FPS = 24
 os.makedirs(OUT, exist_ok=True)
 
@@ -25,8 +25,7 @@ EDL = [
  ("P09",  0.20, 5.90, -3.3, [(1.70, 3.20, "Koş Rıza, koş!"), (4.25, 5.20, "Yetişemez.")]),
  ("P08",  0.30, 5.60, -3.3, [(1.40, 2.50, "Sayın Muhtar!"), (2.90, 4.00, "Muhtar Bey!"), (4.40, 5.40, "Bir dakika!")]),
  ("P10",  0.60, 5.90,  0.0, [(3.05, 3.85, "Ver bakayım.")]),
- ("P11",  0.60, 4.55, -2.2, [(1.25, 2.10, "Sen kimsin?"), (3.00, 3.70, "Yeni…"), (4.02, 4.52, "sahip…")]),   # 4,55: Rıza'nın "sahip"i biter; ardından gelen yanlış "sahip mi?" dışarıda kalır
- ("P11b", 0.42, 3.90,  0.0, [(0.55, 1.55, "Sahip mi?!")]),
+ ("P11",  0.30, 7.90, -0.8, [(0.60, 1.45, "Sen kimsin?"), (2.55, 3.05, "Yeni…"), (3.50, 4.30, "sahip…"), (4.90, 5.75, "Sahip mi?!")]),   # v2 klibi: tek parça, "Sahip mi?!" Emine'den
  ("P12",  1.00, 5.90,  0.0, [(1.50, 2.75, "Şalter Muhtar'da."), (3.05, 4.05, "Muhtar bende."), (4.40, 5.50, "Anahtar da burada.")]),
  ("P13",  0.40, 5.90, +3.2, [(0.70, 1.55, "Verir misiniz?"), (3.15, 3.80, "Veririm."), (4.25, 5.00, "Bir şartla.")]),
 ]
@@ -39,7 +38,7 @@ RAMPA = 0.22         # kapının açılıp kapanma süresi (sn)
 PAY = 0.20           # repliğin önüne ve arkasına bırakılan pay (sn)
 # Replik olmayan ama korunması gereken sesler (kaynak klip zamanı)
 SUS = {}   # tamamen susturulan aralıklar (kaynak klip zamanı): P11'de "Sahip mi?" yanlış karakterin sesiyle söylendi
-EK_SES = {"P02c": [(0.80, 1.35)], "P05": [(0.3, 5.9)], "P07": [(0.0, 3.6)], "P08": [(0.3, 5.6)], "P09": [(0.2, 5.9)], "P10": [(0.6, 3.0)], "P11b": [(1.9, 3.9)]}
+EK_SES = {"P02c": [(0.80, 1.35)], "P05": [(0.3, 5.9)], "P07": [(0.0, 3.6)], "P08": [(0.3, 5.6)], "P09": [(0.2, 5.9)], "P10": [(0.6, 3.0)], "P11": [(5.75, 7.9)]}
 # Replik içermeyen klipler: kendi sesleri bu çarpanla, yumuşak giriş-çıkışla kalır
 ORTAM_KLIP = {"P02a": 0.0, "P03": 0.6}
 

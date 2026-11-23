@@ -25,3 +25,4 @@
 | 23.11.2026 | Bitiş müziği, 2 sürüm | ElevenLabs eleven_music_v2_5 | — | 1.800 EL kredisi | 12 sn ve 21 sn; sözsüz; girişi anında. Kulakla doğrulanmadı |
 | 23.11.2026 | Kurgu v2 (müziksiz ve müzikli), kapak A ve C, hikâye, yayın metni | ffmpeg, betikler | — | 0 | 71,5 sn, −15,2 LUFS |
 | 23.11.2026 | P11b | Flow (kullanıcı) | SB39'dan başlatılmış (model 0,3. sn'de Emine'nin omuz üstü planına kendi kesti) | 10 | ONAYLI, 0,42 sn'den itibaren. "Sahip mi?" Emine'nin ağzından; kahkaha var; anahtar elinde |
+| 23.11.2026 | P11 v2 (tek parça) | Flow (kullanıcı) | SB39, konuşma sırası bloklu prompt | 10 | ONAYLI. "Sen kimsin? / Yeni… sahip… / Sahip mi?!"; üçüncü replikte Rıza başı önde, Emine'nin ağzı açık; kahkaha ve faturayı cebe koyma var. P11b ve eski P11 kullanılmıyor |
