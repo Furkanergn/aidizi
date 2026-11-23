@@ -22,19 +22,19 @@
 Selin iki eliyle dosyayı Rıza'nın göğsüne bastırır, kaşları havada, tatlı ama tehditkâr gülümser.
 > **SELİN** (iğneli, şarkı söyler gibi): Hadi aşkım. Toplantın var.
 
-Omzundan iter. Rıza dosyaya sarılıp sendeleyerek kameraya doğru, kadrajın sağından çıkar. Selin ellerini beline koyar, arkasından bakıp başını iki yana sallar, sonra sola, Naci'nin yanına doğru yürür.
+Omzundan iter. Rıza dosyaya sarılıp sendeler, dönüp kameradan uzaklaşarak keçiye doğru yürür. Selin ellerini beline koyar, arkasından bakıp başını iki yana sallar, sonra sola, Naci'nin yanına doğru yürür.
 
-### P02 — Sayın Muhtar (8 sn) · geniş boy plan, Rıza arkadan · C1
-İzleyici çiftin durduğu yerden bakıyor: Rıza, dosya sol kolunun altında, kameradan uzaklaşarak keçiye yürür; ileride yerdeki tabela ve yanında keçi, sağda duvarın önünde Naci ve yanına gelmiş Selin. Rıza yakasını düzeltir, boğazını temizler, keçinin önünde çömelir.
-> **RIZA** (resmî, fazla kibar; arkadan): Sayın Muhtar…
+### P02 — Sayın Muhtar (8 sn) · geniş boy plan · C1
+Kamera girişte: önde yerdeki tabela ve arkadan görünen keçi. Rıza, dosya sol kolunun altında, Selin ve Naci'nin yanından kameraya (keçiye) doğru yürür; arkasında duvarın önünde Naci oturuyor, Selin elleri belinde izliyor. Rıza yakasını düzeltir, boğazını temizler, keçinin önünde çömelir.
+> **RIZA** (resmî, fazla kibar): Sayın Muhtar…
 
 Keçi çiğnemeye devam eder, başını çevirmez.
 
-### P03 — Muhtar dinliyor (4 sn) · keçi yakın plan · C1
-Keçi ağır ağır çiğner, gözleri yarı kapalı. Bir kulağını oynatır. Çan tıngırdar. Geride sağda Naci ve Selin bulanık. Replik yok.
+### P03 — Muhtar dinliyor (4 sn) · keçi yakın plan · C2 yönü
+Keçinin yüzü: ağır ağır çiğner, gözleri yarı kapalı. Bir kulağını oynatır. Çan tıngırdar. Geride çakıl yol ve araba bulanık. Replik yok.
 
-### P04 — Kazan kazan (8 sn) · Rıza çömelmiş, bel üstü · C2 (ters açı)
-Keçinin omzunun üstünden Rıza'nın yüzü. Serbest eliyle havaya görünmez bir sunum çizer; coşkusu büyür.
+### P04 — Kazan kazan (8 sn) · Rıza çömelmiş, bel üstü · C1
+Keçinin omzunun üstünden Rıza'nın yüzü; arkasında sağda Naci ve Selin. Serbest eliyle havaya görünmez bir sunum çizer; coşkusu büyür.
 > **RIZA** (sesini alçaltıp samimileşerek): Rıza ben. Yeni ortağınız.
 > *(keçi çiğner; Rıza bir an bekler, gülümsemesi titrer, toparlanır)*
 > **RIZA** (satışçı, hızlı; iki parmağını şıklatıp keçiyi göstererek): Şalteri kapatıyoruz, tasarrufu paylaşıyoruz. Kazan kazan!
@@ -54,7 +54,7 @@ Rıza ceketinin cebinden buruşuk faturayı çıkarır, keçinin önünde iki el
 Keçi uzanıp kâğıdı ağzıyla kapar. Rıza'nın elleri havada kalır.
 
 ### P07 — Kaçış (4 sn) · geniş plan
-Keçi ağzında kâğıtla sokağa doğru fırlar. Rıza ayağa kalkarken dosyayı düşürür, arkasından atılır.
+Keçi ağzında kâğıtla Rıza'nın yanından geçip sokağa, köyün içine fırlar. Rıza dönüp bakar, dosyayı düşürür, kalkıp arkasından atılır; keçi Naci ve Selin'in önünden geçer.
 > **RIZA** (çığlık gibi): Fatura!
 
 ### P08 — Kovalamaca (6 sn) · takip kamerası, sokak
@@ -92,13 +92,13 @@ Rıza'nın gülümsemesi donar. Son kare donar; **devamı için takip et**.
 ## Mizansen (kural 24; kodlar `diziler/sifir-sehir/mekan-krokisi.md`)
 | Plan | Kamera | Kim nerede | Hareket ve bakış |
 |---|---|---|---|
-| P01 | C2 | Selin (sol) ve Rıza (sağ) A'da; Naci N'de, kadraj dışı solda | Rıza kameraya doğru, sağdan çıkar (keçiye). Selin sonunda SOLA, Naci'nin yanına yürüyüp çıkar |
-| P02 | C1 | Rıza önde, arkadan; keçi tabelanın yanında ileride; sağda duvarın önünde Naci ve Selin | Rıza kameradan uzaklaşarak keçiye yürür, önünde çömelir |
-| P03 | C1 | Keçi yakın; geride sağda Naci ve Selin küçük, bulanık | Keçi kıpırdamaz |
-| P04 | C2 (ters açı; P02 coğrafyayı kurdu) | Rıza K'da çömelmiş, yüzü kameraya; keçinin başı sağ önde, arkadan; sağ altta tabelanın köşesi; Selin ve Naci kameranın arkasında | Yerinde |
-| P05 | C3 | Naci taburede (sol), Selin yanında ayakta (sağ) | İkisi de SAĞA (Rıza ve keçiye) bakar |
-| P06 | C2 | P04 ile aynı | Keçi kâğıdı kapar, kafasını çevirir |
-| P07 | C1 | Rıza önde, arkadan; keçi sokakta ileride; sağda duvarın önünde Naci ve Selin | Keçi kameradan uzaklaşır (kuzeye); Rıza kalkıp peşinden koşar |
+| P01 | C2 | Selin (sol) ve Rıza (sağ) A'da; Naci 3 m yanlarında, kadraj dışı solda; keçi arkalarında uzakta | Rıza dönüp kameradan uzaklaşarak keçiye gider. Selin SOLA, Naci'nin yanına bir adım atar |
+| P02 | C1 | Önde tabela ve keçi (arkadan); Rıza ortada; arkada sağda Naci ve Selin | Rıza Selin'in yanından KAMERAYA DOĞRU yürür, keçinin önünde çömelir; yüzü görünür |
+| P03 | C2 yönü | Keçinin yüzü; geride çakıl yol ve araba | Keçi kıpırdamaz |
+| P04 | C1 | Keçinin başı sağ önde, arkadan; Rıza çömelmiş, yüzü kameraya; arkada sağda Naci ve Selin bulanık; sol altta tabelanın köşesi | Yerinde |
+| P05 | C3 | Naci taburede (sol), Selin yanında ayakta (sağ) | İkisi de SAĞA (keçi ve Rıza'ya) bakar |
+| P06 | C1 | P04 ile aynı | Keçi kâğıdı kapar |
+| P07 | C1 | Tabela önde; Rıza ortada çömelmiş, arkasına dönmüş; keçi onun ardında sokağa kaçıyor; sağda Naci ve Selin | Keçi kameradan uzaklaşır (kuzeye), Rıza'nın ve sonra Naci ile Selin'in yanından geçer; Rıza kalkıp peşinden koşar |
 | P08 | sokak içi, yandan | Keçi önde, Rıza arkada | Soldan sağa |
 | P09 | C3 | P05 ile aynı | İlk saniye başlar SAĞDAN SOLA döner (kaçanları izlerler); Selin SOLA bağırır |
 | P10 | meydan | Emine çeşmenin yanında, sağda; keçi soldan gelir; Rıza solda uzakta | Soldan sağa; Rıza soldan girer |

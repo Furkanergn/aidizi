@@ -1,28 +1,27 @@
-Ekte 6 görsel var, sırasıyla:
+Ekte 7 görsel var, sırasıyla:
 1. B01_SB09.jpg — onaylı kare: köy girişi, yerde tabela ve keçi; mekân ve ışık buradan
 2. B02_SB21.jpg — onaylı kare: Naci taburede; mekân, ışık ve Naci buradan
 3. Riza_sayfasi.jpg — Rıza karakter sayfası: yüz, vücut, kıyafet (yüz için ESAS budur)
 4. Riza_jest_B.jpg — Rıza jest sayfası: yürüme ve duruş pozları
 5. Selin_sayfasi.jpg — Selin karakter sayfası: yüz, vücut, kıyafet
-6. Nesne_dosya.jpg — kapalı dosya: yalnızca dosyanın görünüşü
+6. Keci_sayfasi.jpg — keçi sayfası: görünüş
+7. Nesne_dosya.jpg — kapalı dosya: yalnızca dosyanın görünüşü
 
 Bu referanslardaki karakterlerin ve mekânın AYNISINI kullanarak tek bir yeni film karesi üret. Karakterleri yeniden tasarlama; yüz, saç, vücut oranları ve kıyafet referanstakiyle birebir aynı olacak. En yüksek kalite. Oran: DİKEY 9:16 (ör. 1024×1792; destekleyemiyorsan en yakın dikey boyut ve 9:16'ya kırpılabilecek şekilde yanlarda boşluk bırak). Promptu değiştirme, kısaltma.
 Çıktı dosyasının adı: B03_SB32
 
 Stylized 3D animated feature film still, vertical 9:16.
 
-This is an EDIT of the FIRST attached image (the approved frame of the village entrance). Keep that scene exactly: the same tree, stone houses, cobbled street, hills, light, the fallen road sign with the text "ŞEHİR MERKEZİ", ONE hole in the ground, and the goat standing beside the sign. Do not move the sign or the goat relative to each other.
+This is an EDIT of the FIRST attached image (the approved frame of the village entrance). Keep that scene and camera exactly: the same tree, stone houses, cobbled street, hills, light, the fallen road sign in the left foreground with the text "ŞEHİR MERKEZİ", ONE hole in the ground, and the goat standing beside the sign in the foreground. Do not move the sign. Do not add a second hole.
 
-Change 1 - camera: pull the camera straight BACK by about three metres. The whole scene of the first image therefore appears a little smaller and a little higher in the frame, and there is a new strip of empty gravel road at the BOTTOM of the image. The sign and the goat are now in the MIDDLE GROUND, not in the foreground.
+Change 1 - the goat: it stays in the same place beside the sign, but it has TURNED AROUND: we now see it from BEHIND in three-quarter rear view (its back, tail, the back of its head, the brown ear, the red collar). It stands at a slight angle and looks up the street at the man who is coming toward it, still chewing.
 
-Change 2 - the goat: it stands in the same place, but it has turned its head toward the camera and looks at the man who is coming, still chewing, unimpressed.
+Change 2 - add two people in the BACKGROUND on the RIGHT side of the street, in front of the low stone wall and the blue door where the empty stool stands in the first image (see the second attached image for this spot): Naci sits on that stool with his tea glass in his right hand, and Selin stands right beside him with both fists on her hips. Both look toward the goat, watching. They are small in the image but recognizable: Naci, a thin old man with grey swept-back hair and a grey moustache, faded blue work jacket; Selin, golden blonde curls, pink top, SHORT burgundy two-tier ruffled mini skirt, brown Mary-Jane flats.
 
-Change 3 - add Rıza in the new FOREGROUND, at the bottom center of the image, close to the camera, seen from BEHIND (straight back view, we see the back of his curly head, no face), from mid-thigh up, his thighs cut by the bottom edge of the frame. He is large: his head reaches the middle of the image height. He faces the goat and walks toward it; the goat is about FIVE metres ahead of him, clearly smaller than him in the image, with empty gravel between them. He does NOT stand next to the goat and does NOT walk past it.
-Rıza: man in his mid thirties, tall and slim, messy dark brown curls, long nose, thick dark eyebrows, light stubble, dark navy blazer (unbuttoned) with a red pocket square over a cream open-collar shirt, brown belt, brown pleated trousers, burgundy tassel loafers. He is half a head taller than Selin. A closed burgundy leather A4 folder with brass corners, about as long as his forearm is tucked under his LEFT arm. His RIGHT elbow sticks out: that hand is straightening his blazer lapel in front of him.
+Change 3 - add Rıza in the MIDDLE GROUND: he has just left Selin's side and is walking down the middle of the street TOWARD the camera and toward the goat. We see him from the FRONT, full body from head to shoes, mid-step, about three metres beyond the goat and three metres in front of Selin and Naci, with empty road between him and the goat. He is clearly smaller in the image than the goat in the foreground and clearly bigger than Selin and Naci behind him.
+Rıza: man in his mid thirties, tall and slim, messy dark brown curls, long nose, thick dark eyebrows, light stubble, dark navy blazer (unbuttoned) with a red pocket square over a cream open-collar shirt, brown belt, brown pleated trousers, burgundy tassel loafers. His face must match his character sheet: smooth, in his thirties, NOT wrinkled, NOT older. He is half a head taller than Selin. A closed burgundy leather A4 folder with brass corners, about as long as his forearm is tucked under his LEFT arm. His RIGHT hand straightens his blazer lapel. His face: chin up, a formal, over-polite business smile, eyes on the goat.
 
-Change 4 - add two people on the RIGHT side of the street, further away than the goat, in front of the low stone wall and the blue door where the empty stool stands in the first image (see the second attached image for this spot): Naci sits on that stool with his tea glass in his right hand, and Selin stands beside him with both fists on her hips; both look toward Rıza. They are smaller than the goat in the image but recognizable: Naci, a thin old man with grey swept-back hair and a grey moustache, faded blue work jacket; Selin, golden blonde curls, pink top, SHORT burgundy two-tier ruffled mini skirt, brown Mary-Jane flats.
-
-Three depth layers, in this order from the camera: Rıza (foreground, largest) - sign and goat (middle ground) - Naci and Selin by the wall (background, smallest).
-No other people.
+Three depth layers, in this order from the camera: the fallen sign and the goat seen from behind (foreground, largest) - Rıza walking toward us (middle ground) - Naci and Selin by the wall (background, smallest). Rıza comes FROM Selin and Naci, not from the camera side.
+No other people. No car in this frame.
 
 Style: stylized 3D animated feature film still, exactly the look of the attached images: smooth animated-film skin, realistic cloth and hair, warm golden late-afternoon light, long soft shadows. Not photorealistic, not 2D. Sharp focus on the faces, background slightly soft. Correct hands with five fingers. Nobody looks at the camera. ONE single continuous image: no split screen, no panels, no borders, no captions, no text overlays.

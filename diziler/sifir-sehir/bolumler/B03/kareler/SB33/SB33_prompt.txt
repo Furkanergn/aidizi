@@ -1,15 +1,14 @@
-Ekte 3 görsel var, sırasıyla:
+Ekte 2 görsel var, sırasıyla:
 1. Keci_sayfasi.jpg — keçi sayfası: görünüş
-2. B01_SB09.jpg — onaylı kare: köy girişi, yerde tabela ve keçi; mekân ve ışık buradan
-3. B02_SB21.jpg — onaylı kare: Naci taburede; mekân, ışık ve Naci buradan
+2. V10_ters_aci.jpg — mekân plakası: köyün içinden dışarı bakış (çakıl yol, araba, tepe); arka plan buradan
 
 Bu referanslardaki karakterlerin ve mekânın AYNISINI kullanarak tek bir yeni film karesi üret. Karakterleri yeniden tasarlama; yüz, saç, vücut oranları ve kıyafet referanstakiyle birebir aynı olacak. En yüksek kalite. Oran: DİKEY 9:16 (ör. 1024×1792; destekleyemiyorsan en yakın dikey boyut ve 9:16'ya kırpılabilecek şekilde yanlarda boşluk bırak). Promptu değiştirme, kısaltma.
 Çıktı dosyasının adı: B03_SB33
 
 Stylized 3D animated feature film still, vertical 9:16.
 
-Close-up of the goat's head and neck, three-quarter front view, filling the left two thirds of the frame. The goat: medium-sized cream-white village goat with ONE brown ear, curved horns, a small beard, heavy-lidded bored eyes, a frayed red rope collar with a small brass bell. Its back is at the height of a man's hip. Its jaw is pushed sideways mid-chew, one cheek bulging, a few blades of dry grass at the corner of its mouth, eyes half closed, utterly bored.
-Camera position: the camera looks INTO the village, the same direction as the first attached approved frame. Background, strongly out of focus: the cobbled street and stone houses; on the RIGHT side in the distance, the low stone wall with the faded blue door from the second attached frame, with two small blurred figures in front of it: an old man in a blue jacket sitting on a stool and a woman with blonde curls, pink top and short burgundy skirt standing beside him. They are tiny, soft and unreadable; they only show that someone is watching.
-Golden late-afternoon sun low on the left.
+Close-up of the goat's head and neck, three-quarter front view, filling most of the frame. The goat: medium-sized cream-white village goat with ONE brown ear, curved horns, a small beard, heavy-lidded bored eyes, a frayed red rope collar with a small brass bell. Its back is at the height of a man's hip. Its jaw is pushed sideways mid-chew, one cheek bulging, a few blades of dry grass at the corner of its mouth, eyes half closed, utterly bored.
+Camera position: the camera is on the village side of the goat and looks OUT of the village, the same direction as the attached location image. Background, strongly out of focus: the gravel road leading away, a dark grey car far behind, scrub and the hazy green hillside. Golden late-afternoon sun low on the right.
+No people.
 
 Style: stylized 3D animated feature film still, exactly the look of the attached images: smooth animated-film skin, realistic cloth and hair, warm golden late-afternoon light, long soft shadows. Not photorealistic, not 2D. Sharp focus on the faces, background slightly soft. Correct hands with five fingers. Nobody looks at the camera. ONE single continuous image: no split screen, no panels, no borders, no captions, no text overlays.
