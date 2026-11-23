@@ -40,16 +40,20 @@ k = Image.new("RGBA", (W, H), (20, 20, 20, 255)); k.putalpha(gr.resize((W, H)));
 if halka:
     hx, hy, rx, ry, et = halka.split(","); hx, hy, rx, ry = int(hx), int(hy), int(rx), int(ry)
     kat = Image.new("RGBA", (W, H), (0, 0, 0, 0)); d = ImageDraw.Draw(kat)
-    for i in range(3): d.ellipse((hx - rx - i * 3, hy - ry - i * 2, hx + rx + i * 3, hy + ry + i * 2), outline=VURGU, width=9)
-    golgeli(im, kat, (0, 0))
+    if rx > 0:   # rx=0 verilirse halka çizilmez, yalnızca etiket konur
+        for i in range(3): d.ellipse((hx - rx - i * 3, hy - ry - i * 2, hx + rx + i * 3, hy + ry + i * 2), outline=VURGU, width=9)
+        golgeli(im, kat, (0, 0))
     e = kutu(et, font("Inter-Black.otf", 54), KOYU, VURGU, pad=(24, 14), aci=-5)
     golgeli(im, e, (min(max(hx + rx - 40, 60), W - 60 - e.size[0]), hy - ry - e.size[1] + 6))
 f1 = sigdir(l1, "Inter-Black.otf", 120, 880, 40); k1 = kutu(l1, f1, ACIK, KOYU, pad=(40, 26), aci=3)
 f2 = sigdir(l2, "Inter-Black.otf", 190, 940, 44); k2 = kutu(l2, f2, KOYU, VURGU, pad=(44, 30), aci=-3)
-a1 = kutu("SIFIR ŞEHİR", font("Inter-Black.otf", 54), ACIK, KOYU, pad=(28, 16), aci=2)
+a1 = kutu("SIFIR ŞEHİR", font("Inter-Black.otf", 46), KOYU, ACIK, pad=(24, 13), aci=0)
 a2 = kutu(bolum, font("Inter-Black.otf", 54), KOYU, VURGU, pad=(28, 16), aci=-2)
 yb = 318 if YER == "ust" else 1600 - (k1.size[1] - 36 + k2.size[1])   # başlık bloğunun üst kenarı
 ye = 1480 if YER == "ust" else 318                                     # dizi adı + bölüm etiketi
 golgeli(im, k1, (64, yb)); golgeli(im, k2, (64 + 40, yb + k1.size[1] - 36))
-golgeli(im, a1, (64, ye)); golgeli(im, a2, (64 + a1.size[0] - 10, ye + 12))
+if YER == "alt":   # bölüm etiketi sol üstte (B01-B02 kapaklarındaki yer); dizi adı başlığın hemen üstünde, sola yaslı
+    golgeli(im, a2, (44, 322)); golgeli(im, a1, (64, yb - a1.size[1] + 14))
+else:
+    golgeli(im, a1, (64, ye)); golgeli(im, a2, (64 + a1.size[0] - 10, ye + 12))
 im.convert("RGB").save(out, quality=94); print(out)
