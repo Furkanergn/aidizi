@@ -1,0 +1,19 @@
+Use the attached image as the FIRST FRAME of the video (image-to-video, start frame). Do not generate a new scene from text.
+Clip name (for the file only, never shown or spoken): B03_P03
+
+Stylized 3D animated feature film look, single continuous shot. Camera is locked off for the whole shot: no pan, no zoom, no cut. Duration 4 seconds.
+
+Start exactly from the first frame: close-up of a cream-white goat's head and neck in golden light: one brown ear, curved horns, a small beard, heavy-lidded bored eyes, a red rope collar with a brass bell, a few blades of grass at the corner of its mouth, one cheek bulging. Behind it, out of focus, a road and a parked dark grey car.
+
+Hands and objects:
+- The goat stays exactly where it is; its head stays in the same place in the frame. It does not walk and does not turn away.
+- No people enter the frame.
+
+Performance, second by second:
+0-4 s: The goat chews slowly, its jaw sliding sideways, completely unimpressed. Its eyes stay half closed. At second 1.5 its brown ear flicks once. At second 2.5 it blinks, very slowly. At second 3 the brass bell on its collar tinkles once as it swallows. The blades of grass wobble at the corner of its mouth.
+
+Last frame: the goat's head in the same place, still chewing, eyes half closed.
+
+Eyes: The goat looks past the camera, slightly to the side, at someone off screen. It never looks into the camera.
+
+No dialogue. Nobody speaks. Audio: slow soft chewing, one bell tinkle, light wind only. No music, no subtitles, no on-screen text.
