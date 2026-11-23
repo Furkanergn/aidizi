@@ -1,0 +1,31 @@
+Use the attached image as the FIRST FRAME of the video (image-to-video, start frame). Do not generate a new scene from text.
+Clip name (for the file only, never shown or spoken): B03_P11b
+
+Stylized 3D animated feature film look, single continuous shot. Camera is locked off for the whole shot: no pan, no zoom, no cut. Duration 4 seconds.
+
+Start exactly from the first frame: close shot of a short sturdy old woman in a burgundy floral headscarf and rust-brown knitted vest (Emine), from the chest up, in a village square in golden light. With her right hand she holds up an old dark iron key that hangs on a thin leather cord around her neck. She smiles a sly smile, looking toward the left edge of the frame. In the left foreground, out of focus, the navy shoulder and dark curls of a man seen from behind.
+
+Who speaks: ONLY the old woman, Emine. She is the only face in the shot. The man in the foreground is seen from behind, is completely silent and does not move; no male voice is heard at any moment.
+
+Hands and objects:
+- The key stays on its leather cord around Emine's neck and in her RIGHT hand for the entire shot; it never comes off the cord, never changes size or shape.
+- Her left hand never enters the frame.
+
+Voices (must sound exactly the same in every clip of this series):
+- Emine: Turkish village woman in her mid sixties. Strong, slightly hoarse, loud and bossy voice with warmth underneath; a hearty laugh.
+
+Every character is a native Turkish speaker. They speak ONLY Turkish, with a natural Istanbul accent and the lively, expressive delivery of actors in a Turkish animated comedy film. No English.
+
+Performance, second by second:
+0-0.4 s: Emine's sly smile breaks: her eyebrows shoot up, her mouth opens in disbelief.
+0.4-1.8 s: In her own loud, hoarse woman's voice she shouts in Turkish, incredulous and delighted, a question that rises sharply at the end: "Sahip mi?!"
+1.8-3.3 s: She throws her head back and roars with laughter, her shoulders shaking, eyes squeezed shut, the key swinging on its cord in her hand.
+3.3-4 s: The laugh fades to a chuckle; she looks back toward the left edge of the frame with the same sly smile as at the start, holding the key up.
+
+Last frame: Emine in the same place, holding the key up in her right hand, sly smile, mouth closed, looking toward the left edge of the frame; the man's shoulder in the left foreground, unmoved.
+
+Eyes: Emine looks toward the left edge of the frame, closes her eyes while laughing, then looks left again. Nobody looks at the camera. Faces, hair and clothes stay identical to the first frame.
+
+Pronunciation: "Sahip mi" sounds like "sah-HEEP mee", with a clearly breathed h; the voice goes up on "mi".
+
+Audio: only Emine's voice and her laughter, light wind. No male voice. No music, no subtitles, no on-screen text.
