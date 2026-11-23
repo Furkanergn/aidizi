@@ -36,6 +36,7 @@ R={ # ad -> (dosya, kaynak, rol)
  "emine_ifade":("Emine_ifade.jpg",f"{V}/onayli/V19_emine_ifade.jpg","Emine ifade sayfası: yüz ve ifadeler"),
  "keci":("Keci_sayfasi.jpg",f"{V}/onayli/V7_keci.jpg","keçi sayfası: görünüş"),
  "keci_hareket":("Keci_hareket_A.jpg",f"{V}/onayli/V22_keci_hareket_A.jpg","keçi hareket sayfası: koşma ve ağzında kâğıt pozları"),
+ "fatura":("Nesne_fatura.jpg",f"{V}/onayli/nesne_fatura.jpg","buruşuk elektrik faturası: yalnızca kâğıdın görünüşü (beyaz kâğıt, mavi başlık, sarı şerit). Karede küçük ve buruşuk görünür; yazıları okunmaz"),
  "dosya":("Nesne_dosya.jpg",f"{V}/onayli/nesne_dosya_kapali.jpg","kapalı dosya: yalnızca dosyanın görünüşü"),
 }
 # ---- MEKÂN KROKİSİ (diziler/sifir-sehir/mekan-krokisi.md; kullanıcı düzeltti) ----
@@ -100,24 +101,24 @@ Wide full-body shot. Same place, same camera and same light as the first attache
 On the RIGHT side of the street, level with the running goat, in front of the low stone wall and the blue door, exactly where they are in the first attached frame: Naci sits on his stool with his tea glass, and Selin stands beside him bent forward with laughter, one hand on her stomach, both watching the goat race past them. They are small in the frame but recognizable: a thin old man with grey hair and moustache in a faded blue jacket; a woman with golden blonde curls, pink top, SHORT burgundy ruffled mini skirt.
 Depth order from the camera: sign (foreground) - Rıza crouching (middle) - goat running away, with Naci and Selin at the right (background).
 The paper is blank: no writing on it. No other people.""")
-K["SB37"]=("P08","Sokak içi · Kovalamaca, yandan; soldan sağa",["V8","riza","riza_jestA","keci_hareket"],f"""
+K["SB37"]=("P08","Sokak içi · Kovalamaca, yandan; soldan sağa",["V8","riza","riza_jestA","keci_hareket","fatura"],f"""
 Wide side-on shot in the cobbled village street deeper inside the village (the same street as the attached location image, seen from the side): a row of old stone houses with closed blue shutters behind them, weeds between the stones. The road sign, the stool and the blue door are NOT in this image. Golden late-afternoon light.
 Both run from LEFT to RIGHT across the frame, seen in full-body profile.
-{KECI} It gallops in the RIGHT half of the frame, all four hooves off the ground, ears back, a crumpled blank white sheet of paper clamped in its mouth.
+{KECI} It gallops in the RIGHT half of the frame, all four hooves off the ground, ears back, the crumpled electricity bill from the attached prop image (white paper with a blue header and a yellow band, crumpled and small in the frame, its text far too small to read) clamped in its mouth.
 {RIZA} He sprints two metres behind it, in the LEFT half of the frame, mid-stride, arms pumping, blazer flapping open behind him, hair blown back, one loafer almost slipping on the cobbles. His hands are EMPTY: no folder. His face: panicked and out of breath, mouth open.
-Dust and a few dry leaves kicked up behind them. No other people. The paper is blank.""")
-K["SB38"]=("P10","Meydan · Emine bekliyor, keçi soldan geliyor, Rıza uzakta",["SB20","emine","emine_ifade","keci_hareket","riza"],f"""
+Dust and a few dry leaves kicked up behind them. No other people. No readable text anywhere.""")
+K["SB38"]=("P10","Meydan · Emine bekliyor, keçi soldan geliyor, Rıza uzakta",["SB20","emine","emine_ifade","keci_hareket","riza","fatura"],f"""
 Wide shot of the village square. {MEYDAN} Same camera position as the attached approved frame.
 {EMINE} She stands full body beside the fountain, RIGHT of center, both fists on her hips, feet apart, facing LEFT, watching the goat arrive. Her face: stern, one eyebrow raised.
-{KECI} It trots toward her from the LEFT side of the frame, in profile facing RIGHT, about three metres from her, slowing down, a crumpled blank white sheet of paper in its mouth.
+{KECI} It trots toward her from the LEFT side of the frame, in profile facing RIGHT, about three metres from her, slowing down, the crumpled electricity bill from the attached prop image (white paper with a blue header and a yellow band, crumpled and small in the frame, its text far too small to read) in its mouth.
 {RIZA} He is small and far away in the background on the LEFT, at the mouth of the street between the houses, running toward the square, arms flailing, hands empty.
-The paper is blank. No other people.""")
-K["SB39"]=("P11","Meydan · Rıza (solda) ve Emine (sağda): sen kimsin",["SB20","emine","emine_ifade","riza","riza_ifade","riza_jestA"],f"""
+No readable text anywhere. No other people.""")
+K["SB39"]=("P11","Meydan · Rıza (solda) ve Emine (sağda): sen kimsin",["SB20","emine","emine_ifade","riza","riza_ifade","riza_jestA","fatura"],f"""
 Two-shot from the knees up in the village square. {MEYDAN} The fountain and the plane tree are behind them, softly out of focus; one lit rusty street lamp is visible.
 {RIZA} He stands on the LEFT (the side he ran in from), bent forward with BOTH hands on his knees, out of breath, hair messier than usual, head lifted to look up at Emine, mouth open, panting, a weak polite smile trying to form. His hands are empty: no folder.
-{EMINE} She stands on the RIGHT, upright, facing LEFT toward Rıza. In her RIGHT hand, at waist height, she holds a crumpled blank white sheet of paper. Her LEFT fist is on her hip. Her face: stern, one eyebrow raised, lips pressed, looking him up and down.
+{EMINE} She stands on the RIGHT, upright, facing LEFT toward Rıza. In her RIGHT hand, at waist height, she holds the crumpled electricity bill from the attached prop image (white paper with a blue header and a yellow band, crumpled and small in the frame, its text far too small to read). Her LEFT fist is on her hip. Her face: stern, one eyebrow raised, lips pressed, looking him up and down.
 At the bottom edge of the frame between them, the head of the goat (cream-white, one brown ear, red rope collar with brass bell) looks up at Emine.
-The paper is blank. No other people.""")
+No readable text anywhere. No other people.""")
 K["SB40"]=("P12","Meydan · Emine yakın plan, anahtarı gösteriyor; solda Rıza'nın omzu",["SB39","emine_ifade","emine"],f"""
 Close shot of Emine from the chest up, slightly RIGHT of center, in the same place and light as the attached approved frame (village square, fountain and lit street lamp softly out of focus behind her). She is the same woman as in the attached frame and still faces LEFT.
 {EMINE} With her RIGHT hand she holds up, at shoulder height, an old dark iron key about as long as her finger; the key hangs on a thin leather cord that goes around her neck. Her LEFT hand is not in the frame. Her face: delighted with herself, a sly bargaining smile, eyes narrowed, chin slightly raised, looking toward the LEFT edge of the frame.

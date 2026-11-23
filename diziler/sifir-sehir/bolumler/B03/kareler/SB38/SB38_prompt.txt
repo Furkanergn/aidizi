@@ -1,9 +1,10 @@
-Ekte 5 görsel var, sırasıyla:
+Ekte 6 görsel var, sırasıyla:
 1. B02_SB20.jpg — onaylı kare: köy meydanı (çeşme, çınar, yanan lambalar); mekân ve ışık buradan
 2. Emine_jest.jpg — Emine tam boy sayfası: vücut, kıyafet, duruşlar
 3. Emine_ifade.jpg — Emine ifade sayfası: yüz ve ifadeler
 4. Keci_hareket_A.jpg — keçi hareket sayfası: koşma ve ağzında kâğıt pozları
 5. Riza_sayfasi.jpg — Rıza karakter sayfası: yüz, vücut, kıyafet (yüz için ESAS budur)
+6. Nesne_fatura.jpg — buruşuk elektrik faturası: yalnızca kâğıdın görünüşü (beyaz kâğıt, mavi başlık, sarı şerit). Karede küçük ve buruşuk görünür; yazıları okunmaz
 
 Bu referanslardaki karakterlerin ve mekânın AYNISINI kullanarak tek bir yeni film karesi üret. Karakterleri yeniden tasarlama; yüz, saç, vücut oranları ve kıyafet referanstakiyle birebir aynı olacak. En yüksek kalite. Oran: DİKEY 9:16 (ör. 1024×1792; destekleyemiyorsan en yakın dikey boyut ve 9:16'ya kırpılabilecek şekilde yanlarda boşluk bırak). Promptu değiştirme, kısaltma.
 Çıktı dosyasının adı: B03_SB38
@@ -12,8 +13,8 @@ Stylized 3D animated feature film still, vertical 9:16.
 
 Wide shot of the village square. Place and light: the village square from the attached approved frame: cobbles, the dry round stone fountain, the big plane tree with yellow leaves, old stone houses, the shabby rusty street lamps switched on in daylight, golden late-afternoon sun low on the left. The street from the village entrance opens into the square on the LEFT side of the frame. Same camera position as the attached approved frame.
 Emine: short, sturdy woman in her mid sixties, round face, thick dark-grey eyebrows, grey hair in a bun under a burgundy floral headscarf tied at the back, small gold hoop earrings, rust-brown cable-knit vest with two pockets over a navy floral dress with rolled-up sleeves (below the knee), black rubber boots. She is a full head shorter than Rıza. She stands full body beside the fountain, RIGHT of center, both fists on her hips, feet apart, facing LEFT, watching the goat arrive. Her face: stern, one eyebrow raised.
-The goat: medium-sized cream-white village goat with ONE brown ear, curved horns, a small beard, heavy-lidded bored eyes, a frayed red rope collar with a small brass bell. Its back is at the height of a man's hip. It trots toward her from the LEFT side of the frame, in profile facing RIGHT, about three metres from her, slowing down, a crumpled blank white sheet of paper in its mouth.
+The goat: medium-sized cream-white village goat with ONE brown ear, curved horns, a small beard, heavy-lidded bored eyes, a frayed red rope collar with a small brass bell. Its back is at the height of a man's hip. It trots toward her from the LEFT side of the frame, in profile facing RIGHT, about three metres from her, slowing down, the crumpled electricity bill from the attached prop image (white paper with a blue header and a yellow band, crumpled and small in the frame, its text far too small to read) in its mouth.
 Rıza: man in his mid thirties, tall and slim, messy dark brown curls, long nose, thick dark eyebrows, light stubble, dark navy blazer (unbuttoned) with a red pocket square over a cream open-collar shirt, brown belt, brown pleated trousers, burgundy tassel loafers. His face must match his character sheet: smooth, in his thirties, NOT wrinkled, NOT older. He is half a head taller than Selin. He is small and far away in the background on the LEFT, at the mouth of the street between the houses, running toward the square, arms flailing, hands empty.
-The paper is blank. No other people.
+No readable text anywhere. No other people.
 
 Style: stylized 3D animated feature film still, exactly the look of the attached images: smooth animated-film skin, realistic cloth and hair, warm golden late-afternoon light, long soft shadows. Not photorealistic, not 2D. Sharp focus on the faces, background slightly soft. Correct hands with five fingers. Nobody looks at the camera. ONE single continuous image: no split screen, no panels, no borders, no captions, no text overlays.

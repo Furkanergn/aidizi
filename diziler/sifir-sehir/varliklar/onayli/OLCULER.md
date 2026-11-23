@@ -10,3 +10,5 @@ Nesne görselleri ayrı dosyalardır ve birbirine göre ölçekli DEĞİLDİR. G
 | Çay bardağı | nesne_cay.jpg | bardak 10 cm, tabak çapı 10 cm | "small tea glass about as tall as his palm is wide, held between thumb and two fingers" |
 
 Not: kapalı ve açık dosya görsellerinde kapama farklı (kapalıda lastik bant ve pirinç köşe, açıkta köşe bantları). Aynı planda ikisi birlikte görünmüyor; kare promptlarında "burgundy leather folder with a thin elastic band" tarifi sabit tutulur.
+
+| Fatura | nesne_fatura.jpg | A4, buruşuk; buruşukken açık el kadar | "crumpled electricity bill, white paper with a blue header and a yellow band, text too small to read". **Yalnızca uzaktan kullanılır.** Yazılarında hata var: tutar "333.333,333 kr" (doğrusu 333.333,33 TL), abone "Rıza Korkmaz", "Boğaztepe Köyü", 2025 tarihleri, tek aylık tüketim. Yakın plan gerekirse yeniden üretilir |

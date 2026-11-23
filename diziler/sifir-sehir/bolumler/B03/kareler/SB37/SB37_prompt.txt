@@ -1,8 +1,9 @@
-Ekte 4 görsel var, sırasıyla:
+Ekte 5 görsel var, sırasıyla:
 1. V8_koy_sokagi.jpg — köy sokağı: mekân ve ışık buradan (tabela bu karede olmayacak)
 2. Riza_sayfasi.jpg — Rıza karakter sayfası: yüz, vücut, kıyafet (yüz için ESAS budur)
 3. Riza_jest_A.jpg — Rıza jest sayfası: çömelme, koşma, soluklanma pozları
 4. Keci_hareket_A.jpg — keçi hareket sayfası: koşma ve ağzında kâğıt pozları
+5. Nesne_fatura.jpg — buruşuk elektrik faturası: yalnızca kâğıdın görünüşü (beyaz kâğıt, mavi başlık, sarı şerit). Karede küçük ve buruşuk görünür; yazıları okunmaz
 
 Bu referanslardaki karakterlerin ve mekânın AYNISINI kullanarak tek bir yeni film karesi üret. Karakterleri yeniden tasarlama; yüz, saç, vücut oranları ve kıyafet referanstakiyle birebir aynı olacak. En yüksek kalite. Oran: DİKEY 9:16 (ör. 1024×1792; destekleyemiyorsan en yakın dikey boyut ve 9:16'ya kırpılabilecek şekilde yanlarda boşluk bırak). Promptu değiştirme, kısaltma.
 Çıktı dosyasının adı: B03_SB37
@@ -11,8 +12,8 @@ Stylized 3D animated feature film still, vertical 9:16.
 
 Wide side-on shot in the cobbled village street deeper inside the village (the same street as the attached location image, seen from the side): a row of old stone houses with closed blue shutters behind them, weeds between the stones. The road sign, the stool and the blue door are NOT in this image. Golden late-afternoon light.
 Both run from LEFT to RIGHT across the frame, seen in full-body profile.
-The goat: medium-sized cream-white village goat with ONE brown ear, curved horns, a small beard, heavy-lidded bored eyes, a frayed red rope collar with a small brass bell. Its back is at the height of a man's hip. It gallops in the RIGHT half of the frame, all four hooves off the ground, ears back, a crumpled blank white sheet of paper clamped in its mouth.
+The goat: medium-sized cream-white village goat with ONE brown ear, curved horns, a small beard, heavy-lidded bored eyes, a frayed red rope collar with a small brass bell. Its back is at the height of a man's hip. It gallops in the RIGHT half of the frame, all four hooves off the ground, ears back, the crumpled electricity bill from the attached prop image (white paper with a blue header and a yellow band, crumpled and small in the frame, its text far too small to read) clamped in its mouth.
 Rıza: man in his mid thirties, tall and slim, messy dark brown curls, long nose, thick dark eyebrows, light stubble, dark navy blazer (unbuttoned) with a red pocket square over a cream open-collar shirt, brown belt, brown pleated trousers, burgundy tassel loafers. His face must match his character sheet: smooth, in his thirties, NOT wrinkled, NOT older. He is half a head taller than Selin. He sprints two metres behind it, in the LEFT half of the frame, mid-stride, arms pumping, blazer flapping open behind him, hair blown back, one loafer almost slipping on the cobbles. His hands are EMPTY: no folder. His face: panicked and out of breath, mouth open.
-Dust and a few dry leaves kicked up behind them. No other people. The paper is blank.
+Dust and a few dry leaves kicked up behind them. No other people. No readable text anywhere.
 
 Style: stylized 3D animated feature film still, exactly the look of the attached images: smooth animated-film skin, realistic cloth and hair, warm golden late-afternoon light, long soft shadows. Not photorealistic, not 2D. Sharp focus on the faces, background slightly soft. Correct hands with five fingers. Nobody looks at the camera. ONE single continuous image: no split screen, no panels, no borders, no captions, no text overlays.
