@@ -1,0 +1,30 @@
+Use the attached image as the FIRST FRAME of the video (image-to-video, start frame). Do not generate a new scene from text.
+Clip name (for the file only, never shown or spoken): B03_P07
+
+Stylized 3D animated feature film look, single continuous shot. Camera is locked off for the whole shot: no pan, no zoom, no cut. Duration 4 seconds.
+
+Start exactly from the first frame: wide shot at a village entrance in golden light. A fallen road sign lies in the foreground. A tall slim man in a navy blazer (Rıza) crouches in the road, twisted around, one hand on the gravel, the other stretched out after a goat; his mouth is open in shock. A closed burgundy folder lies on the gravel beside him. The goat gallops away from the camera up the cobbled street with a white sheet of paper in its mouth. On the right, by a stone wall and a blue door, an old man (Naci) sits on a stool with a tea glass and a blonde woman (Selin) is bent over laughing.
+
+Hands and objects:
+- The burgundy folder stays on the gravel exactly where it lies for the entire shot. Nobody touches it, nobody picks it up.
+- The fallen road sign stays exactly where it is; its text stays exactly "ŞEHİR MERKEZİ".
+- The white sheet stays in the goat's mouth. It is blank; no writing ever appears on it.
+- Rıza's hands are empty for the entire shot.
+
+Voices (must sound exactly the same in every clip of this series):
+- Rıza: Turkish man in his mid thirties. Warm, bright, slightly nasal tenor.
+
+Every character is a native Turkish speaker. They speak ONLY Turkish, with a natural Istanbul accent and the lively, expressive delivery of actors in a Turkish animated comedy film. No English.
+
+Performance, second by second:
+0-1.2 s: Rıza's outstretched hand grabs at the air. He screams in Turkish, high and cracked, one long desperate word: "Fatura!"
+1.2-2.5 s: He scrambles to his feet, his loafers slipping on the gravel, almost falling, and launches himself after the goat.
+2.5-4 s: He sprints away from the camera up the street, arms flailing, blazer flapping. The goat keeps galloping ahead of him and passes Naci and Selin. Selin, still doubled over, points after them and laughs harder; Naci calmly turns his head to follow the goat.
+
+Last frame: Rıza seen from behind, running up the street, already level with Naci and Selin; the goat further ahead, small; the folder and the sign on the ground in the foreground; Naci seated, Selin laughing.
+
+Eyes: Rıza looks only at the goat. Naci and Selin watch the goat and Rıza. Nobody looks at the camera. Faces, hair and clothes stay identical to the first frame.
+
+Pronunciation: "Fatura" sounds like "fah-too-RAH", the last syllable stretched.
+
+Only Rıza speaks. Selin laughs without words. Audio: Rıza's scream, scrambling footsteps on gravel, the goat's hooves and bell, a woman's laughter in the distance, light wind only. No music, no subtitles, no on-screen text.
