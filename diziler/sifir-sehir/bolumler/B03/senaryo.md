@@ -109,6 +109,7 @@ Rıza'nın gülümsemesi donar. Son kare donar; **devamı için takip et**.
 ## Üretim notları
 - Kareler: 13 klip için yaklaşık 11 yeni kare, hepsi doğrudan 9:16. B02 kareleri yeniden kullanılmıyor (kural 21).
 - Selin tek planı yok: P01'de Rıza'yla, P05 ve P09'da Naci'yle ikili (kural 14; Selin + Naci ikilisinin filtreden geçtiği denenmedi).
+- Fatura ve sarı zarf (B02'nin sonunda Rıza'nın elindeydi): B03 boyunca ceketinin iç cebinde; fatura P06'da cepten çıkar ve keçi kapar. Cebe konduğu gösterilmiyor (kullanıcı onayıyla).
 - Dosya: P01'de Rıza'ya geçer, P02–P06'da sol kolunun altında, P07'de yere düşer ve bölümden çıkar.
 - En riskli planlar: P06 (keçinin kâğıdı kapması), P07–P08 (koşu), P10 (iki karakterin kadraja girmesi). İki denemede geçmezse plan bölünür ya da sonuç karesine kesilir (kural 6).
 - Eksik görsel: köy meydanının Emine'li planları için meydanın yakın açısı (SB20 geniş açı var); anahtar nesnesi.
