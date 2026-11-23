@@ -1,0 +1,30 @@
+Use the attached image as the FIRST FRAME of the video (image-to-video, start frame). Do not generate a new scene from text.
+Clip name (for the file only, never shown or spoken): B03_P12
+
+Stylized 3D animated feature film look, single continuous shot. Camera is locked off for the whole shot: no pan, no zoom, no cut. Duration 8 seconds.
+
+Start exactly from the first frame: close shot of a short sturdy old woman in a burgundy floral headscarf and rust-brown knitted vest (Emine), from the chest up, in a village square in golden light. With her right hand she holds up an old dark iron key that hangs on a thin leather cord around her neck. She smiles a sly bargaining smile, eyes narrowed, looking toward the left edge of the frame. In the left foreground, out of focus, the navy shoulder and dark curls of a man seen from behind.
+
+Hands and objects:
+- The key stays on its leather cord around Emine's neck and in her RIGHT hand for the entire shot; it never comes off the cord, never changes size or shape.
+- Her left hand never enters the frame.
+- The man's shoulder in the left foreground stays where it is, out of focus; he does not turn around.
+
+Voices (must sound exactly the same in every clip of this series):
+- Emine: Turkish village woman in her mid sixties. Strong, slightly hoarse, loud and bossy voice with warmth underneath; a hearty laugh.
+
+Every character is a native Turkish speaker. They speak ONLY Turkish, with a natural Istanbul accent and the lively, expressive delivery of actors in a Turkish animated comedy film. No English.
+
+Performance, second by second:
+0-0.8 s: Emine lets the key dangle from her fingers and gives it a tiny swing, enjoying herself.
+0.8-5 s: She says in Turkish, slow and relishing every sentence, with a little pause after each one and one small swing of the key on each sentence, a village woman who holds all the cards: "Şalter Muhtar'da. Muhtar bende. Anahtar da burada."
+5-6 s: Nobody speaks. She closes her fist around the key, raises one eyebrow and waits, the sly smile widening.
+6-8 s: Nobody speaks. Everyone holds exactly the pose and the place they reached at second 6: only breathing, blinking and tiny natural movements. Nobody walks, nobody turns to the camera, nothing new enters the frame, the camera does not move.
+
+Last frame: Emine in the same place, her right fist closed around the key in front of her chest, one eyebrow raised, mouth closed in a sly smile; the man's shoulder in the left foreground.
+
+Eyes: Emine looks only toward the left edge of the frame, at the man in front of her. Nobody looks at the camera. Faces, hair and clothes stay identical to the first frame.
+
+Pronunciation: "Şalter" sounds like "shal-TEHR". "Muhtar'da" sounds like "mooh-tar-DAH". "bende" sounds like "ben-DEH". "Anahtar" sounds like "ah-nah-TAR", with a clearly breathed h.
+
+Only Emine speaks. Audio: Emine's voice, a faint metallic clink of the key, light wind only. No music, no subtitles, no on-screen text.
