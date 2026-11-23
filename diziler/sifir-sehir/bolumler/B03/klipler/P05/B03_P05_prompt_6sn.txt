@@ -1,0 +1,30 @@
+Use the attached image as the FIRST FRAME of the video (image-to-video, start frame). Do not generate a new scene from text.
+Clip name (for the file only, never shown or spoken): B03_P05
+
+Stylized 3D animated feature film look, single continuous shot. Camera is locked off for the whole shot: no pan, no zoom, no cut. Duration 6 seconds.
+
+Start exactly from the first frame: medium-wide two-shot in front of a stone wall with a blue door and a vine, in golden light. On the left an old man in a faded blue jacket (Naci) sits on a wooden stool, a small tea glass in his right hand, his left hand on his knee, looking toward the right edge of the frame, faintly amused. Beside him on the right a blonde woman in a pink top and short burgundy skirt (Selin) stands with her right hand clamped over her mouth and her left arm across her stomach, shoulders hunched, eyes wide and sparkling, trying not to laugh, also looking off to the right.
+
+Hands and objects:
+- Naci's RIGHT hand holds the tea glass for the entire shot; it never leaves his hand and stays the same size. His LEFT hand stays on his knee. He stays seated.
+- Selin's hands are EMPTY. She stays standing in the same spot; she does not walk away.
+
+Voices (must sound exactly the same in every clip of this series):
+- Naci: Turkish man in his late sixties. Slow, dry, gravelly low voice. Never in a hurry, faintly amused.
+- Selin: Turkish woman in her early thirties. Warm, slightly husky low voice. She has a wide emotional range: she can be sarcastic, reproachful, loud and laughing.
+
+Every character is a native Turkish speaker. They speak ONLY Turkish, with a natural Istanbul accent and the lively, expressive delivery of actors in a Turkish animated comedy film. No English.
+
+Performance, second by second:
+0-1 s: Selin's shoulders shake with held-in laughter behind her hand; her eyes stay fixed on something off screen on the right. Naci watches the same thing, completely calm.
+1-3.2 s: Without taking his eyes off it, Naci says in Turkish, dry and slow, as a plain historical fact: "Öncekiler slayt getirmişti."
+3.2-4 s: A beat. Selin's eyes go even wider; she turns her head toward Naci, hand still over her mouth.
+4-6 s: She cannot hold it any longer: a snort bursts through her fingers and she doubles over forward, laughing out loud, her right hand dropping from her mouth to her knee, her left arm still around her stomach. Naci raises his glass and takes one slow sip, the smallest smile under his moustache.
+
+Last frame: Naci seated in the same place, glass at his lips; Selin beside him bent forward with both hands on her knees, laughing, her face turned toward the right edge of the frame.
+
+Eyes: Naci looks only toward the right edge of the frame. Selin looks right, at Naci for one beat, then down as she laughs. Nobody looks at the camera. Faces, hair and clothes stay identical to the first frame.
+
+Pronunciation: "Öncekiler" sounds like "urn-jeh-kee-LEHR". "slayt" sounds like the English word "slide". "getirmişti" sounds like "geh-teer-MISH-tee".
+
+Only Naci speaks words. Selin only laughs. Audio: Naci's voice, Selin's stifled then open laughter, one soft sip, light wind only. No music, no subtitles, no on-screen text.

@@ -14,3 +14,4 @@
 | 23.11.2026 | SB35, SB38, SB39 | ChatGPT (kullanıcı) | paket referansları + nesne_fatura | 0 | ONAYLI. SB35: Naci taburede, Selin eli ağzında, ikisi de sağa bakıyor. SB38: Emine ve keçi, Rıza yok. SB39: Rıza solda iki büklüm, Emine sağda elinde fatura, altta keçi |
 | 23.11.2026 | SB37 deneme 1 | ChatGPT (kullanıcı) | paket | 0 | RED: oran 3:4 (9:16 değil); sol altta tabela köşesi var (bu sokakta olmamalı). İçerik doğru; aynı sohbette 9:16'ya genişletilecek |
 | 23.11.2026 | SB40, SB41 | ChatGPT (kullanıcı) | SB39 onaylı + Emine ve Rıza sayfaları | 0 | ONAYLI. SB40: Emine yakın plan, anahtar ipte, sola bakıyor, sol önde Rıza'nın omzu. SB41: Rıza solda avucu açık, Emine sağda anahtar göğsünün önünde |
+| 23.11.2026 | SB37 (P08) | ChatGPT (kullanıcı) | paket + nesne_fatura | 0 | ONAYLI (2. sürüm: 9:16'ya genişletildi, tabela köşesi kaldırıldı) |

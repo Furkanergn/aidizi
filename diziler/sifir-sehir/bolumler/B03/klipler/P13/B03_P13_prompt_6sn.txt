@@ -1,0 +1,32 @@
+Use the attached image as the FIRST FRAME of the video (image-to-video, start frame). Do not generate a new scene from text.
+Clip name (for the file only, never shown or spoken): B03_P13
+
+Stylized 3D animated feature film look, single continuous shot. Camera is locked off for the whole shot: no pan, no zoom, no cut. Duration 6 seconds.
+
+Start exactly from the first frame: hips-up two-shot in a village square in golden light, a plane tree, a fountain and a lit rusty street lamp behind. On the left a tall slim man in a navy blazer (Rıza) leans toward the woman, his right hand held out palm up, his left hand flat on his chest, his sweetest pleading smile. On the right a short sturdy old woman in a burgundy headscarf and rust-brown vest (Emine) holds up an old iron key on a leather cord in her right hand, her left fist on her hip, an amused, sly smile.
+
+Hands and objects:
+- The key stays on its leather cord around Emine's neck and in her RIGHT hand for the entire shot; Rıza never touches it.
+- Rıza's RIGHT hand stays held out, palm up, for the entire shot. His LEFT hand stays on his chest. His hands hold nothing.
+- Nobody walks.
+
+Voices (must sound exactly the same in every clip of this series):
+- Rıza: Turkish man in his mid thirties. Warm, bright, slightly nasal tenor.
+- Emine: Turkish village woman in her mid sixties. Strong, slightly hoarse, loud and bossy voice with warmth underneath; a hearty laugh.
+
+Every character is a native Turkish speaker. They speak ONLY Turkish, with a natural Istanbul accent and the lively, expressive delivery of actors in a Turkish animated comedy film. No English.
+
+Performance, second by second:
+0-0.5 s: Rıza holds his pleading smile, eyebrows up in the middle.
+0.5-2.2 s: He asks in Turkish, sugary and hopeful, wiggling the fingers of his outstretched palm: "Verir misiniz?"
+2.2-3 s: A beat. Emine looks down at his open palm, then up at his face, in no hurry at all.
+3-5 s: She pulls the key back against her chest, closing her fist around it, and says in Turkish, slow and sly, leaning on the last word: "Veririm. Bir şartla."
+5-6 s: Nobody speaks. Rıza's smile stays on his mouth but dies in his eyes; his eyebrows sink. His palm is still held out, empty. Emine's smile widens.
+
+Last frame: both in the same places: Rıza with his empty palm still held out and a frozen smile; Emine with her fist closed around the key against her chest, smiling slyly; both mouths closed.
+
+Eyes: Rıza looks only at Emine and the key. Emine looks at his palm once, then only at his face. Nobody looks at the camera. Faces, hair and clothes stay identical to the first frame.
+
+Pronunciation: "Verir misiniz" sounds like "veh-REER mee-see-neez". "Veririm" sounds like "veh-ree-REEM". "şartla" sounds like "shart-LAH".
+
+Only the speaking character's mouth moves. Audio: the two voices and light wind only. No music, no subtitles, no on-screen text.

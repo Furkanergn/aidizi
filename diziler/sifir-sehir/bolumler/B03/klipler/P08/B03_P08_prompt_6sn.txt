@@ -1,0 +1,29 @@
+Use the attached image as the FIRST FRAME of the video (image-to-video, start frame). Do not generate a new scene from text.
+Clip name (for the file only, never shown or spoken): B03_P08
+
+Stylized 3D animated feature film look, single continuous shot. The camera tracks sideways with the runners at exactly their speed, always at the same distance, so both stay the same size and in the same place in the frame: no zoom, no cut, no change of angle. Duration 6 seconds.
+
+Start exactly from the first frame: wide side-on shot in a cobbled village street in golden light, a stone house with blue shutters behind. A cream-white goat gallops from left to right in the right half of the frame, a crumpled bill in its mouth. Two metres behind it, in the left half, a tall slim man in a navy blazer (Rıza) sprints after it, arms pumping, blazer flapping, panic on his face. Dust and dry leaves fly up behind them.
+
+Hands and objects:
+- Rıza's hands are EMPTY for the entire shot.
+- The crumpled bill (white paper with a blue header, text too small to read) stays in the goat's mouth for the entire shot.
+- The goat always stays two metres ahead of Rıza; he never catches it and never falls further behind.
+
+Voices (must sound exactly the same in every clip of this series):
+- Rıza: Turkish man in his mid thirties. Warm, bright, slightly nasal tenor.
+
+Every character is a native Turkish speaker. They speak ONLY Turkish, with a natural Istanbul accent and the lively, expressive delivery of actors in a Turkish animated comedy film. No English.
+
+Performance, second by second:
+0-1 s: Both run from left to right, stone houses sliding past behind them. Rıza's loafers slap the cobbles; the goat gallops easily.
+1-4.5 s: Rıza shouts after it in Turkish, out of breath, still absurdly polite, his voice cracking, stretching one hand out toward the goat on the last words: "Sayın Muhtar! Muhtar Bey! Bir dakika!"
+4.5-6 s: Nobody speaks. Rıza stumbles on a cobblestone, windmills his arms, recovers and keeps running. The goat throws one bored glance back at him and gallops on.
+
+Last frame: both still running from left to right, in the same places in the frame: the goat ahead on the right with the bill in its mouth, Rıza two metres behind on the left, mouth open, panting.
+
+Eyes: Rıza looks only at the goat. The goat looks ahead, back at Rıza once, then ahead. Nobody looks at the camera. Faces, hair and clothes stay identical to the first frame.
+
+Pronunciation: "Sayın" has the dotless ı: "sah-YUHN". "Muhtar" sounds like "mooh-TAR". "Bey" sounds like "bay". "dakika" sounds like "dah-kee-KAH".
+
+Only Rıza speaks. Audio: Rıza's shouting and panting, running footsteps on cobbles, hooves, the goat's bell jingling, light wind only. No music, no subtitles, no on-screen text.

@@ -14,7 +14,7 @@
 - **Plaza dili:** "ortağınız", "kazan kazan", "Sayın Muhtar".
 - **"Öncekiler":** slayt getirmişler.
 - **"Üç":** Emine üç şey sayar gibi yapıp tek şart söyler (B04'e taşınır).
-- **Keçi her şeyi yer:** bu kez fatura.
+- **Keçi her şeyi kapar:** bu kez fatura (yemez; kapıp kaçar, meydanda Emine ağzından alır).
 
 ## Senaryo
 

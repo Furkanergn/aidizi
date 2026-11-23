@@ -1,0 +1,30 @@
+Use the attached image as the FIRST FRAME of the video (image-to-video, start frame). Do not generate a new scene from text.
+Clip name (for the file only, never shown or spoken): B03_P10
+
+Stylized 3D animated feature film look, single continuous shot. Camera is locked off for the whole shot: no pan, no zoom, no cut. Duration 6 seconds.
+
+Start exactly from the first frame: wide shot of a village square in golden light: cobbles, a dry stone fountain, a big plane tree with yellow leaves, shabby rusty street lamps switched on in daylight. Right of center a short sturdy old woman in a burgundy floral headscarf, rust-brown knitted vest, navy floral dress and black rubber boots (Emine) stands with both fists on her hips, facing left, stern. From the left a cream-white goat trots toward her with a crumpled bill in its mouth.
+
+Hands and objects:
+- The crumpled bill (white paper with a blue header, text too small to read) goes from the goat's mouth into Emine's RIGHT hand at second 4 and stays in that hand.
+- Emine does not walk; her boots stay where they are. Her LEFT fist stays on her hip.
+- All street lamps stay lit.
+- Nobody else enters the frame.
+
+Voices (must sound exactly the same in every clip of this series):
+- Emine: Turkish village woman in her mid sixties. Strong, slightly hoarse, loud and bossy voice with warmth underneath; a hearty laugh.
+
+Every character is a native Turkish speaker. They speak ONLY Turkish, with a natural Istanbul accent and the lively, expressive delivery of actors in a Turkish animated comedy film. No English.
+
+Performance, second by second:
+0-2.5 s: The goat trots across the cobbles to Emine, slows down and stops right at her feet, looking up at her, the bill hanging from its mouth. Emine watches it come, one eyebrow raised.
+2.5-4.5 s: Without moving her feet she bends forward, holds her RIGHT hand open under the goat's mouth and says in Turkish, stern and short, like to a naughty child: "Ver bakayım." The goat lets the bill drop into her palm.
+4.5-6 s: Nobody speaks. She straightens up, looks at the crumpled bill in her hand and frowns. Then she lifts her eyes toward the LEFT edge of the frame, as if she hears someone coming, and her eyebrow goes up again. The goat sits down at her feet.
+
+Last frame: Emine standing upright in the same place, the crumpled bill in her right hand, left fist on her hip, looking toward the left edge of the frame; the goat sitting at her feet.
+
+Eyes: Emine looks at the goat, at the bill, then toward the left edge of the frame. The goat looks up at Emine. Nobody looks at the camera. Faces, hair and clothes stay identical to the first frame.
+
+Pronunciation: "Ver bakayım" sounds like "vehr bah-kah-YUHM", ending with the dotless ı.
+
+Only Emine speaks. Audio: Emine's voice, hooves on cobbles, the goat's bell, paper rustling, a faint electric hum from the lamps, light wind only. No music, no subtitles, no on-screen text.

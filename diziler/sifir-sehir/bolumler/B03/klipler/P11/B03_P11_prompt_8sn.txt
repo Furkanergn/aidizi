@@ -1,0 +1,32 @@
+Use the attached image as the FIRST FRAME of the video (image-to-video, start frame). Do not generate a new scene from text.
+Clip name (for the file only, never shown or spoken): B03_P11
+
+Stylized 3D animated feature film look, single continuous shot. Camera is locked off for the whole shot: no pan, no zoom, no cut. Duration 8 seconds.
+
+Start exactly from the first frame: knees-up two-shot in a village square in golden light, a stone fountain, a plane tree and a lit rusty street lamp behind. On the left a tall slim man in a navy blazer (Rıza) is bent forward with both hands on his knees, out of breath, sweat on his forehead, head lifted toward the woman, mouth open in a weak polite smile. On the right a short sturdy old woman in a burgundy headscarf and rust-brown vest (Emine) stands upright facing him, a crumpled bill in her right hand, her left fist on her hip, stern, one eyebrow raised. At the bottom between them the head of a cream-white goat looks up at her.
+
+Hands and objects:
+- Emine keeps the crumpled bill in her RIGHT hand for the entire shot; it never changes size and its text never becomes readable. Her LEFT fist stays on her hip until she laughs.
+- Rıza's hands are EMPTY. He stays bent forward with his LEFT hand on his knee for the entire shot; he gestures only with his RIGHT hand.
+- Nobody walks. The goat's head stays at the bottom of the frame.
+
+Voices (must sound exactly the same in every clip of this series):
+- Emine: Turkish village woman in her mid sixties. Strong, slightly hoarse, loud and bossy voice with warmth underneath; a hearty laugh.
+- Rıza: Turkish man in his mid thirties. Warm, bright, slightly nasal tenor.
+
+Every character is a native Turkish speaker. They speak ONLY Turkish, with a natural Istanbul accent and the lively, expressive delivery of actors in a Turkish animated comedy film. No English.
+
+Performance, second by second:
+0-1 s: Rıza pants, shoulders heaving. Emine looks him slowly up and down, from his dusty loafers to his messy curls.
+1-2.5 s: Emine says in Turkish, sharp and loud, chin lifted: "Sen kimsin?"
+2.5-5 s: Rıza lifts his RIGHT hand off his knee, one finger raised as if to make an important point, and gasps in Turkish between two breaths, trying to sound dignified and failing: "Yeni… sahip…" His hand drops back onto his knee.
+5-5.8 s: A beat. Emine stares at him. The corner of her mouth starts to twitch.
+5.8-8 s: She throws her head back and roars with laughter, shouting in Turkish through the laugh, delighted and incredulous: "Sahip mi?!" She keeps laughing, slapping the bill against her thigh. Rıza, still bent over, gives a weak, confused little laugh along with her.
+
+Last frame: both in the same places: Rıza still bent forward with his hands on his knees, a confused weak smile; Emine upright, laughing, the bill in her right hand; the goat's head at the bottom.
+
+Eyes: Emine looks only at Rıza. Rıza looks up at Emine. Nobody looks at the camera. Faces, hair and clothes stay identical to the first frame.
+
+Pronunciation: "Sen kimsin" sounds like "sen keem-SEEN". "sahip" sounds like "sah-HEEP", with a clearly breathed h.
+
+Only the speaking character's mouth moves. Audio: the two voices, Rıza's panting, Emine's hearty laughter, paper slapping, light wind only. No music, no subtitles, no on-screen text.
