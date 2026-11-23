@@ -10,6 +10,7 @@ Her kare için: yeni bir ChatGPT sohbeti aç, klasördeki numaralı görselleri 
 | SB32 | P02 | C1 · SB09'un düzenlemesi: önde keçi arkadan ve tabela; Rıza Selin'in yanından kameraya doğru geliyor; arkada Naci ve Selin | B01_SB09.jpg, B02_SB21.jpg, Riza_sayfasi.jpg, Riza_jest_B.jpg, Selin_sayfasi.jpg, Keci_sayfasi.jpg, Nesne_dosya.jpg |
 | SB33 | P03 | C2 yönü · Keçi yakın plan, yüzü; geride çakıl yol ve araba | Keci_sayfasi.jpg, V10_ters_aci.jpg |
 | SB34 | P04, P06 | C1 · Keçinin omzunun üstünden Rıza çömelmiş, yüzü kameraya; arkada Naci ve Selin | B03_SB32.jpg, Riza_sayfasi.jpg, Riza_ifade.jpg, Riza_jest_A.jpg, Keci_sayfasi.jpg, Nesne_dosya.jpg |
+| SB42 | P02b | C1 · SB34'ün düzenlemesi: Rıza keçinin önüne gelmiş, AYAKTA, yüzü büyük ve net; birazdan çömelecek | B03_SB34.jpg, Riza_sayfasi.jpg, Riza_jest_B.jpg, Nesne_dosya.jpg |
 | SB35 | P05 | C3 · Selin ve Naci: Selin gülmesini tutuyor | B02_SB21.jpg, Selin_sayfasi.jpg, Selin_ifade2.jpg, Selin_jest_B.jpg, Naci_ifade.jpg |
 | SB36 | P07 | C1 · Keçi kâğıtla Rıza'nın yanından geçip sokağa kaçıyor; Rıza dönüp bakıyor; sağda Naci ve Selin | B03_SB32.jpg, Riza_sayfasi.jpg, Riza_jest_A.jpg, Keci_hareket_A.jpg, Selin_sayfasi.jpg, Nesne_dosya.jpg |
 | SB37 | P08 | Sokak içi · Kovalamaca, yandan; soldan sağa | V8_koy_sokagi.jpg, Riza_sayfasi.jpg, Riza_jest_A.jpg, Keci_hareket_A.jpg |

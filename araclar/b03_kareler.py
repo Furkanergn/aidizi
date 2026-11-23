@@ -21,6 +21,7 @@ R={ # ad -> (dosya, kaynak, rol)
  "SB20":("B02_SB20.jpg",f"{B2}/SB20.jpg","onaylı kare: köy meydanı (çeşme, çınar, yanan lambalar); mekân ve ışık buradan"),
  "SB39":("B03_SB39.jpg",f"{B3}/SB39.jpg","bu bölümün onaylı karesi: meydanda Emine ve Rıza; yer, ışık ve iki karakterin görünüşü buradan"),
  "SB32":("B03_SB32.jpg",f"{B3}/SB32.jpg","bu bölümün onaylı karesi: köy girişi; tabela, keçi, Rıza, arkada Naci ve Selin. Mekân, ışık, kimin nerede durduğu buradan"),
+ "SB34":("B03_SB34.jpg",f"{B3}/SB34.jpg","bu bölümün onaylı karesi: Rıza keçinin önünde çömelmiş. Mekân, ışık, kamera yönü, keçinin yeri ve Rıza'nın YÜZÜ buradan"),
  "V8":("V8_koy_sokagi.jpg",f"{V}/onayli/V8_plaka_koy_girisi.jpg","köy sokağı: mekân ve ışık buradan (tabela bu karede olmayacak)"),
  "selin":("Selin_sayfasi.jpg",f"{V}/mevcut/sheet_selin.jpg","Selin karakter sayfası: yüz, vücut, kıyafet"),
  "selin_ifade2":("Selin_ifade2.jpg",f"{V}/onayli/V11_selin_ifade2.jpg","Selin ifade sayfası: yüz ifadesi örnekleri"),
@@ -78,6 +79,14 @@ Medium shot at crouching eye level. Camera position: the same place and camera d
 {RIZA} He is CROUCHING on his heels in the center-left of the frame, one and a half metres beyond the goat, FACING the camera and the goat, seen from the knees up. {FOLDER[0].upper()+FOLDER[1:]} is tucked under his LEFT arm, pressed against his ribs. His RIGHT hand is raised at shoulder height, fingers spread, drawing something in the air, like a man starting a presentation. His face: bright salesman smile, eyebrows high, eyes on the goat.
 At the bottom LEFT corner, on the gravel, one rusty corner of the fallen road sign and its pole are visible; no text of the sign is in the frame.
 Background, softly out of focus, on the RIGHT side of the street behind Rıza: the low stone wall and the blue door, with Naci sitting on his stool and Selin standing beside him exactly where they are in the first attached frame, small and blurred (an old man in a blue jacket; a woman with blonde curls, pink top, short burgundy skirt), watching.
+No other people.""")
+K["SB42"]=("P02b","C1 · SB34'ün düzenlemesi: Rıza keçinin önüne gelmiş, AYAKTA, yüzü büyük ve net; birazdan çömelecek",["SB34","riza","riza_jestB","dosya"],f"""
+This is an EDIT of the FIRST attached image (the approved frame: Rıza crouching in front of the goat at the village entrance). Keep the place, the light, the goat's head in the right foreground seen from behind, the rusty corner of the fallen sign at the bottom left, and the two small blurred people far in the background on the right exactly as they are. Keep Rıza's FACE exactly as in the first image and in his character sheet: the same man, smooth face, light stubble, NO moustache.
+
+Change 1 - camera: raise the camera to standing chest height and pull it back about one metre, so there is room for a standing man. The goat's head is now lower in the frame, in the bottom right.
+
+Change 2 - Rıza: he is NOT crouching yet. He STANDS in the center-left of the frame, one and a half metres beyond the goat, facing the camera and the goat, seen from the knees up; his head is in the upper third of the image and his face is large and sharp. He has just arrived and stopped. {FOLDER[0].upper()+FOLDER[1:]} is tucked under his LEFT arm. His RIGHT hand holds his blazer lapel, straightening it. His face: chin up, eyes OPEN and looking down at the goat, a formal, over-polite business smile.
+{RIZA}
 No other people.""")
 K["SB35"]=("P05","C3 · Selin ve Naci: Selin gülmesini tutuyor",["SB21","selin","selin_ifade2","selin_jestB","naci_ifade"],f"""
 Medium-wide two-shot. Place, camera direction and light: exactly the attached approved frame: the camera faces the stone wall, the blue door, the vine, the wooden stool.

@@ -30,6 +30,8 @@ Kamera girişte: önde yerdeki tabela ve arkadan görünen keçi. Rıza, dosya s
 
 Keçi çiğnemeye devam eder, başını çevirmez.
 
+**P02 ikiye bölündü (kural 25):** P02a = geniş planın ilk 1,8 saniyesi (mevcut klipten kesilir; Rıza uzakta, yürüyor; ses kurguda kapatılır). P02b (6 sn, yeni kare SB42): Rıza keçinin önüne gelmiş, ayakta, yüzü büyük; yakasını düzeltir, boğazını temizler, çömelir ve "Sayın Muhtar…" der.
+
 ### P03 — Muhtar dinliyor (4 sn) · keçi yakın plan · C2 yönü
 Keçinin yüzü: ağır ağır çiğner, gözleri yarı kapalı. Bir kulağını oynatır. Çan tıngırdar. Geride çakıl yol ve araba bulanık. Replik yok.
 
