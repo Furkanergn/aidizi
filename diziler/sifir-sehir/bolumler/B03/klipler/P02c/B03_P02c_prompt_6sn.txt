@@ -1,0 +1,29 @@
+Use the attached image as the FIRST FRAME of the video (image-to-video, start frame). Do not generate a new scene from text.
+Clip name (for the file only, never shown or spoken): B03_P02c
+
+Stylized 3D animated feature film look, single continuous shot. Camera is locked off for the whole shot: no pan, no zoom, no cut. Duration 6 seconds.
+
+Start exactly from the first frame: medium shot at crouching eye level at a village entrance in golden light. A tall slim man in a navy blazer (Rıza) crouches on his heels in the center-left, facing the camera side, a closed burgundy folder clamped under his left arm and held by his left hand, his right hand raised with spread fingers, a big salesman grin, eyes on a goat. The goat's head and neck fill the right foreground, seen from behind (brown ear, horns, red rope collar with a brass bell), facing him. Bottom left: a rusty corner of a fallen road sign. Far behind him on the right, out of focus: an old man sitting on a stool and a blonde woman standing by a stone wall.
+
+Hands and objects:
+- Rıza keeps the closed burgundy folder clamped under his LEFT arm, held by his left hand, for the entire shot; it never moves and never changes size. He gestures only with his RIGHT hand.
+- The goat's head stays in the right foreground for the entire shot; it only chews, blinks and flicks an ear. It does not walk.
+- Rıza stays crouching in the same place for the entire shot; he does not stand up.
+
+Voices (must sound exactly the same in every clip of this series):
+- Rıza: Turkish man in his mid thirties. Warm, bright, slightly nasal tenor.
+
+Every character is a native Turkish speaker. They speak ONLY Turkish, with a natural Istanbul accent and the lively, expressive delivery of actors in a Turkish animated comedy film. No English.
+
+Performance, second by second:
+0-1 s: Rıza lowers his raised RIGHT hand, clears his throat into his fist, an important little "ehem", and puts on a formal, respectful face.
+1-3 s: With a small respectful dip of his head, his RIGHT hand flat on his chest, he says in Turkish, formal and far too polite, like greeting a company chairman: "Sayın Muhtar…"
+3-6 s: Nobody speaks. The goat does not react at all: it keeps chewing, one ear flicks, its bell tinkles once. Rıza waits, his polite smile slowly stiffening, his eyebrows creeping up; he glances down, then back at the goat.
+
+Last frame: Rıza crouching exactly where he started, right hand on his chest, mouth closed in a stiff waiting smile; folder under his left arm; the goat's head in the same place in the right foreground.
+
+Eyes: Rıza looks only at the goat, with one quick glance down. The goat faces Rıza. Nobody looks at the camera. Faces, hair and clothes stay identical to the first frame. The two people far in the background stay where they are, out of focus.
+
+Pronunciation: "Sayın" has the Turkish dotless ı: "sah-YUHN". "Muhtar" sounds like "mooh-TAR", with a clearly breathed h.
+
+Only Rıza speaks. Audio: Rıza's voice, one throat-clearing, soft goat chewing, the goat's bell once, light wind only. No music, no subtitles, no on-screen text.
