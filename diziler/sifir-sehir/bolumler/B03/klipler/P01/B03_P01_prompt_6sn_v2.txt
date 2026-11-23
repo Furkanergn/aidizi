@@ -1,0 +1,30 @@
+Use the attached image as the FIRST FRAME of the video (image-to-video, start frame). Do not generate a new scene from text.
+Clip name (for the file only, never shown or spoken): B03_P01
+
+Stylized 3D animated feature film look, single continuous shot. Camera is locked off for the whole shot: no pan, no zoom, no cut. Duration 6 seconds.
+
+Start exactly from the first frame: thigh-up two-shot on a village road in golden light. On the left a blonde woman in a pink top and short burgundy skirt (Selin), hands empty, one fist on her hip, her other hand raised palm up, annoyed, mouth open, glaring sideways at the man. On the right a tall slim man in a navy blazer (Rıza) holds a closed burgundy folder upright against his side with one hand, his other arm hanging down, a nervous grimace, eyes sliding toward her. Behind them, far away, a road and a parked dark grey car.
+
+Hands and objects:
+- Rıza keeps the closed burgundy folder in the same hand for the entire shot; it never falls and never changes size. He makes no hand gestures.
+- Selin's hands are EMPTY for the entire shot. She gestures only with the arm that is already raised; her other fist stays on her hip. She does not touch Rıza.
+
+Voices (must sound exactly the same in every clip of this series):
+- Selin: Turkish woman in her early thirties. Warm, slightly husky low voice. She has a wide emotional range: she can be sarcastic, reproachful, loud and laughing.
+- Rıza: Turkish man in his mid thirties. Warm, bright, slightly nasal tenor.
+
+Every character is a native Turkish speaker. They speak ONLY Turkish, with a natural Istanbul accent and the lively, expressive delivery of actors in a Turkish animated comedy film. No English.
+
+Performance, second by second:
+0-0.6 s: Selin closes her mouth and her glare turns into a sweet, sugary smile that is clearly a threat: eyebrows high, head tilted toward Rıza.
+0.6-3 s: She says in Turkish, sing-song and far too sweet, clearly an order, landing hard on "Toplantın", while she jerks the thumb of her raised hand twice over her own shoulder, pointing behind them: "Hadi aşkım. Toplantın var."
+3-4 s: A beat. Rıza's grimace freezes; he swallows, glances over his shoulder in the direction of her thumb, then back at her. She raises her eyebrows even higher and nods once: go.
+4-6 s: Nobody speaks. Rıza clutches the folder, turns around and walks away from the camera, toward the road behind them, with small unwilling steps, throwing one nervous look back at her. Selin stays where she is, puts both fists on her hips, watches him go and shakes her head with a short laugh through her nose.
+
+Last frame: Selin in the left foreground with both fists on her hips, turned away from the camera, watching Rıza; Rıza two metres further away, his back to the camera, holding the folder, walking away. Both mouths closed.
+
+Eyes: Selin looks only at Rıza. Rıza looks at Selin, over his shoulder once, at Selin, then ahead. Nobody looks at the camera. Faces, hair and clothes stay identical to the first frame.
+
+Pronunciation: "aşkım" ends with the dotless ı: "ash-KUHM". "Toplantın" ends with the dotless ı: "top-lan-TUHN".
+
+Only Selin speaks. Rıza does not speak. Audio: Selin's voice, footsteps on gravel, light wind only. No music, no subtitles, no on-screen text.
