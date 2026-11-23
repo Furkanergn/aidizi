@@ -8,7 +8,7 @@ import subprocess, os, re, sys
 B = "diziler/sifir-sehir/bolumler/B03"
 SRC = f"{B}/klipler/onayli"
 OUT = f"{B}/cikti"
-SURUM = "v4"
+SURUM = "v5"
 FPS = 24
 os.makedirs(OUT, exist_ok=True)
 
@@ -25,7 +25,7 @@ EDL = [
  ("P09",  0.20, 5.90, -3.3, [(1.70, 3.20, "Koş Rıza, koş!"), (4.25, 5.20, "Yetişemez.")]),
  ("P08",  0.30, 5.60, -3.3, [(1.40, 2.50, "Sayın Muhtar!"), (2.90, 4.00, "Muhtar Bey!"), (4.40, 5.40, "Bir dakika!")]),
  ("P10",  0.60, 5.90,  0.0, [(3.05, 3.85, "Ver bakayım.")]),
- ("P11",  0.60, 4.02, -2.2, [(1.25, 2.10, "Sen kimsin?"), (3.00, 3.95, "Yeni… sahip…")]),
+ ("P11",  0.60, 4.55, -2.2, [(1.25, 2.10, "Sen kimsin?"), (3.00, 3.70, "Yeni…"), (4.02, 4.52, "sahip…")]),   # 4,55: Rıza'nın "sahip"i biter; ardından gelen yanlış "sahip mi?" dışarıda kalır
  ("P11b", 0.42, 3.90,  0.0, [(0.55, 1.55, "Sahip mi?!")]),
  ("P12",  1.00, 5.90,  0.0, [(1.50, 2.75, "Şalter Muhtar'da."), (3.05, 4.05, "Muhtar bende."), (4.40, 5.50, "Anahtar da burada.")]),
  ("P13",  0.40, 5.90, +3.2, [(0.70, 1.55, "Verir misiniz?"), (3.15, 3.80, "Veririm."), (4.25, 5.00, "Bir şartla.")]),
