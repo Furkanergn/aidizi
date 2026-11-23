@@ -16,8 +16,8 @@ Her kare için: yeni bir ChatGPT sohbeti aç, klasördeki numaralı görselleri 
 | SB37 | P08 | Sokak içi · Kovalamaca, yandan; soldan sağa | V8_koy_sokagi.jpg, Riza_sayfasi.jpg, Riza_jest_A.jpg, Keci_hareket_A.jpg, Nesne_fatura.jpg |
 | SB38 | P10 | Meydan · Emine bekliyor, keçi soldan geliyor (Rıza bu karede yok; kural 25) | B02_SB20.jpg, Emine_jest.jpg, Emine_ifade.jpg, Keci_hareket_A.jpg, Nesne_fatura.jpg |
 | SB39 | P11 | Meydan · Rıza (solda) ve Emine (sağda): sen kimsin | B02_SB20.jpg, Emine_jest.jpg, Emine_ifade.jpg, Riza_sayfasi.jpg, Riza_ifade.jpg, Riza_jest_A.jpg, Nesne_fatura.jpg |
-| SB40 | P12 | Meydan · Emine yakın plan, anahtarı gösteriyor; solda Rıza'nın omzu | B03_SB39.jpg, Emine_ifade.jpg, Emine_jest.jpg (BEKLİYOR: B03_SB39.jpg) |
-| SB41 | P13 | Meydan · Rıza (solda) ve Emine (sağda): verir misiniz | B03_SB39.jpg, Emine_ifade.jpg, Riza_sayfasi.jpg, Riza_ifade.jpg (BEKLİYOR: B03_SB39.jpg) |
+| SB40 | P12 | Meydan · Emine yakın plan, anahtarı gösteriyor; solda Rıza'nın omzu | B03_SB39.jpg, Emine_ifade.jpg, Emine_jest.jpg |
+| SB41 | P13 | Meydan · Rıza (solda) ve Emine (sağda): verir misiniz | B03_SB39.jpg, Emine_ifade.jpg, Riza_sayfasi.jpg, Riza_ifade.jpg |
 
 Sıra: SB31–SB39 birbirinden bağımsız. SB40 ve SB41, onaylı SB39'u referans alır; SB39 onaylanınca betik yeniden çalıştırılır.
 P06, SB34'ten; P09, P05 klibinin son karesinden başlar.
