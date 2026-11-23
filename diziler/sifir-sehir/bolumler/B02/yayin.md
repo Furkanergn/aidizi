@@ -40,3 +40,11 @@ Borç: 333.333,33 TL. En yakın tahmin: @… 👏 Sıradaki soru: keçi şalteri
 3. Açıklamayı yapıştır, yorumu sabitle.
 4. Yapay zekâ etiketini aç.
 5. B01'in sabit yorumuna yanıt yaz: "Cevap Bölüm 2'de 👆".
+
+## Hikâye (bölüm duyurusu)
+Görsel: `cikti/hikaye_B02_yayinda.jpg` (`python3 araclar/hikaye_bolum.py <kare> <çıktı> 2 "<alt satır>" 1010`).
+
+Paylaşırken:
+1. Hikâyeye görseli ekle.
+2. Bağlantı çıkartmasıyla Bölüm 2 gönderisini bağla (ya da gönderiyi hikâyede paylaş ve görseli üstüne koy).
+3. İstersen anket çıkartması: "Rıza muhtarı ikna eder mi?" Evet / Hayır. Alt kısım (son 340 piksel) boş bırakıldı; çıkartmayı oraya koy.
