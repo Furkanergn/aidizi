@@ -1,0 +1,36 @@
+Use the attached image as the FIRST FRAME of the video (image-to-video, start frame). Do not generate a new scene from text.
+Clip name (for the file only, never shown or spoken): B04_P13
+
+Stylized 3D animated feature film look, single continuous shot. Camera is locked off for the whole shot: no pan, no zoom, no cut. Duration 8 seconds.
+
+Start exactly from the first frame: hips-up three-shot in a village square in golden light, a plane tree, a fountain and a lit street lamp behind. On the left a young woman with golden blonde curls and a pink top (Selin), a burgundy folder in her RIGHT hand against her hip, her LEFT palm held out toward the man, a sweet sarcastic smile. In the center a tall slim man in a navy blazer (Rıza), shoulders slumped, a black phone hanging in his right hand, a fallen face. On the right a short old woman in a burgundy headscarf and rust-brown vest (Emine), laughing with her head tipped back, her right hand on her belly. A cream-white goat chews at the bottom right.
+
+SPEAKER ORDER: only the YOUNG WOMAN, Selin, speaks in this shot, one line in two parts:
+"Harika. İnterneti olmayan köye internetten insan getireceğiz."
+Rıza does NOT speak; his mouth stays closed. Emine does NOT speak any words: she only laughs, after Selin's line.
+
+Hands and objects:
+- Selin keeps the folder against her right hip with her RIGHT hand for the entire shot; she gestures only with her LEFT hand.
+- Rıza keeps the phone hanging in his RIGHT hand at his side.
+- Emine keeps her right hand on her belly. Nobody walks. The goat chews.
+
+Voices (must sound exactly the same in every clip of this series):
+- Selin: Turkish woman in her early thirties. Warm, slightly husky low voice. She has a wide emotional range: she can be sarcastic, reproachful, loud and laughing.
+- Emine: Turkish village woman in her mid sixties. Strong, slightly hoarse, loud and bossy voice with warmth underneath; a hearty laugh.
+
+Every character is a native Turkish speaker. They speak ONLY Turkish, with a natural Istanbul accent and the lively, expressive delivery of actors in a Turkish animated comedy film. No English.
+
+Performance, second by second:
+0-0.4 s: Selin tilts her head, sweet smile.
+0.4-1.2 s: SELIN says in Turkish, sugary and sarcastic, presenting him with her LEFT palm: "Harika."
+1.2-1.6 s: A tiny beat: she raises her eyebrows.
+1.6-4.8 s: SELIN, still sweet but with a sting, slowing down on the last words: "İnterneti olmayan köye internetten insan getireceğiz." Rıza's and Emine's mouths stay closed while she speaks; Emine only shakes with silent laughter.
+4.8-8 s: Nobody speaks words. Emine bursts into a loud, hearty laugh, slapping her belly. Rıza's face falls even more; he looks down at his phone. Selin keeps her sweet smile and drops her hand.
+
+Last frame: all in the same places: Selin smiling, hand lowered, folder at her hip; Rıza looking down at the phone in his hand; Emine laughing, hand on belly; the goat at the bottom.
+
+Eyes: Selin looks at Rıza. Rıza looks at Selin, then at his phone. Emine looks up, laughing. Nobody looks at the camera. Faces, hair and clothes stay identical to the first frame.
+
+Pronunciation: "Harika" sounds like "HAH-ree-kah". "İnterneti" sounds like "een-ter-neh-TEE". "internetten" sounds like "een-ter-net-TEN". "getireceğiz" sounds like "geh-tee-reh-jeh-EEZ" (the ğ is silent).
+
+Only Selin's mouth forms words. Audio: her voice, Emine's laughter, the goat's bell, light wind only. No music, no subtitles, no on-screen text.
