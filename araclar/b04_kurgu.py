@@ -8,14 +8,13 @@ import subprocess, os, re, sys
 B = "diziler/sifir-sehir/bolumler/B04"
 SRC = f"{B}/klipler/onayli"
 OUT = f"{B}/cikti"
-SURUM = "v1"
+SURUM = "v2"
 FPS = 24
 os.makedirs(OUT, exist_ok=True)
 
 # Klip listesi: (ad, giriş sn, çıkış sn, ses kazancı dB, altyazılar[(başla, bitir, metin)] kaynak klip zamanıyla)
 # Kazançlar: diyalog klipleri yaklaşık -18 LUFS'a çekilir (ölçülen değerler kayit.md içinde); ortam klipleri kısılır.
 EDL = [
- ("P05",  0.35, 2.15, -1.5, [(0.60, 2.10, "Evleri dağıtacağız!")]),          # kanca: aynı replik sonra yerinde de var
  ("P01",  0.40, 5.80, -4.1, [(0.60, 1.20, "Bir şartla."), (2.00, 3.60, "Bu köye insan getireceksiniz."), (4.70, 5.60, "Kaç kişi?")]),
  ("P02",  0.60, 3.00, +1.2, [(0.90, 2.30, "Önce bir getirin de…")]),
  ("P03",  0.60, 5.70, +3.0, [(0.90, 1.90, "Ne oluyor yine?"), (2.80, 5.50, "Aşkım, nüfus artırmamız gerekiyormuş.")]),
@@ -34,7 +33,9 @@ EDL = [
  ("P16",  0.60, 7.00, -1.4, [(2.50, 3.60, "Başvuru geldi…"), (3.70, 4.50, "Kaç tane?"), (4.70, 6.30, "Üç yüz otuz üç.")]),
 ]
 EDL = [e for e in EDL if os.path.exists(f"{SRC}/{e[0]}.mp4")]
-NUFUS = "3"; BORC = "333.333,33 TL"   # üst sayaç: her bölüm güncellenir (diziler/sifir-sehir/sayac.md)   # eksik klip atlanır (ön izleme)
+SAYAC = ["NÜFUS=5", "KASA=8.500.000 TL"]   # üst sayaç: her bölüm güncellenir (diziler/sifir-sehir/sayac.md)
+SAYAC_SON = ["NÜFUS=5", "KASA=8.500.000 TL", "BAŞVURU=333"]   # finalde vurgulu üçüncü hücre
+SAYAC_XY = (40, 200)   # eksik klip atlanır (ön izleme)
 DONUK = 3.6          # son karenin dondurulduğu süre (bitiş yazısı)
 HEDEF_LUFS = -15.0
 YATAK_DB = -17       # ortam yatağı kaynağının seviyesi (dB); süzgeçlerden sonra bitmiş kurguda yaklaşık -44 dB
@@ -84,19 +85,12 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 ev = []
 p01 = EDL[0][2] - EDL[0][1]
 POP = r"\fscx70\fscy70\t(0,140,\fscx106\fscy106)\t(140,220,\fscx100\fscy100)"
-# açılış kancası
-P01B = EDL[1][2] - EDL[1][1]; T1 = EDL[0][2] - EDL[0][1]   # kanca klibinin süresi
-ev.append((0.05, T1 + 1.1, "KutuKoyu", r"{\an5\pos(540,190)\frz2\fad(0,90)" + POP + r"}KOCAM BEDAVA EV"))
-ev.append((0.32, T1 + 1.1, "KutuVurgu", r"{\an5\pos(540,325)\frz-3\fad(0,90)" + POP + r"}DAĞITIYOR!"))
-ev.append((T1 + 0.15, T1 + 2.4, "KutuVurguKucuk", r"{\an5\pos(540,420)\frz-2\fad(0,140)" + POP + r"}SIFIR ŞEHİR · BÖLÜM 4"))
-# üst sayaç: nüfus ve borç (kancadan sonra, bölüm boyunca); değerler bölümden bölüme değişir
-SA = T1 + 1.2
-ev.append((SA, TOPLAM, "Sayac", r"{\an5\pos(300,250)\frz-1\fad(200,0)}NÜFUS {\c&H3DB3F2&}" + NUFUS))
-ev.append((SA + 0.15, TOPLAM, "Sayac", r"{\an5\pos(705,250)\frz1\fad(200,0)}BORÇ {\c&H3DB3F2&}" + BORC))
-# finaldeki sayı: "Üç yüz otuz üç" anında üçüncü sayaç
-if "P16" in starts:
-    BA = starts["P16"] + 4.75 - EDL[-1][1]
-    ev.append((BA, TOPLAM, "KutuVurguKucuk", r"{\an5\pos(540,330)\frz-2" + POP + r"}BAŞVURU 333"))
+# açılış kancası (bölüm doğrudan P01 ile açılır; ileri atlama yok)
+ev.append((0.05, 2.9, "KutuKoyu", r"{\an5\pos(540,190)\frz2\fad(0,120)" + POP + r"}KOCAM BEDAVA EV"))
+ev.append((0.32, 2.9, "KutuVurgu", r"{\an5\pos(540,325)\frz-3\fad(0,120)" + POP + r"}DAĞITACAK!"))
+ev.append((3.0, 5.2, "KutuVurguKucuk", r"{\an5\pos(540,420)\frz-2\fad(0,140)" + POP + r"}SIFIR ŞEHİR · BÖLÜM 4"))
+SA = 3.0                                   # sayaç paneli kancadan sonra gelir ve bölüm boyunca sabit kalır
+BA = starts["P16"] + 4.75 - EDL[-1][1] if "P16" in starts else TOPLAM   # "Üç yüz otuz üç" anı
 for a, b, m in subs: ev.append((a, b, "Alt", m))
 # kapanış: son kare donar; karartma ve yakınlaşma yok. Soru + takip çağrısı sırayla "pat" diye gelir.
 ev.append((SON + 0.15, TOPLAM, "KutuKoyu", r"{\an5\pos(540,1290)\frz2" + POP + r"}KİMLER GELİYOR?"))
@@ -128,7 +122,7 @@ for n, (ad, i, o, g, ss) in enumerate(EDL):
     lv += f"[v{n}]"; la += f"[a{n}]"
 N = len(EDL)
 fv.append(f"{lv}concat=n={N}:v=1:a=0[vc]")
-fv.append(f"[vc]subtitles={OUT}/B04.ass:fontsdir=/usr/share/fonts/opentype/inter[vout]")
+fv.append(f"[vc]subtitles={OUT}/B04.ass:fontsdir=/usr/share/fonts/opentype/inter[vs]")
 fa.append(f"{la}concat=n={N}:v=0:a=1[ac]")
 # ortam yatağı: bölüm boyunca kesintisiz, yavaşça dalgalanan alçak frekanslı gürültü (yapay rüzgâr); kesmelerde ortam sesinin değişmesini örter
 fa.append(f"anoisesrc=color=pink:sample_rate=48000:duration={TOPLAM}:seed=7,highpass=f=120,lowpass=f=2200,tremolo=f=0.13:d=0.45,volume={YATAK_DB}dB,afade=t=in:st=0:d=0.3,aformat=channel_layouts=stereo[bed]")
@@ -144,6 +138,18 @@ if MUZIK:
     fa.append(f"[ac][bed][mz]amix=inputs=3:normalize=0:duration=first,afade=t=out:st={TOPLAM - 0.25}:d=0.25[amix]")
 else:
     fa.append(f"[ac][bed]amix=inputs=2:normalize=0:duration=first,afade=t=out:st={TOPLAM - 0.25}:d=0.25[amix]")
+
+# ---- üst sayaç paneli (PNG, araclar/sayac_panel.py) ----
+H1, H2 = f"{OUT}/sayac.png", f"{OUT}/sayac_son.png"
+subprocess.run(["python3", "araclar/sayac_panel.py", H1] + SAYAC, check=True, capture_output=True)
+subprocess.run(["python3", "araclar/sayac_panel.py", H2] + SAYAC_SON + ["--vurgu=SON"], check=True, capture_output=True)
+i1 = inp.count("-i"); inp += ["-loop", "1", "-framerate", str(FPS), "-t", f"{TOPLAM}", "-i", H1]
+i2 = inp.count("-i"); inp += ["-loop", "1", "-framerate", str(FPS), "-t", f"{TOPLAM}", "-i", H2]
+X, Y = SAYAC_XY
+fv.append(f"[{i1}:v]format=rgba,fade=t=in:st={SA}:d=0.35:alpha=1[h1]")
+fv.append(f"[{i2}:v]format=rgba[h2]")
+fv.append(f"[vs][h1]overlay={X}:{Y}:enable='between(t,{SA},{BA:.2f})'[vh]")
+fv.append(f"[vh][h2]overlay={X}:{Y}:enable='gte(t,{BA:.2f})'[vout]")
 
 def run(extra_a, out, vopts):
     cmd = ["ffmpeg", "-v", "error", "-y"] + inp + ["-filter_complex", ";".join(fv + fa + extra_a), "-map", "[vout]", "-map", "[aout]"] + vopts + ["-c:a", "aac", "-b:a", "192k", "-ar", "48000", "-movflags", "+faststart", out]
