@@ -49,3 +49,4 @@ Not: kliplerin sesini ben duyamıyorum; ton ve ses tutarlılığı kullanıcın�
 - P05 ✓ Flow kabul etti (replik testi): sebep 'bedava' vaadiydi. Senaryoda replik: 'Evleri dağıtacağız! / Kimin evlerini?'.
 - P05 ✓ "Evleri dağıtacağız. / Kimin evlerini?" konuşanlar doğru; son kare P06 başlangıcı.
 - Son tur (kullanıcı tek seferde istedi): P06 (P05 son), P10 (P09 son), P11 (SB54, 2. kullanım; P10 beklenmeden), P15 (SB57), P16 (SB57, 2. kullanım; P16+P17 tek klipte birleşti: "Başvuru geldi… / Kaç tane? / Üç yüz otuz üç."). Zincir kuralı 26d hız için bilinçli esnetildi; kurguda P10→P11 ve P15→P16 geçişlerinde poz sıfırlanması olabilir.
+- Kurgu v1 teslim: 86,2 sn, −15,1 LUFS. P04 6,1'de kesildi (P05 SB51'den), P07 6,4'te (Selin'in yüzü değişmeden), P14 5,6'da, P12 son 3,8 sn.

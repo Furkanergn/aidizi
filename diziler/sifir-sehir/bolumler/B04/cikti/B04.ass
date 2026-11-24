@@ -1,0 +1,62 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Alt,Inter SemiBold,40,&H00FFFFFF,&H00FFFFFF,&H00101010,&H78000000,0,0,0,0,100,100,0,0,1,2.6,0.8,2,120,120,500,1
+Style: KutuKoyu,Inter ExtraBold,58,&H00ECF8FF,&H00ECF8FF,&H00141414,&H00141414,0,0,0,0,100,100,1,0,3,15,0,5,60,60,0,1
+Style: KutuVurgu,Inter Black,90,&H00141414,&H00141414,&H003DB3F2,&H003DB3F2,0,0,0,0,100,100,1,0,3,17,0,5,60,60,0,1
+Style: KutuVurguKucuk,Inter Black,40,&H00141414,&H00141414,&H003DB3F2,&H003DB3F2,0,0,0,0,100,100,3,0,3,12,0,5,60,60,0,1
+Style: Sayac,Inter ExtraBold,36,&H00ECF8FF,&H00ECF8FF,&H00141414,&H00141414,0,0,0,0,100,100,1,0,3,11,0,5,60,60,0,1
+Style: Baslik,Inter Black,128,&H00ECF8FF,&H00ECF8FF,&H00141414,&H78000000,0,0,0,0,100,100,2,0,1,6,2,5,60,60,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.05,0:00:02.90,KutuKoyu,,0,0,0,,{\an5\pos(540,190)\frz2\fad(0,90)\fscx70\fscy70\t(0,140,\fscx106\fscy106)\t(140,220,\fscx100\fscy100)}KOCAM BEDAVA EV
+Dialogue: 0,0:00:00.32,0:00:02.90,KutuVurgu,,0,0,0,,{\an5\pos(540,325)\frz-3\fad(0,90)\fscx70\fscy70\t(0,140,\fscx106\fscy106)\t(140,220,\fscx100\fscy100)}DAĞITIYOR!
+Dialogue: 0,0:00:01.95,0:00:04.20,KutuVurguKucuk,,0,0,0,,{\an5\pos(540,420)\frz-2\fad(0,140)\fscx70\fscy70\t(0,140,\fscx106\fscy106)\t(140,220,\fscx100\fscy100)}SIFIR ŞEHİR · BÖLÜM 4
+Dialogue: 0,0:00:03.00,0:01:26.20,Sayac,,0,0,0,,{\an5\pos(300,250)\frz-1\fad(200,0)}NÜFUS {\c&H3DB3F2&}3
+Dialogue: 0,0:00:03.15,0:01:26.20,Sayac,,0,0,0,,{\an5\pos(705,250)\frz1\fad(200,0)}BORÇ {\c&H3DB3F2&}333.333,33 TL
+Dialogue: 0,0:01:20.35,0:01:26.20,KutuVurguKucuk,,0,0,0,,{\an5\pos(540,330)\frz-2\fscx70\fscy70\t(0,140,\fscx106\fscy106)\t(140,220,\fscx100\fscy100)}BAŞVURU 333
+Dialogue: 0,0:00:00.25,0:00:01.75,Alt,,0,0,0,,Evleri dağıtacağız!
+Dialogue: 0,0:00:02.00,0:00:02.60,Alt,,0,0,0,,Bir şartla.
+Dialogue: 0,0:00:03.40,0:00:05.00,Alt,,0,0,0,,Bu köye insan getireceksiniz.
+Dialogue: 0,0:00:06.10,0:00:07.00,Alt,,0,0,0,,Kaç kişi?
+Dialogue: 0,0:00:07.50,0:00:08.90,Alt,,0,0,0,,Önce bir getirin de…
+Dialogue: 0,0:00:09.90,0:00:10.90,Alt,,0,0,0,,Ne oluyor yine?
+Dialogue: 0,0:00:11.80,0:00:14.50,Alt,,0,0,0,,Aşkım, nüfus artırmamız gerekiyormuş.
+Dialogue: 0,0:00:14.90,0:00:18.20,Alt,,0,0,0,,Rıza, millet köyden şehre kaçıyor.
+Dialogue: 0,0:00:18.40,0:00:20.30,Alt,,0,0,0,,Sen insanları buraya nasıl getireceksin?
+Dialogue: 0,0:00:20.60,0:00:22.10,Alt,,0,0,0,,Evleri dağıtacağız!
+Dialogue: 0,0:00:23.50,0:00:24.50,Alt,,0,0,0,,Kimin evlerini?
+Dialogue: 0,0:00:25.30,0:00:27.30,Alt,,0,0,0,,Bizim on iki tane evimiz var ya.
+Dialogue: 0,0:00:28.70,0:00:30.10,Alt,,0,0,0,,Biz bir ev almak için
+Dialogue: 0,0:00:30.60,0:00:32.00,Alt,,0,0,0,,yıllarca biriktirdik,
+Dialogue: 0,0:00:32.20,0:00:33.90,Alt,,0,0,0,,sen şimdi ev mi dağıtıyorsun?
+Dialogue: 0,0:00:34.10,0:00:36.70,Alt,,0,0,0,,Aşkım, müşteri kazanma maliyeti diye bir şey var.
+Dialogue: 0,0:00:37.10,0:00:38.90,Alt,,0,0,0,,Rıza, kampanyada yanında çay bardağı verilir,
+Dialogue: 0,0:00:38.90,0:00:40.70,Alt,,0,0,0,,ev verilmez!
+Dialogue: 0,0:00:40.90,0:00:42.90,Alt,,0,0,0,,Yazıyorum. Kira yok, aidat yok,
+Dialogue: 0,0:00:42.90,0:00:45.45,Alt,,0,0,0,,trafik yok, komşu problemi yok…
+Dialogue: 0,0:00:45.50,0:00:47.30,Alt,,0,0,0,,Market de yok.
+Dialogue: 0,0:00:47.70,0:00:49.00,Alt,,0,0,0,,Doğal yaşam!
+Dialogue: 0,0:00:50.50,0:00:51.70,Alt,,0,0,0,,Su da bazen yok.
+Dialogue: 0,0:00:52.40,0:00:53.90,Alt,,0,0,0,,Sürdürülebilir yaşam!
+Dialogue: 0,0:00:54.80,0:00:56.30,Alt,,0,0,0,,İnternet çekiyor mu bari?
+Dialogue: 0,0:00:59.40,0:01:00.80,Alt,,0,0,0,,İnternet de yokmuş.
+Dialogue: 0,0:01:01.00,0:01:01.80,Alt,,0,0,0,,Harika.
+Dialogue: 0,0:01:02.20,0:01:05.40,Alt,,0,0,0,,İnterneti olmayan köye internetten insan getireceğiz.
+Dialogue: 0,0:01:06.40,0:01:08.70,Alt,,0,0,0,,Naci'nin taburesinde çeker.
+Dialogue: 0,0:01:10.70,0:01:11.50,Alt,,0,0,0,,Çekti!
+Dialogue: 0,0:01:12.70,0:01:14.00,Alt,,0,0,0,,Gönderdim!
+Dialogue: 0,0:01:14.40,0:01:15.90,Alt,,0,0,0,,Öncekiler de ilan vermişti.
+Dialogue: 0,0:01:18.10,0:01:19.20,Alt,,0,0,0,,Başvuru geldi…
+Dialogue: 0,0:01:19.30,0:01:20.10,Alt,,0,0,0,,Kaç tane?
+Dialogue: 0,0:01:20.30,0:01:21.90,Alt,,0,0,0,,Üç yüz otuz üç.
+Dialogue: 0,0:01:22.75,0:01:26.20,KutuKoyu,,0,0,0,,{\an5\pos(540,1290)\frz2\fscx70\fscy70\t(0,140,\fscx106\fscy106)\t(140,220,\fscx100\fscy100)}KİMLER GELİYOR?
+Dialogue: 0,0:01:23.35,0:01:26.20,KutuVurguKucuk,,0,0,0,,{\an5\pos(540,1395)\frz-2\fscx70\fscy70\t(0,140,\fscx106\fscy106)\t(140,220,\fscx100\fscy100)}TAHMİNİNİ YORUMA YAZ
+Dialogue: 0,0:01:24.05,0:01:26.20,KutuVurgu,,0,0,0,,{\an5\pos(540,1505)\frz-3\fscx70\fscy70\t(0,140,\fscx106\fscy106)\t(140,220,\fscx100\fscy100)\t(900,1100,\fscx108\fscy108)\t(1100,1300,\fscx100\fscy100)}TAKİP ET
