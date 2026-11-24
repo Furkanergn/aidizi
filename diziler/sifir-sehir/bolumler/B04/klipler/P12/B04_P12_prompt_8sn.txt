@@ -1,0 +1,32 @@
+Use the attached image as the FIRST FRAME of the video (image-to-video, start frame). Do not generate a new scene from text.
+Clip name (for the file only, never shown or spoken): B04_P12
+
+Stylized 3D animated feature film look, single continuous shot. Camera is locked off for the whole shot: no pan, no zoom, no cut. Duration 8 seconds.
+
+Start exactly from the first frame: wide full-body shot of a village square in golden light, a big plane tree, a stone fountain and a lit street lamp. On the left in the foreground a young woman with golden blonde curls, pink top and short burgundy ruffled skirt (Selin), a burgundy folder in her RIGHT hand, her LEFT fist on her hip. In the center, further back in front of the fountain, a tall slim man in a navy blazer (Rıza) on tiptoe, his right arm stretched straight up holding a black smartphone high. On the right a short old woman in a burgundy headscarf (Emine), arms crossed, with a cream-white goat at her side.
+
+SPEAKER ORDER: only the MAN, Rıza, speaks in this shot, one line at the end:
+"İnternet de yokmuş."
+Selin and Emine do NOT speak.
+
+Movement and objects:
+- Rıza stays in the open space in front of the fountain, at the SAME distance from the camera for the whole shot: he takes small side-steps to the right and then back to the left, turning the raised phone in different directions. He NEVER walks toward the camera and never gets bigger in the frame.
+- Selin and Emine stand still in their places. The goat chews.
+
+Voices (must sound exactly the same in every clip of this series):
+- Rıza: Turkish man in his mid thirties. Warm, bright, slightly nasal tenor.
+
+Every character is a native Turkish speaker. They speak ONLY Turkish, with a natural Istanbul accent and the lively, expressive delivery of actors in a Turkish animated comedy film. No English.
+
+Performance, second by second:
+0-5.5 s: Nobody speaks. Rıza hunts for a signal: on tiptoe, phone held high, two small side-steps to the right, a little hop, then two side-steps back to the left, squinting up at the phone, more and more desperate. Selin taps her right foot. Emine shakes her head slowly, smirking.
+5.5-7 s: RIZA lowers his arm and says in Turkish, deflating, the voice sinking on the last word: "İnternet de yokmuş." Selin's and Emine's mouths are closed.
+7-8 s: Rıza's shoulders slump; he stares at the phone. Selin rolls her eyes.
+
+Last frame: Rıza in front of the fountain, same size as at the start, arm lowered, phone in his right hand; Selin and Emine in their places; all mouths closed.
+
+Eyes: Rıza looks at the phone. Selin and Emine look at Rıza. Nobody looks at the camera. Faces, hair and clothes stay identical to the first frame.
+
+Pronunciation: "İnternet" sounds like "een-ter-NET". "yokmuş" sounds like "yok-MOOSH".
+
+Only Rıza's mouth moves. Audio: his voice, footsteps on cobbles, the goat's bell, light wind only. No music, no subtitles, no on-screen text.

@@ -1,0 +1,40 @@
+Use the attached image as the FIRST FRAME of the video (image-to-video, start frame). Do not generate a new scene from text.
+Clip name (for the file only, never shown or spoken): B04_P15
+
+Stylized 3D animated feature film look, single continuous shot. Camera is locked off for the whole shot: no pan, no zoom, no cut. Duration 8 seconds.
+
+Start exactly from the first frame: knees-up three-shot in front of an old stone wall with a vine, a blue door and red tile roof, golden light. On the left a tall slim man in a navy blazer (Rıza) stands next to a stool, his LEFT arm stretched up holding a black smartphone above the old man's head, a triumphant open-mouthed grin, his right hand a small victory fist. In the center a thin old man with grey hair and a grey moustache in a faded blue work jacket (Naci) sits on a wooden stool, a small tea glass in his RIGHT hand, ignoring everything. On the right a young woman with golden blonde curls, pink top and short burgundy ruffled skirt (Selin), a burgundy folder under her right arm, her left hand on her hip, skeptical.
+
+SPEAKER ORDER (exactly three lines, in this order):
+Line 1 - the YOUNG MAN, Rıza: "Çekti!"
+Line 2 - the YOUNG MAN, Rıza: "Gönderdim!"
+Line 3 - the OLD MAN on the stool, Naci: "Öncekiler de ilan vermişti."
+Selin does NOT speak. Naci speaks ONLY line 3; Rıza's mouth is closed during line 3.
+
+Hands and objects:
+- Rıza holds the phone in his LEFT hand above Naci's head for the entire shot; he types on it with his RIGHT thumb between line 1 and line 2.
+- Naci keeps the tea glass in his RIGHT hand and sips from it once. He does not get up.
+- Selin keeps the folder in place; her left hand stays on her hip. Nobody walks.
+
+Voices (must sound exactly the same in every clip of this series):
+- Rıza: Turkish man in his mid thirties. Warm, bright, slightly nasal tenor.
+- Naci: Turkish man in his late sixties. Slow, dry, gravelly low voice. Never in a hurry, faintly amused.
+
+Every character is a native Turkish speaker. They speak ONLY Turkish, with a natural Istanbul accent and the lively, expressive delivery of actors in a Turkish animated comedy film. No English.
+
+Performance, second by second:
+0-0.3 s: Rıza looks up at the phone, eyes shining.
+0.3-1.2 s: RIZA shouts in Turkish, overjoyed: "Çekti!"
+1.2-3 s: He brings his right thumb up to the raised phone and types fast, tongue between his teeth, the phone still above Naci's head.
+3-3.8 s: RIZA, punching the air with his right fist: "Gönderdim!"
+3.8-4.6 s: A beat. Naci takes a slow sip of his tea, eyes half closed.
+4.6-6.6 s: NACI says in Turkish, slow and dry, without looking up from his glass: "Öncekiler de ilan vermişti." Rıza's mouth is closed.
+6.6-8 s: Nobody speaks. Rıza's grin freezes; he looks down at Naci. Selin presses her lips together, trying not to laugh.
+
+Last frame: all three in the same places: Rıza with the phone still raised above Naci's head, frozen grin, looking down at Naci; Naci with his tea; Selin holding back a laugh; all mouths closed.
+
+Eyes: Rıza looks at the phone, then at Naci. Naci looks at his tea. Selin looks at Rıza. Nobody looks at the camera. Faces, hair and clothes stay identical to the first frame.
+
+Pronunciation: "Çekti" sounds like "chek-TEE". "Gönderdim" sounds like "gun-der-DEEM". "Öncekiler" sounds like "un-jeh-kee-LER". "vermişti" sounds like "ver-meesh-TEE".
+
+Only the speaking character's mouth moves. Audio: the voices, a soft phone whoosh sound at second 3.5, light wind only. No music, no subtitles, no on-screen text.

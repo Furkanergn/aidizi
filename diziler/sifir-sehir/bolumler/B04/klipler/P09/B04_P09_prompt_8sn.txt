@@ -1,0 +1,37 @@
+Use the attached image as the FIRST FRAME of the video (image-to-video, start frame). Do not generate a new scene from text.
+Clip name (for the file only, never shown or spoken): B04_P09
+
+Stylized 3D animated feature film look, single continuous shot. Camera is locked off for the whole shot: no pan, no zoom, no cut. Duration 8 seconds.
+
+Start exactly from the first frame: hips-up three-shot in a village square in golden light, a plane tree and a lit street lamp behind. On the left a young woman with golden blonde curls and a pink top (Selin), a burgundy folder in her RIGHT hand against her hip, her LEFT fist on her hip, skeptical. In the center a tall slim man in a navy blazer (Rıza) types on a black smartphone held in both hands at waist height, an eager grin. On the right a short old woman in a burgundy headscarf and rust-brown vest (Emine), arms crossed. A cream-white goat between Rıza and Emine sniffs the phone.
+
+SPEAKER ORDER (exactly two lines, in this order):
+Line 1 - the MAN in the center, Rıza: "Yazıyorum. Kira yok, aidat yok, trafik yok, komşu problemi yok…"
+Line 2 - the OLD WOMAN on the right, Emine: "Market de yok."
+Selin does NOT speak in this shot; her mouth stays closed.
+
+Hands and objects:
+- Rıza holds the phone in BOTH hands for the entire shot and types with his thumbs; the screen faces him.
+- Selin keeps the folder in her RIGHT hand and her LEFT fist on her hip.
+- Emine keeps her arms crossed. Nobody walks. The goat keeps sniffing the phone and nudges it once with its nose.
+
+Voices (must sound exactly the same in every clip of this series):
+- Rıza: Turkish man in his mid thirties. Warm, bright, slightly nasal tenor.
+- Emine: Turkish village woman in her mid sixties. Strong, slightly hoarse, loud and bossy voice with warmth underneath; a hearty laugh.
+
+Every character is a native Turkish speaker. They speak ONLY Turkish, with a natural Istanbul accent and the lively, expressive delivery of actors in a Turkish animated comedy film. No English.
+
+Performance, second by second:
+0-0.3 s: Rıza's thumbs start typing.
+0.3-5 s: RIZA reads aloud in Turkish while typing, like a real-estate ad, getting faster and prouder, a tiny pause after each "yok": "Yazıyorum. Kira yok, aidat yok, trafik yok, komşu problemi yok…" Emine's and Selin's mouths are closed.
+5-5.6 s: A beat. The goat nudges the phone with its nose; Rıza moves the phone a little away from it without looking up.
+5.6-6.8 s: EMINE says in Turkish, dry and flat, without uncrossing her arms: "Market de yok." Rıza's mouth is closed.
+6.8-8 s: Nobody speaks. Rıza keeps typing, nodding, unbothered. Selin presses her lips together and looks at Emine.
+
+Last frame: all in the same places: Rıza typing with both hands, Emine with crossed arms, Selin with folder and fist on hip, the goat at the phone; all mouths closed.
+
+Eyes: Rıza looks only at the phone. Emine looks at the phone. Selin looks at Rıza, then at Emine. Nobody looks at the camera. Faces, hair and clothes stay identical to the first frame.
+
+Pronunciation: "Yazıyorum" sounds like "yah-ZUH-yo-room". "aidat" sounds like "ah-ee-DAHT". "komşu" sounds like "kom-SHOO".
+
+Only the speaking character's mouth moves. Audio: the two voices, soft phone tapping, the goat's bell, light wind only. No music, no subtitles, no on-screen text.

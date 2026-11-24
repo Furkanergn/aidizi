@@ -14,3 +14,16 @@
 | P03 | SB50 | prompt hazır |
 | P04 | SB51 | prompt hazır |
 | P07 | SB53 | prompt hazır |
+
+## Kareler — ikinci tur (kare kare, düzenleme olarak)
+- Onaylı: SB52 (P05, kanca), SB54 (P09), SB55 (P12; çeşmede akan su var, "kuru çeşme" ile küçük çelişki), SB57 (P15; iki sürüm, birincisi seçildi, `SB57_alternatif.jpg` yedek).
+- Sırada: SB56 (onaylı SB54'ün düzenlemesi).
+
+## Klipler — ilk tur (Flow, 1080p)
+| Klip | Döküm | Konuşan | Durum |
+|---|---|---|---|
+| P01 | "Bir şartla. Bu köye insan getireceksiniz. / Kaç kişi?" | Emine, sonra Rıza (karelerle doğrulandı) | onaylı; son kare P02 başlangıcı |
+| P03 | "Ne oluyor yine? / Aşkım, nüfus artırmamız gerekiyormuş." | Selin, Rıza | onaylı |
+| P04 | "Rıza, millet köyden… köyden şehre kaçıyor. Sen insanları buraya nasıl getireceksin?" | Selin; sonunda Rıza "hı hı" | koşullu: "köyden" tekrarı; kullanıcı kulakla karar verecek |
+| P07 | "Biz bir ev almak için yıllarca biriktirdik, sen şimdi ev mi dağıtıyorsun?" | Selin | onaylı |
+Not: kliplerin sesini ben duyamıyorum; ton ve ses tutarlılığı kullanıcının kulağına kalır.
