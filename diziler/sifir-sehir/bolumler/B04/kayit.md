@@ -46,3 +46,4 @@ Not: kliplerin sesini ben duyamıyorum; ton ve ses tutarlılığı kullanıcın�
 - Selin görünüş testi (kullanıcı kararı, P05 küçük JPEG de reddedildi): SB51'in üç düzenlemesi. A: yalnızca yüz daha olgun/doğal (bebek gözü yok); B: A + bal-kahve saç; C: A + at kuyruğu + kot ceket. Her biri Flow'da P05 promptuyla birer kez denenecek.
 - Selin görünüş testi bırakıldı (kullanıcı: A'da Selin çok farklı oldu, "doğru yol değil"). Selin'in görünüşü değişmez.
 - Yeni teşhis: reddedilen 5 denemenin hepsinde "Bedava ev vereceğiz!" repliği vardı; SB51 aynı resimle P04'te (bu replik yokken) geçmişti. Hipotez: "free houses" vaadi dolandırıcılık/sahte kampanya filtresine takılıyor. Test: P05 replik "Evleri dağıtacağız! / Kimin evlerini?" (`klipler/P05/B04_P05_prompt_8sn_test_replik.txt`); "bedava" ekran yazısında kalır.
+- P05 ✓ Flow kabul etti (replik testi): sebep 'bedava' vaadiydi. Senaryoda replik: 'Evleri dağıtacağız! / Kimin evlerini?'.
