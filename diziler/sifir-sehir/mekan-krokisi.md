@@ -44,3 +44,14 @@ Sıra, dışarıdan içeriye: araba → tabela ve keçi → Selin, Rıza, Naci �
 
 ## Köy meydanı (B02 SB20 açısı)
 Girişten gelen sokak meydana kadrajın SOLUNDAN açılır; çeşme ortada, çınar arkasında. Soldan gelen karakter solda, meydanda bekleyen sağda kalır (B03: Rıza solda, Emine sağda).
+
+## Köy meydanı: kamera konumları ve yerler (B04)
+Kamera hep grubun güney tarafında (aks çizgisinin tek yanı). Soldan sağa: **Selin – Rıza – Emine**; keçi Emine'nin dibinde. Giriş sokağı kadrajın SOLUNDAN açılır; meydandan sokağa giden kadrajın SOLUNDAN çıkar.
+
+| Kod | Kamera | Kadrajda | Referans |
+|---|---|---|---|
+| M1 | grubun karşısı, göğüs hizası | arkada ortada çeşme, sağ arkada çınar, sol üstte yanan lamba | B03 SB39, SB41 |
+| M2 | geniş, bütün meydan | çeşme, çınar, lambalar; kişiler boy boy | B03 SB38, B02 SB20 |
+| M3 | Rıza'nın sağ omzunun arkası, Selin'e | Selin önden, sağa bakar; sağ önde Rıza'nın başı | — |
+
+Naci'nin duvarına (C3) meydandan gelen kadrajın SOLUNDAN girer. B04'te: Rıza (sol, ayakta) – Naci (taburede) – Selin (sağ, B03'teki yeri).
