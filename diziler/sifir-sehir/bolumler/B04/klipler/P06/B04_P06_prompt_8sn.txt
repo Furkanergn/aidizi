@@ -1,0 +1,33 @@
+Use the attached image as the FIRST FRAME of the video (image-to-video, start frame). Do not generate a new scene from text.
+Clip name (for the file only, never shown or spoken): B04_P06
+
+Stylized 3D animated look, single continuous shot. Camera is locked off for the whole shot: no pan, no zoom, no cut. Duration 8 seconds.
+
+Start exactly from the first frame: waist-up two-shot of a married couple in a sunny village square, a street lamp and a plane tree behind. On the left the wife (Selin), golden blonde curls, pink top, a burgundy folder held against her right hip with her RIGHT hand, looking at her husband with one eyebrow raised. On the right the husband (Rıza), navy blazer, both hands half open in front of him, an unsure smile.
+
+SPEAKER ORDER: only the HUSBAND, Rıza, speaks in this shot, one line:
+"Bizim on iki tane evimiz var ya."
+Selin does NOT speak; her mouth stays closed except for falling open in surprise at the end.
+
+Hands and objects:
+- Rıza's hands are empty. On "on iki" he sweeps his RIGHT arm in a wide arc toward the old stone houses behind them, proudly.
+- Selin keeps the folder at her right hip with her RIGHT hand the whole time; at the end her hand grips the folder tighter. Nobody walks.
+
+Voices (the same in every clip of this series):
+- Rıza: Turkish man in his mid thirties. Warm, bright, slightly nasal tenor.
+- Selin: Turkish woman in her early thirties. Warm, slightly husky low voice. She has a wide emotional range: she can be sarcastic, reproachful, loud and laughing.
+
+Every character speaks ONLY Turkish, with a natural Istanbul accent and the lively delivery of actors in a family animated comedy. No English.
+
+Performance, second by second:
+0-0.5 s: Rıza recovers his confidence and straightens up.
+0.5-2.8 s: RIZA says in Turkish, proud and reasonable, as if it were obvious, sweeping his right arm toward the houses on "on iki": "Bizim on iki tane evimiz var ya."
+2.8-8 s: Nobody speaks. Selin's mouth slowly falls open; she stares at him in disbelief, then looks where his arm points, then back at him, her right hand gripping the folder. Rıza lowers his arm and nods, pleased with himself.
+
+Last frame: both in the same places: Selin with her mouth open, staring at Rıza, folder at her hip; Rıza nodding with a pleased smile, arms down; Rıza's mouth closed.
+
+Eyes: Rıza looks at Selin, then at the houses, then at Selin. Selin looks at Rıza. Nobody looks at the camera. Faces, hair and clothes stay identical to the first frame.
+
+Pronunciation: "Bizim" sounds like "bee-ZEEM". "on iki tane" sounds like "on ee-KEE tah-NEH". "evimiz" sounds like "eh-vee-MEEZ".
+
+Only Rıza's mouth moves. Audio: his voice and light wind only. No music, no subtitles, no on-screen text.

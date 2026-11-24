@@ -1,0 +1,37 @@
+Use the attached image as the FIRST FRAME of the video (image-to-video, start frame). Do not generate a new scene from text.
+Clip name (for the file only, never shown or spoken): B04_P10
+
+Stylized 3D animated look, single continuous shot. Camera is locked off for the whole shot: no pan, no zoom, no cut. Duration 8 seconds.
+
+Start exactly from the first frame: hips-up three-shot in a village square in golden light, a plane tree and a lit street lamp behind. On the left a young woman with golden blonde curls and a pink top (Selin), a burgundy folder in her RIGHT hand against her hip, her LEFT hand on her hip, smirking. In the center a tall slim man in a navy blazer (Rıza) types on a black phone held in both hands at waist height, grinning. On the right a short old woman in a burgundy headscarf and rust-brown vest (Emine), arms crossed, unimpressed. A cream-white goat between Rıza and Emine sniffs the phone.
+
+SPEAKER ORDER (exactly two lines, in this order):
+Line 1 - the MAN in the center, Rıza: "Doğal yaşam!"
+Line 2 - the OLD WOMAN on the right, Emine: "Su da bazen yok."
+Selin does NOT speak; her mouth stays closed.
+
+Hands and objects:
+- Rıza holds the phone in BOTH hands the whole time; at second 2.5 he lifts it up to chest height, away from the goat's mouth, and keeps typing.
+- Emine keeps her arms crossed. Selin keeps the folder in her RIGHT hand. Nobody walks.
+- The goat stretches its neck toward the phone and tries to nibble it; after Rıza lifts the phone it chews the air.
+
+Voices (the same in every clip of this series):
+- Rıza: Turkish man in his mid thirties. Warm, bright, slightly nasal tenor.
+- Emine: Turkish village woman in her mid sixties. Strong, slightly hoarse, loud and bossy voice with warmth underneath; a hearty laugh.
+
+Every character speaks ONLY Turkish, with a natural Istanbul accent and the lively delivery of actors in a family animated comedy. No English.
+
+Performance, second by second:
+0-0.4 s: Rıza keeps typing, inspired.
+0.4-1.8 s: RIZA says in Turkish, delighted, as if writing a slogan, typing it with a flourish: "Doğal yaşam!" Emine's mouth is closed.
+1.8-3.2 s: A beat. The goat tries to nibble the phone; Rıza lifts it to chest height without looking at the goat.
+3.2-4.6 s: EMINE says in Turkish, dry and flat, eyes half closed: "Su da bazen yok." Rıza's mouth is closed.
+4.6-8 s: Nobody speaks. Rıza keeps typing and nods, as if this is another selling point. Selin covers a laugh with her left hand. The goat chews the air.
+
+Last frame: all in the same places: Rıza typing on the phone at chest height, Emine with crossed arms, Selin with her left hand near her mouth, the goat looking up at the phone; all mouths closed.
+
+Eyes: Rıza looks at the phone. Emine looks at Rıza. Selin looks at Emine, then at Rıza. Nobody looks at the camera. Faces, hair and clothes stay identical to the first frame.
+
+Pronunciation: "Doğal yaşam" sounds like "doh-AHL yah-SHAHM" (the ğ is silent). "Su da bazen yok" sounds like "soo dah bah-ZEN yok".
+
+Only the speaking character's mouth moves. Audio: the two voices, soft phone tapping, the goat's bell, light wind only. No music, no subtitles, no on-screen text.

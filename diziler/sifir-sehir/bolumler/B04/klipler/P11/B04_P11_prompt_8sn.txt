@@ -1,0 +1,37 @@
+Use the attached image as the FIRST FRAME of the video (image-to-video, start frame). Do not generate a new scene from text.
+Clip name (for the file only, never shown or spoken): B04_P11
+
+Stylized 3D animated look, single continuous shot. Camera is locked off for the whole shot: no pan, no zoom, no cut. Duration 8 seconds.
+
+Start exactly from the first frame: hips-up three-shot in a village square in golden light, a plane tree and a lit street lamp behind. On the left a young woman with golden blonde curls and a pink top (Selin), a burgundy folder in her RIGHT hand against her hip, her LEFT fist on her hip, skeptical. In the center a tall slim man in a navy blazer (Rıza) types on a black phone held in both hands, an eager grin. On the right a short old woman in a burgundy headscarf and rust-brown vest (Emine), arms crossed. A cream-white goat between Rıza and Emine sniffs the phone.
+
+SPEAKER ORDER (exactly two lines, in this order):
+Line 1 - the MAN in the center, Rıza: "Sürdürülebilir yaşam!"
+Line 2 - the YOUNG WOMAN on the left, Selin: "İnternet çekiyor mu bari?"
+Emine does NOT speak; her mouth stays closed.
+
+Hands and objects:
+- Rıza holds the phone in BOTH hands the whole time.
+- Selin keeps the folder in her RIGHT hand; she gestures only with her LEFT hand.
+- Emine keeps her arms crossed. Nobody walks. The goat sniffs the phone.
+
+Voices (the same in every clip of this series):
+- Rıza: Turkish man in his mid thirties. Warm, bright, slightly nasal tenor.
+- Selin: Turkish woman in her early thirties. Warm, slightly husky low voice. She has a wide emotional range: she can be sarcastic, reproachful, loud and laughing.
+
+Every character speaks ONLY Turkish, with a natural Istanbul accent and the lively delivery of actors in a family animated comedy. No English.
+
+Performance, second by second:
+0-0.4 s: Rıza types the last letters.
+0.4-2 s: RIZA says in Turkish, triumphant, tapping the screen with his thumb like pressing a big button: "Sürdürülebilir yaşam!" Selin's mouth is closed.
+2-3 s: A beat. Selin tilts her head and narrows her eyes.
+3-4.6 s: SELIN asks in Turkish, sweet and needling, pointing her LEFT index finger at the phone, voice rising at the end: "İnternet çekiyor mu bari?" Rıza's mouth is closed.
+4.6-8 s: Nobody speaks. Rıza freezes, his smile fading; he slowly looks down at the screen, then lifts the phone a little, squinting at it. Emine raises one eyebrow at him.
+
+Last frame: all in the same places: Rıza squinting at the phone held a little higher, Selin with her finger pointing at the phone, Emine with crossed arms and a raised eyebrow, the goat at the bottom; all mouths closed.
+
+Eyes: Rıza looks at the phone. Selin looks at Rıza, then the phone. Emine looks at Rıza. Nobody looks at the camera. Faces, hair and clothes stay identical to the first frame.
+
+Pronunciation: "Sürdürülebilir" sounds like "sewr-dew-rew-leh-bee-LEER". "yaşam" sounds like "yah-SHAHM". "İnternet çekiyor mu bari" sounds like "een-ter-NET cheh-kee-YOR moo bah-REE".
+
+Only the speaking character's mouth moves. Audio: the two voices, the goat's bell, light wind only. No music, no subtitles, no on-screen text.

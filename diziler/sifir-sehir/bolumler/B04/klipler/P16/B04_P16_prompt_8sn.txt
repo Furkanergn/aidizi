@@ -1,0 +1,41 @@
+Use the attached image as the FIRST FRAME of the video (image-to-video, start frame). Do not generate a new scene from text.
+Clip name (for the file only, never shown or spoken): B04_P16
+
+Stylized 3D animated look, single continuous shot. Camera is locked off for the whole shot: no pan, no zoom, no cut. Duration 8 seconds.
+
+Start exactly from the first frame: knees-up three-shot in front of an old stone wall with a vine, a blue door and red tile roof, golden light. On the left a tall slim man in a navy blazer (Rıza) stands next to a stool, his LEFT arm raised holding a black phone above the old man's head, grinning. In the center a thin old man with grey hair and a grey moustache in a faded blue work jacket (Naci) sits on a wooden stool, a small tea glass in his RIGHT hand. On the right a young woman with golden blonde curls, pink top and short burgundy ruffled skirt (Selin), a burgundy folder at her right side, her left hand on her hip.
+
+SPEAKER ORDER (exactly three short lines, in this order):
+Line 1 - the YOUNG MAN, Rıza: "Başvuru geldi…"
+Line 2 - the YOUNG WOMAN, Selin: "Kaç tane?"
+Line 3 - the YOUNG MAN, Rıza: "Üç yüz otuz üç."
+Naci does NOT speak; his mouth stays closed.
+
+Hands and objects:
+- Rıza keeps the phone in his LEFT hand the whole time; at second 1.5 he lowers it in front of his face to read it.
+- Naci keeps the tea glass in his RIGHT hand and sips once. He does not get up.
+- Selin keeps the folder at her right side; her left hand leaves her hip only when she leans in. Nobody walks.
+
+Voices (the same in every clip of this series):
+- Rıza: Turkish man in his mid thirties. Warm, bright, slightly nasal tenor.
+- Selin: Turkish woman in her early thirties. Warm, slightly husky low voice. She has a wide emotional range: she can be sarcastic, reproachful, loud and laughing.
+- Naci: Turkish man in his late sixties. Slow, dry, gravelly low voice. Never in a hurry, faintly amused.
+
+Every character speaks ONLY Turkish, with a natural Istanbul accent and the lively delivery of actors in a family animated comedy. No English.
+
+Performance, second by second:
+0-1.5 s: Silence. The phone gives one short notification ping. Rıza looks up at it.
+1.5-2.2 s: A second ping, then a third. Rıza lowers the phone in front of his face and reads it, eyes widening.
+2.2-3.4 s: RIZA says in Turkish, quietly, surprised: "Başvuru geldi…" Selin's mouth is closed.
+3.4-4.4 s: SELIN leans in, curious for the first time, and asks in Turkish: "Kaç tane?" Rıza's mouth is closed.
+4.4-5.0 s: The phone pings again and again, faster. Rıza swallows.
+5.0-6.4 s: RIZA says in Turkish, his voice getting smaller, eyes on the screen: "Üç yüz otuz üç." Selin's mouth is closed.
+6.4-8 s: Nobody speaks. The pings keep coming. Selin's eyes go wide. Naci slowly raises one eyebrow and takes a sip of tea. Rıza stares at the phone.
+
+Last frame: all three in the same places: Rıza staring at the phone in front of his face; Selin wide-eyed, leaning in; Naci with one eyebrow raised over his tea glass; all mouths closed.
+
+Eyes: Rıza looks at the phone. Selin looks at Rıza, then at the phone. Naci looks at the phone over his glass. Nobody looks at the camera. Faces, hair and clothes stay identical to the first frame.
+
+Pronunciation: "Başvuru geldi" sounds like "bahsh-voo-ROO gel-DEE". "Kaç tane" sounds like "kahch tah-NEH". "Üç yüz otuz üç" sounds like "ewch yewz oh-tooz EWCH".
+
+Only the speaking character's mouth moves. Audio: the voices, short phone notification pings, light wind only. No music, no subtitles, no on-screen text.

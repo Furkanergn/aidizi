@@ -47,3 +47,5 @@ Not: kliplerin sesini ben duyamıyorum; ton ve ses tutarlılığı kullanıcın�
 - Selin görünüş testi bırakıldı (kullanıcı: A'da Selin çok farklı oldu, "doğru yol değil"). Selin'in görünüşü değişmez.
 - Yeni teşhis: reddedilen 5 denemenin hepsinde "Bedava ev vereceğiz!" repliği vardı; SB51 aynı resimle P04'te (bu replik yokken) geçmişti. Hipotez: "free houses" vaadi dolandırıcılık/sahte kampanya filtresine takılıyor. Test: P05 replik "Evleri dağıtacağız! / Kimin evlerini?" (`klipler/P05/B04_P05_prompt_8sn_test_replik.txt`); "bedava" ekran yazısında kalır.
 - P05 ✓ Flow kabul etti (replik testi): sebep 'bedava' vaadiydi. Senaryoda replik: 'Evleri dağıtacağız! / Kimin evlerini?'.
+- P05 ✓ "Evleri dağıtacağız. / Kimin evlerini?" konuşanlar doğru; son kare P06 başlangıcı.
+- Son tur (kullanıcı tek seferde istedi): P06 (P05 son), P10 (P09 son), P11 (SB54, 2. kullanım; P10 beklenmeden), P15 (SB57), P16 (SB57, 2. kullanım; P16+P17 tek klipte birleşti: "Başvuru geldi… / Kaç tane? / Üç yüz otuz üç."). Zincir kuralı 26d hız için bilinçli esnetildi; kurguda P10→P11 ve P15→P16 geçişlerinde poz sıfırlanması olabilir.
