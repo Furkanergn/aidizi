@@ -24,6 +24,6 @@
 |---|---|---|---|
 | P01 | "Bir şartla. Bu köye insan getireceksiniz. / Kaç kişi?" | Emine, sonra Rıza (karelerle doğrulandı) | onaylı; son kare P02 başlangıcı |
 | P03 | "Ne oluyor yine? / Aşkım, nüfus artırmamız gerekiyormuş." | Selin, Rıza | onaylı |
-| P04 | "Rıza, millet köyden… köyden şehre kaçıyor. Sen insanları buraya nasıl getireceksin?" | Selin; sonunda Rıza "hı hı" | koşullu: "köyden" tekrarı; kullanıcı kulakla karar verecek |
+| P04 | "Rıza, millet köyden… köyden şehre kaçıyor. Sen insanları buraya nasıl getireceksin?" | Selin; sonunda Rıza "hı hı" | onaylı (kullanıcı: "sorun değil kalsın") |
 | P07 | "Biz bir ev almak için yıllarca biriktirdik, sen şimdi ev mi dağıtıyorsun?" | Selin | onaylı |
 Not: kliplerin sesini ben duyamıyorum; ton ve ses tutarlılığı kullanıcının kulağına kalır.
