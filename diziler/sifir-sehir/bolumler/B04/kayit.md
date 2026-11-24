@@ -43,3 +43,4 @@ Not: kliplerin sesini ben duyamıyorum; ton ve ses tutarlılığı kullanıcın�
 - P08 ✓ "Aşkım, müşteri kazanma maliyeti diye bir şey var. / Rıza, kampanyada yanında çay bardağı verilir, ev verilmez." Konuşanlar doğru.
 - P14 ✓ (0–5,6 sn kullanılır) "Naci'nin taburesinde çeker." Rıza 5,5'te soldan çıkıyor; sonrasında Selin'in yeri ve saçı değişiyor, kurguda kesilir.
 - P05: kullanıcı "sebep resim" dedi; P05 onaylı ve Flow'un kabul ettiği SB51'den (ikinci kullanım). P04 kurguda Rıza düşünmeye başlayınca kesilir.
+- Selin görünüş testi (kullanıcı kararı, P05 küçük JPEG de reddedildi): SB51'in üç düzenlemesi. A: yalnızca yüz daha olgun/doğal (bebek gözü yok); B: A + bal-kahve saç; C: A + at kuyruğu + kot ceket. Her biri Flow'da P05 promptuyla birer kez denenecek.
