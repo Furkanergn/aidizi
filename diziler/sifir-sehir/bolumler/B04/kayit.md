@@ -39,3 +39,4 @@ Not: kliplerin sesini ben duyamıyorum; ton ve ses tutarlılığı kullanıcın�
 | P08 | P07'nin son karesinde Selin'in saçı ve yüzü değişmiş (kural 26a) | onaylı SB53'ten (ikinci kullanım) |
 | P14 | P13'ün son karesinden | prompt hazır |
 | P15 | gelmedi | bekleniyor |
+- P05: P04'ün son karesi de reddedildi (5. kare). Ortak etken prompt olduğundan v2 yazıldı: "dangerously, shouts, flings, chest out" çıkarıldı, "aile animasyon komedisi" çerçevesi. Yedek: kısa test promptu (prompt mu replik mi ayrımı için).

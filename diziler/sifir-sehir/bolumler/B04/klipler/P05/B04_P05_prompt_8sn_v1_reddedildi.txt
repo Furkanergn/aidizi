@@ -1,0 +1,36 @@
+Use the attached image as the FIRST FRAME of the video (image-to-video, start frame). Do not generate a new scene from text.
+Clip name (for the file only, never shown or spoken): B04_P05
+
+Stylized 3D animated feature film look, single continuous shot. Camera is locked off for the whole shot: no pan, no zoom, no cut. Duration 8 seconds.
+
+Start exactly from the first frame: waist-up two-shot in a village square in golden light, a lit street lamp and a plane tree behind. On the left a young woman with golden blonde curls and a pink top (Selin), a burgundy folder against her right hip in her RIGHT hand, her LEFT palm turned up toward the man, waiting, skeptical. On the right a tall slim man in a navy blazer (Rıza), one arm crossed, his other hand at his chin, a sly grin: he has just had an idea.
+
+SPEAKER ORDER (exactly two lines, in this order):
+Line 1 - the MAN, Rıza: "Bedava ev vereceğiz!"
+Line 2 - the WOMAN, Selin: "Kimin evini?"
+Rıza speaks ONLY line 1. Selin speaks ONLY line 2.
+
+Hands and objects:
+- Selin keeps the folder against her right hip with her RIGHT hand for the entire shot; she moves only her LEFT hand.
+- Rıza's hands hold nothing. He opens his arms in second 0.3 and keeps them open until second 5, then lets them sink halfway. His open hands may reach the edge of the frame but he does not step. Nobody walks.
+
+Voices (must sound exactly the same in every clip of this series):
+- Rıza: Turkish man in his mid thirties. Warm, bright, slightly nasal tenor.
+- Selin: Turkish woman in her early thirties. Warm, slightly husky low voice. She has a wide emotional range: she can be sarcastic, reproachful, loud and laughing.
+
+Every character is a native Turkish speaker. They speak ONLY Turkish, with a natural Istanbul accent and the lively, expressive delivery of actors in a Turkish animated comedy film. No English.
+
+Performance, second by second:
+0-0.3 s: Rıza's eyes light up.
+0.3-2 s: RIZA drops his hand from his chin, flings both arms wide open, palms up, chest out, and shouts in Turkish, thrilled, like announcing the deal of the century, the voice going up on "bedava": "Bedava ev vereceğiz!" Selin's mouth is closed.
+2-3.4 s: A beat. Rıza holds the open-armed pose and grins, waiting for applause. Selin stares at him, her left hand freezing in mid-air, then slowly lowering.
+3.4-4.8 s: SELIN says in Turkish, low, slow and dangerously calm, leaning on "kimin": "Kimin evini?" Rıza's mouth is closed.
+4.8-8 s: Nobody speaks. Rıza's grin wobbles; he blinks and his arms sink halfway. Selin narrows her eyes at him.
+
+Last frame: both in the same places: Rıza with his arms half lowered and a wobbly grin; Selin with narrowed eyes, folder at her hip; both mouths closed.
+
+Eyes: they look only at each other. Nobody looks at the camera. Faces, hair and clothes stay identical to the first frame.
+
+Pronunciation: "Bedava" sounds like "beh-dah-VAH". "vereceğiz" sounds like "veh-reh-jeh-EEZ" (the ğ is silent). "Kimin evini" sounds like "kee-MEEN eh-vee-NEE".
+
+Only the speaking character's mouth moves. Audio: the two voices and light wind only. No music, no subtitles, no on-screen text.
