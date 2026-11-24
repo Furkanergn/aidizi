@@ -1,0 +1,36 @@
+Use the attached image as the FIRST FRAME of the video (image-to-video, start frame). Do not generate a new scene from text.
+Clip name (for the file only, never shown or spoken): B04_P08
+
+Stylized 3D animated feature film look, single continuous shot. Camera is locked off for the whole shot: no pan, no zoom, no cut. Duration 8 seconds.
+
+Start exactly from the first frame: waist-up two-shot in a village square in golden light, a lit street lamp and a plane tree behind. On the left a young woman with golden blonde curls and a pink top (Selin), a burgundy folder against her right hip in her RIGHT hand, her LEFT palm turned up toward the man. On the right a tall slim man in a navy blazer (Rıza), one hand behind his head, sheepish.
+
+SPEAKER ORDER (exactly two lines, in this order):
+Line 1 - the MAN, Rıza: "Aşkım, müşteri kazanma maliyeti diye bir şey var."
+Line 2 - the WOMAN, Selin: "Rıza, kampanyada yanında çay bardağı verilir, ev verilmez!"
+Rıza speaks ONLY line 1. Selin speaks ONLY line 2.
+
+Hands and objects:
+- Selin keeps the folder against her right hip with her RIGHT hand for the entire shot; she gestures only with her LEFT hand.
+- Rıza's hands hold nothing. Nobody walks.
+
+Voices (must sound exactly the same in every clip of this series):
+- Rıza: Turkish man in his mid thirties. Warm, bright, slightly nasal tenor.
+- Selin: Turkish woman in her early thirties. Warm, slightly husky low voice. She has a wide emotional range: she can be sarcastic, reproachful, loud and laughing.
+
+Every character is a native Turkish speaker. They speak ONLY Turkish, with a natural Istanbul accent and the lively, expressive delivery of actors in a Turkish animated comedy film. No English.
+
+Performance, second by second:
+0-0.4 s: Rıza takes his hand down from his head and straightens up, putting on a patient teacher's face.
+0.4-2.8 s: RIZA says in Turkish, patient and a little condescending, raising his right index finger like a lecturer, stressing "maliyeti": "Aşkım, müşteri kazanma maliyeti diye bir şey var." Selin's mouth is closed; she rolls her eyes at "maliyeti".
+2.8-3.3 s: A beat. Selin closes her eyes for a moment and blows out a breath through her nose.
+3.3-6.4 s: SELIN explodes in Turkish, loud and exasperated, her LEFT hand chopping the air on "çay bardağı" and then on "ev verilmez", stressing "ev": "Rıza, kampanyada yanında çay bardağı verilir, ev verilmez!" Rıza's mouth is closed; he leans back.
+6.4-8 s: Nobody speaks. Selin puts her left fist on her hip and glares. Rıza lowers his finger slowly and swallows.
+
+Last frame: both in the same places: Selin glaring, left fist on her hip, folder at her right hip; Rıza with his hands down, leaning back slightly; both mouths closed.
+
+Eyes: they look only at each other. Nobody looks at the camera. Faces, hair and clothes stay identical to the first frame.
+
+Pronunciation: "Aşkım" sounds like "ash-KUHM". "müşteri" sounds like "mewsh-teh-REE". "maliyeti" sounds like "mah-lee-yeh-TEE". "kampanyada" sounds like "kahm-pahn-yah-DAH". "bardağı" sounds like "bar-dah-UH" (the ğ is silent). "verilmez" sounds like "veh-reel-MEZ".
+
+Only the speaking character's mouth moves. Audio: the two voices and light wind only. No music, no subtitles, no on-screen text.

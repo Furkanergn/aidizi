@@ -1,0 +1,35 @@
+Use the attached image as the FIRST FRAME of the video (image-to-video, start frame). Do not generate a new scene from text.
+Clip name (for the file only, never shown or spoken): B04_P14
+
+Stylized 3D animated feature film look, single continuous shot. Camera is locked off for the whole shot: no pan, no zoom, no cut. Duration 8 seconds.
+
+Start exactly from the first frame: hips-up three-shot in a village square in golden light, a plane tree, a fountain and a lit street lamp behind. On the left a young woman with golden blonde curls and a pink top (Selin), a burgundy folder in her RIGHT hand against her hip, smiling. In the center a tall slim man in a navy blazer (Rıza), shoulders slumped, a black phone in his right hand, looking down at it. On the right a short old woman in a burgundy headscarf and rust-brown vest (Emine), laughing, her right hand on her belly. A cream-white goat chews at the bottom right.
+
+SPEAKER ORDER: only the OLD WOMAN, Emine, speaks in this shot, one line:
+"Naci'nin taburesinde çeker."
+Rıza and Selin do NOT speak.
+
+Movement and objects:
+- Emine's laughter dies down; she points with her LEFT thumb toward the LEFT edge of the frame (toward the street that leads out of the square).
+- From second 4.5, Rıza turns to his right and runs OUT of the frame across the LEFT edge, the phone in his right hand. He moves sideways across the frame, never toward the camera.
+- Selin keeps the folder in her RIGHT hand and stays where she is. Emine stays where she is. The goat chews.
+
+Voices (must sound exactly the same in every clip of this series):
+- Emine: Turkish village woman in her mid sixties. Strong, slightly hoarse, loud and bossy voice with warmth underneath; a hearty laugh.
+
+Every character is a native Turkish speaker. They speak ONLY Turkish, with a natural Istanbul accent and the lively, expressive delivery of actors in a Turkish animated comedy film. No English.
+
+Performance, second by second:
+0-1.5 s: Emine's laughter calms down, wiping a tear with her left hand. Rıza keeps staring sadly at his phone.
+1.5-3.6 s: EMINE says in Turkish, still chuckling, matter-of-fact, pointing with her LEFT thumb toward the left edge of the frame: "Naci'nin taburesinde çeker." Rıza's and Selin's mouths are closed.
+3.6-4.5 s: Rıza's head snaps up; his face lights up with hope.
+4.5-6 s: Rıza turns and dashes out of the frame across the LEFT edge, running past behind Selin.
+6-8 s: Nobody speaks. Selin sighs, rolls her eyes, and looks after him toward the left edge. Emine shakes her head, smiling.
+
+Last frame: Rıza is gone (out of the frame on the left). Selin, looking toward the left edge, folder at her hip; Emine smiling, hand on belly; the goat chewing. All mouths closed.
+
+Eyes: Emine looks at Rıza. Rıza looks at his phone, then at Emine, then runs. Selin looks at Emine, then after Rıza. Nobody looks at the camera. Faces, hair and clothes stay identical to the first frame.
+
+Pronunciation: "Naci'nin" sounds like "NAH-jee-neen". "taburesinde" sounds like "tah-boo-reh-seen-DEH". "çeker" sounds like "cheh-KER".
+
+Only Emine's mouth moves. Audio: her voice and chuckle, Rıza's running footsteps, the goat's bell, light wind only. No music, no subtitles, no on-screen text.

@@ -27,3 +27,15 @@
 | P04 | "Rıza, millet köyden… köyden şehre kaçıyor. Sen insanları buraya nasıl getireceksin?" | Selin; sonunda Rıza "hı hı" | onaylı (kullanıcı: "sorun değil kalsın") |
 | P07 | "Biz bir ev almak için yıllarca biriktirdik, sen şimdi ev mi dağıtıyorsun?" | Selin | onaylı |
 Not: kliplerin sesini ben duyamıyorum; ton ve ses tutarlılığı kullanıcının kulağına kalır.
+
+## Klipler — ikinci tur
+| Klip | Döküm | Durum |
+|---|---|---|
+| P02 | "Önce bir getirin de." | onaylı (anahtar yeleğe girmedi, ipte görünür kaldı; küçük süreklilik farkı) |
+| P09 | yalnızca "Yazıyorum." ve sonda "…markette yok" seçilebiliyor; yüksek seviyede (−12 LUFS) başka ses var, tanıma "(Müzik)" diyor | kullanıcı dinleyecek; Rıza'nın listesi duyulmuyorsa yeniden |
+| P12 | "İnternet de yokmuş." | onaylı; Rıza yana hareket etti, boyu değişmedi |
+| P13 | "Harika! İnterneti olmayan köye, internetten insan getireceğiz." | onaylı |
+| P05 | SB52, Flow'da 4 farklı kareyle reddedildi | yeniden tasarım: P04'ün son karesinden zincir (kural 6, 26) |
+| P08 | P07'nin son karesinde Selin'in saçı ve yüzü değişmiş (kural 26a) | onaylı SB53'ten (ikinci kullanım) |
+| P14 | P13'ün son karesinden | prompt hazır |
+| P15 | gelmedi | bekleniyor |
