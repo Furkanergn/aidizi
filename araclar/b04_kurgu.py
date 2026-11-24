@@ -88,7 +88,7 @@ POP = r"\fscx70\fscy70\t(0,140,\fscx106\fscy106)\t(140,220,\fscx100\fscy100)"
 # açılış kancası (bölüm doğrudan P01 ile açılır; ileri atlama yok)
 ev.append((0.05, 2.9, "KutuKoyu", r"{\an5\pos(540,190)\frz2\fad(0,120)" + POP + r"}KOCAM BEDAVA EV"))
 ev.append((0.32, 2.9, "KutuVurgu", r"{\an5\pos(540,325)\frz-3\fad(0,120)" + POP + r"}DAĞITACAK!"))
-ev.append((3.0, 5.2, "KutuVurguKucuk", r"{\an5\pos(540,420)\frz-2\fad(0,140)" + POP + r"}SIFIR ŞEHİR · BÖLÜM 4"))
+ev.append((3.1, 5.4, "KutuVurguKucuk", r"{\an7\pos(52,348)\frz-2\fad(0,140)" + POP + r"}SIFIR ŞEHİR · BÖLÜM 4"))
 SA = 3.0                                   # sayaç paneli kancadan sonra gelir ve bölüm boyunca sabit kalır
 BA = starts["P16"] + 4.75 - EDL[-1][1] if "P16" in starts else TOPLAM   # "Üç yüz otuz üç" anı
 for a, b, m in subs: ev.append((a, b, "Alt", m))

@@ -18,4 +18,4 @@ Devamı için takip et.
 333 başvuru geldi. İlk kim kapıyı çalar? En iyi tahmin Bölüm 5'te 👇
 ```
 
-Not: yapay zekâ etiketini aç. Hikâye görseli: `cikti/hikaye_B04_yayinda.jpg`. Buffer için `B04_kurgu_v1_kapakli.mp4`.
+Not: yapay zekâ etiketini aç. Hikâye görseli: `cikti/hikaye_B04_yayinda.jpg`. Buffer için `B04_kurgu_v2_kapakli.mp4`.

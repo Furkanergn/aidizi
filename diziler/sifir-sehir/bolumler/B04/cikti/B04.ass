@@ -18,7 +18,7 @@ Style: Baslik,Inter Black,128,&H00ECF8FF,&H00ECF8FF,&H00141414,&H78000000,0,0,0,
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.05,0:00:02.90,KutuKoyu,,0,0,0,,{\an5\pos(540,190)\frz2\fad(0,120)\fscx70\fscy70\t(0,140,\fscx106\fscy106)\t(140,220,\fscx100\fscy100)}KOCAM BEDAVA EV
 Dialogue: 0,0:00:00.32,0:00:02.90,KutuVurgu,,0,0,0,,{\an5\pos(540,325)\frz-3\fad(0,120)\fscx70\fscy70\t(0,140,\fscx106\fscy106)\t(140,220,\fscx100\fscy100)}DAĞITACAK!
-Dialogue: 0,0:00:03.00,0:00:05.20,KutuVurguKucuk,,0,0,0,,{\an5\pos(540,420)\frz-2\fad(0,140)\fscx70\fscy70\t(0,140,\fscx106\fscy106)\t(140,220,\fscx100\fscy100)}SIFIR ŞEHİR · BÖLÜM 4
+Dialogue: 0,0:00:03.10,0:00:05.40,KutuVurguKucuk,,0,0,0,,{\an7\pos(52,348)\frz-2\fad(0,140)\fscx70\fscy70\t(0,140,\fscx106\fscy106)\t(140,220,\fscx100\fscy100)}SIFIR ŞEHİR · BÖLÜM 4
 Dialogue: 0,0:00:00.20,0:00:00.80,Alt,,0,0,0,,Bir şartla.
 Dialogue: 0,0:00:01.60,0:00:03.20,Alt,,0,0,0,,Bu köye insan getireceksiniz.
 Dialogue: 0,0:00:04.30,0:00:05.20,Alt,,0,0,0,,Kaç kişi?
