@@ -40,3 +40,5 @@ Not: kliplerin sesini ben duyamıyorum; ton ve ses tutarlılığı kullanıcın�
 | P14 | P13'ün son karesinden | prompt hazır |
 | P15 | gelmedi | bekleniyor |
 - P05: P04'ün son karesi de reddedildi (5. kare). Ortak etken prompt olduğundan v2 yazıldı: "dangerously, shouts, flings, chest out" çıkarıldı, "aile animasyon komedisi" çerçevesi. Yedek: kısa test promptu (prompt mu replik mi ayrımı için).
+- P08 ✓ "Aşkım, müşteri kazanma maliyeti diye bir şey var. / Rıza, kampanyada yanında çay bardağı verilir, ev verilmez." Konuşanlar doğru.
+- P14 ✓ (0–5,6 sn kullanılır) "Naci'nin taburesinde çeker." Rıza 5,5'te soldan çıkıyor; sonrasında Selin'in yeri ve saçı değişiyor, kurguda kesilir.
