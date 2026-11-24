@@ -117,18 +117,34 @@ Küçük kusur kurguda kesilerek çözülür (replikten sonra kameraya dönen ka
 
 Her teslimde: neyin onaylandığı, neyin kontrol edilemediği (ses), bilinen kusurlar, harcanan kredi, kullanıcının yapacağı sıradaki tek adım. Yayın metni, sabitlenecek yorum ve paylaşım adımları bir dosyada durur.
 
-## Başka skill'lerle birlikte kullanım
+## Üretim ortamından dersler (Flow / Omni / ChatGPT)
 
-Bu skill hattın sahibidir; aşağıdakiler yüklüyse belirli aşamalarda yardımcı olarak açılır. Çelişki olursa bu skill'in kuralları geçerlidir, çünkü onlar başka modeller ve başka projeler için yazılmıştır.
+Bunlar dördüncü bölümde, kullanıcının Google Flow (Gemini Omni 1.2 Flash) ve ChatGPT ile çalıştığı sırada öğrenildi.
 
-| Aşama | Yardımcı skill | Ondan ne alınır |
-|---|---|---|
-| Senaryoyu planlara bölme | `short-drama-skills` | tempo, plan bölme ilkeleri, diyaloğu güç mücadelesi olarak kurma |
-| Mizansen ve plan listesi | `cinematic-director` | yalnızca `blocking-and-staging`, `continuity-bible`, `failure-modes` kaynakları; yönetmen üslupları gerekmez |
-| Kurgu kararları | `sahmeran-kurgu-editoru` | kesme ölçütleri, sahne boyunca ses kurma, eksik plan isteği |
-| Ekran yazısı ve geçiş tarifleri | `video-edit-pipeline` | ffmpeg tarifleri, hareket eğrileri |
+- **Toplu paket çalışmaz.** Sekiz karelik tek PDF'i ChatGPT'ye verince ilk üçünü doğru üretti, kalanlarda promptu bırakıp aynı sahnenin varyasyonunu yaptı. Kareler tek tek, her biri yeni sohbette, onaylı bir karenin DÜZENLEMESİ olarak ve kısa promptla istenir ("bu görseli koru; kamerayı bir metre geri çek; şunu değiştir").
+- **Teslim düzeni:** kullanıcıya adım adım, önce resim, hemen altında o resmin promptu. Araç çağrılarının arasına yazılan metin kullanıcıya görünmeyebilir; promptların hepsi son mesajda da yer alır.
+- **Video modelinin filtresi kareyi reddedebilir.** "Üçüncü taraf içerik sağlayıcıları" mesajı telif benzerlik denetimidir (Disney ihtarından sonra eklendi): Pixar tarzı, büyük gözlü sarışın bir kadın karakter bir Disney kahramanına benzetilebilir. Filtreler sunucuda değişir ve eşiğe yakın görsellerde rastgeledir: aynı kare önce geçip sonra reddedilebilir; reddedilen üretim kredi yiyebilir. Sırayla: hata metnini al; kareyi küçük JPEG olarak yeniden kaydet ve bir kez dene; o karakteri kadrajda küçült (ikili, geniş); iki retten sonra kareyi değiştir ya da modelin kabul ettiği bir kareden zincir kur; kalıcı çözüm karakter tasarımında küçük bir değişikliktir (kullanıcı kararı). Promptta stil veya marka adı (Pixar, Disney) geçmez.
+- **Kimin konuştuğu ayrıca kontrol edilir.** Yazıya döküm kelimeyi doğrular, konuşanı değil. Promptun başına "SPEAKER ORDER" bloğu (satır satır kim ne söylüyor), performansta konuşanın adı büyük harfle, konuşmaması gereken karaktere o sırada ağzı kapalı ya da başı eğik bir eylem. Garantili yol: o klipte yüzü görünen tek kişi konuşan kişidir.
+- **Ani olay klibin sonuna konur.** Kapma, düşme gibi ani bir olaydan sonra model görüntüyü yeniden kurar (kadraj, yüz, keskinlik sıçrar). Olay son yarım saniyede olur, tepki ayrı kareden başlayan sonraki klipte oynanır.
+- **Zincirde son kare kontrol edilir.** Son karede yüz ya da saç kaymışsa (profil, yeni bukleler) zincir orada bırakılır ve onaylı bir kareye dönülür.
+- **Kesmelerde ortam sesi:** konuşma kapısı en çok −9 dB kısar, 0,22 sn'de açılıp kapanır; her klibin başı ve sonu 0,12 sn yumuşatılır; altta tek, sürekli ortam yatağı. Bitiş: son kare olduğu gibi donar (yakınlaşma ve karartma yok), yazı kutuları sırayla gelir, kısa bir bitiş müziği son replikler altında kısık başlayıp donuk karede açılır.
+- **Yayın:** Reels izleyicisinin çoğu önceki bölümü görmemiştir. Her bölüm, önceki bilinmeden anlaşılan bir kancayla açılır (önceki bölümün son repliğiyle değil). Bölüm uzatılmaz, yoğunlaştırılır: her 10–15 saniyede bir gülme ya da sürpriz.
+- **Kredi tavanı:** abonelik kredisi bölüm hacmini sınırlar (ör. ayda 1.000 kredi ≈ 100 klip ≈ 4 bölüm). Hedef hacim bunu aşıyorsa API yolu (ücretli, tam otomatik) önerilir; önce tek klipte ses karşılaştırması yapılır.
 
-Genel amaçlı prompt yazma skill'leri (`ai-prompt-builder`, `video-prompt-builder`) bu hatta kullanılmaz: promptlar `referanslar/` altındaki kalıplarla yazılır; farklı bir biçim, doğrulanmış kalıbı bozar.
+## Paketteki yardımcı kaynaklar
+
+Bu paket, projede en çok işe yarayan dört skill'in gereken kısımlarını içerir; ayrıca kurmaya gerek yok. Çelişki olursa yukarıdaki kurallar geçerlidir, çünkü yardımcılar başka modeller ve projeler için yazılmıştır.
+
+| Aşama | Dosya | Kaynak | Ondan ne alınır |
+|---|---|---|---|
+| Senaryoyu planlara bölme | `referanslar/yardimci/kisa-dizi-planlama.md` | short-drama-skills (LuxReal, MIT) | tempo, plan bölme, diyaloğu güç mücadelesi olarak kurma |
+| Mizansen, kamera, eksen | `referanslar/yardimci/sinema/blocking-and-staging.md` | cinematic-director (MIT) | blocking, eksen kuralı, giriş-çıkış |
+| Süreklilik kitabı | `referanslar/yardimci/sinema/continuity-bible.md` | cinematic-director | karakter, kıyafet, nesne, ışık sürekliliği |
+| Hata teşhisi | `referanslar/yardimci/sinema/failure-modes.md` | cinematic-director | üretim hatalarının kodlu teşhisi ve onarımı |
+| Kurgu ilkeleri | `referanslar/yardimci/sinema/editing-and-assembly.md`, `referanslar/yardimci/kurgu/murch-alti-olcut.md`, `editor-is-akisi.md` | cinematic-director, sahmeran-kurgu-editoru | kesme ölçütleri, ses boyunca kurgu, eksik plan isteği |
+| ffmpeg ve zamanlama | `referanslar/yardimci/kurgu/ffmpeg-tarifleri.md`, `ffmpeg-recipes.md`, `faster-whisper.md`, `animation-easing.md` | sahmeran-kurgu-editoru, video-edit-pipeline | kalite kontrol filtreleri, yazı animasyon eğrileri, replik zamanlama |
+
+**Betikler (`scripts/`):** `klip_kontrol.py` (kontak sayfası, yazıya döküm, seviye, son kare), `kurgu_ornek.py` (klip listesi, konuşma kapısı, ortam yatağı, altyazı, donuk bitiş, müzik, kapaklı sürüm; Sıfır Şehir B03 kurgusu, yolları ve listeyi projeye göre değiştir), `kapak2.py` (kapak), `hikaye_bolum.py` (hikâye görseli), `qc.py`, `transcribe.py`, `frames.sh` (kurgu yardımcıları). Genel amaçlı prompt yazma skill'leri bu hatta kullanılmaz: promptlar `referanslar/` kalıplarıyla yazılır.
 
 ## Sık yapılan hatalar ve sebepleri
 
@@ -144,3 +160,6 @@ Genel amaçlı prompt yazma skill'leri (`ai-prompt-builder`, `video-prompt-build
 | Sahnede kim nerede anlaşılmıyor | Mizansen tablosu yok, sahne ters açıdan açılmış | Kroki, tablo, ilk plan bilinen yönden |
 | Kesmelerde arka plan sesi değişiyor | Kliplerin kendi ortam sesleri | Konuşma kapısı ve sürekli yatak |
 | Yabancı aksan, yanlış okunan isim | Dil talimatı ve okunuş notu yok | Dil satırı, okunuş notu, yazıya dökerek doğrulama |
+| Karede istenen değişiklikler yok, aynı sahnenin varyasyonu gelmiş | Çok kareli toplu paket | Kare kare, onaylı karenin düzenlemesi olarak |
+| Video modeli kareyi reddediyor | Telif benzerlik ya da güvenlik filtresi | Hata metni, küçük JPEG, karakteri küçült, kabul edilmiş kareden zincir |
+| Replik yanlış karakterden çıkıyor | Konuşan belirtilmemiş, iki ağız açık | SPEAKER ORDER bloğu, konuşmayanın yüzü gizli |
