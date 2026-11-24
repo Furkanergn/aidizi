@@ -1,0 +1,35 @@
+Use the attached image as the FIRST FRAME of the video (image-to-video, start frame). Do not generate a new scene from text.
+Clip name (for the file only, never shown or spoken): B04_P04
+
+Stylized 3D animated feature film look, single continuous shot. Camera is locked off for the whole shot: no pan, no zoom, no cut. Duration 8 seconds.
+
+Start exactly from the first frame: waist-up two-shot in a village square in golden light, a lit street lamp and a plane tree behind. On the left a young woman with golden blonde curls and a pink top (Selin) holds a burgundy folder against her right hip with her RIGHT hand and holds her LEFT hand out palm up toward the man, talking. On the right a tall slim man in a navy blazer (Rıza), one arm crossed, the other hand on his chin, listening.
+
+SPEAKER ORDER: only the WOMAN, Selin, speaks in this shot, one line in two parts:
+"Rıza, millet köyden şehre kaçıyor. Sen insanları buraya nasıl getireceksin?"
+Rıza does NOT speak; his mouth stays closed for the whole shot.
+
+Hands and objects:
+- Selin keeps the folder against her right hip with her RIGHT hand for the entire shot; she gestures only with her LEFT hand.
+- Rıza keeps one arm crossed and the other hand at his chin. His hands hold nothing. Nobody walks.
+
+Voices (must sound exactly the same in every clip of this series):
+- Selin: Turkish woman in her early thirties. Warm, slightly husky low voice. She has a wide emotional range: she can be sarcastic, reproachful, loud and laughing.
+- Rıza: Turkish man in his mid thirties. Warm, bright, slightly nasal tenor.
+
+Every character is a native Turkish speaker. They speak ONLY Turkish, with a natural Istanbul accent and the lively, expressive delivery of actors in a Turkish animated comedy film. No English.
+
+Performance, second by second:
+0-0.3 s: Selin draws a breath.
+0.3-2.4 s: SELIN says in Turkish, like explaining the obvious to a child, her LEFT hand swinging out to the side on "kaçıyor": "Rıza, millet köyden şehre kaçıyor."
+2.4-2.9 s: A tiny beat: she brings her left hand back, palm up toward him, and raises her eyebrows.
+2.9-5.0 s: SELIN, sharper, leaning toward him, stressing "nasıl": "Sen insanları buraya nasıl getireceksin?"
+5.0-8 s: Nobody speaks. Rıza taps his chin with one finger, his eyes roll up as he thinks; then his eyebrows slowly rise, his eyes widen and a sly grin starts to spread: an idea is coming. Selin waits, one eyebrow raised, lips pressed.
+
+Last frame: both in the same places: Selin waiting, eyebrow up, folder at her hip; Rıza with his hand at his chin, eyes wide, a growing grin; both mouths closed.
+
+Eyes: they look only at each other (Rıza looks up while thinking). Nobody looks at the camera. Faces, hair and clothes stay identical to the first frame.
+
+Pronunciation: "Rıza" sounds like "RUH-zah". "millet" sounds like "meel-LET". "kaçıyor" sounds like "kah-CHUH-yor". "getireceksin" sounds like "geh-tee-reh-JEK-seen".
+
+Only Selin's mouth moves. Audio: her voice and light wind only. No music, no subtitles, no on-screen text.

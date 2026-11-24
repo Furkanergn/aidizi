@@ -24,7 +24,7 @@
 |---|---|---|
 | Anahtar | Emine'nin boynundaki ince deri ipte, sağ elinde | P02'de yeleğinin içine sokar; ip görünür, anahtar görünmez |
 | Fatura | Emine'nin yeleğinin cebinde (görünmez) | Kullanılmıyor |
-| Tapu dosyası | Köy girişinde yerde kalmıştı | Selin yolda almış; P03'ten itibaren SOL kolunun altında. Sağ eli boş ve oyun için |
+| Tapu dosyası | Köy girişinde yerde kalmıştı | Selin yolda almış; P03'ten itibaren SAĞ elinde, sağ kalçasına dayalı (onaylı SB50/SB51/SB53 böyle). Sol eli boş ve oyun için |
 | Sarı zarf | Rıza'nın ceketinin iç cebinde | Görünmez |
 | Telefon | Rıza'nın pantolonunun sağ cebinde | P09 başında elinde; ince siyah akıllı telefon |
 | Çay bardağı | Naci'nin sağ elinde | P15–P17 |
@@ -140,7 +140,7 @@ Selin'in gözleri büyür; Naci tek kaşını kaldırıp çayından bir yudum al
 | P04 | M1 ikili | **SB51** | Selin – Rıza (Emine sağda kadraj dışı) | Birbirlerine bakarlar |
 | P05 | M1 bel üstü | **SB52** | Selin – Rıza – Emine'nin omzu sağ kenarda | Rıza kollarını açar |
 | P06 | M1 bel üstü | P05'in son karesi | aynı | Rıza sağ koluyla evleri tarar |
-| P07 | M3 | **SB53** | Selin (ön yüz) – sağ önde Rıza'nın başı ve omzu (arkadan) | Selin SAĞA, Rıza'ya bakar |
+| P07 | M1 ikili | **SB53** | Selin – Rıza (ikili, bel üstü; omuz üstü plan yerine) | Selin Rıza'ya, sonunda sola bakar; Rıza yere |
 | P08 | M1 bel üstü | P06'nın son karesi | Selin – Rıza – (Emine) | Birbirlerine bakarlar |
 | P09 | M1 üçlü | **SB54** | Selin – Rıza – Emine; keçinin başı Rıza ile Emine arasında | Rıza telefona, Emine telefona, Selin Rıza'ya bakar |
 | P10 | M1 üçlü | P09'un son karesi | aynı | Rıza telefonu keçiden kaldırır |

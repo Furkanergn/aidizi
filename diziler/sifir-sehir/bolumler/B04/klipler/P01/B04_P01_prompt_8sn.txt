@@ -1,0 +1,37 @@
+Use the attached image as the FIRST FRAME of the video (image-to-video, start frame). Do not generate a new scene from text.
+Clip name (for the file only, never shown or spoken): B04_P01
+
+Stylized 3D animated feature film look, single continuous shot. Camera is locked off for the whole shot: no pan, no zoom, no cut. Duration 8 seconds.
+
+Start exactly from the first frame: hips-up two-shot in a village square in golden light, a plane tree, a stone fountain and a lit rusty street lamp behind. On the left a tall slim man in a navy blazer (Rıza) leans toward the woman, his right hand held out palm up, a frozen hopeful smile. On the right a short sturdy old woman in a burgundy headscarf and rust-brown knitted vest (Emine) holds an old iron key on a leather cord closed in her RIGHT fist against her chest, her left hand on her hip, a sly smile.
+
+SPEAKER ORDER (very important, exactly two lines, in this order):
+Line 1 - the WOMAN, Emine: "Bir şartla. Bu köye insan getireceksiniz."
+Line 2 - the MAN, Rıza: "Kaç kişi?"
+Emine speaks ONLY line 1. Rıza speaks ONLY line 2.
+
+Hands and objects:
+- The key stays in Emine's RIGHT fist against her chest, on its cord around her neck, for the entire shot. Rıza never touches it.
+- Emine's LEFT hand is the only one she gestures with.
+- Rıza's hands hold nothing. Nobody walks.
+
+Voices (must sound exactly the same in every clip of this series):
+- Emine: Turkish village woman in her mid sixties. Strong, slightly hoarse, loud and bossy voice with warmth underneath; a hearty laugh.
+- Rıza: Turkish man in his mid thirties. Warm, bright, slightly nasal tenor.
+
+Every character is a native Turkish speaker. They speak ONLY Turkish, with a natural Istanbul accent and the lively, expressive delivery of actors in a Turkish animated comedy film. No English.
+
+Performance, second by second:
+0-0.5 s: Both hold the pose. Emine enjoys the moment.
+0.5-3.6 s: EMINE says in Turkish, slowly and with relish, like a judge reading a verdict; on "getireceksiniz" her LEFT index finger leaves her hip and points at Rıza's chest: "Bir şartla. Bu köye insan getireceksiniz." Rıza's mouth is closed while she speaks.
+3.6-4.6 s: A beat. Rıza blinks twice, lowers his outstretched hand, and his frozen smile turns into an eager businessman's face. Emine puts her left hand back on her hip.
+4.6-5.8 s: RIZA leans in and asks in Turkish, quick and practical, raising his right index finger: "Kaç kişi?" Emine's mouth is closed while he speaks.
+5.8-8 s: Nobody speaks. Emine raises one eyebrow, purses her lips and looks him slowly up and down. Rıza waits, eyebrows up, nodding slightly, eager.
+
+Last frame: both in the same places: Rıza upright and eager, hands empty at his sides; Emine with the key in her right fist against her chest, left hand on hip, one eyebrow raised; both mouths closed.
+
+Eyes: they look only at each other. Nobody looks at the camera. Faces, hair and clothes stay identical to the first frame.
+
+Pronunciation: "şartla" sounds like "shart-LAH". "getireceksiniz" sounds like "geh-tee-reh-JEK-see-neez". "Kaç kişi" sounds like "kahch kee-SHEE".
+
+Only the speaking character's mouth moves. Audio: the two voices and light wind only. No music, no subtitles, no on-screen text.

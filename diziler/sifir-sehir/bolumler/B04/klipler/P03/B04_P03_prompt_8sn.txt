@@ -1,0 +1,37 @@
+Use the attached image as the FIRST FRAME of the video (image-to-video, start frame). Do not generate a new scene from text.
+Clip name (for the file only, never shown or spoken): B04_P03
+
+Stylized 3D animated feature film look, single continuous shot. Camera is locked off for the whole shot: no pan, no zoom, no cut. Duration 8 seconds.
+
+Start exactly from the first frame: knees-up three-shot in a village square in golden light, a plane tree, a stone fountain and a lit street lamp behind. On the left a young woman with golden blonde curls, pink top and short burgundy ruffled skirt (Selin) has just arrived, a burgundy folder in her RIGHT hand at her side, her LEFT hand held out palm up toward the man. In the center a tall slim man in a navy blazer (Rıza), hands at his belt, looking at her. On the right a short old woman in a burgundy headscarf and rust-brown vest (Emine), fists on her hips, amused. A cream-white goat at her side on the far right.
+
+SPEAKER ORDER (exactly two lines, in this order):
+Line 1 - the YOUNG WOMAN on the left, Selin: "Ne oluyor yine?"
+Line 2 - the MAN in the center, Rıza: "Aşkım, nüfus artırmamız gerekiyormuş."
+Emine does NOT speak in this shot; her mouth stays closed.
+
+Hands and objects:
+- Selin keeps the folder in her RIGHT hand at her side for the entire shot; she gestures only with her LEFT hand.
+- Rıza's hands are empty. Emine's fists stay on her hips until second 5.5, then she crosses her arms.
+- Selin takes one small last step in the first half second and then stands still. Nobody else walks. The goat stays where it is, chewing.
+
+Voices (must sound exactly the same in every clip of this series):
+- Selin: Turkish woman in her early thirties. Warm, slightly husky low voice. She has a wide emotional range: she can be sarcastic, reproachful, loud and laughing.
+- Rıza: Turkish man in his mid thirties. Warm, bright, slightly nasal tenor.
+
+Every character is a native Turkish speaker. They speak ONLY Turkish, with a natural Istanbul accent and the lively, expressive delivery of actors in a Turkish animated comedy film. No English.
+
+Performance, second by second:
+0-0.5 s: Selin finishes her step and stops next to Rıza.
+0.5-1.8 s: SELIN asks in Turkish, half amused, half suspicious, eyebrows up, her LEFT palm turned up toward Rıza, the voice rising at the end: "Ne oluyor yine?" Rıza's mouth is closed.
+1.8-2.6 s: A beat. Rıza glances at Emine, then back at Selin, and puts on his good-news smile.
+2.6-5.2 s: RIZA says in Turkish, bright and fast like he is announcing a great opportunity, opening both hands toward Selin, stressing "nüfus": "Aşkım, nüfus artırmamız gerekiyormuş." Selin's mouth is closed.
+5.2-8 s: Nobody speaks. Selin's smile drops; she slowly turns her head to look at Emine, one eyebrow up. Emine crosses her arms and nods once, very pleased. Rıza keeps smiling, hands still open.
+
+Last frame: all three in the same places: Selin looking at Emine, folder in her right hand; Rıza smiling with open hands; Emine with crossed arms; the goat at her side; all mouths closed.
+
+Eyes: Selin looks at Rıza, then at Emine. Rıza looks at Selin (one glance at Emine). Emine looks at Selin. Nobody looks at the camera. Faces, hair and clothes stay identical to the first frame.
+
+Pronunciation: "Aşkım" sounds like "ash-KUHM". "nüfus" sounds like "new-FOOS". "artırmamız" sounds like "ar-tuhr-mah-MUHZ". "gerekiyormuş" sounds like "geh-reh-kee-yor-MOOSH".
+
+Only the speaking character's mouth moves. Audio: the two voices, the goat's bell, light wind only. No music, no subtitles, no on-screen text.
