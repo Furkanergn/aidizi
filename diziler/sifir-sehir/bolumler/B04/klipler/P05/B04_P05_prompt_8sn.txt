@@ -3,7 +3,7 @@ Clip name (for the file only, never shown or spoken): B04_P05
 
 Stylized 3D animated feature film look, single continuous shot. Camera is locked off for the whole shot: no pan, no zoom, no cut. Duration 8 seconds.
 
-Start exactly from the first frame: waist-up two-shot of a married couple in a sunny village square, a street lamp and a plane tree behind. On the left the wife (Selin), golden blonde curls, pink top, a burgundy folder held against her right hip with her RIGHT hand, her LEFT palm turned up toward her husband. On the right the husband (Rıza), navy blazer, one arm folded, his other hand at his chin, smiling: he has just had an idea.
+Start exactly from the first frame: waist-up two-shot of a married couple in a sunny village square, a street lamp and a plane tree behind. On the left the wife (Selin), golden blonde curls, pink top, a burgundy folder held against her right hip with her RIGHT hand, her LEFT palm turned up toward her husband. On the right the husband (Rıza), navy blazer, one arm folded, his other hand at his chin, thinking, looking at his wife.
 
 SPEAKER ORDER (exactly two lines, in this order):
 Line 1 - the HUSBAND, Rıza: "Bedava ev vereceğiz!"
@@ -21,7 +21,7 @@ Voices (the same in every clip of this series):
 Both speak ONLY Turkish, with a natural Istanbul accent and the lively delivery of actors in a family animated comedy. No English.
 
 Performance, second by second:
-0-0.3 s: Rıza's eyes light up.
+0-0.3 s: Rıza's eyes light up: he has an idea.
 0.3-2 s: RIZA takes his hand from his chin, opens both arms wide with palms up and says in Turkish, happy and proud, like a salesman announcing a great offer, his voice rising on "bedava": "Bedava ev vereceğiz!" Selin's mouth is closed.
 2-3.4 s: A pause. Rıza keeps his arms open and smiles, waiting for her reaction. Selin looks at him in disbelief and slowly lowers her left hand.
 3.4-4.8 s: SELIN says in Turkish, quietly and slowly, one eyebrow raised, stressing "kimin": "Kimin evini?" Rıza's mouth is closed.
