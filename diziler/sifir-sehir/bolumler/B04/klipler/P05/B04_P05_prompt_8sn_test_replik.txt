@@ -1,0 +1,38 @@
+Use the attached image as the FIRST FRAME of the video (image-to-video, start frame). Do not generate a new scene from text.
+Clip name (for the file only, never shown or spoken): B04_P05
+
+Stylized 3D animated look, single continuous shot. Camera is locked off for the whole shot: no pan, no zoom, no cut. Duration 8 seconds.
+
+Start exactly from the first frame: waist-up two-shot of a married couple in a sunny village square, a street lamp and a plane tree behind. On the left the wife (Selin), golden blonde curls, pink top, a burgundy folder held against her right hip with her RIGHT hand, her LEFT palm turned up toward her husband. On the right the husband (Rıza), navy blazer, one arm folded, his other hand at his chin, thinking, looking at his wife.
+
+This is a light family comedy about a couple who inherited an empty old village and want to bring neighbours back to it.
+
+SPEAKER ORDER (exactly two lines, in this order):
+Line 1 - the HUSBAND, Rıza: "Evleri dağıtacağız!"
+Line 2 - the WIFE, Selin: "Kimin evlerini?"
+Rıza says ONLY line 1. Selin says ONLY line 2.
+
+Hands and objects:
+- Selin keeps the folder at her right hip with her RIGHT hand the whole time; she moves only her LEFT hand.
+- Rıza's hands are empty. Nobody walks.
+
+Voices (the same in every clip of this series):
+- Rıza: Turkish man in his mid thirties. Warm, bright, slightly nasal tenor.
+- Selin: Turkish woman in her early thirties. Warm, slightly husky low voice. She has a wide emotional range: she can be sarcastic, reproachful, loud and laughing.
+
+Both speak ONLY Turkish, with a natural Istanbul accent and the lively delivery of actors in a family animated comedy. No English.
+
+Performance, second by second:
+0-0.3 s: Rıza's eyes light up: he has an idea.
+0.3-2 s: RIZA takes his hand from his chin, opens both arms wide with palms up and says in Turkish, happy and proud, his voice rising: "Evleri dağıtacağız!" Selin's mouth is closed.
+2-3.4 s: A pause. Rıza keeps his arms open and smiles, waiting for her reaction. Selin looks at him in disbelief and slowly lowers her left hand.
+3.4-4.8 s: SELIN says in Turkish, quietly and slowly, one eyebrow raised, stressing "kimin": "Kimin evlerini?" Rıza's mouth is closed.
+4.8-8 s: Nobody speaks. Rıza's smile becomes unsure; he blinks and lowers his arms halfway. Selin keeps looking at him, eyebrow raised.
+
+Last frame: both in the same places: Rıza with his arms half lowered and an unsure smile; Selin with one eyebrow raised, folder at her hip; both mouths closed.
+
+Eyes: they look only at each other. Nobody looks at the camera. Faces, hair and clothes stay identical to the first frame.
+
+Pronunciation: "Evleri" sounds like "ev-leh-REE". "dağıtacağız" sounds like "dah-uh-tah-jah-UHZ" (the ğ is silent). "Kimin evlerini" sounds like "kee-MEEN ev-leh-ree-NEE".
+
+Only the speaking character's mouth moves. Audio: the two voices and light wind only. No music, no subtitles, no on-screen text.
