@@ -1,0 +1,33 @@
+Use the attached image as the FIRST FRAME of the video (image-to-video, start frame). Do not generate a new scene from text.
+Clip name (for the file only, never shown or spoken): B05_P12
+
+Stylized 3D animated look, single continuous shot. Camera is locked off for the whole shot: no pan, no zoom, no cut. Duration 8 seconds.
+
+Start exactly from the first frame: knees-up two-shot in front of an old stone wall with a vine, grapes and blue shutters, golden late-afternoon light, a blue door on the right. On the left a thin old man with grey hair and a grey moustache in a faded blue work jacket (Naci) sitting on a wooden stool, looking up at the woman, smiling, his tea glass lifted a little toward her in his RIGHT hand. On the right a young woman with golden blonde curls, pink top and short burgundy ruffled skirt (Selin), calm and confident, a burgundy folder in her RIGHT hand against her hip, her LEFT fist on her hip, looking toward the left edge of the frame. Rıza is just outside the left edge of the frame.
+
+SPEAKER ORDER: only the YOUNG WOMAN, Selin, speaks in this shot, one line:
+"Üç gün dayanan kalır."
+Naci does NOT speak.
+
+Hands and objects:
+- Selin keeps the folder in her RIGHT hand and her LEFT fist on her hip.
+- Naci keeps the tea glass in his RIGHT hand. Nobody walks.
+
+Voices (the same in every clip of this series):
+- Selin: Turkish woman in her early thirties. Warm, slightly husky low voice. She has a wide emotional range: she can be sarcastic, reproachful, loud and laughing.
+- Naci: Turkish man in his late sixties. Slow, dry, gravelly low voice. Never in a hurry, faintly amused.
+
+Every character speaks ONLY Turkish, with a natural Istanbul accent and the lively delivery of actors in a family animated comedy. No English.
+
+Performance, second by second:
+0-0.5 s: Selin takes a calm breath.
+0.5-2.6 s: SELIN says in Turkish, low, calm and certain, a small smile, each word weighted, stressing "üç gün": "Üç gün dayanan kalır." Naci's mouth is closed.
+2.6-8 s: Nobody speaks. Naci's smile widens; he lifts his tea glass toward her in a small toast and nods slowly. Selin turns her head to him and gives a small nod back, pleased.
+
+Last frame: both in the same places: Naci with his glass raised in a toast; Selin nodding to him; both mouths closed.
+
+Eyes: Selin looks toward the left edge, then at Naci. Naci looks at Selin. Nobody looks at the camera. Faces, hair and clothes stay identical to the first frame.
+
+Pronunciation: "Üç gün dayanan kalır" sounds like "ewch gewn dah-yah-NAHN kah-LUHR".
+
+Only the speaking character's mouth moves. Audio: the voices and light wind only. No music, no subtitles, no on-screen text.

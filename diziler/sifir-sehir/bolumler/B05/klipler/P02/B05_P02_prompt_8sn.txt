@@ -1,0 +1,38 @@
+Use the attached image as the FIRST FRAME of the video (image-to-video, start frame). Do not generate a new scene from text.
+Clip name (for the file only, never shown or spoken): B05_P02
+
+Stylized 3D animated look, single continuous shot. Camera is locked off for the whole shot: no pan, no zoom, no cut. Duration 8 seconds.
+
+Start exactly from the first frame: knees-up three-shot in front of an old stone wall with a vine, grapes and blue shutters, golden late-afternoon light. On the left a tall slim man with dark curls in a navy blazer (Rıza) stares at a black phone held in his LEFT hand. In the center a thin old man with grey hair and a grey moustache in a faded blue work jacket (Naci) sitting on a wooden stool, sipping from a small tea glass in his RIGHT hand. On the right a young woman with golden blonde curls, pink top and short burgundy ruffled skirt (Selin) leans toward the phone, a burgundy folder in her RIGHT hand by her thigh.
+
+SPEAKER ORDER (exactly two lines, in this order):
+Line 1 - the YOUNG MAN on the left, Rıza: "Sıkışırız! Ev başına yirmi sekiz kişi."
+Line 2 - the OLD MAN on the stool, Naci: "Tuvalet bir tane."
+Selin does NOT speak; her mouth stays closed.
+
+Hands and objects:
+- Rıza holds the phone in his LEFT hand until second 6; his RIGHT hand counts on its fingers.
+- At second 6 Selin reaches over Naci's head with her LEFT hand and takes the phone out of Rıza's hand; she keeps it in her LEFT hand at chest height. Her folder stays in her RIGHT hand.
+- Naci keeps the tea glass in his RIGHT hand. Nobody walks.
+
+Voices (the same in every clip of this series):
+- Rıza: Turkish man in his mid thirties. Warm, bright, slightly nasal tenor.
+- Naci: Turkish man in his late sixties. Slow, dry, gravelly low voice. Never in a hurry, faintly amused.
+
+Every character speaks ONLY Turkish, with a natural Istanbul accent and the lively delivery of actors in a family animated comedy. No English.
+
+Performance, second by second:
+0-0.4 s: Rıza looks up from the phone, already back to his optimistic self.
+0.4-2.8 s: RIZA says in Turkish, upbeat and fast like a salesman who has solved it, counting on the fingers of his RIGHT hand, stressing "yirmi sekiz": "Sıkışırız! Ev başına yirmi sekiz kişi." Naci's and Selin's mouths are closed.
+2.8-3.6 s: A beat. Naci slowly lowers the tea glass from his lips. Selin closes her eyes for a moment.
+3.6-4.8 s: NACI says in Turkish, dry and slow, without looking up, stressing "bir": "Tuvalet bir tane." Rıza's mouth is closed.
+4.8-6 s: Nobody speaks. Rıza's smile freezes with his counting finger still in the air. Selin presses her lips together, holding back a laugh.
+6-8 s: Selin reaches over Naci's head with her LEFT hand and firmly plucks the phone out of Rıza's hand. Rıza blinks at his empty hand.
+
+Last frame: all three in the same places: Selin holding the phone in her LEFT hand at chest height, folder in her RIGHT hand; Rıza looking at his empty left hand; Naci with his tea; all mouths closed.
+
+Eyes: Rıza looks at the phone, at his fingers, then at Selin. Naci looks at his tea. Selin looks at Rıza, then at the phone. Nobody looks at the camera. Faces, hair and clothes stay identical to the first frame.
+
+Pronunciation: "Sıkışırız" sounds like "suh-kuh-shuh-RUHZ". "yirmi sekiz kişi" sounds like "yeer-MEE seh-KEEZ kee-SHEE". "Tuvalet bir tane" sounds like "too-vah-LET beer tah-NEH".
+
+Only the speaking character's mouth moves. Audio: the voices and light wind only. No music, no subtitles, no on-screen text.

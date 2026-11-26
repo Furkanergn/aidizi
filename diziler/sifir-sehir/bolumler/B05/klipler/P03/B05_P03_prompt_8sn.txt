@@ -1,0 +1,36 @@
+Use the attached image as the FIRST FRAME of the video (image-to-video, start frame). Do not generate a new scene from text.
+Clip name (for the file only, never shown or spoken): B05_P03
+
+Stylized 3D animated look, single continuous shot. Camera is locked off for the whole shot: no pan, no zoom, no cut. Duration 8 seconds.
+
+Start exactly from the first frame: waist-up three-shot in front of an old stone wall with a vine, grapes and blue shutters, golden late-afternoon light. On the left a tall slim man with dark curls in a navy blazer (Rıza) with his RIGHT index finger raised, mouth open. In the center a thin old man with grey hair and a grey moustache in a faded blue work jacket (Naci) sitting on a wooden stool, sipping tea, eyes half closed. On the right a young woman with golden blonde curls, pink top and short burgundy ruffled skirt (Selin) holds a black phone in her LEFT hand at chest height and a burgundy folder in her RIGHT hand against her hip, a sly half-smile.
+
+SPEAKER ORDER (exactly two lines, in this order):
+Line 1 - the YOUNG WOMAN on the right, Selin: "Önce borcu kapatıyoruz."
+Line 2 - the YOUNG MAN on the left, Rıza: "Aşkım, önce yatırım!"
+Naci does NOT speak.
+
+Hands and objects:
+- Selin keeps the phone in her LEFT hand and the folder in her RIGHT hand the whole time; she taps the screen with her LEFT thumb.
+- Rıza's hands are empty. Naci keeps the tea glass in his RIGHT hand. Nobody walks.
+
+Voices (the same in every clip of this series):
+- Selin: Turkish woman in her early thirties. Warm, slightly husky low voice. She has a wide emotional range: she can be sarcastic, reproachful, loud and laughing.
+- Rıza: Turkish man in his mid thirties. Warm, bright, slightly nasal tenor.
+
+Every character speaks ONLY Turkish, with a natural Istanbul accent and the lively delivery of actors in a family animated comedy. No English.
+
+Performance, second by second:
+0-0.5 s: Rıza lowers his finger and closes his mouth, waiting. Selin glances down at the phone.
+0.5-2.2 s: SELIN says in Turkish, decisive and matter-of-fact like a finance manager, tapping the screen with her thumb, stressing "borcu": "Önce borcu kapatıyoruz." Rıza's mouth is closed.
+2.2-2.8 s: A beat. Rıza gasps, eyes wide, as if she proposed burning money.
+2.8-4.6 s: RIZA protests in Turkish like a salesman in a meeting, his RIGHT index finger shooting up, voice rising: "Aşkım, önce yatırım!" Selin's mouth is closed.
+4.6-8 s: Nobody speaks. Rıza holds his finger up, mouth still open. Selin slowly turns her head to him, raises one eyebrow and gives him a sly, unimpressed half-smile. Naci keeps sipping.
+
+Last frame: all three in the same places: Rıza with his right index finger raised and mouth open; Selin holding the phone, one eyebrow raised; Naci sipping; Selin's and Naci's mouths closed.
+
+Eyes: Selin looks at the phone, then at Rıza. Rıza looks at Selin. Naci looks at his tea. Nobody looks at the camera. Faces, hair and clothes stay identical to the first frame.
+
+Pronunciation: "borcu kapatıyoruz" sounds like "bor-JOO kah-pah-TUH-yo-rooz". "Aşkım" sounds like "ash-KUHM". "yatırım" sounds like "yah-tuh-RUHM".
+
+Only the speaking character's mouth moves. Audio: the voices and light wind only. No music, no subtitles, no on-screen text.

@@ -1,0 +1,34 @@
+Use the attached image as the FIRST FRAME of the video (image-to-video, start frame). Do not generate a new scene from text.
+Clip name (for the file only, never shown or spoken): B05_P04
+
+Stylized 3D animated look, single continuous shot. Camera is locked off for the whole shot: no pan, no zoom, no cut. Duration 8 seconds.
+
+Start exactly from the first frame: waist-up three-shot in front of an old stone wall with a vine, grapes and blue shutters, golden late-afternoon light. On the left a tall slim man with dark curls in a navy blazer (Rıza) with his RIGHT index finger raised, mouth open in an objection. In the center a thin old man with grey hair and a grey moustache in a faded blue work jacket (Naci) sitting on a wooden stool, sipping tea. On the right a young woman with golden blonde curls, pink top and short burgundy ruffled skirt (Selin) holds a black phone in her LEFT hand at chest height and a burgundy folder in her RIGHT hand against her hip, one eyebrow raised.
+
+SPEAKER ORDER: only the YOUNG WOMAN, Selin, speaks in this shot, one line:
+"Elektrik kesilirse yatırımı karanlıkta mı yapacaksın?"
+Rıza and Naci do NOT speak; Rıza only opens and closes his mouth without a sound.
+
+Hands and objects:
+- Selin keeps the phone in her LEFT hand and the folder in her RIGHT hand the whole time.
+- Rıza's hands are empty. Naci keeps the tea glass in his RIGHT hand. Nobody walks.
+
+Voices (the same in every clip of this series):
+- Selin: Turkish woman in her early thirties. Warm, slightly husky low voice. She has a wide emotional range: she can be sarcastic, reproachful, loud and laughing.
+- Rıza: Turkish man in his mid thirties. Warm, bright, slightly nasal tenor.
+
+Every character speaks ONLY Turkish, with a natural Istanbul accent and the lively delivery of actors in a family animated comedy. No English.
+
+Performance, second by second:
+0-0.4 s: Selin leans slightly toward Rıza over Naci's head.
+0.4-3.8 s: SELIN says in Turkish, slow, sweet and poisonous, each word placed carefully, stressing "karanlıkta": "Elektrik kesilirse yatırımı karanlıkta mı yapacaksın?" Rıza's mouth is closed.
+3.8-6 s: Nobody speaks. Rıza opens his mouth to answer, closes it, opens it again, closes it; his raised finger slowly sinks. Naci hides a smile behind his tea glass.
+6-8 s: Selin turns away from him, rises onto her tiptoes and lifts the phone in her LEFT hand high above Naci's head, looking up at the screen. Naci does not move.
+
+Last frame: Selin on tiptoe with the phone held high above Naci's head, folder still at her right hip; Rıza with his hand down and mouth closed; Naci with his tea; all mouths closed.
+
+Eyes: Selin looks at Rıza, then up at the phone. Rıza looks at Selin. Naci looks at his tea. Nobody looks at the camera. Faces, hair and clothes stay identical to the first frame.
+
+Pronunciation: "Elektrik kesilirse" sounds like "eh-lek-TREEK keh-see-leer-SEH". "karanlıkta" sounds like "kah-rahn-luhk-TAH". "yapacaksın" sounds like "yah-pah-JAHK-suhn".
+
+Only the speaking character's mouth moves. Audio: the voices and light wind only. No music, no subtitles, no on-screen text.

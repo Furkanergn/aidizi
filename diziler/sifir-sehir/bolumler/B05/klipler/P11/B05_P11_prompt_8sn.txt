@@ -1,0 +1,37 @@
+Use the attached image as the FIRST FRAME of the video (image-to-video, start frame). Do not generate a new scene from text.
+Clip name (for the file only, never shown or spoken): B05_P11
+
+Stylized 3D animated look, single continuous shot. Camera is locked off for the whole shot: no pan, no zoom, no cut. Duration 8 seconds.
+
+Start exactly from the first frame: waist-up three-shot in front of an old stone wall with a vine, grapes and blue shutters, golden late-afternoon light. On the left a tall slim man with dark curls in a navy blazer (Rıza) holds a black phone in both hands in front of his chest. In the center a thin old man with grey hair and a grey moustache in a faded blue work jacket (Naci) sitting on a wooden stool, tea glass at his chin. On the right a young woman with golden blonde curls, pink top and short burgundy ruffled skirt (Selin), a burgundy folder in her RIGHT hand against her hip, her LEFT fist on her hip.
+
+SPEAKER ORDER (exactly two lines, in this order):
+Line 1 - the YOUNG WOMAN on the right, Selin: "Mülakat falan yok. Kim gelirse gelsin."
+Line 2 - the YOUNG MAN on the left, Rıza: "Ya kaçarlarsa?"
+Naci does NOT speak.
+
+Hands and objects:
+- Rıza holds the phone in BOTH hands; at second 3.5 he lowers it to his waist.
+- Selin keeps the folder in her RIGHT hand on her hip; she gestures only with her LEFT hand.
+- Naci keeps the tea glass in his RIGHT hand. Nobody walks.
+
+Voices (the same in every clip of this series):
+- Selin: Turkish woman in her early thirties. Warm, slightly husky low voice. She has a wide emotional range: she can be sarcastic, reproachful, loud and laughing.
+- Rıza: Turkish man in his mid thirties. Warm, bright, slightly nasal tenor.
+
+Every character speaks ONLY Turkish, with a natural Istanbul accent and the lively delivery of actors in a family animated comedy. No English.
+
+Performance, second by second:
+0-0.4 s: Selin straightens up: the decision is made.
+0.4-3.2 s: SELIN says in Turkish, firm and clear, a boss ending a meeting, chopping the air once with her LEFT hand on "yok", stressing "falan yok": "Mülakat falan yok. Kim gelirse gelsin." Rıza's mouth is closed.
+3.2-4 s: A beat. Rıza looks up from the phone and lowers it, worried.
+4-5.2 s: RIZA asks in Turkish, small and anxious, eyebrows up in the middle: "Ya kaçarlarsa?" Selin's mouth is closed.
+5.2-8 s: Nobody speaks. Selin puts her LEFT fist back on her hip and gives him a calm, knowing look. Naci raises one eyebrow and sips.
+
+Last frame: all three in the same places: Rıza worried, phone at his waist; Selin calm, fist on her hip; Naci sipping; all mouths closed.
+
+Eyes: Selin looks at Rıza. Rıza looks at the phone, then at Selin. Naci looks at Selin. Nobody looks at the camera. Faces, hair and clothes stay identical to the first frame.
+
+Pronunciation: "Mülakat falan yok" sounds like "mew-lah-KAHT fah-LAHN yok". "Kim gelirse gelsin" sounds like "keem geh-leer-SEH gel-SEEN". "Ya kaçarlarsa" sounds like "yah kah-char-lar-SAH".
+
+Only the speaking character's mouth moves. Audio: the voices and light wind only. No music, no subtitles, no on-screen text.

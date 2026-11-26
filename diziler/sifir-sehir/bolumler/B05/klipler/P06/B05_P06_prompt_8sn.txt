@@ -1,0 +1,35 @@
+Use the attached image as the FIRST FRAME of the video (image-to-video, start frame). Do not generate a new scene from text.
+Clip name (for the file only, never shown or spoken): B05_P06
+
+Stylized 3D animated look, single continuous shot. Camera is locked off for the whole shot: no pan, no zoom, no cut. Duration 8 seconds.
+
+Start exactly from the first frame: waist-up two-shot in front of an old stone wall with a vine, grapes and blue shutters, golden late-afternoon light. On the left a tall slim man with dark curls in a navy blazer (Rıza) stands with his RIGHT hand pressed on his chest, a wounded face. On the right a thin old man with grey hair and a grey moustache in a faded blue work jacket (Naci) sitting on a wooden stool, looking up toward the right edge of the frame with raised eyebrows and an impressed smile, his tea glass on his knee in his RIGHT hand. A young woman is just outside the right edge of the frame.
+
+SPEAKER ORDER (exactly two lines, in this order):
+Line 1 - the OLD MAN on the stool, Naci: "Öncekiler ödemezdi."
+Line 2 - the YOUNG MAN, Rıza: "Dedemin parası…"
+Each says ONLY his own line.
+
+Hands and objects:
+- Naci keeps the tea glass in his RIGHT hand on his knee. Rıza keeps his RIGHT hand on his chest. Nobody walks.
+
+Voices (the same in every clip of this series):
+- Naci: Turkish man in his late sixties. Slow, dry, gravelly low voice. Never in a hurry, faintly amused.
+- Rıza: Turkish man in his mid thirties. Warm, bright, slightly nasal tenor.
+
+Every character speaks ONLY Turkish, with a natural Istanbul accent and the lively delivery of actors in a family animated comedy. No English.
+
+Performance, second by second:
+0-0.5 s: Naci keeps looking up toward the right edge, eyebrows high, genuinely impressed for the first time.
+0.5-2.4 s: NACI says in Turkish, slow and warm, almost moved, nodding once with respect, stressing "ödemezdi": "Öncekiler ödemezdi." Rıza's mouth is closed.
+2.4-3.2 s: A beat. Rıza's face crumples.
+3.2-5 s: RIZA says in Turkish, a mournful half-whisper, voice breaking, hand pressed on his heart: "Dedemin parası…" Naci's mouth is closed.
+5-8 s: Nobody speaks. Rıza sniffs and looks up at the sky. Naci glances at him, faintly amused, and takes a slow sip of tea.
+
+Last frame: both in the same places: Rıza looking up, hand on his chest; Naci sipping his tea; both mouths closed.
+
+Eyes: Naci looks toward the right edge, then at Rıza. Rıza looks toward the right edge, then at the sky. Nobody looks at the camera. Faces, hair and clothes stay identical to the first frame.
+
+Pronunciation: "Öncekiler ödemezdi" sounds like "un-jeh-kee-LER u-deh-mez-DEE". "Dedemin parası" sounds like "deh-deh-MEEN pah-rah-SUH".
+
+Only the speaking character's mouth moves. Audio: the voices and light wind only. No music, no subtitles, no on-screen text.

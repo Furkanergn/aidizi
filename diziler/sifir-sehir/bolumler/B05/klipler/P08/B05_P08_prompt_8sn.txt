@@ -1,0 +1,37 @@
+Use the attached image as the FIRST FRAME of the video (image-to-video, start frame). Do not generate a new scene from text.
+Clip name (for the file only, never shown or spoken): B05_P08
+
+Stylized 3D animated look, single continuous shot. Camera is locked off for the whole shot: no pan, no zoom, no cut. Duration 8 seconds.
+
+Start exactly from the first frame: waist-up three-shot in front of an old stone wall with a vine, grapes and blue shutters, golden late-afternoon light. On the left a tall slim man with dark curls in a navy blazer (Rıza) holds a black phone in both hands in front of his chest, reading eagerly. In the center a thin old man with grey hair and a grey moustache in a faded blue work jacket (Naci) sitting on a wooden stool, tea glass at his chin. On the right a young woman with golden blonde curls, pink top and short burgundy ruffled skirt (Selin), a burgundy folder in her RIGHT hand against her hip, her LEFT fist on her hip, skeptical.
+
+SPEAKER ORDER (exactly two lines, in this order):
+Line 1 - the YOUNG MAN on the left, Rıza, reading a message aloud: "Emekli öğretmenim. Sessizlik arıyorum."
+Line 2 - the OLD MAN on the stool, Naci: "Doğru yere gelmiş."
+Selin does NOT speak.
+
+Hands and objects:
+- Rıza holds the phone in BOTH hands the whole time; the screen faces him.
+- Selin keeps the folder in her RIGHT hand and her LEFT fist on her hip.
+- Naci keeps the tea glass in his RIGHT hand. Nobody walks.
+
+Voices (the same in every clip of this series):
+- Rıza: Turkish man in his mid thirties. Warm, bright, slightly nasal tenor.
+- Naci: Turkish man in his late sixties. Slow, dry, gravelly low voice. Never in a hurry, faintly amused.
+
+Every character speaks ONLY Turkish, with a natural Istanbul accent and the lively delivery of actors in a family animated comedy. No English.
+
+Performance, second by second:
+0-0.5 s: The phone pings. Rıza's eyes light up as he reads.
+0.5-3 s: RIZA reads aloud in Turkish, putting on a prim, polite old-teacher voice for fun: "Emekli öğretmenim. Sessizlik arıyorum." Naci's and Selin's mouths are closed.
+3-3.8 s: A beat. Rıza looks up from the phone, delighted. Naci lowers his glass.
+3.8-5.2 s: NACI says in Turkish, dry, slow and pleased, with a tiny satisfied nod: "Doğru yere gelmiş." Rıza's mouth is closed.
+5.2-8 s: Nobody speaks. Selin snorts a small laugh through her nose and shakes her head. Rıza nods eagerly and goes back to the phone. Naci sips.
+
+Last frame: all three in the same places: Rıza reading the phone in both hands; Naci sipping; Selin smiling, fist on her hip; all mouths closed.
+
+Eyes: Rıza looks at the phone, at Naci, then the phone. Naci looks ahead. Selin looks at Rıza. Nobody looks at the camera. Faces, hair and clothes stay identical to the first frame.
+
+Pronunciation: "Emekli öğretmenim" sounds like "eh-mek-LEE ur-ret-meh-NEEM". "Sessizlik arıyorum" sounds like "ses-seez-LEEK ah-RUH-yo-room". "Doğru yere gelmiş" sounds like "doh-ROO yeh-REH gel-MEESH".
+
+Only the speaking character's mouth moves. Audio: the voices, one phone ping and light wind only. No music, no subtitles, no on-screen text.
