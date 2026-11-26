@@ -19,8 +19,8 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.05,0:00:03.00,KutuKoyu,,0,0,0,,{\an5\pos(540,190)\frz2\fad(0,120)\fscx70\fscy70\t(0,140,\fscx106\fscy106)\t(140,220,\fscx100\fscy100)}KÖYE 333 KİŞİ BAŞVURDU
 Dialogue: 0,0:00:00.32,0:00:03.00,KutuVurgu,,0,0,0,,{\an5\pos(540,325)\frz-3\fad(0,120)\fscx70\fscy70\t(0,140,\fscx106\fscy106)\t(140,220,\fscx100\fscy100)}EV SAYISI: 12
 Dialogue: 0,0:00:03.10,0:00:05.40,KutuVurguKucuk,,0,0,0,,{\an7\pos(52,348)\frz-2\fad(0,140)\fscx70\fscy70\t(0,140,\fscx106\fscy106)\t(140,220,\fscx100\fscy100)}SIFIR ŞEHİR · BÖLÜM 5
-Dialogue: 0,0:00:28.20,0:00:30.40,KutuVurguKucuk,,0,0,0,,{\an7\pos(330,330)\frz-2\fad(0,200)\fscx70\fscy70\t(0,140,\fscx106\fscy106)\t(140,220,\fscx100\fscy100)}−333.333,33 TL
-Dialogue: 0,0:00:28.60,0:00:30.60,KutuKoyu,,0,0,0,,{\an7\pos(330,400)\frz2\fad(0,200)\fscx70\fscy70\t(0,140,\fscx106\fscy106)\t(140,220,\fscx100\fscy100)}BORÇ ÖDENDİ
+Dialogue: 0,0:00:28.20,0:00:30.40,KutuVurguKucuk,,0,0,0,,{\an9\pos(1040,365)\frz-2\fad(0,200)\fscx70\fscy70\t(0,140,\fscx106\fscy106)\t(140,220,\fscx100\fscy100)}−333.333,33 TL
+Dialogue: 0,0:00:28.60,0:00:30.60,KutuKoyu,,0,0,0,,{\an9\pos(1040,430)\frz2\fad(0,200)\fscx70\fscy70\t(0,140,\fscx106\fscy106)\t(140,220,\fscx100\fscy100)}BORÇ ÖDENDİ
 Dialogue: 0,0:00:00.60,0:00:03.10,Alt,,0,0,0,,Üç yüz otuz üç başvuru! Köy doldu aşkım!
 Dialogue: 0,0:00:03.60,0:00:04.90,Alt,,0,0,0,,On iki ev var, Rıza.
 Dialogue: 0,0:00:05.90,0:00:08.40,Alt,,0,0,0,,Sıkışırız! Ev başına yirmi sekiz kişi.

@@ -8,7 +8,7 @@ import subprocess, os, re, sys
 B = "diziler/sifir-sehir/bolumler/B05"
 SRC = f"{B}/klipler/onayli"
 OUT = f"{B}/cikti"
-SURUM = "v1"
+SURUM = "v2"
 FPS = 24
 os.makedirs(OUT, exist_ok=True)
 
@@ -94,8 +94,8 @@ SA = 3.0
 ODEME = starts["P05"] + 3.30 - 0.20          # ödeme sesi anı: kasa düşer
 P_C = starts["P08"]                           # yeni başvurular
 P_D = SON                                     # final
-ev.append((ODEME, ODEME + 2.2, "KutuVurguKucuk", r"{\an7\pos(330,330)\frz-2\fad(0,200)" + POP + r"}−333.333,33 TL"))
-ev.append((ODEME + 0.4, ODEME + 2.4, "KutuKoyu", r"{\an7\pos(330,400)\frz2\fad(0,200)" + POP + r"}BORÇ ÖDENDİ"))
+ev.append((ODEME, ODEME + 2.2, "KutuVurguKucuk", r"{\an9\pos(1040,365)\frz-2\fad(0,200)" + POP + r"}−333.333,33 TL"))
+ev.append((ODEME + 0.4, ODEME + 2.4, "KutuKoyu", r"{\an9\pos(1040,430)\frz2\fad(0,200)" + POP + r"}BORÇ ÖDENDİ"))
 PANELS = [("a", SA, ODEME), ("b", ODEME, P_C), ("c", P_C, P_D), ("d", P_D, TOPLAM + 1)]
 for a, b, m in subs: ev.append((a, b, "Alt", m))
 # kapanış: son kare donar; karartma ve yakınlaşma yok. Soru + takip çağrısı sırayla "pat" diye gelir.
@@ -146,15 +146,15 @@ else:
     fa.append(f"[ac][bed]amix=inputs=2:normalize=0:duration=first,afade=t=out:st={TOPLAM - 0.25}:d=0.25[amix]")
 
 # ---- üst sayaç paneli (PNG, araclar/sayac_panel.py); durum değiştikçe yeni panel ----
-X, Y = SAYAC_XY; prev = "vs"
+prev = "vs"
 for k, (ad, a0, b0) in enumerate(PANELS):
     png = f"{OUT}/sayac_{ad}.png"
-    subprocess.run(["python3", "araclar/sayac_panel.py", png] + PANEL_CELLS[ad] + ["--vurgu=SON"], check=True, capture_output=True)
+    subprocess.run(["python3", "araclar/sayac_panel.py", png] + PANEL_CELLS[ad] + ["--vurgu=SON", "--dikey"], check=True, capture_output=True)
     ii = inp.count("-i"); inp += ["-loop", "1", "-framerate", str(FPS), "-t", f"{TOPLAM}", "-i", png]
     fade = f",fade=t=in:st={a0}:d=0.35:alpha=1" if k == 0 else ""
     fv.append(f"[{ii}:v]format=rgba{fade}[h{k}]")
     nxt = "vout" if k == len(PANELS) - 1 else f"vh{k}"
-    fv.append(f"[{prev}][h{k}]overlay={X}:{Y}:enable='between(t,{a0:.2f},{b0:.2f})'[{nxt}]"); prev = nxt
+    fv.append(f"[{prev}][h{k}]overlay=W-w-34:170:enable='between(t,{a0:.2f},{b0:.2f})'[{nxt}]"); prev = nxt
 
 def run(extra_a, out, vopts):
     cmd = ["ffmpeg", "-v", "error", "-y"] + inp + ["-filter_complex", ";".join(fv + fa + extra_a), "-map", "[vout]", "-map", "[aout]"] + vopts + ["-c:a", "aac", "-b:a", "192k", "-ar", "48000", "-movflags", "+faststart", out]

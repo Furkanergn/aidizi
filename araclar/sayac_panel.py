@@ -7,11 +7,33 @@ F = "/usr/share/fonts/opentype/inter/"
 lab = ImageFont.truetype(F + "Inter-Bold.otf", 22)
 val = ImageFont.truetype(F + "Inter-Black.otf", 44)
 HARDAL = (242, 179, 61, 255); KREM = (245, 236, 220, 255); KOYU = (20, 18, 16, 255)
+dikey = "--dikey" in sys.argv
 out = sys.argv[1]; args = [a for a in sys.argv[2:] if not a.startswith("--")]
 vurgu = "--vurgu=SON" in sys.argv
 cells = [a.split("=", 1) for a in args]
 PADX, PADY, GAP, BAR = 26, 16, 24, 8
 def tw(f, t):
+    b = f.getbbox(t); return b[2] - b[0]
+if dikey:
+    # sağ üst köşe için dar, alt alta satırlı kart: solda etiket, sağda değer
+    lab2 = ImageFont.truetype(F + "Inter-Bold.otf", 20); val2 = ImageFont.truetype(F + "Inter-Black.otf", 34)
+    RH, PX, PY = 50, 22, 12
+    lw = max(tw(lab2, l) for l, v in cells); vw = max(tw(val2, v) for l, v in cells)
+    W = BAR + PX + lw + 22 + vw + PX; H = PY * 2 + RH * len(cells)
+    img = Image.new("RGBA", (W + 12, H + 12), (0, 0, 0, 0))
+    sh = Image.new("RGBA", img.size, (0, 0, 0, 0)); ImageDraw.Draw(sh).rounded_rectangle((8, 10, W + 8, H + 10), 20, fill=(0, 0, 0, 90)); img.alpha_composite(sh)
+    d = ImageDraw.Draw(img)
+    d.rounded_rectangle((0, 0, W, H), 20, fill=(20, 18, 16, 215))
+    d.rounded_rectangle((W - BAR - 14, 0, W, H), 20, fill=HARDAL); d.rectangle((W - BAR - 14, 0, W - BAR, H), fill=(20, 18, 16, 215))
+    for i, (l, v) in enumerate(cells):
+        y = PY + i * RH; son = vurgu and i == len(cells) - 1
+        if son: d.rounded_rectangle((8, y + 3, W - BAR - 6, y + RH - 3), 14, fill=HARDAL)
+        if i and not son and not (vurgu and i == len(cells) - 1): d.line((PX, y, W - BAR - PX, y), fill=(245, 236, 220, 45), width=2)
+        d.text((PX, y + 15), l, font=lab2, fill=KOYU if son else (245, 236, 220, 170))
+        vx = W - BAR - PX - tw(val2, v)
+        d.text((vx, y + 6), v, font=val2, fill=KOYU if son else (HARDAL if i == 0 else KREM))
+    img.save(out); print(out, img.size); sys.exit()
+def _unused(f, t):
     b = f.getbbox(t); return b[2] - b[0]
 ws = [max(tw(lab, " ".join(l)), tw(val, v)) for l, v in cells]
 W = BAR + PADX + sum(ws) + GAP * 2 * (len(cells) - 1) + PADX
