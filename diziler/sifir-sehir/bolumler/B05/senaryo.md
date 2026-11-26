@@ -21,8 +21,8 @@
 ## Nesneler
 | Nesne | Nerede | Bölümde |
 |---|---|---|
-| Telefon | Rıza'nın sol elinde, Naci'nin başının üstünde | P03'te Selin alır; ödemeyi o yapar; P08'de Rıza'ya geri verir |
-| Tapu dosyası | Selin'in sağ elinde | P03'te telefonu almak için dosyayı Naci'nin yanındaki taş rafa bırakır; bölüm sonuna kadar orada kalır |
+| Telefon | Rıza'nın elinde | P03'te Selin, Naci'nin başının üstünden uzanıp sol eliyle alır; ödemeyi o yapar; P07'de Rıza'ya geri verir |
+| Tapu dosyası | Selin'in sağ elinde, sağ kalçasında | Bölüm boyunca orada kalır; telefonu SOL eliyle alır |
 | Çay bardağı | Naci'nin sağ elinde | P12'de kadeh kaldırır gibi kaldırır |
 | Fatura | Emine'nin yeleğinde | Ödeme telefondan yapılır, fatura görünmez |
 
@@ -39,7 +39,7 @@ Telefon art arda öter. Rıza ekrandan başını kaldırır, yüzünde kocaman b
 > **NACİ** (gözünü bardaktan ayırmadan): Tuvalet bir tane.
 
 ### P03 — Ver şunu (6 sn)
-Selin dosyayı taş rafa bırakır, telefonu Rıza'nın elinden çeker alır.
+Selin, Naci'nin başının üstünden uzanıp telefonu sol eliyle Rıza'nın elinden çeker alır; dosya sağ elinde kalır.
 > **SELİN** (kesin, elini uzatarak): Ver şunu.
 > *(telefonu alır, ekrana bakar)*
 > **SELİN**: Önce borcu kapatıyoruz.
@@ -64,12 +64,13 @@ Naci bölümde ilk kez başını kaldırıp Selin'e bakar.
 > **RIZA** (eli göğsünde, yaslı): Dedemin parası…
 
 ### P07 — Hayırlı olsun (6 sn)
-> **SELİN** (tatlı tatlı, Rıza'nın yanağını sıvazlayarak): Hayırlı olsun.
+Selin, Naci'nin başının üstünden telefonu Rıza'ya geri uzatır; Rıza alırken elinin üstüne iki kez hafifçe vurur.
+> **SELİN** (tatlı tatlı, teselli eder gibi): Hayırlı olsun.
 
 Telefon yeniden öter; Rıza yutkunur.
 
 ### P08 — Emekli öğretmen (8 sn)
-Selin telefonu Rıza'ya geri verir. Rıza mesajı yüksek sesle okur.
+Rıza mesajı yüksek sesle okur.
 > **RIZA** (okur): "Emekli öğretmenim. Sessizlik arıyorum."
 > **NACİ** (memnun): Doğru yere gelmiş.
 
@@ -110,3 +111,20 @@ Son kare donar. Ekranda: **İLK GELEN KİM?** · TAHMİNİNİ YORUMA YAZ · TAK�
 5. Bitiş soru mu? İlk gelen kim. **Evet.**
 6. Üretilebilir mi? Tek mekân, kabul edilmiş SB57 kurulumu; yeni kareler aynı mekânın düzenlemesi. Risk: Selin'in öne çıktığı ikili planlar (filtre); vaat kelimesi yok. **Evet.**
 7. Arkadaşa yollanacak an? "Tuvalet bir tane" ve "Öncekiler ödemezdi". **Büyük olasılıkla.**
+
+## Başlangıç kareleri ve zincirler (kural 21, 26)
+| Plan | Kadraj | Başlangıç | Kim nerede (soldan sağa) | Hareket |
+|---|---|---|---|---|
+| P01 | C3 üçlü, diz üstü | B04 P16'nın son karesi | Rıza – Naci – Selin | Rıza telefondan başını kaldırır |
+| P02 | aynı | P01'in son karesi | aynı | Rıza parmaklarıyla sayar |
+| P03 | aynı | P02'nin son karesi | aynı | Selin Naci'nin üstünden uzanıp telefonu alır |
+| P04 | C3 üçlü, bel üstü (daha yakın) | **SB61** | aynı; telefon Selin'in sol elinde | Rıza parmağını kaldırır |
+| P05 | aynı | P04'ün son karesi | aynı | Selin parmak ucunda, telefon Naci'nin başının üstünde |
+| P06 | C3 ikili: Rıza – Naci | **SB62** | Selin kadrajın sağ dışında | Naci başını kaldırıp sağa (Selin'e) bakar |
+| P07 | C3 üçlü, bel üstü | P05'in son karesi | Rıza – Naci – Selin | telefon Selin'den Rıza'ya |
+| P08 | C3 üçlü, bel üstü | **SB63** | aynı; telefon Rıza'nın iki elinde | Rıza okur |
+| P09 | aynı | P08'in son karesi | aynı | Selin başparmağıyla tabureyi gösterir |
+| P10 | aynı | P09'un son karesi | aynı | — |
+| P11 | aynı | **SB63** (2. kullanım) | aynı | Selin iki elini beline koyar (dosya sağ elinde kalçasında) |
+| P12 | C3 ikili: Naci – Selin | **SB64** | Rıza kadrajın sol dışında | Naci bardağı Selin'e kaldırır |
+| P13 | C3 geniş, boy | **SB65** | Rıza – Naci – Selin; sağda yol açık | üçü başını sağa (girişe) çevirir |

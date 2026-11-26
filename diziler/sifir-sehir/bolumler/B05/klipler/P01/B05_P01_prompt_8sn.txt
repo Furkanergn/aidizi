@@ -1,0 +1,37 @@
+Use the attached image as the FIRST FRAME of the video (image-to-video, start frame). Do not generate a new scene from text.
+Clip name (for the file only, never shown or spoken): B05_P01
+
+Stylized 3D animated look, single continuous shot. Camera is locked off for the whole shot: no pan, no zoom, no cut. Duration 8 seconds.
+
+Start exactly from the first frame: knees-up three-shot in front of an old stone wall with a vine and red tile roof, golden late-afternoon light. On the left a tall slim man in a navy blazer (Rıza) stares at a black phone held in his LEFT hand in front of his chest. In the center a thin old man with grey hair and a grey moustache (Naci) sits on a wooden stool sipping from a small tea glass in his RIGHT hand. On the right a young woman with golden blonde curls, pink top and short burgundy ruffled skirt (Selin) leans toward the phone, eyes wide, a burgundy folder in her RIGHT hand down by her thigh.
+
+SPEAKER ORDER (exactly two lines, in this order):
+Line 1 - the YOUNG MAN on the left, Rıza: "Üç yüz otuz üç başvuru! Köy doldu aşkım!"
+Line 2 - the YOUNG WOMAN on the right, Selin: "On iki ev var, Rıza."
+Naci does NOT speak; his mouth stays on his tea glass or closed.
+
+Hands and objects:
+- Rıza keeps the phone in his LEFT hand the whole time; he shakes it in the air while he speaks. His RIGHT hand is free.
+- Selin keeps the folder in her RIGHT hand the whole time; at second 5 her LEFT hand goes to her hip.
+- Naci keeps the tea glass in his RIGHT hand. Nobody walks.
+
+Voices (the same in every clip of this series):
+- Rıza: Turkish man in his mid thirties. Warm, bright, slightly nasal tenor.
+- Selin: Turkish woman in her early thirties. Warm, slightly husky low voice. She has a wide emotional range: she can be sarcastic, reproachful, loud and laughing.
+
+Every character speaks ONLY Turkish, with a natural Istanbul accent and the lively delivery of actors in a family animated comedy. No English.
+
+Performance, second by second:
+0-0.4 s: The phone pings twice. Rıza's head snaps up from the screen.
+0.4-2.8 s: RIZA bursts out in Turkish, overjoyed, almost jumping, his voice cracking with excitement, shaking the phone high in the air with his LEFT hand, stressing "üç yüz otuz üç" and "doldu": "Üç yüz otuz üç başvuru! Köy doldu aşkım!" Selin's mouth is closed.
+2.8-3.6 s: A beat. Selin straightens up out of her lean, closes her mouth, and one eyebrow slowly climbs. Naci keeps sipping, unbothered.
+3.6-5.2 s: SELIN says in Turkish, dry and low, deliberately slow, every word separate, stressing "on iki": "On iki ev var, Rıza." Rıza's mouth is closed.
+5.2-8 s: Nobody speaks. Rıza's grin stays on his face but his eyes flicker; he lowers the phone and silently counts on the fingers of his RIGHT hand, lips closed. The phone pings again. Selin puts her LEFT hand on her hip and waits. Naci lowers his glass to his knee.
+
+Last frame: all three in the same places: Rıza with a frozen grin, counting on his fingers, phone in his left hand; Naci with the glass on his knee; Selin with her left hand on her hip and one eyebrow raised; all mouths closed.
+
+Eyes: Rıza looks at the phone, then at Selin, then at his fingers. Selin looks at Rıza. Naci looks at his tea. Nobody looks at the camera. Faces, hair and clothes stay identical to the first frame.
+
+Pronunciation: "başvuru" sounds like "bahsh-voo-ROO". "Köy doldu" sounds like "kuy dol-DOO". "Aşkım" sounds like "ash-KUHM". "On iki ev var" sounds like "on ee-KEE ev var". "Rıza" sounds like "RUH-zah".
+
+Only the speaking character's mouth moves. Audio: the voices, short phone notification pings, light wind only. No music, no subtitles, no on-screen text.
