@@ -125,3 +125,45 @@ yaz("P13",
  "Before the horn they look at each other; after it all three look toward the RIGHT edge of the frame.",
  '"Biri geldi" sounds like "bee-REE gel-DEE".', ", a car horn honking twice off screen right, a car engine idling off screen")
 print("ok")
+
+TRI = f"waist-up three-shot {WALL}"
+yaz("P05",
+ f"{TRI}. On the left {RZ}, mouth closed, watching. In the center {NC}, sipping tea, not moving. On the right {SL} stands on tiptoe holding a black phone high above Naci's head in her LEFT hand, looking up at the screen; a burgundy folder in her RIGHT hand against her hip.",
+ 'SPEAKER ORDER: only the YOUNG WOMAN, Selin, speaks in this shot, two short lines:\nLine 1: "Otuz üç kuruşu dahil…"\nLine 2: "Ödendi."\nRıza and Naci do NOT speak.',
+ "- Selin keeps the phone in her LEFT hand high above Naci's head and taps it with her LEFT thumb; the folder stays in her RIGHT hand.\n- Rıza's hands are empty. Naci keeps the tea glass in his RIGHT hand and does not move his head. Nobody walks.",
+ "S",
+ "0-0.5 s: Selin squints up at the screen, thumb ready.\n0.5-2.8 s: SELIN says in Turkish, concentrated and precise like an accountant, tapping the screen digit by digit, stressing \"otuz üç kuruşu\": \"Otuz üç kuruşu dahil…\" Rıza leans in, watching her thumb, worried.\n2.8-3.4 s: She presses the last button. The phone gives a bright \"ding\".\n3.4-4.6 s: SELIN says in Turkish, short and triumphant, a satisfied smile, lowering onto her heels: \"Ödendi.\"\n4.6-8 s: Nobody speaks. Selin lowers the phone to her chest and dusts off her LEFT hand on her skirt, pleased. Rıza stares at the phone with a pained face, as if watching his money leave. Naci slowly lifts his eyes from his tea toward Selin.",
+ "all three in the same places: Selin standing flat, phone at her chest, pleased; Rıza pained; Naci looking up at Selin; all mouths closed.",
+ "Selin looks at the phone, then at Rıza. Rıza looks at the phone. Naci looks at his tea, then at Selin.",
+ '"Otuz üç kuruşu dahil" sounds like "oh-TOOZ ewch koo-roo-SHOO dah-HEEL". "Ödendi" sounds like "u-den-DEE".', ", one bright payment ding")
+
+yaz("P07",
+ f"{TRI}. On the left {RZ}, empty-handed, watching. In the center {NC}, with his tea. On the right {SL} stands on tiptoe holding a black phone high above Naci's head in her LEFT hand; a burgundy folder in her RIGHT hand against her hip.",
+ 'SPEAKER ORDER: only the YOUNG WOMAN, Selin, speaks in this shot, one line:\n"Hayırlı olsun."\nRıza and Naci do NOT speak.',
+ "- At second 0.5 Selin lowers the phone and, reaching in front of Naci, places it back in Rıza's open RIGHT hand; then she pats the back of his hand twice with her LEFT hand. Her folder stays in her RIGHT hand.\n- From then on Rıza holds the phone in his RIGHT hand. Naci keeps the tea glass in his RIGHT hand. Nobody walks.",
+ "S",
+ "0-0.5 s: Selin settles back onto her heels.\n0.5-2.5 s: She hands the phone back to Rıza in front of Naci and pats the back of his hand twice, like comforting a child.\n2.5-4 s: SELIN says in Turkish, sugary and teasing, a sweet smile, head tilted: \"Hayırlı olsun.\" Rıza's mouth is closed.\n4-5 s: The phone pings in Rıza's hand. He jumps a little.\n5-8 s: Nobody speaks. Rıza swallows hard and looks down at the screen. Selin crosses her free hand back onto her hip, amused. Naci sips.",
+ "all three in the same places: Rıza holding the phone in his right hand, looking at it; Selin with her left hand on her hip, smiling; Naci sipping; all mouths closed.",
+ "Selin looks at Rıza. Rıza looks at Selin, then the phone. Naci looks at his tea.",
+ '"Hayırlı olsun" sounds like "hah-yuhr-LUH ol-SOON".', ", one phone ping")
+
+yaz("P09",
+ f"{TRI}. On the left {RZ} reads a black phone held in both hands. In the center {NC}, with his tea. On the right {SL}, a burgundy folder in her RIGHT hand, her LEFT fist on her hip.",
+ 'SPEAKER ORDER (exactly two lines, in this order):\nLine 1 - the YOUNG MAN on the left, Rıza: "Bu da fenomen! Bir milyon takipçisi var!"\nLine 2 - the YOUNG WOMAN on the right, Selin: "Takipçileri tabureye sırayla mı oturacak?"\nNaci does NOT speak.',
+ "- Rıza holds the phone in BOTH hands; on \"bir milyon\" he turns the screen toward Selin.\n- Selin keeps the folder in her RIGHT hand; with her LEFT thumb she points down at Naci's stool.\n- Naci keeps the tea glass in his RIGHT hand. Nobody walks.",
+ "RS",
+ "0-0.4 s: The phone pings. Rıza gasps.\n0.4-2.8 s: RIZA says in Turkish, starstruck and loud, turning the screen toward Selin, stressing \"bir milyon\": \"Bu da fenomen! Bir milyon takipçisi var!\" Selin's mouth is closed.\n2.8-3.4 s: A beat. Selin looks at the screen, then down at the stool, then at Rıza.\n3.4-5.8 s: SELIN says in Turkish, sarcastic and slow, pointing her LEFT thumb down at Naci's stool, stressing \"tabureye\": \"Takipçileri tabureye sırayla mı oturacak?\" Rıza's mouth is closed.\n5.8-8 s: Nobody speaks. Naci looks down at his own stool, then up, deadpan, and sips. Rıza's smile droops.",
+ "all three in the same places: Rıza holding the phone, smile drooping; Selin with her thumb toward the stool; Naci sipping; all mouths closed.",
+ "Rıza looks at the phone, then at Selin. Selin looks at the screen, the stool, then Rıza. Naci looks at his stool, then ahead.",
+ '"fenomen" sounds like "feh-no-MEN". "takipçisi" sounds like "tah-keep-chee-SEE". "Takipçileri tabureye sırayla mı oturacak" sounds like "tah-keep-chee-leh-REE tah-boo-reh-YEH suh-rai-LAH muh oh-too-rah-JAHK".', ", one phone ping")
+
+yaz("P10",
+ f"{TRI}. On the left {RZ} reads a black phone held in both hands. In the center {NC}, with his tea. On the right {SL}, a burgundy folder in her RIGHT hand, her LEFT fist on her hip.",
+ 'SPEAKER ORDER (exactly two lines, in this order):\nLine 1 - the YOUNG MAN on the left, Rıza, reading aloud: "Muhtarla görüşmek istiyorum."\nLine 2 - the OLD MAN on the stool, Naci: "Muhtar randevu vermez."\nSelin does NOT speak.',
+ "- Rıza holds the phone in BOTH hands the whole time.\n- Selin keeps the folder in her RIGHT hand and her LEFT fist on her hip.\n- Naci keeps the tea glass in his RIGHT hand. Nobody walks.",
+ "RN",
+ "0-0.4 s: The phone pings. Rıza reads, puzzled.\n0.4-2.4 s: RIZA reads aloud in Turkish, confused, slowly: \"Muhtarla görüşmek istiyorum.\" Naci's mouth is closed.\n2.4-3.2 s: A beat. Rıza and Selin both turn to look at Naci.\n3.2-4.8 s: NACI says in Turkish, completely serious and dignified, like a palace secretary, one finger raised from the glass: \"Muhtar randevu vermez.\" Rıza's mouth is closed.\n4.8-8 s: Nobody speaks. Selin bites her lip to stop laughing and looks away. Rıza nods slowly, as if this were normal. Naci sips.",
+ "all three in the same places: Rıza nodding over the phone; Selin holding back a laugh; Naci sipping; all mouths closed.",
+ "Rıza looks at the phone, then at Naci. Selin looks at Naci, then away. Naci looks straight ahead.",
+ '"Muhtarla görüşmek istiyorum" sounds like "mooh-tar-LAH gur-rewsh-MEK ees-tee-YO-room". "Muhtar randevu vermez" sounds like "mooh-TAR rahn-deh-VOO ver-MEZ".', ", one phone ping")
+print("ek ok")

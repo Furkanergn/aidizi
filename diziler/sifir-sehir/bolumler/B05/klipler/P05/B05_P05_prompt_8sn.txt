@@ -1,0 +1,35 @@
+Use the attached image as the FIRST FRAME of the video (image-to-video, start frame). Do not generate a new scene from text.
+Clip name (for the file only, never shown or spoken): B05_P05
+
+Stylized 3D animated look, single continuous shot. Camera is locked off for the whole shot: no pan, no zoom, no cut. Duration 8 seconds.
+
+Start exactly from the first frame: waist-up three-shot in front of an old stone wall with a vine, grapes and blue shutters, golden late-afternoon light. On the left a tall slim man with dark curls in a navy blazer (Rıza), mouth closed, watching. In the center a thin old man with grey hair and a grey moustache in a faded blue work jacket (Naci) sitting on a wooden stool, sipping tea, not moving. On the right a young woman with golden blonde curls, pink top and short burgundy ruffled skirt (Selin) stands on tiptoe holding a black phone high above Naci's head in her LEFT hand, looking up at the screen; a burgundy folder in her RIGHT hand against her hip.
+
+SPEAKER ORDER: only the YOUNG WOMAN, Selin, speaks in this shot, two short lines:
+Line 1: "Otuz üç kuruşu dahil…"
+Line 2: "Ödendi."
+Rıza and Naci do NOT speak.
+
+Hands and objects:
+- Selin keeps the phone in her LEFT hand high above Naci's head and taps it with her LEFT thumb; the folder stays in her RIGHT hand.
+- Rıza's hands are empty. Naci keeps the tea glass in his RIGHT hand and does not move his head. Nobody walks.
+
+Voices (the same in every clip of this series):
+- Selin: Turkish woman in her early thirties. Warm, slightly husky low voice. She has a wide emotional range: she can be sarcastic, reproachful, loud and laughing.
+
+Every character speaks ONLY Turkish, with a natural Istanbul accent and the lively delivery of actors in a family animated comedy. No English.
+
+Performance, second by second:
+0-0.5 s: Selin squints up at the screen, thumb ready.
+0.5-2.8 s: SELIN says in Turkish, concentrated and precise like an accountant, tapping the screen digit by digit, stressing "otuz üç kuruşu": "Otuz üç kuruşu dahil…" Rıza leans in, watching her thumb, worried.
+2.8-3.4 s: She presses the last button. The phone gives a bright "ding".
+3.4-4.6 s: SELIN says in Turkish, short and triumphant, a satisfied smile, lowering onto her heels: "Ödendi."
+4.6-8 s: Nobody speaks. Selin lowers the phone to her chest and dusts off her LEFT hand on her skirt, pleased. Rıza stares at the phone with a pained face, as if watching his money leave. Naci slowly lifts his eyes from his tea toward Selin.
+
+Last frame: all three in the same places: Selin standing flat, phone at her chest, pleased; Rıza pained; Naci looking up at Selin; all mouths closed.
+
+Eyes: Selin looks at the phone, then at Rıza. Rıza looks at the phone. Naci looks at his tea, then at Selin. Nobody looks at the camera. Faces, hair and clothes stay identical to the first frame.
+
+Pronunciation: "Otuz üç kuruşu dahil" sounds like "oh-TOOZ ewch koo-roo-SHOO dah-HEEL". "Ödendi" sounds like "u-den-DEE".
+
+Only the speaking character's mouth moves. Audio: the voices, one bright payment ding and light wind only. No music, no subtitles, no on-screen text.

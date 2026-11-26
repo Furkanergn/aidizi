@@ -1,0 +1,37 @@
+Use the attached image as the FIRST FRAME of the video (image-to-video, start frame). Do not generate a new scene from text.
+Clip name (for the file only, never shown or spoken): B05_P10
+
+Stylized 3D animated look, single continuous shot. Camera is locked off for the whole shot: no pan, no zoom, no cut. Duration 8 seconds.
+
+Start exactly from the first frame: waist-up three-shot in front of an old stone wall with a vine, grapes and blue shutters, golden late-afternoon light. On the left a tall slim man with dark curls in a navy blazer (Rıza) reads a black phone held in both hands. In the center a thin old man with grey hair and a grey moustache in a faded blue work jacket (Naci) sitting on a wooden stool, with his tea. On the right a young woman with golden blonde curls, pink top and short burgundy ruffled skirt (Selin), a burgundy folder in her RIGHT hand, her LEFT fist on her hip.
+
+SPEAKER ORDER (exactly two lines, in this order):
+Line 1 - the YOUNG MAN on the left, Rıza, reading aloud: "Muhtarla görüşmek istiyorum."
+Line 2 - the OLD MAN on the stool, Naci: "Muhtar randevu vermez."
+Selin does NOT speak.
+
+Hands and objects:
+- Rıza holds the phone in BOTH hands the whole time.
+- Selin keeps the folder in her RIGHT hand and her LEFT fist on her hip.
+- Naci keeps the tea glass in his RIGHT hand. Nobody walks.
+
+Voices (the same in every clip of this series):
+- Rıza: Turkish man in his mid thirties. Warm, bright, slightly nasal tenor.
+- Naci: Turkish man in his late sixties. Slow, dry, gravelly low voice. Never in a hurry, faintly amused.
+
+Every character speaks ONLY Turkish, with a natural Istanbul accent and the lively delivery of actors in a family animated comedy. No English.
+
+Performance, second by second:
+0-0.4 s: The phone pings. Rıza reads, puzzled.
+0.4-2.4 s: RIZA reads aloud in Turkish, confused, slowly: "Muhtarla görüşmek istiyorum." Naci's mouth is closed.
+2.4-3.2 s: A beat. Rıza and Selin both turn to look at Naci.
+3.2-4.8 s: NACI says in Turkish, completely serious and dignified, like a palace secretary, one finger raised from the glass: "Muhtar randevu vermez." Rıza's mouth is closed.
+4.8-8 s: Nobody speaks. Selin bites her lip to stop laughing and looks away. Rıza nods slowly, as if this were normal. Naci sips.
+
+Last frame: all three in the same places: Rıza nodding over the phone; Selin holding back a laugh; Naci sipping; all mouths closed.
+
+Eyes: Rıza looks at the phone, then at Naci. Selin looks at Naci, then away. Naci looks straight ahead. Nobody looks at the camera. Faces, hair and clothes stay identical to the first frame.
+
+Pronunciation: "Muhtarla görüşmek istiyorum" sounds like "mooh-tar-LAH gur-rewsh-MEK ees-tee-YO-room". "Muhtar randevu vermez" sounds like "mooh-TAR rahn-deh-VOO ver-MEZ".
+
+Only the speaking character's mouth moves. Audio: the voices, one phone ping and light wind only. No music, no subtitles, no on-screen text.
