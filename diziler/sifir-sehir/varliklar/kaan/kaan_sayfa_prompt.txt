@@ -1,0 +1,11 @@
+Output file name: Kaan_karakter_sayfasi
+
+Character sheet of ONE new original character for the same animated series as the attached images. Use the attached images ONLY as a STYLE reference (rendering, proportions, skin, cloth, light). The people in the attached images must NOT appear in the result. Do not copy their faces.
+
+The character: Kaan, a Turkish social media influencer in his mid twenties. Slim, average height (a little shorter than the tall man in the first reference). Short, light-brown wavy hair styled up at the front, clean-shaven, warm olive skin, lively brown eyes, a wide confident smile, small silver stud earring in his left ear. Outfit, the same in every figure: a bright orange lightweight windbreaker jacket, open, over a plain white T-shirt; cream cargo trousers; clean white sneakers. His permanent mark: he always holds a black handheld phone gimbal (stabilizer stick) in his RIGHT hand with a black smartphone mounted on it, the screen facing himself.
+
+Layout: one single landscape image, light neutral beige studio background, even soft warm light, no text, no labels, no numbers.
+Top row, full body, same scale, feet on the same floor line, four figures: front view; three-quarter view from the left; side profile facing left; back view. In all four he holds the gimbal in his RIGHT hand.
+Bottom row, head-and-shoulders, six expressions: excited vlogger grin talking to his phone; shocked with mouth open; whiny pleading face; disappointed pout looking at the phone; surprised and confused, eyebrows up; laughing.
+
+Style: stylized 3D animated feature film look, exactly like the attached images: slightly enlarged eyes, smooth animated-film skin, realistic cloth and hair, warm light. NOT photorealistic, NOT 2D, NOT anime. Sharp focus, clean edges, correct hands with five fingers, no extra limbs. Original character, not resembling any existing film or celebrity. Landscape 3:2 (1536x1024), highest quality.
