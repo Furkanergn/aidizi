@@ -1,0 +1,36 @@
+Use the attached image as the FIRST FRAME of the video (image-to-video, start frame). Do not generate a new scene from text.
+Clip name (for the file only, never shown or spoken): B06_P02
+
+Stylized 3D animated look, single continuous shot. Camera is locked off for the whole shot: no pan, no zoom, no cut. Duration 8 seconds.
+
+Start exactly from the first frame: waist-up group in front of an old stone wall with a vine, grapes, blue shutters and a blue door, golden late-afternoon light. From left to right: a tall slim man with dark curls in a navy blazer (Rıza) shaking hands with a young man with light-brown wavy hair in a bright orange hooded windbreaker and cream cargo trousers (Kaan) holding a black phone gimbal in his RIGHT hand; a thin old man with grey hair and a grey moustache in a faded blue work jacket (Naci) sits behind them on a stool with a tea glass; a young woman with golden blonde curls, pink top and short burgundy ruffled skirt (Selin) on the right, a burgundy folder in her RIGHT hand, unimpressed.
+
+SPEAKER ORDER (exactly two lines, in this order):
+Line 1 - Rıza, the man in the navy blazer: "Hoş geldin! Rıza ben, köyün CEO'su."
+Line 2 - Selin, the blonde woman: "Kasa bende."
+Kaan and Naci do NOT speak.
+
+Hands and objects:
+- Rıza shakes Kaan's LEFT hand with his RIGHT hand until second 3, then lets go and puts his hand on his chest proudly.
+- Kaan keeps the gimbal in his RIGHT hand. Selin keeps the folder in her RIGHT hand. Naci keeps the tea glass in his RIGHT hand. Nobody walks.
+
+Voices (the same in every clip of this series):
+- Rıza: Turkish man in his mid thirties. Warm, bright, slightly nasal tenor.
+- Selin: Turkish woman in her early thirties. Warm, slightly husky low voice. She has a wide emotional range: she can be sarcastic, reproachful, loud and laughing.
+
+Every character speaks ONLY Turkish, with a natural Istanbul accent and the lively delivery of actors in a family animated comedy. No English.
+
+Performance, second by second:
+0-0.3 s: Rıza pumps Kaan's hand eagerly.
+0.3-3 s: RIZA says in Turkish, over-polite and grand like a salesman meeting a VIP, stressing "CEO'su": "Hoş geldin! Rıza ben, köyün CEO'su." Selin's mouth is closed.
+3-3.8 s: A beat. Rıza lets go and puts his hand on his chest, proud.
+3.8-5 s: SELIN says in Turkish, dry and flat, without moving, a tiny smirk: "Kasa bende." Rıza's mouth is closed.
+5-8 s: Nobody speaks. Kaan laughs silently and turns his phone toward Selin, then Rıza. Rıza's smile freezes. Naci sips.
+
+Last frame: all in their places: Kaan filming them with a grin; Rıza with a frozen smile, hand on his chest; Selin smirking; Naci sipping; all mouths closed.
+
+Eyes: Rıza looks at Kaan, then at Selin. Selin looks at Rıza. Kaan looks at both. Naci looks at his tea. Nobody looks at the camera. Faces, hair and clothes stay identical to the first frame.
+
+Pronunciation: "Hoş geldin" sounds like "hosh gel-DEEN". "CEO'su" sounds like "see-ee-OH-soo". "Kasa bende" sounds like "kah-SAH ben-DEH".
+
+Only the speaking character's mouth moves. Audio: the voices and light wind only. No music, no subtitles, no on-screen text.

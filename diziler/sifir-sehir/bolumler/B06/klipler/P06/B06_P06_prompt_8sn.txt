@@ -1,0 +1,36 @@
+Use the attached image as the FIRST FRAME of the video (image-to-video, start frame). Do not generate a new scene from text.
+Clip name (for the file only, never shown or spoken): B06_P06
+
+Stylized 3D animated look, single continuous shot. Camera is locked off for the whole shot: no pan, no zoom, no cut. Duration 8 seconds.
+
+Start exactly from the first frame: waist-up two-shot in front of an old stone wall with a vine, grapes, blue shutters and a blue door, golden late-afternoon light. On the left a young man with light-brown wavy hair in a bright orange hooded windbreaker and cream cargo trousers (Kaan) holding a black phone gimbal in his RIGHT hand, surprised; at the far left edge half of Rıza in a navy blazer. On the right a young woman with golden blonde curls, pink top and short burgundy ruffled skirt (Selin), a burgundy folder in her RIGHT hand, her LEFT index finger pointing down, a sly smile.
+
+SPEAKER ORDER (exactly two lines, in this order):
+Line 1 - Selin, the blonde woman: "Tabure kiralık. Saati beş yüz."
+Line 2 - Kaan, the young man in orange: "Beş yüz mü?!"
+Rıza does NOT speak.
+
+Hands and objects:
+- Selin keeps the folder in her RIGHT hand and points down at the stool with her LEFT index finger.
+- Kaan keeps the gimbal in his RIGHT hand. Nobody walks.
+
+Voices (the same in every clip of this series):
+- Selin: Turkish woman in her early thirties. Warm, slightly husky low voice. She has a wide emotional range: she can be sarcastic, reproachful, loud and laughing.
+- Kaan: Turkish young man in his mid twenties. Energetic, bright, fast, slightly nasal social-media influencer voice.
+
+Every character speaks ONLY Turkish, with a natural Istanbul accent and the lively delivery of actors in a family animated comedy. No English.
+
+Performance, second by second:
+0-0.5 s: Selin narrows her eyes, doing the math.
+0.5-3 s: SELIN says in Turkish, businesslike and crisp, pointing down at the stool, stressing "beş yüz": "Tabure kiralık. Saati beş yüz." Kaan's mouth is closed.
+3-3.6 s: A beat. Kaan's jaw drops.
+3.6-4.6 s: KAAN squeaks in Turkish, shocked, voice cracking high: "Beş yüz mü?!" Selin's mouth is closed.
+4.6-8 s: Nobody speaks. Selin smiles sweetly and nods once. Kaan looks at his phone, then at Selin.
+
+Last frame: both in their places: Selin smiling sweetly; Kaan stunned; both mouths closed.
+
+Eyes: Selin looks at Kaan. Kaan looks at Selin, then the phone. Nobody looks at the camera. Faces, hair and clothes stay identical to the first frame.
+
+Pronunciation: "Tabure kiralık" sounds like "tah-boo-REH kee-rah-LUHK". "Saati beş yüz" sounds like "sah-ah-TEE besh YEWZ".
+
+Only the speaking character's mouth moves. Audio: the voices and light wind only. No music, no subtitles, no on-screen text.

@@ -1,0 +1,32 @@
+Use the attached image as the FIRST FRAME of the video (image-to-video, start frame). Do not generate a new scene from text.
+Clip name (for the file only, never shown or spoken): B06_P07
+
+Stylized 3D animated look, single continuous shot. Camera is locked off for the whole shot: no pan, no zoom, no cut. Duration 8 seconds.
+
+Start exactly from the first frame: waist-up two-shot in front of an old stone wall with a vine, grapes, blue shutters and a blue door, golden late-afternoon light. On the left a young man with light-brown wavy hair in a bright orange hooded windbreaker and cream cargo trousers (Kaan) holding a black phone gimbal in his RIGHT hand, stunned; at the far left edge half of Rıza. On the right a young woman with golden blonde curls, pink top and short burgundy ruffled skirt (Selin), a burgundy folder in her RIGHT hand, smiling sweetly.
+
+SPEAKER ORDER: only Selin, the blonde woman, speaks in this shot, one line:
+"Manzara dahil."
+Kaan does NOT speak.
+
+Hands and objects:
+- Selin keeps the folder in her RIGHT hand; she sweeps her LEFT arm out toward the lane and the hills.
+- Kaan keeps the gimbal in his RIGHT hand. Nobody walks.
+
+Voices (the same in every clip of this series):
+- Selin: Turkish woman in her early thirties. Warm, slightly husky low voice. She has a wide emotional range: she can be sarcastic, reproachful, loud and laughing.
+
+Every character speaks ONLY Turkish, with a natural Istanbul accent and the lively delivery of actors in a family animated comedy. No English.
+
+Performance, second by second:
+0-0.5 s: Selin lifts her LEFT arm.
+0.5-2 s: SELIN says in Turkish, sweet and sure, a salesman's flourish, sweeping her arm toward the view: "Manzara dahil." Kaan's mouth is closed.
+2-8 s: Nobody speaks. Kaan follows her arm, looks at the view, swallows, looks at his phone, sighs and nods in defeat. Selin's smile widens.
+
+Last frame: both in their places: Kaan nodding in defeat; Selin smiling; both mouths closed.
+
+Eyes: Selin looks at Kaan. Kaan looks at the view, the phone, then Selin. Nobody looks at the camera. Faces, hair and clothes stay identical to the first frame.
+
+Pronunciation: "Manzara dahil" sounds like "mahn-zah-RAH dah-HEEL".
+
+Only the speaking character's mouth moves. Audio: the voices and light wind only. No music, no subtitles, no on-screen text.

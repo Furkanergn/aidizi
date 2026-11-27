@@ -1,0 +1,37 @@
+Use the attached image as the FIRST FRAME of the video (image-to-video, start frame). Do not generate a new scene from text.
+Clip name (for the file only, never shown or spoken): B06_P03
+
+Stylized 3D animated look, single continuous shot. Camera is locked off for the whole shot: no pan, no zoom, no cut. Duration 8 seconds.
+
+Start exactly from the first frame: waist-up group in front of an old stone wall with a vine, grapes, blue shutters and a blue door, golden late-afternoon light. From left to right: a tall slim man with dark curls in a navy blazer (Rıza), a young man with light-brown wavy hair in a bright orange hooded windbreaker and cream cargo trousers (Kaan) holding a black phone gimbal in his RIGHT hand, a young woman with golden blonde curls, pink top and short burgundy ruffled skirt (Selin); a thin old man with grey hair and a grey moustache in a faded blue work jacket (Naci) sits behind Rıza and Kaan on a stool with a tea glass.
+
+SPEAKER ORDER (exactly two lines, in this order):
+Line 1 - Kaan, the young man in the orange jacket: "Abi… burası hiç çekmiyor."
+Line 2 - Rıza, the man in the navy blazer: "Bir yerde çekiyor!"
+Selin and Naci do NOT speak.
+
+Hands and objects:
+- Kaan keeps the gimbal in his RIGHT hand; at second 0.5 he lifts it high and waves it around, looking for signal.
+- On "bir yerde" Rıza points his RIGHT index finger down at Naci on the stool.
+- Selin keeps the folder in her RIGHT hand. Naci keeps the tea glass in his RIGHT hand. Nobody walks.
+
+Voices (the same in every clip of this series):
+- Kaan: Turkish young man in his mid twenties. Energetic, bright, fast, slightly nasal social-media influencer voice.
+- Rıza: Turkish man in his mid thirties. Warm, bright, slightly nasal tenor.
+
+Every character speaks ONLY Turkish, with a natural Istanbul accent and the lively delivery of actors in a family animated comedy. No English.
+
+Performance, second by second:
+0-0.5 s: Kaan glances at his phone; his grin fades.
+0.5-2.8 s: KAAN says in Turkish, whiny and panicked, lifting the phone high and waving it around: "Abi… burası hiç çekmiyor." Rıza's mouth is closed.
+2.8-3.4 s: A beat. Rıza's eyes light up.
+3.4-4.8 s: RIZA says in Turkish, triumphant, pointing down at Naci with his RIGHT index finger: "Bir yerde çekiyor!" Kaan's mouth is closed.
+4.8-8 s: Nobody speaks. Kaan and Selin look down at Naci. Naci keeps sipping his tea without looking up.
+
+Last frame: all in their places: Rıza pointing at Naci; Kaan and Selin looking at Naci; Naci sipping; all mouths closed.
+
+Eyes: Kaan looks at his phone, then at Naci. Rıza looks at Kaan, then at Naci. Selin looks at Naci. Nobody looks at the camera. Faces, hair and clothes stay identical to the first frame.
+
+Pronunciation: "Abi" sounds like "ah-BEE". "burası hiç çekmiyor" sounds like "boo-rah-SUH heech chek-mee-YOR". "Bir yerde çekiyor" sounds like "beer yer-DEH cheh-kee-YOR".
+
+Only the speaking character's mouth moves. Audio: the voices and light wind only. No music, no subtitles, no on-screen text.

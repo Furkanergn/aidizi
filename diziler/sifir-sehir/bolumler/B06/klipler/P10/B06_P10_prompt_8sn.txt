@@ -1,0 +1,32 @@
+Use the attached image as the FIRST FRAME of the video (image-to-video, start frame). Do not generate a new scene from text.
+Clip name (for the file only, never shown or spoken): B06_P10
+
+Stylized 3D animated look, single continuous shot. Camera is locked off for the whole shot: no pan, no zoom, no cut. Duration 8 seconds.
+
+Start exactly from the first frame: knees-up group in front of an old stone wall with a vine, grapes, blue shutters and a blue door, golden late-afternoon light. From left to right: a tall slim man with dark curls in a navy blazer (Rıza) waving at the phone; a thin old man with grey hair and a grey moustache in a faded blue work jacket (Naci) standing with a tea glass; a young man with light-brown wavy hair in a bright orange hooded windbreaker and cream cargo trousers (Kaan) holding a black phone gimbal in his RIGHT hand sitting on the wooden stool holding the gimbal high above his head; a young woman with golden blonde curls, pink top and short burgundy ruffled skirt (Selin) with a burgundy folder.
+
+SPEAKER ORDER: only Kaan, the young man on the stool, speaks in this shot, one line:
+"Canlıdayız millet! Seksen bin kişi izliyor!"
+The others do NOT speak.
+
+Hands and objects:
+- Kaan holds the gimbal high above his head in his RIGHT hand, screen toward himself.
+- Rıza waves with his RIGHT hand. Naci keeps the tea glass in his RIGHT hand. Selin keeps the folder in her RIGHT hand. Nobody walks.
+
+Voices (the same in every clip of this series):
+- Kaan: Turkish young man in his mid twenties. Energetic, bright, fast, slightly nasal social-media influencer voice.
+
+Every character speaks ONLY Turkish, with a natural Istanbul accent and the lively delivery of actors in a family animated comedy. No English.
+
+Performance, second by second:
+0-0.4 s: Kaan's phone chimes; his face lights up.
+0.4-3.4 s: KAAN shouts in Turkish into his phone, overjoyed, a big vlogger voice, stressing "seksen bin": "Canlıdayız millet! Seksen bin kişi izliyor!"
+3.4-8 s: Nobody speaks. Rıza leans in behind him, waving and grinning at the phone. Naci stands holding his tea, looking at the empty spot where he used to sit. Selin shakes her head with a smile.
+
+Last frame: all in their places: Kaan grinning into the raised phone; Rıza waving; Naci holding his tea; Selin smiling; all mouths closed.
+
+Eyes: Kaan looks at his phone. Rıza looks at the phone. Naci looks down. Selin looks at Kaan. Nobody looks at the camera. Faces, hair and clothes stay identical to the first frame.
+
+Pronunciation: "Canlıdayız millet" sounds like "jahn-luh-dah-YUHZ meel-LET". "Seksen bin kişi izliyor" sounds like "sek-SEN been kee-SHEE eez-lee-YOR".
+
+Only the speaking character's mouth moves. Audio: the voices, one live-stream chime and light wind only. No music, no subtitles, no on-screen text.

@@ -1,0 +1,36 @@
+Use the attached image as the FIRST FRAME of the video (image-to-video, start frame). Do not generate a new scene from text.
+Clip name (for the file only, never shown or spoken): B06_P08
+
+Stylized 3D animated look, single continuous shot. Camera is locked off for the whole shot: no pan, no zoom, no cut. Duration 8 seconds.
+
+Start exactly from the first frame: two-shot in front of an old stone wall with a vine, grapes, blue shutters and a blue door, golden late-afternoon light. On the left a thin old man with grey hair and a grey moustache in a faded blue work jacket (Naci) sits on a wooden stool, looking up at the woman with a shrewd face, his LEFT index finger raised. On the right a young woman with golden blonde curls, pink top and short burgundy ruffled skirt (Selin), a burgundy folder in her RIGHT hand, her LEFT hand reaching out.
+
+SPEAKER ORDER (exactly two lines, in this order):
+Line 1 - Naci, the old man: "Yarısı benim."
+Line 2 - Selin, the blonde woman: "Anlaştık."
+Each says ONLY their own line.
+
+Hands and objects:
+- Naci keeps the tea glass in his RIGHT hand on his knee; after his line he shakes Selin's LEFT hand with his LEFT hand.
+- Selin keeps the folder in her RIGHT hand. Nobody walks.
+
+Voices (the same in every clip of this series):
+- Naci: Turkish man in his late sixties. Slow, dry, gravelly low voice. Never in a hurry, faintly amused.
+- Selin: Turkish woman in her early thirties. Warm, slightly husky low voice. She has a wide emotional range: she can be sarcastic, reproachful, loud and laughing.
+
+Every character speaks ONLY Turkish, with a natural Istanbul accent and the lively delivery of actors in a family animated comedy. No English.
+
+Performance, second by second:
+0-0.5 s: Naci holds up his finger.
+0.5-2 s: NACI says in Turkish, calm and shrewd, bargaining: "Yarısı benim." Selin's mouth is closed.
+2-2.8 s: A beat. Selin laughs softly through her nose.
+2.8-3.8 s: SELIN says in Turkish, warm and quick, holding out her hand: "Anlaştık." Naci's mouth is closed.
+3.8-8 s: Nobody speaks. They shake hands firmly; Naci gives a small satisfied nod; Selin smiles.
+
+Last frame: both in their places, still shaking hands, both smiling; both mouths closed.
+
+Eyes: Naci looks at Selin. Selin looks at Naci. Nobody looks at the camera. Faces, hair and clothes stay identical to the first frame.
+
+Pronunciation: "Yarısı benim" sounds like "yah-ruh-SUH beh-NEEM". "Anlaştık" sounds like "ahn-lahsh-TUHK".
+
+Only the speaking character's mouth moves. Audio: the voices and light wind only. No music, no subtitles, no on-screen text.

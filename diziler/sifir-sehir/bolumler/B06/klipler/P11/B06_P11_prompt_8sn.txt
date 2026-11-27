@@ -1,0 +1,32 @@
+Use the attached image as the FIRST FRAME of the video (image-to-video, start frame). Do not generate a new scene from text.
+Clip name (for the file only, never shown or spoken): B06_P11
+
+Stylized 3D animated look, single continuous shot. Camera is locked off for the whole shot: no pan, no zoom, no cut. Duration 8 seconds.
+
+Start exactly from the first frame: knees-up group in front of an old stone wall with a vine, grapes, blue shutters and a blue door, golden late-afternoon light. From left to right: a tall slim man with dark curls in a navy blazer (Rıza); a thin old man with grey hair and a grey moustache in a faded blue work jacket (Naci) standing with a tea glass; a young man with light-brown wavy hair in a bright orange hooded windbreaker and cream cargo trousers (Kaan) holding a black phone gimbal in his RIGHT hand sitting on the stool holding the gimbal high; a young woman with golden blonde curls, pink top and short burgundy ruffled skirt (Selin) with a burgundy folder.
+
+SPEAKER ORDER: only Kaan, the young man on the stool, speaks in this shot, one line:
+"Bir yorum gelmiş… O köy benim. Geliyorum."
+The others do NOT speak.
+
+Hands and objects:
+- Kaan lowers the gimbal to his face and reads the screen; he keeps it in his RIGHT hand.
+- Naci keeps the tea glass in his RIGHT hand. Selin keeps the folder in her RIGHT hand. Nobody walks.
+
+Voices (the same in every clip of this series):
+- Kaan: Turkish young man in his mid twenties. Energetic, bright, fast, slightly nasal social-media influencer voice.
+
+Every character speaks ONLY Turkish, with a natural Istanbul accent and the lively delivery of actors in a family animated comedy. No English.
+
+Performance, second by second:
+0-0.6 s: Kaan lowers the phone to his face, still smiling, reading comments.
+0.6-4.8 s: KAAN reads aloud in Turkish, his grin fading word by word, slowing down, confused, stressing "benim": "Bir yorum gelmiş… O köy benim. Geliyorum."
+4.8-8 s: Nobody speaks. Rıza, Naci and Selin turn their heads to Kaan at the same moment and freeze. Kaan slowly looks up from the phone.
+
+Last frame: all in their places, Rıza, Naci and Selin staring at Kaan, Kaan looking up from his phone, worried; all mouths closed.
+
+Eyes: Kaan looks at the phone, then up. The others look at Kaan. Nobody looks at the camera. Faces, hair and clothes stay identical to the first frame.
+
+Pronunciation: "Bir yorum gelmiş" sounds like "beer yo-ROOM gel-MEESH". "O köy benim" sounds like "oh kuy beh-NEEM". "Geliyorum" sounds like "geh-lee-YO-room".
+
+Only the speaking character's mouth moves. Audio: the voices and light wind only. No music, no subtitles, no on-screen text.

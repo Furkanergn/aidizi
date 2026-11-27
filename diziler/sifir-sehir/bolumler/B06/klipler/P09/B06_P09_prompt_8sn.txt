@@ -1,0 +1,35 @@
+Use the attached image as the FIRST FRAME of the video (image-to-video, start frame). Do not generate a new scene from text.
+Clip name (for the file only, never shown or spoken): B06_P09
+
+Stylized 3D animated look, single continuous shot. Camera is locked off for the whole shot: no pan, no zoom, no cut. Duration 8 seconds.
+
+Start exactly from the first frame: wide full-body shot in front of an old stone wall with a vine, grapes, blue shutters and a blue door, golden late-afternoon light. From left to right: a tall slim man with dark curls in a navy blazer (Rıza); a thin old man with grey hair and a grey moustache in a faded blue work jacket (Naci) on a wooden stool with both hands on his knees, about to stand; a young man with light-brown wavy hair in a bright orange hooded windbreaker and cream cargo trousers (Kaan) holding a black phone gimbal in his RIGHT hand standing next to the stool, bouncing on his toes; a young woman with golden blonde curls, pink top and short burgundy ruffled skirt (Selin) with a burgundy folder.
+
+SPEAKER ORDER: only Rıza, the man in the navy blazer on the left, speaks in this shot, one whispered line:
+"Kalktı… Adam kalktı!"
+Naci, Kaan and Selin do NOT speak.
+
+Hands and objects:
+- From second 0.5 to 3, Naci slowly stands up from the stool, holding his tea glass in his RIGHT hand, and takes one step to the LEFT, next to Rıza.
+- At second 3.5 Kaan sits down on the stool. He keeps the gimbal in his RIGHT hand.
+- Rıza and Selin stay where they are. Nobody walks toward the camera; everyone stays the same size.
+
+Voices (the same in every clip of this series):
+- Rıza: Turkish man in his mid thirties. Warm, bright, slightly nasal tenor.
+
+Every character speaks ONLY Turkish, with a natural Istanbul accent and the lively delivery of actors in a family animated comedy. No English.
+
+Performance, second by second:
+0-0.5 s: Naci pushes on his knees.
+0.5-3 s: Naci slowly, with dignity, rises from the stool for the first time, and steps one step to the left. Everyone watches in silence.
+3-3.5 s: Kaan hops onto the stool.
+3.5-5 s: RIZA whispers in Turkish, stunned, eyes huge: "Kalktı… Adam kalktı!"
+5-8 s: Nobody speaks. Selin smiles, satisfied. Naci stands beside Rıza holding his tea, looking a little lost. Kaan settles on the stool and raises his phone.
+
+Last frame: Rıza, Naci standing beside him, Kaan sitting on the stool, Selin on the right; all mouths closed.
+
+Eyes: Everyone watches Naci stand, then Kaan sit. Nobody looks at the camera. Faces, hair and clothes stay identical to the first frame.
+
+Pronunciation: "Kalktı… Adam kalktı" sounds like "kalk-TUH… ah-DAHM kalk-TUH".
+
+Only the speaking character's mouth moves. Audio: the voices and light wind only. No music, no subtitles, no on-screen text.

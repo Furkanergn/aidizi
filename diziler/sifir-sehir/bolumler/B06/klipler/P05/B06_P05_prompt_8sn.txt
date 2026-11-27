@@ -1,0 +1,36 @@
+Use the attached image as the FIRST FRAME of the video (image-to-video, start frame). Do not generate a new scene from text.
+Clip name (for the file only, never shown or spoken): B06_P05
+
+Stylized 3D animated look, single continuous shot. Camera is locked off for the whole shot: no pan, no zoom, no cut. Duration 8 seconds.
+
+Start exactly from the first frame: two-shot in front of an old stone wall with a vine, grapes, blue shutters and a blue door, golden late-afternoon light. On the left a young man with light-brown wavy hair in a bright orange hooded windbreaker and cream cargo trousers (Kaan) holding a black phone gimbal in his RIGHT hand crouches in front of the stool with pleading eyes. On the right a thin old man with grey hair and a grey moustache in a faded blue work jacket (Naci) sits on a wooden stool with a small tea glass in his RIGHT hand.
+
+SPEAKER ORDER (exactly two lines, in this order):
+Line 1 - Kaan, the young man crouching: "Amca, bir milyon kişi seni görecek!"
+Line 2 - Naci, the old man on the stool: "Bir milyon kişi beni görmesin."
+Each says ONLY his own line.
+
+Hands and objects:
+- Kaan stays crouched and turns the gimbal so the phone faces Naci.
+- Naci keeps the tea glass in his RIGHT hand. Nobody stands up.
+
+Voices (the same in every clip of this series):
+- Kaan: Turkish young man in his mid twenties. Energetic, bright, fast, slightly nasal social-media influencer voice.
+- Naci: Turkish man in his late sixties. Slow, dry, gravelly low voice. Never in a hurry, faintly amused.
+
+Every character speaks ONLY Turkish, with a natural Istanbul accent and the lively delivery of actors in a family animated comedy. No English.
+
+Performance, second by second:
+0-0.4 s: Kaan turns the phone toward Naci.
+0.4-2.8 s: KAAN says in Turkish, sweet and pleading, eyes wide, stressing "bir milyon": "Amca, bir milyon kişi seni görecek!" Naci's mouth is closed.
+2.8-3.6 s: A beat. Naci slowly turns his eyes to the phone.
+3.6-5.6 s: NACI says in Turkish, slow and dry, with quiet dignity: "Bir milyon kişi beni görmesin." Kaan's mouth is closed.
+5.6-8 s: Nobody speaks. Kaan's mouth falls open. Naci gently pushes the phone away with one finger of his LEFT hand and sips.
+
+Last frame: both in their places: Kaan crouched, mouth open; Naci sipping; both mouths closed.
+
+Eyes: Kaan looks at Naci. Naci looks at the phone, then away. Nobody looks at the camera. Faces, hair and clothes stay identical to the first frame.
+
+Pronunciation: "Amca" sounds like "ahm-JAH". "bir milyon kişi seni görecek" sounds like "beer meel-YON kee-SHEE seh-NEE gur-reh-JEK". "beni görmesin" sounds like "beh-NEE gur-meh-SEEN".
+
+Only the speaking character's mouth moves. Audio: the voices and light wind only. No music, no subtitles, no on-screen text.

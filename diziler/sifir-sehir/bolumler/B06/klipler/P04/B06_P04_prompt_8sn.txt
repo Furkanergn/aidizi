@@ -1,0 +1,31 @@
+Use the attached image as the FIRST FRAME of the video (image-to-video, start frame). Do not generate a new scene from text.
+Clip name (for the file only, never shown or spoken): B06_P04
+
+Stylized 3D animated look, single continuous shot. Camera is locked off for the whole shot: no pan, no zoom, no cut. Duration 8 seconds.
+
+Start exactly from the first frame: two-shot in front of an old stone wall with a vine, grapes, blue shutters and a blue door, golden late-afternoon light. On the left a young man with light-brown wavy hair in a bright orange hooded windbreaker and cream cargo trousers (Kaan) holding a black phone gimbal in his RIGHT hand crouches in front of the stool, looking up hopefully. On the right a thin old man with grey hair and a grey moustache in a faded blue work jacket (Naci) sits on a wooden stool sipping from a small tea glass in his RIGHT hand.
+
+SPEAKER ORDER: only the OLD MAN on the stool, Naci, speaks in this shot, one word:
+"Kalkmam."
+Kaan does NOT speak.
+
+Hands and objects:
+- Naci keeps the tea glass in his RIGHT hand. Kaan stays crouched and keeps the gimbal in his RIGHT hand. Nobody stands up.
+
+Voices (the same in every clip of this series):
+- Naci: Turkish man in his late sixties. Slow, dry, gravelly low voice. Never in a hurry, faintly amused.
+
+Every character speaks ONLY Turkish, with a natural Istanbul accent and the lively delivery of actors in a family animated comedy. No English.
+
+Performance, second by second:
+0-1.5 s: Kaan looks up at Naci, hopeful. Naci sips, eyes half closed.
+1.5-2.6 s: Naci lowers the glass an inch. NACI says in Turkish, calm, dry and final, without looking at Kaan: "Kalkmam." Kaan's mouth is closed.
+2.6-8 s: Nobody speaks. Kaan blinks, his face falls, he looks at his phone, then back up at Naci with puppy eyes. Naci sips again, unbothered.
+
+Last frame: both in their places: Kaan crouched with pleading eyes; Naci sipping; both mouths closed.
+
+Eyes: Kaan looks at Naci. Naci looks ahead at nothing. Nobody looks at the camera. Faces, hair and clothes stay identical to the first frame.
+
+Pronunciation: "Kalkmam" sounds like "kalk-MAHM".
+
+Only the speaking character's mouth moves. Audio: the voices and light wind only. No music, no subtitles, no on-screen text.

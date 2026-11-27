@@ -1,0 +1,33 @@
+Use the attached image as the FIRST FRAME of the video (image-to-video, start frame). Do not generate a new scene from text.
+Clip name (for the file only, never shown or spoken): B06_P01
+
+Stylized 3D animated look, single continuous shot. Camera is locked off for the whole shot: no pan, no zoom, no cut. Duration 8 seconds.
+
+Start exactly from the first frame: wide full-body shot in front of an old stone wall with a vine, grapes, blue shutters and a blue door, golden late-afternoon light, a cobbled lane running away on the right. From left to right: a tall slim man with dark curls in a navy blazer (Rıza) standing, a thin old man with grey hair and a grey moustache in a faded blue work jacket (Naci) on a wooden stool with a tea glass, a young woman with golden blonde curls, pink top and short burgundy ruffled skirt (Selin) with a burgundy folder; all three turned to the right, surprised. On the lane on the right, a young man with light-brown wavy hair in a bright orange hooded windbreaker and cream cargo trousers (Kaan) holding a black phone gimbal in his RIGHT hand, mid-step walking toward the left, grinning into his phone.
+
+SPEAKER ORDER: only the YOUNG MAN in the orange jacket, Kaan, speaks in this shot, one line:
+"Selam millet! İnterneti bile olmayan bir köydeyiz!"
+Rıza, Naci and Selin do NOT speak.
+
+Hands and objects:
+- Kaan keeps the gimbal up in front of his face in his RIGHT hand, screen toward himself, and gestures with his LEFT hand.
+- Kaan takes only two more steps to the LEFT, sideways across the frame, and stops about one metre to the right of Selin. He never walks toward the camera and stays the same size.
+- The others stay where they are. Naci keeps his tea glass in his RIGHT hand.
+
+Voices (the same in every clip of this series):
+- Kaan: Turkish young man in his mid twenties. Energetic, bright, fast, slightly nasal social-media influencer voice.
+
+Every character speaks ONLY Turkish, with a natural Istanbul accent and the lively delivery of actors in a family animated comedy. No English.
+
+Performance, second by second:
+0-1.2 s: Kaan takes two steps to the left and stops, grinning into his phone.
+1.2-4.2 s: KAAN says in Turkish into his phone, a loud, bright vlogger voice, fast and excited, sweeping his LEFT hand toward the village, stressing "interneti bile": "Selam millet! İnterneti bile olmayan bir köydeyiz!"
+4.2-8 s: Nobody speaks. Rıza's mouth falls open in delight. Selin raises one eyebrow, unimpressed. Naci takes a slow sip of tea. Kaan keeps grinning into the phone and nods to his followers.
+
+Last frame: all four in their places: Kaan standing one metre right of Selin, grinning into his phone; Rıza delighted; Selin with one eyebrow raised; Naci sipping; all mouths closed.
+
+Eyes: Kaan looks at his phone. Rıza, Naci and Selin look at Kaan. Nobody looks at the camera. Faces, hair and clothes stay identical to the first frame.
+
+Pronunciation: "Selam millet" sounds like "seh-LAHM meel-LET". "İnterneti bile olmayan bir köydeyiz" sounds like "een-ter-neh-TEE bee-LEH ol-mah-YAHN beer kuy-deh-YEEZ".
+
+Only the speaking character's mouth moves. Audio: the voices and light wind only. No music, no subtitles, no on-screen text.
